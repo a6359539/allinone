@@ -1,0 +1,1349 @@
+﻿Log file open, 12/20/17 14:07:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: allinone
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(350445147) SRandInit(350445147).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.197379
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../allinone/Binaries/Win64/UE4Editor-allinone.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.20-05.07.54:173][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.20-05.07.54:174][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.20-05.07.54:223][  0]LogInit: Computer: DESKTOP-FRCQVUI
+[2017.12.20-05.07.54:223][  0]LogInit: User: oner
+[2017.12.20-05.07.54:223][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.20-05.07.54:223][  0]LogInit: High frequency timer resolution =2.630628 MHz
+[2017.12.20-05.07.54:224][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.20-05.07.54:224][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.20-05.07.54:224][  0]LogMemory: Process Physical Memory: 273.91 MB used, 273.91 MB peak
+[2017.12.20-05.07.54:224][  0]LogMemory: Process Virtual Memory: 271.64 MB used, 271.64 MB peak
+[2017.12.20-05.07.54:224][  0]LogMemory: Physical Memory: 3446.02 MB used,  4634.72 MB free, 8080.75 MB total
+[2017.12.20-05.07.54:224][  0]LogMemory: Virtual Memory: 645.81 MB used,  4634.72 MB free, 134217728.00 MB total
+[2017.12.20-05.07.54:545][  0]LogInit: Using OS detected language (ko-KR).
+[2017.12.20-05.07.54:545][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.12.20-05.07.54:548][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.12.20-05.07.54:765][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.20-05.07.55:154][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.20-05.07.55:246][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2017.12.20-05.07.55:246][  0]LogD3D11RHI:       3040/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.20-05.07.55:259][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5600' (Feature Level 11_0)
+[2017.12.20-05.07.55:259][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.20-05.07.55:263][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.20-05.07.55:263][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.20-05.07.55:263][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.20-05.07.55:276][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.20-05.07.55:276][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.20-05.07.55:276][  0]LogWindows: EnumDisplayDevices:
+[2017.12.20-05.07.55:276][  0]LogWindows:    0. 'Intel(R) HD Graphics 5600' (P:1 D:1)
+[2017.12.20-05.07.55:277][  0]LogWindows:    1. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2017.12.20-05.07.55:277][  0]LogWindows:    2. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2017.12.20-05.07.55:278][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.20-05.07.55:278][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2017.12.20-05.07.55:278][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.20-05.07.55:278][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.20-05.07.55:278][  0]LogRHI: Texture pool is 2128 MB (70% of 3040 MB)
+[2017.12.20-05.07.55:330][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.20-05.07.55:426][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.20-05.07.55:429][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (../../../../../../allinone/Intermediate/Shaders/WorkingDirectory/8232/).
+[2017.12.20-05.07.55:430][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/강망/AppData/Local/Temp/UnrealShaderWorkingDir/9FE153464A460B85C9AABD9BED2A927B/'.
+[2017.12.20-05.07.55:430][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.20-05.07.57:046][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.20-05.07.57:157][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.20-05.07.57:313][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.20-05.07.57:443][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.20-05.07.57:551][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.20-05.07.57:727][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.20-05.07.57:996][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.20-05.07.58:127][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.20-05.07.58:226][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.20-05.07.58:331][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.20-05.07.58:523][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.20-05.07.58:677][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.20-05.07.58:856][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.20-05.07.58:974][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.20-05.07.59:294][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.20-05.07.59:294][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.20-05.07.59:404][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.20-05.07.59:600][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.20-05.07.59:823][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.20-05.07.59:926][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.20-05.08.00:095][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.20-05.08.00:202][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.20-05.08.00:337][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.20-05.08.00:493][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.20-05.08.00:493][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.20-05.08.01:437][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.20-05.08.01:586][  0]LogDerivedDataCache: Loaded boot cache 0.15s 79MB C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.20-05.08.01:586][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.20-05.08.01:586][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../allinone/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.20-05.08.01:586][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.20-05.08.01:586][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../allinone/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.20-05.08.01:586][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.20-05.08.01:614][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.20-05.08.01:626][  0]LogDerivedDataCache: Using Local data cache path C:/Users/강망/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.20-05.08.01:644][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.20-05.08.01:645][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.20-05.08.01:647][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.20-05.08.01:647][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.20-05.08.02:194][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.20-05.08.02:976][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.20-05.08.03:115][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.20-05.08.03:115][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.20-05.08.03:115][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.20-05.08.03:115][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.20-05.08.03:115][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.20-05.08.03:158][  0]LogNetVersion: allinone , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1047487898)
+[2017.12.20-05.08.03:500][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2017.12.20-05.08.04:228][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.092590 seconds
+[2017.12.20-05.08.04:234][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.20-05.08.04:234][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.20-05.08.04:234][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.20-05.08.04:382][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.20-05.08.11:061][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.20-05.08.11:130][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.20-05.08.13:933][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.20-05.08.15:170][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.20-05.08.15:170][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.20-05.08.15:385][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.20-05.08.15:519][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.20-05.08.18:154][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.20-05.08.19:063][  0]LogOcInput: OculusInput pre-init called
+[2017.12.20-05.08.19:822][  0]LogEngine: Initializing Engine...
+[2017.12.20-05.08.19:825][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.20-05.08.20:105][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.20-05.08.20:105][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.20-05.08.20:481][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.20-05.08.20:488][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.20-05.08.20:534][  0]LogInit: FAudioDevice initialized.
+[2017.12.20-05.08.20:721][  0]LogDerivedDataCache: Saved boot cache 0.19s 79MB C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.20-05.08.20:746][  0]LogInit: Texture streaming: Enabled
+[2017.12.20-05.08.21:074][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.20-05.08.21:378][  0]LogInit: Transaction tracking system initialized
+[2017.12.20-05.08.22:249][  0]BlueprintLog: New page: 에디터 로드
+[2017.12.20-05.08.24:746][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.12.20-05.08.26:943][  0]LogConsoleResponse: Display: 
+[2017.12.20-05.08.27:181][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.20-05.08.27:181][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.20-05.08.27:181][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.20-05.08.27:665][  0]LogFileCache: Scanning file cache for directory 'C:/allinone/Content/' took 0.03s
+[2017.12.20-05.08.30:754][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.20-05.08.30:754][  0]Cmd: MAP LOAD FILE="../../../../../../allinone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.20-05.08.30:754][  0]LightingResults: New page: 라이팅 빌드
+[2017.12.20-05.08.30:849][  0]MapCheck: New page: 맵 체크
+[2017.12.20-05.08.30:849][  0]LightingResults: New page: 라이팅 빌드
+[2017.12.20-05.08.31:359][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.20-05.08.31:372][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.20-05.08.31:386][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.20-05.08.31:466][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 79.599ms.
+[2017.12.20-05.08.31:466][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.712
+[2017.12.20-05.08.31:797][  0]LogCollectionManager: Loaded 0 collections in 0.001837 seconds
+[2017.12.20-05.08.31:947][  0]LogFileCache: Scanning file cache for directory 'C:/allinone/Saved/Collections/' took 0.01s
+[2017.12.20-05.08.31:948][  0]LogFileCache: Scanning file cache for directory 'C:/allinone/Content/Developers/oner/Collections/' took 0.01s
+[2017.12.20-05.08.31:948][  0]LogFileCache: Scanning file cache for directory 'C:/allinone/Content/Collections/' took 0.01s
+[2017.12.20-05.08.31:948][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.20-05.08.31:958][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2365 classes and 521 folders.
+[2017.12.20-05.08.32:112][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.12.20-05.08.32:644][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2017.12.20-05.08.32:774][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.12.20-05.08.32:959][  0]LogSlate: Took 0.000999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.20-05.08.32:984][  0]LogSlate: Took 0.019552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.12.20-05.08.32:985][  0]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.20-05.08.32:999][  0]LogSlate: Took 0.007460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.20-05.08.33:271][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.20-05.08.33:686][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.12.20-05.08.33:686][  0]LogLoad: (Engine Initialization) Total time: 44.67 seconds
+[2017.12.20-05.08.33:686][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.20-05.08.33:686][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.20-05.08.34:065][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.20-05.08.34:187][  0]LogSlate: Took 0.008198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.20-05.08.36:049][  6]LogAssetRegistry: Asset discovery search completed in 32.5717 seconds
+[2017.12.20-05.08.36:056][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.20-05.08.36:056][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000109 seconds (updated 0 objects)
+[2017.12.20-05.09.40:915][924]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.20-05.09.40:990][924]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.09.40:991][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.20-05.09.40:991][924]PIE: New page: PIE 세션: ThirdPersonExampleMap (2017. 12. 20. 오후 11:09:40)
+[2017.12.20-05.09.40:991][924]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.20-05.09.41:033][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042011s)
+[2017.12.20-05.09.41:035][924]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.20-05.09.41:035][924]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2017.12.20-05.09.41:035][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.043880s)
+[2017.12.20-05.09.41:053][924]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.20-05.09.41:076][924]LogInit: FAudioDevice initialized.
+[2017.12.20-05.09.41:123][924]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.20-05.09.41:126][924]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.12.20-14.09.41
+[2017.12.20-05.09.41:127][924]LogWorld: Bringing up level for play took: 0.002014
+[2017.12.20-05.09.41:234][924]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.12.20-05.09.41:235][924]PIE: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.237
+[2017.12.20-05.09.41:236][924]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.09.44:068][ 91]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.09.44:104][ 91]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.10.06:530][431]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.20-05.10.06:545][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.10.06:546][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.20-05.10.06:547][431]PIE: New page: PIE 세션: ThirdPersonExampleMap (2017. 12. 20. 오후 11:10:06)
+[2017.12.20-05.10.06:547][431]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.20-05.10.06:574][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026835s)
+[2017.12.20-05.10.06:575][431]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.20-05.10.06:575][431]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2017.12.20-05.10.06:575][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028486s)
+[2017.12.20-05.10.06:590][431]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.20-05.10.06:610][431]LogInit: FAudioDevice initialized.
+[2017.12.20-05.10.06:644][431]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.20-05.10.06:646][431]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.12.20-14.10.06
+[2017.12.20-05.10.06:646][431]LogWorld: Bringing up level for play took: 0.001581
+[2017.12.20-05.10.06:647][431]PIE: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.351
+[2017.12.20-05.10.06:647][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.10.37:315][269]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.10.37:350][269]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.11.35:415][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.20-05.13.40:624][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.20-05.13.44:595][753]LogSlate: Took 0.000967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.20-05.13.48:452][777]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.15.58:727][242]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.15.58:968][243]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.15.59:298][244]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.15.59:632][245]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.15.59:965][246]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.16.00:298][247]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.16.00:631][248]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.16.00:965][249]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.16.01:299][250]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.16.01:632][251]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.16.01:966][252]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.16.02:298][253]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.16.02:632][254]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.16.02:966][255]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.16.03:298][256]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.16.03:631][257]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.17.23:934][488]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.17.24:267][489]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.17.24:599][490]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.17.24:933][491]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.17.25:444][492]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.17.25:601][493]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.17.25:955][494]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.12.20-05.18.45:077][691]LogWindows: LaunchFileInExternalEditor C:/allinone/Source/allinone/allinoneCharacter.h 
+[2017.12.20-05.18.45:278][691]LogWindows: Launch application code for C:/allinone/Source/allinone/allinoneCharacter.h : 42
+[2017.12.20-05.18.45:278][691]LogWindows: LaunchFileInExternalEditor C:/allinone/Source/allinone/allinoneCharacter.cpp 
+[2017.12.20-05.18.45:436][691]LogWindows: Launch application code for C:/allinone/Source/allinone/allinoneCharacter.cpp : 42
+[2017.12.20-05.18.45:437][691]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.12.20-05.18.45:445][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:445][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:445][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:445][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:445][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:446][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:446][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:446][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:446][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:446][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:446][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:446][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:446][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:446][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:446][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:446][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:447][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:447][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:447][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:447][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:447][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:447][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:447][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:447][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:447][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:447][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:448][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:448][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:448][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:448][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:448][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:448][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:448][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:448][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:448][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:448][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:448][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:449][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:449][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:449][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:449][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:449][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:449][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:449][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:449][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:449][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:450][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:450][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:450][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:450][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:450][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:450][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:450][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:450][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:451][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:451][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:451][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:451][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:451][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:451][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:451][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:451][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:451][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:451][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:452][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:452][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:452][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:452][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:452][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:452][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:452][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:452][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:452][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:453][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:453][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:453][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:453][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:453][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:453][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:453][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:453][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:454][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:454][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:454][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:454][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:454][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:454][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:454][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:454][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:455][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:488][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:491][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:494][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:496][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:496][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:497][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.18.45:512][691]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.20-05.27.27:039][326]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.20-05.27.27:582][334]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.20-05.27.36:676][626]LogSlate: Took 0.007727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.20-05.28.41:549][148]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.20-05.29.30:240][769]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 116 classes and 0 folders.
+[2017.12.20-05.29.30:968][769]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2017.12.20-05.29.31:018][769]LogSlate: Took 0.000413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.20-05.29.31:076][769]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2017.12.20-05.30.31:935][406]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.20-05.30.44:724][722]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.20-05.30.44:754][722]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.30.44:755][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.20-05.30.44:755][722]PIE: New page: PIE 세션: ThirdPersonExampleMap (2017. 12. 20. 오후 11:30:44)
+[2017.12.20-05.30.44:755][722]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.20-05.30.44:785][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029775s)
+[2017.12.20-05.30.44:786][722]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.20-05.30.44:786][722]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2017.12.20-05.30.44:787][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031614s)
+[2017.12.20-05.30.44:853][722]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.20-05.30.44:874][722]LogInit: FAudioDevice initialized.
+[2017.12.20-05.30.44:911][722]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.20-05.30.44:915][722]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.12.20-14.30.44
+[2017.12.20-05.30.44:916][722]LogWorld: Bringing up level for play took: 0.003045
+[2017.12.20-05.30.44:918][722]PIE: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.08
+[2017.12.20-05.30.44:919][722]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.30.47:158][844]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.30.47:208][844]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.31.27:836][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.20-05.32.53:371][615]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.12.20-05.32.53:694][615]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2017.12.20-05.32.53:741][615]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.20-05.32.54:118][615]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.12.20-05.32.54:583][615]LogSlate: Took 0.006736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.20-05.32.54:803][615]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2017.12.20-05.33.54:727][620]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.20-05.33.54:996][620]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.12.20-05.35.38:156][998]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.20-05.35.42:691][ 73]LogTexture: Display: 텍스처 빌드: Enemy_Task_Master_lantern_E (AutoDXT, 128X128)
+[2017.12.20-05.35.42:691][ 73]LogTexture: Display: 텍스처 빌드: Enemy_Task_Master_lantern_N (BC5, 512X512)
+[2017.12.20-05.35.42:691][ 73]LogTexture: Display: 텍스처 빌드: Enemy_Task_Master_Mask (AutoDXT, 2048X2048)
+[2017.12.20-05.35.42:691][ 73]LogTexture: Display: 텍스처 빌드: Enemy_Task_Master_N (BC5, 2048X2048)
+[2017.12.20-05.35.42:691][ 73]LogTexture: Display: 텍스처 빌드: Enemy_Task_Master_D (AutoDXT, 2048X2048)
+[2017.12.20-05.35.44:956][ 73]LogMaterial: Missing cached shader map for material M_Enemy_Task_Master, compiling. 
+[2017.12.20-05.35.45:074][ 73]LogTexture: Display: 텍스처 빌드: Enemy_Task_Master_lantern_D (AutoDXT, 512X512)
+[2017.12.20-05.35.45:315][ 73]LogMaterial: Missing cached shader map for material M_Enemy_TaskMaster_Lantern, compiling. 
+[2017.12.20-05.35.45:402][ 73]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Enemy_Task_Master_Skeleton, removing AnimBP from actor.
+[2017.12.20-05.35.45:407][ 73]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (RightArm_StaticMesh)
+[2017.12.20-05.36.59:007][723]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.20-05.37.08:931][901]LogTexture: Display: 텍스처 빌드: T_Gruntling_Emissive (AutoDXT, 1024X1024)
+[2017.12.20-05.37.08:931][901]LogTexture: Display: 텍스처 빌드: T_Gruntling_M (AutoDXT, 1024X1024)
+[2017.12.20-05.37.08:931][901]LogTexture: Display: 텍스처 빌드: T_Gruntling_Guardian_N (BC5, 2048X2048)
+[2017.12.20-05.37.08:931][901]LogTexture: Display: 텍스처 빌드: T_Gruntling_Guardian_D (AutoDXT, 1024X1024)
+[2017.12.20-05.37.09:983][901]LogMaterial: Missing cached shader map for material CharM_Gruntling, compiling. 
+[2017.12.20-05.37.34:393][255]LogTexture: Display: 텍스처 빌드: T_Enemy_Elemental_M (AutoDXT, 1024X1024)
+[2017.12.20-05.37.34:393][255]LogTexture: Display: 텍스처 빌드: T_Enemy_ElementalIce_N (BC5, 1024X1024)
+[2017.12.20-05.37.34:393][255]LogTexture: Display: 텍스처 빌드: T_Enemy_ElementalFire_D (AutoDXT, 1024X1024)
+[2017.12.20-05.37.34:393][255]LogMaterial: Missing cached shader map for material M_Elemental_Robot_Master, compiling. 
+[2017.12.20-05.38.20:432][558]LogLinker: Warning: '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N' 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:433][558]LogLinker: Warning: ../../../../../../allinone/Content/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_01_D.uasset 로드중 '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:433][558]LoadErrors: Error: /Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_01_D : 애셋에 대한 파일을 찾을 수 없습니다. /Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N
+[2017.12.20-05.38.20:433][558]LogLinker: Warning: '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N' 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:434][558]LogLinker: Warning: ../../../../../../allinone/Content/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_01_D.uasset 로드중 '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:434][558]LogLinker: Warning: '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M' 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:434][558]LogLinker: Warning: ../../../../../../allinone/Content/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Materials/CharM_Enemy_Wolf.uasset 로드중 '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:434][558]LoadErrors: Error: /Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Materials/CharM_Enemy_Wolf : 애셋에 대한 파일을 찾을 수 없습니다. /Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M
+[2017.12.20-05.38.20:434][558]LogLinker: Warning: '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M2' 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:434][558]LogLinker: Warning: ../../../../../../allinone/Content/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Materials/CharM_Enemy_Wolf.uasset 로드중 '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M2' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:434][558]LoadErrors: Error: /Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Materials/CharM_Enemy_Wolf : 애셋에 대한 파일을 찾을 수 없습니다. /Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M2
+[2017.12.20-05.38.20:434][558]LogLinker: Warning: '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N' 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:434][558]LogLinker: Warning: ../../../../../../allinone/Content/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Materials/CharM_Enemy_Wolf.uasset 로드중 '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:435][558]LoadErrors: Error: /Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Materials/CharM_Enemy_Wolf : 애셋에 대한 파일을 찾을 수 없습니다. /Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N
+[2017.12.20-05.38.20:435][558]LogLinker: Warning: '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M' 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:435][558]LogLinker: Warning: ../../../../../../allinone/Content/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Materials/CharM_Enemy_Wolf.uasset 로드중 '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:436][558]LogLinker: Warning: '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M2' 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:436][558]LogLinker: Warning: ../../../../../../allinone/Content/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Materials/CharM_Enemy_Wolf.uasset 로드중 '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M2' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:436][558]LogLinker: Warning: '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N' 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:436][558]LogLinker: Warning: ../../../../../../allinone/Content/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Materials/CharM_Enemy_Wolf.uasset 로드중 '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:441][558]LogLinker: Warning: '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N' 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:441][558]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N.T_Enemy_Wolf_N 레퍼런싱한 것: T_Enemy_Wolf_01_D
+[2017.12.20-05.38.20:441][558]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:442][558]LogLinker: Warning: '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M2' 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:442][558]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M2.T_Enemy_Wolf_04_M2 레퍼런싱한 것: MaterialExpressionTextureSample_22
+[2017.12.20-05.38.20:442][558]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M2' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:442][558]LogLinker: Warning: '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N' 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:442][558]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N.T_Enemy_Wolf_N 레퍼런싱한 것: MaterialExpressionTextureSample_29
+[2017.12.20-05.38.20:442][558]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_N' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:443][558]LogLinker: Warning: '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M' 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.20:443][558]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M.T_Enemy_Wolf_04_M 레퍼런싱한 것: MaterialExpressionTextureSample_5
+[2017.12.20-05.38.20:443][558]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeAdversaries/Enemy/Enemy_Wolf/Textures/T_Enemy_Wolf_04_M' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-05.38.23:276][558]LogTexture: Display: 텍스처 빌드: T_Enemy_Wolf_01_D (AutoDXT, 2048X2048)
+[2017.12.20-05.38.23:276][558]LogMaterial: Missing cached shader map for material CharM_Enemy_Wolf, compiling. 
+[2017.12.20-05.38.23:279][558]LogMaterial: Warning: C:\allinone\Content\InfinityBladeAdversaries\Enemy\Enemy_Wolf\Materials\CharM_Enemy_Wolf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.20-05.38.23:279][558]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.20-05.38.25:301][628]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.20-05.38.25:320][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.38.25:320][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.20-05.38.25:320][628]PIE: New page: PIE 세션: ThirdPersonExampleMap (2017. 12. 20. 오후 11:38:25)
+[2017.12.20-05.38.25:320][628]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.20-05.38.25:357][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036417s)
+[2017.12.20-05.38.25:358][628]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.20-05.38.25:359][628]LogPlayLevel: PIE: World Init took: (0.001810s)
+[2017.12.20-05.38.25:359][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.038893s)
+[2017.12.20-05.38.25:424][628]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.20-05.38.25:442][628]LogInit: FAudioDevice initialized.
+[2017.12.20-05.38.25:482][628]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.20-05.38.25:486][628]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.12.20-14.38.25
+[2017.12.20-05.38.25:487][628]LogWorld: Bringing up level for play took: 0.003329
+[2017.12.20-05.38.25:490][628]PIE: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.492
+[2017.12.20-05.38.25:491][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.38.36:873][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.38.36:911][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-05.38.38:244][370]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.20-05.38.55:474][ 70]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.20-05.40.25:265][100]LogSavePackage: Save=200.78ms
+[2017.12.20-05.40.25:265][100]LogSavePackage: Moving '../../../../../../allinone/Saved/ThirdPersonExampleMap_Auto175CE349C4AB5F644951CAF87A03C5ACA.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2017.12.20-05.40.25:269][100]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2017.12.20-05.40.25:277][100]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.268
+[2017.12.20-05.40.25:277][100]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.268
+[2017.12.20-05.41.23:606][787]LogTexture: Display: 텍스처 빌드: T_Golem_Gold_M (AutoDXT, 2048X2048)
+[2017.12.20-05.41.23:606][787]LogTexture: Display: 텍스처 빌드: T_Golem_DGold (AutoDXT, 2048X2048)
+[2017.12.20-05.41.23:606][787]LogTexture: Display: 텍스처 빌드: T_GolemGold_N (BC5, 2048X2048)
+[2017.12.20-05.41.23:606][787]LogMaterial: Missing cached shader map for material CharM_Fire_Golem, compiling. 
+[2017.12.20-05.42.32:878][330]LogTexture: Display: 텍스처 빌드: T_Robo_Golem_M (AutoDXT, 2048X2048)
+[2017.12.20-05.42.32:878][330]LogTexture: Display: 텍스처 빌드: T_Robo_Golem_N (AutoDXT, 2048X2048)
+[2017.12.20-05.42.32:878][330]LogTexture: Display: 텍스처 빌드: T_Robo_Golem_D (AutoDXT, 2048X2048)
+[2017.12.20-05.42.35:695][330]LogMaterial: Missing cached shader map for material CharM_Robo_Golem, compiling. 
+[2017.12.20-05.42.36:077][331]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.12.20-05.42.36:989][331]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.20-05.43.29:978][195]LogWindows: LaunchURL http://docs.unrealengine.com/latest/KOR/Engine/Animation/Blendspaces/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2017.12.20-05.43.32:472][213]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Robo_Golem/Enemy_Robo_Golem_Animation/ExoGame_RoboGolem_Roar.ExoGame_RoboGolem_Roar
+[2017.12.20-05.43.32:473][213]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Robo_Golem/Enemy_Robo_Golem_Animation/ExoGame_RoboGolem_Roar.ExoGame_RoboGolem_Roar) using current/default (AnimCompress_RemoveLinearKeys_50) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.43.32:691][217]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Robo_Golem/Enemy_Robo_Golem_Animation/ExoGame_RoboGolem_Missle_Fire_Enter.ExoGame_RoboGolem_Missle_Fire_Enter
+[2017.12.20-05.43.32:691][217]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Robo_Golem/Enemy_Robo_Golem_Animation/ExoGame_RoboGolem_Missle_Fire_Enter.ExoGame_RoboGolem_Missle_Fire_Enter) using current/default (AnimCompress_RemoveLinearKeys_45) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.44.26:839][391]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Robo_Golem/Enemy_Robo_Golem_Animation/ExoGame_RoboGolem_Missle_Fire_Idle.ExoGame_RoboGolem_Missle_Fire_Idle
+[2017.12.20-05.44.26:839][391]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Robo_Golem/Enemy_Robo_Golem_Animation/ExoGame_RoboGolem_Missle_Fire_Idle.ExoGame_RoboGolem_Missle_Fire_Idle) using current/default (AnimCompress_RemoveLinearKeys_47) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.44.27:759][402]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Robo_Golem/Enemy_Robo_Golem_Animation/ExoGame_RoboGolem_Projectile_Fire.ExoGame_RoboGolem_Projectile_Fire
+[2017.12.20-05.44.27:760][402]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Robo_Golem/Enemy_Robo_Golem_Animation/ExoGame_RoboGolem_Projectile_Fire.ExoGame_RoboGolem_Projectile_Fire) using current/default (AnimCompress_RemoveLinearKeys_49) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.44.32:489][448]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Robo_Golem/Enemy_Robo_Golem_Animation/ExoGame_RoboGolem_Missle_Fire_Idle_Shoot.ExoGame_RoboGolem_Missle_Fire_Idle_Shoot
+[2017.12.20-05.44.32:489][448]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Robo_Golem/Enemy_Robo_Golem_Animation/ExoGame_RoboGolem_Missle_Fire_Idle_Shoot.ExoGame_RoboGolem_Missle_Fire_Idle_Shoot) using current/default (AnimCompress_RemoveLinearKeys_48) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.44.45:787][547]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2017.12.20-05.44.46:077][548]LogRenderer: Reallocating scene render targets to support 1208x888 Format 10 NumSamples 1 (Frame:1).
+[2017.12.20-05.45.23:028][791]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_4.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2017.12.20-05.45.23:461][791]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.20-05.49.11:207][974]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_5.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2017.12.20-05.49.11:261][974]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.Actor_5.DebugSkelMeshComponent_9) - call TermArticulated first.
+[2017.12.20-05.49.11:666][974]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.20-05.50.30:503][292]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Run.ExoGame_Gruntling_Run
+[2017.12.20-05.50.30:503][292]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Run.ExoGame_Gruntling_Run) using current/default (AnimCompress_RemoveLinearKeys_21) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.31:219][302]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Walk_Bwd.ExoGame_Gruntling_Walk_Bwd
+[2017.12.20-05.50.31:219][302]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Walk_Bwd.ExoGame_Gruntling_Walk_Bwd) using current/default (AnimCompress_RemoveLinearKeys_24) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.31:235][302]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Walk_Right.ExoGame_Gruntling_Walk_Right
+[2017.12.20-05.50.31:235][302]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Walk_Right.ExoGame_Gruntling_Walk_Right) using current/default (AnimCompress_RemoveLinearKeys_26) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.31:255][302]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Walk_Slow.ExoGame_Gruntling_Walk_Slow
+[2017.12.20-05.50.31:256][302]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Walk_Slow.ExoGame_Gruntling_Walk_Slow) using current/default (AnimCompress_RemoveLinearKeys_27) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.31:551][307]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Walk_Left.ExoGame_Gruntling_Walk_Left
+[2017.12.20-05.50.31:551][307]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Walk_Left.ExoGame_Gruntling_Walk_Left) using current/default (AnimCompress_RemoveLinearKeys_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.32:223][317]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Run_Bwd.ExoGame_Gruntling_Run_Bwd
+[2017.12.20-05.50.32:223][317]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Run_Bwd.ExoGame_Gruntling_Run_Bwd) using current/default (AnimCompress_RemoveLinearKeys_22) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.32:792][325]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Walk.ExoGame_Gruntling_Walk
+[2017.12.20-05.50.32:792][325]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Walk.ExoGame_Gruntling_Walk) using current/default (AnimCompress_RemoveLinearKeys_23) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.37:751][399]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_React_Stunned_Idle.ExoGame_Gruntling_React_Stunned_Idle
+[2017.12.20-05.50.37:751][399]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_React_Stunned_Idle.ExoGame_Gruntling_React_Stunned_Idle) using current/default (AnimCompress_RemoveLinearKeys_20) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.37:773][399]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_React_Stunned_Exit.ExoGame_Gruntling_React_Stunned_Exit
+[2017.12.20-05.50.37:773][399]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_React_Stunned_Exit.ExoGame_Gruntling_React_Stunned_Exit) using current/default (AnimCompress_RemoveLinearKeys_19) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.37:853][400]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_React_Stunned_Enter.ExoGame_Gruntling_React_Stunned_Enter
+[2017.12.20-05.50.37:853][400]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_React_Stunned_Enter.ExoGame_Gruntling_React_Stunned_Enter) using current/default (AnimCompress_RemoveLinearKeys_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.39:526][422]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_React_Light_Front_Alt.ExoGame_Gruntling_React_Light_Front_Alt
+[2017.12.20-05.50.39:526][422]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_React_Light_Front_Alt.ExoGame_Gruntling_React_Light_Front_Alt) using current/default (AnimCompress_RemoveLinearKeys_17) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.43:569][482]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_React_Knockback_Front.ExoGame_Gruntling_React_Knockback_Front
+[2017.12.20-05.50.43:569][482]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_React_Knockback_Front.ExoGame_Gruntling_React_Knockback_Front) using current/default (AnimCompress_RemoveLinearKeys_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.43:587][482]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_On_Fire.ExoGame_Gruntling_On_Fire
+[2017.12.20-05.50.43:587][482]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_On_Fire.ExoGame_Gruntling_On_Fire) using current/default (AnimCompress_RemoveLinearKeys_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.43:612][482]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Intro_DropDown.ExoGame_Gruntling_Intro_DropDown
+[2017.12.20-05.50.43:613][482]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Intro_DropDown.ExoGame_Gruntling_Intro_DropDown) using current/default (AnimCompress_RemoveLinearKeys_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.43:633][482]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Falling.ExoGame_Gruntling_Falling
+[2017.12.20-05.50.43:633][482]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Falling.ExoGame_Gruntling_Falling) using current/default (AnimCompress_RemoveLinearKeys_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.43:688][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Death_WeaponInHand.ExoGame_Gruntling_Death_WeaponInHand
+[2017.12.20-05.50.43:688][483]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Death_WeaponInHand.ExoGame_Gruntling_Death_WeaponInHand) using current/default (AnimCompress_RemoveLinearKeys_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.43:965][487]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Intro_Summon.ExoGame_Gruntling_Intro_Summon
+[2017.12.20-05.50.43:965][487]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Intro_Summon.ExoGame_Gruntling_Intro_Summon) using current/default (AnimCompress_RemoveLinearKeys_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.44:083][489]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_React_Heavy_Front.ExoGame_Gruntling_React_Heavy_Front
+[2017.12.20-05.50.44:083][489]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_React_Heavy_Front.ExoGame_Gruntling_React_Heavy_Front) using current/default (AnimCompress_RemoveLinearKeys_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.44:795][499]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_React_Light_Front.ExoGame_Gruntling_React_Light_Front
+[2017.12.20-05.50.44:796][499]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_React_Light_Front.ExoGame_Gruntling_React_Light_Front) using current/default (AnimCompress_RemoveLinearKeys_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.47:554][550]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Intro_ClimbingUp.ExoGame_Gruntling_Intro_ClimbingUp
+[2017.12.20-05.50.47:554][550]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Intro_ClimbingUp.ExoGame_Gruntling_Intro_ClimbingUp) using current/default (AnimCompress_RemoveLinearKeys_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.50.48:507][571]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Death_Small_Alt.ExoGame_Gruntling_Death_Small_Alt
+[2017.12.20-05.50.48:507][571]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/ExoGame_Gruntling_Death_Small_Alt.ExoGame_Gruntling_Death_Small_Alt) using current/default (AnimCompress_RemoveLinearKeys_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-05.54.33:782][603]LogSavePackage: Save=15.85ms
+[2017.12.20-05.54.33:782][603]LogSavePackage: Moving '../../../../../../allinone/Saved/NewBlendSpaceCD00D49F47CD9D5B8492DD977904669F.tmp' to '../../../../../../allinone/Content/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewBlendSpace.uasset'
+[2017.12.20-05.54.33:785][603]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Content/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewBlendSpace.uasset
+[2017.12.20-05.55.11:585][233]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2017.12.20-05.55.18:337][233]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2017.12.20-05.55.33:285][327]LogSavePackage: Save=149.68ms
+[2017.12.20-05.55.33:285][327]LogSavePackage: Moving '../../../../../../allinone/Saved/ThirdPersonExampleMap_Auto22436294F4773749AEE7D16829C3145C9.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2017.12.20-05.55.33:288][327]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2017.12.20-05.55.33:297][327]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.199
+[2017.12.20-05.55.33:297][327]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.199
+[2017.12.20-05.55.33:319][327]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint] ([1] browsable assets)...
+[2017.12.20-05.55.33:368][327]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint.NewAnimBlueprint]
+[2017.12.20-05.55.33:368][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint]
+[2017.12.20-05.55.33:399][327]LogSavePackage: Save=25.10ms
+[2017.12.20-05.55.33:399][327]LogSavePackage: Moving '../../../../../../allinone/Saved/NewAnimBlueprint_Auto2B09E92BD4E7227F303B229B402188C5E.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto2.uasset'
+[2017.12.20-05.55.33:400][327]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto2.uasset
+[2017.12.20-05.55.33:400][327]LogFileHelpers: Auto-saving content packages took 0.086
+[2017.12.20-05.55.34:789][372]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_6.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2017.12.20-05.55.35:072][372]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.Actor_6.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2017.12.20-05.56.57:274][660]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.12.20-05.56.57:315][660]Candidate modules for hot reload:
+[2017.12.20-05.56.57:315][660]  allinone
+[2017.12.20-05.56.57:316][660]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe allinone -ModuleWithSuffix allinone 5314 Win64 Development -editorrecompile -canskiplink "C:/allinone/allinone.uproject" ]
+[2017.12.20-05.56.57:324][660]Warning: Starting HotReload took  0.1s.
+[2017.12.20-05.57.36:949][169]CompilerResultsLog: New page: 컴파일 - 2017. 12. 20. 오후 11:57:36
+[2017.12.20-05.57.36:950][169]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2017.12.20-05.57.36:950][169]CompilerResultsLog: Creating makefile for hot reloading allinone (no existing makefile)
+[2017.12.20-05.57.36:950][169]CompilerResultsLog: Compiling game modules for hot reload
+[2017.12.20-05.57.36:950][169]CompilerResultsLog: Parsing headers for allinoneEditor
+[2017.12.20-05.57.36:950][169]CompilerResultsLog:   Running UnrealHeaderTool "C:\allinone\allinone.uproject" "C:\allinone\Intermediate\Build\Win64\allinoneEditor\Development\allinoneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.12.20-05.57.36:950][169]CompilerResultsLog: Reflection code generated for allinoneEditor in 13.8908237 seconds
+[2017.12.20-05.57.36:950][169]CompilerResultsLog: Performing 6 actions (4 in parallel)
+[2017.12.20-05.57.36:950][169]CompilerResultsLog: allinoneCharacter.gen.cpp
+[2017.12.20-05.57.36:950][169]CompilerResultsLog: allinone.init.gen.cpp
+[2017.12.20-05.57.36:950][169]CompilerResultsLog: allinoneCharacter.cpp
+[2017.12.20-05.57.36:950][169]CompilerResultsLog: allinoneGameMode.cpp
+[2017.12.20-05.57.36:950][169]CompilerResultsLog: [5/6] Link UE4Editor-allinone-5314.dll
+[2017.12.20-05.57.36:950][169]CompilerResultsLog: [6/6] Link UE4Editor-allinone-5314.lib
+[2017.12.20-05.57.36:950][169]CompilerResultsLog:    C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-5314.lib ???̺귯?? ?? C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-5314.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2017.12.20-05.57.36:950][169]CompilerResultsLog:    C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-5314.suppressed.lib ???̺귯?? ?? C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-5314.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2017.12.20-05.57.36:950][169]CompilerResultsLog: Total build time: 39.15 seconds (Local executor: 6.65 seconds)
+[2017.12.20-05.57.36:950][169]LogMainFrame: MainFrame: Module compiling took 39.676 seconds
+[2017.12.20-05.57.37:508][169]LogClass: Could not find existing class allinoneCharacter in package /Script/allinone for HotReload, assuming new class
+[2017.12.20-05.57.37:509][169]LogClass: Function RFMB is new.
+[2017.12.20-05.57.37:509][169]LogClass: Function RLR is new.
+[2017.12.20-05.57.37:521][169]LogHotReload: Re-instancing allinoneCharacter after hot-reload.
+[2017.12.20-05.57.38:117][169]LogContentBrowser: Native class hierarchy updated for 'allinone' in 0.0013 seconds. Added 2 classes and 2 folders.
+[2017.12.20-05.57.38:121][169]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.12.20-05.57.38:633][169]LogContentBrowser: Native class hierarchy populated in 0.0165 seconds. Added 2368 classes and 527 folders.
+[2017.12.20-05.57.38:635][169]Display: HotReload took 41.4s.
+[2017.12.20-05.58.12:031][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_7.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2017.12.20-05.58.12:351][826]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.Actor_7.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2017.12.20-06.05.34:279][729]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.088
+[2017.12.20-06.05.34:281][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint] ([1] browsable assets)...
+[2017.12.20-06.05.34:344][729]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint.NewAnimBlueprint]
+[2017.12.20-06.05.34:344][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint]
+[2017.12.20-06.05.34:381][729]LogSavePackage: Save=31.07ms
+[2017.12.20-06.05.34:381][729]LogSavePackage: Moving '../../../../../../allinone/Saved/NewAnimBlueprint_Auto333296E8D47F48EB3D9FD02826957F4B8.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto3.uasset'
+[2017.12.20-06.05.34:382][729]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto3.uasset
+[2017.12.20-06.05.34:382][729]LogFileHelpers: Auto-saving content packages took 0.103
+[2017.12.20-06.07.17:952][629]LogEditorTransaction: Undo 변수로 승격
+[2017.12.20-06.07.18:076][629]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_7.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2017.12.20-06.07.18:366][634]LogEditorTransaction: Undo 노드 이동
+[2017.12.20-06.07.18:487][634]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_7.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2017.12.20-06.08.26:860][179]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.12.20-06.08.26:912][179]Candidate modules for hot reload:
+[2017.12.20-06.08.26:912][179]  allinone
+[2017.12.20-06.08.26:912][179]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe allinone -ModuleWithSuffix allinone 2930 Win64 Development -editorrecompile -canskiplink "C:/allinone/allinone.uproject" ]
+[2017.12.20-06.08.26:920][179]Warning: Starting HotReload took  0.1s.
+[2017.12.20-06.08.42:799][339]CompilerResultsLog: New page: 컴파일 - 2017. 12. 21. 오전 12:08:42
+[2017.12.20-06.08.42:800][339]CompilerResultsLog: Compiling game modules for hot reload
+[2017.12.20-06.08.42:800][339]CompilerResultsLog: Parsing headers for allinoneEditor
+[2017.12.20-06.08.42:800][339]CompilerResultsLog:   Running UnrealHeaderTool "C:\allinone\allinone.uproject" "C:\allinone\Intermediate\Build\Win64\allinoneEditor\Development\allinoneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.12.20-06.08.42:800][339]CompilerResultsLog: Reflection code generated for allinoneEditor in 11.4038826 seconds
+[2017.12.20-06.08.42:800][339]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2017.12.20-06.08.42:800][339]CompilerResultsLog: allinoneGameMode.cpp
+[2017.12.20-06.08.42:800][339]CompilerResultsLog: allinoneCharacter.cpp
+[2017.12.20-06.08.42:800][339]CompilerResultsLog: allinoneCharacter.gen.cpp
+[2017.12.20-06.08.42:800][339]CompilerResultsLog: [4/5] Link UE4Editor-allinone-2930.dll
+[2017.12.20-06.08.42:800][339]CompilerResultsLog: [5/5] Link UE4Editor-allinone-2930.lib
+[2017.12.20-06.08.42:800][339]CompilerResultsLog:    C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-2930.lib ???̺귯?? ?? C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-2930.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2017.12.20-06.08.42:800][339]CompilerResultsLog:    C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-2930.suppressed.lib ???̺귯?? ?? C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-2930.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2017.12.20-06.08.42:800][339]CompilerResultsLog: Total build time: 15.54 seconds (Local executor: 2.73 seconds)
+[2017.12.20-06.08.42:800][339]LogMainFrame: MainFrame: Module compiling took 15.939 seconds
+[2017.12.20-06.08.43:504][339]LogContentBrowser: Native class hierarchy updated for 'allinone' in 0.0008 seconds. Added 2 classes and 2 folders.
+[2017.12.20-06.08.43:507][339]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2017.12.20-06.08.43:840][339]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2368 classes and 527 folders.
+[2017.12.20-06.08.43:840][339]Display: HotReload took 17.0s.
+[2017.12.20-06.08.44:529][348]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.20-06.08.44:550][348]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-06.08.44:550][348]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2017.12.20-06.08.44:553][348]LogPlayLevel: [PlayLevel] Compiling NewAnimBlueprint before play...
+[2017.12.20-06.08.44:714][348]LogPlayLevel: PlayLevel: Blueprint regeneration took 164 ms (1 blueprints)
+[2017.12.20-06.08.44:714][348]PIE: New page: PIE 세션: ThirdPersonExampleMap (2017. 12. 21. 오전 12:08:44)
+[2017.12.20-06.08.44:714][348]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.20-06.08.44:740][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025465s)
+[2017.12.20-06.08.44:741][348]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.20-06.08.44:742][348]LogPlayLevel: PIE: World Init took: (0.001825s)
+[2017.12.20-06.08.44:742][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027684s)
+[2017.12.20-06.08.44:823][348]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.20-06.08.44:841][348]LogInit: FAudioDevice initialized.
+[2017.12.20-06.08.44:881][348]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.20-06.08.44:885][348]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.12.20-15.08.44
+[2017.12.20-06.08.44:886][348]LogWorld: Bringing up level for play took: 0.003691
+[2017.12.20-06.08.44:888][348]PIE: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.11
+[2017.12.20-06.08.44:889][348]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-06.09.05:241][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-06.09.05:290][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-06.10.01:085][445]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.Actor_8.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.12.20-06.10.01:395][445]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.Actor_8.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2017.12.20-06.15.56:035][810]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.040
+[2017.12.20-06.15.56:056][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint] ([1] browsable assets)...
+[2017.12.20-06.15.56:122][810]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint.NewAnimBlueprint]
+[2017.12.20-06.15.56:123][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint]
+[2017.12.20-06.15.56:161][810]LogSavePackage: Save=32.21ms
+[2017.12.20-06.15.56:161][810]LogSavePackage: Moving '../../../../../../allinone/Saved/NewAnimBlueprint_Auto4F8AFBFFC4E32BE67811B67A04A3DA78E.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto4.uasset'
+[2017.12.20-06.15.56:163][810]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto4.uasset
+[2017.12.20-06.15.56:163][810]LogFileHelpers: Auto-saving content packages took 0.108
+[2017.12.20-06.17.21:966][625]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=1.00
+[2017.12.20-06.17.21:966][625]LogSynthBenchmark: Display: ===============
+[2017.12.20-06.17.21:966][625]LogSynthBenchmark: Display: Main Processor:
+[2017.12.20-06.17.22:000][625]LogSynthBenchmark: Display:          ... 0.017838 s/Run 'RayIntersect'
+[2017.12.20-06.17.22:000][625]LogSynthBenchmark: Display:          ... 0.016095 s/Run 'Fractal'
+[2017.12.20-06.17.22:000][625]LogSynthBenchmark: Display: 
+[2017.12.20-06.17.22:000][625]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2017.12.20-06.17.22:000][625]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2017.12.20-06.17.22:000][625]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2017.12.20-06.17.22:000][625]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2017.12.20-06.17.22:000][625]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 8
+[2017.12.20-06.17.22:000][625]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2017.12.20-06.17.22:001][625]LogSynthBenchmark: Display:   NumberOfCores (logical): 8
+[2017.12.20-06.17.22:001][625]LogSynthBenchmark: Display:   CPU Perf Index 0: 143.6 (weight 1.00)
+[2017.12.20-06.17.22:001][625]LogSynthBenchmark: Display:   CPU Perf Index 1: 177.7 (weight 1.50)
+[2017.12.20-06.17.22:001][625]LogSynthBenchmark: Display:  
+[2017.12.20-06.17.22:001][625]LogSynthBenchmark: Display: Graphics:
+[2017.12.20-06.17.22:001][625]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA GeForce GTX 970M'
+[2017.12.20-06.17.22:001][625]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2017.12.20-06.17.22:001][625]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2017.12.20-06.17.22:001][625]LogSynthBenchmark: Display:   Device Id: 0x13D8
+[2017.12.20-06.17.22:001][625]LogSynthBenchmark: Display:   Device Revision: 0xA1
+[2017.12.20-06.17.22:001][625]LogSynthBenchmark: Display:   GPU Memory: 3041/0/4041 MB
+[2017.12.20-06.17.22:124][625]LogSynthBenchmark: Display:   GPU first test: 0.01s
+[2017.12.20-06.17.22:124][625]LogSynthBenchmark: Display:          ... 1.222 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2017.12.20-06.17.22:124][625]LogSynthBenchmark: Display:          ... 1.034 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2017.12.20-06.17.22:124][625]LogSynthBenchmark: Display:          ... 0.683 s/GigaPix, Confidence=89% 'DepTexHeavy' (likely to be very inaccurate)
+[2017.12.20-06.17.22:124][625]LogSynthBenchmark: Display:          ... 2.615 s/GigaPix, Confidence=89% 'FillOnly' (likely to be very inaccurate)
+[2017.12.20-06.17.22:124][625]LogSynthBenchmark: Display:          ... 0.199 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2017.12.20-06.17.22:124][625]LogSynthBenchmark: Display:          ... 0.387 s/GigaVert, Confidence=89% 'VertThroughPut1' (likely to be very inaccurate)
+[2017.12.20-06.17.22:124][625]LogSynthBenchmark: Display:          ... 2.198 s/GigaVert, Confidence=89% 'VertThroughPut2' (likely to be very inaccurate)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:   GPU second test: 0.14s
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... 1.647 s/GigaPix, Confidence=40% 'ALUHeavyNoise' (likely to be inaccurate)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... 1.698 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... 1.526 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... 9.276 s/GigaPix, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... 0.249 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... 0.238 s/GigaVert, Confidence=89% 'VertThroughPut1' (likely to be inaccurate)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... 1.245 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be inaccurate)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:   GPU Final Results:
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... 1.647 s/GigaPix, Confidence=40% 'ALUHeavyNoise'
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... 1.698 s/GigaPix, Confidence=100% 'TexHeavy'
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... 1.526 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... 9.276 s/GigaPix, Confidence=100% 'FillOnly'
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... 0.249 s/GigaPix, Confidence=100% 'Bandwidth'
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... 0.238 s/GigaVert, Confidence=89% 'VertThroughPut1'
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... 1.245 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display: 
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:   GPU Perf Index 0: 35.8 (weight 1.00)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:   GPU Perf Index 1: 22.8 (weight 0.10)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:   GPU Perf Index 2: 39.7 (weight 0.10)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:   GPU Perf Index 3: 36.4 (weight 3.00)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:   GPU Perf Index 4: 23.3 (weight 1.00)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:   GPU Perf Index 5: 15.5 (weight 0.00)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:   GPU Perf Index 6: 70.5 (weight 0.00)
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:   CPUIndex: 164.0
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:   GPUIndex: 33.6
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display: 
+[2017.12.20-06.17.22:322][625]LogSynthBenchmark: Display:          ... Total Time: 0.356424 sec
+[2017.12.20-06.17.22:709][625]LogMaterial: Missing cached shader map for material CharM_Enemy_Wolf, compiling. 
+[2017.12.20-06.17.22:712][625]LogMaterial: Warning: C:\allinone\Content\InfinityBladeAdversaries\Enemy\Enemy_Wolf\Materials\CharM_Enemy_Wolf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.20-06.17.22:712][625]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.20-06.17.22:886][626]LogRenderer: Reallocating scene render targets to support 1208x888 Format 9 NumSamples 1 (Frame:81046).
+[2017.12.20-06.17.22:913][626]LogContentStreaming: Texture pool size now 600 MB
+[2017.12.20-06.17.54:532][ 22]MapCheck: New page: 맵 체크
+[2017.12.20-06.17.54:642][ 22]Cmd: MAP REBUILD ALLVISIBLE
+[2017.12.20-06.17.54:642][ 22]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.12.20-06.17.54:919][ 22]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.12.20-06.17.54:927][ 22]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2017.12.20-06.17.54:934][ 22]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2017.12.20-06.17.54:940][ 22]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HelpActorMaterial, compiling. 
+[2017.12.20-06.17.54:948][ 22]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RampMaterial, compiling. 
+[2017.12.20-06.17.54:957][ 22]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2017.12.20-06.17.54:966][ 22]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CharM_Gruntling, compiling. 
+[2017.12.20-06.17.54:976][ 22]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2017.12.20-06.17.56:019][ 22]TextureStreamingBuild: Display: Compiling optional shaders took 1.115 seconds.
+[2017.12.20-06.17.56:056][ 22]LogLevel: Display: Export Material TexCoord Scales took 0.037 seconds.
+[2017.12.20-06.17.56:069][ 22]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2017.12.20-06.17.56:092][ 22]LightingResults: New page: 라이팅 빌드 - 2017. 12. 21. 오전 12:17:56
+[2017.12.20-06.17.56:153][ 22]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.20-06.17.56:217][ 22]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.20-06.17.56:234][ 22]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.20-06.17.56:775][ 22]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.20-06.17.56:775][ 22]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8232
+[2017.12.20-06.18.00:326][ 22]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.20-06.18.00:326][ 22]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.20-06.18.00:326][ 22]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.20-06.18.00:326][ 22]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.20-06.18.00:326][ 22]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.20-06.18.00:706][ 22]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.12.20-06.18.00:706][ 22]MapCheck: New page: ThirdPersonExampleMap - 2017. 12. 21. 오전 12:18:00
+[2017.12.20-06.18.00:837][ 22]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 131.356ms.
+[2017.12.20-06.18.00:861][ 22]LogEditorBuildUtils: Build time 0:06
+[2017.12.20-06.18.00:875][ 22]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2017.12.20-06.18.00:881][ 22]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2017.12.20-06.18.01:128][ 23]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2017.12.20-06.18.01:143][ 23]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2017.12.20-06.18.01:347][ 24]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2017.12.20-06.18.01:362][ 24]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2017.12.20-06.18.01:436][ 25]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.12.20-06.18.01:455][ 25]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.12.20-06.18.10:643][ 93]Job is a success!
+[2017.12.20-06.18.10:932][ 94]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2017.12.20-06.18.10:932][ 94]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.12.20-06.18.10:932][ 94]LogVolumetricLightmapImport:      BrickData 245x5x5 = 0.2Mb
+[2017.12.20-06.18.10:932][ 94]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.20-06.18.10:932][ 94]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2017.12.20-06.18.10:932][ 94]LogVolumetricLightmapImport:          1: 8.2% covering 6.3% of volume
+[2017.12.20-06.18.10:932][ 94]LogVolumetricLightmapImport:          2: 89.8% covering 1.1% of volume
+[2017.12.20-06.18.11:740][ 94]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2017.12.20-06.18.11:741][ 94]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.12.20-06.18.11:741][ 94]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.12.20-06.18.11:741][ 94]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2017.12.20-06.18.11:741][ 94]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2017.12.20-06.18.11:741][ 94]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2017.12.20-06.18.11:741][ 94]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2017.12.20-06.18.11:741][ 94]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2017.12.20-06.18.11:741][ 94]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2017.12.20-06.18.11:939][ 94]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_3 (G8, 32X32)
+[2017.12.20-06.18.12:091][ 94]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2017.12.20-06.18.12:187][ 94]Lightmass on DESKTOP-FRCQVUI: 7.48 sec total, 211 ms importing, 30 ms setup, 1.20 sec photons, 5.54 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 38.6 sec total, 14.1 sec processing.
+[2017.12.20-06.18.12:350][ 94]LogStaticLightingSystem: Illumination: 16.1 sec (686 ms encoding lightmaps, 306 ms encoding shadowmaps)
+[2017.12.20-06.18.12:350][ 94]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2017.12.20-06.18.12:350][ 94]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.12.20-06.18.13:312][ 94]DumpUnbuiltLightIteractions
+[2017.12.20-06.18.13:312][ 94]Lights with unbuilt interactions: 0
+[2017.12.20-06.18.13:312][ 94]
+[2017.12.20-06.18.13:312][ 94]Primitives with unbuilt interactions: 0
+[2017.12.20-06.18.13:347][ 95]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.20-06.18.13:348][ 95]MapCheck: New page: ThirdPersonExampleMap - 2017. 12. 21. 오전 12:18:13
+[2017.12.20-06.18.13:474][ 95]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 126.646ms.
+[2017.12.20-06.18.31:029][626]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2017.12.20-06.18.31:099][626]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) - call TermArticulated first.
+[2017.12.20-06.18.31:524][626]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.20-06.18.43:124][960]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.Actor_10.DebugSkelMeshComponent_19) Already registered. Aborting.
+[2017.12.20-06.18.43:389][960]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.Actor_10.DebugSkelMeshComponent_19) - call TermArticulated first.
+[2017.12.20-06.22.41:317][ 94]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.12.20-06.22.41:348][ 94]Candidate modules for hot reload:
+[2017.12.20-06.22.41:348][ 94]  allinone
+[2017.12.20-06.22.41:348][ 94]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe allinone -ModuleWithSuffix allinone 693 Win64 Development -editorrecompile -canskiplink "C:/allinone/allinone.uproject" ]
+[2017.12.20-06.22.41:355][ 94]Warning: Starting HotReload took  0.0s.
+[2017.12.20-06.23.16:448][623]CompilerResultsLog: New page: 컴파일 - 2017. 12. 21. 오전 12:23:16
+[2017.12.20-06.23.16:449][623]CompilerResultsLog: Compiling game modules for hot reload
+[2017.12.20-06.23.16:449][623]CompilerResultsLog: Parsing headers for allinoneEditor
+[2017.12.20-06.23.16:449][623]CompilerResultsLog:   Running UnrealHeaderTool "C:\allinone\allinone.uproject" "C:\allinone\Intermediate\Build\Win64\allinoneEditor\Development\allinoneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.12.20-06.23.16:449][623]CompilerResultsLog: Reflection code generated for allinoneEditor in 27.5994462 seconds
+[2017.12.20-06.23.16:449][623]CompilerResultsLog: Performing 6 actions (4 in parallel)
+[2017.12.20-06.23.16:449][623]CompilerResultsLog: allinoneCharacter.cpp
+[2017.12.20-06.23.16:449][623]CompilerResultsLog: allinone.init.gen.cpp
+[2017.12.20-06.23.16:449][623]CompilerResultsLog: allinoneCharacter.gen.cpp
+[2017.12.20-06.23.16:449][623]CompilerResultsLog: allinoneGameMode.cpp
+[2017.12.20-06.23.16:449][623]CompilerResultsLog: [5/6] Link UE4Editor-allinone-693.dll
+[2017.12.20-06.23.16:449][623]CompilerResultsLog: [6/6] Link UE4Editor-allinone-693.lib
+[2017.12.20-06.23.16:449][623]CompilerResultsLog: Error: allinoneCharacter.gen.cpp.obj : error LNK2005: "public: float __cdecl AallinoneCharacter::RLR(void)" (?RLR@AallinoneCharacter@@QEAAMXZ)??(??) allinoneCharacter.cpp.obj?? ?̹? ???ǵǾ? ?ֽ??ϴ?.
+[2017.12.20-06.23.16:449][623]CompilerResultsLog: allinoneCharacter.gen.cpp.obj : warning LNK4006: "public: float __cdecl AallinoneCharacter::RLR(void)" (?RLR@AallinoneCharacter@@QEAAMXZ)??(??) allinoneCharacter.cpp.obj?? ?̹? ???ǵǾ? ?ֽ??ϴ?. ?? ???ǰ? ???õ˴ϴ?.
+[2017.12.20-06.23.16:449][623]CompilerResultsLog:    C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-693.lib ???̺귯?? ?? C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-693.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2017.12.20-06.23.16:450][623]CompilerResultsLog:    C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-693.suppressed.lib ???̺귯?? ?? C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-693.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2017.12.20-06.23.16:450][623]CompilerResultsLog: Error: allinoneCharacter.cpp.obj : error LNK2001: "public: virtual float __cdecl AallinoneCharacter::RLR_Implementation(void)" (?RLR_Implementation@AallinoneCharacter@@UEAAMXZ) ?ܺ? ??ȣ?? Ȯ???? ?? ?????ϴ?.
+[2017.12.20-06.23.16:450][623]CompilerResultsLog: Error: allinoneCharacter.gen.cpp.obj : error LNK2001: "public: virtual float __cdecl AallinoneCharacter::RLR_Implementation(void)" (?RLR_Implementation@AallinoneCharacter@@UEAAMXZ) ?ܺ? ??ȣ?? Ȯ???? ?? ?????ϴ?.
+[2017.12.20-06.23.16:450][623]CompilerResultsLog: Error: C:\allinone\Binaries\Win64\UE4Editor-allinone-693.dll : fatal error LNK1120: 1???? Ȯ???? ?? ???? ?ܺ? ?????Դϴ?.
+[2017.12.20-06.23.16:450][623]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: C:\allinone\Binaries\Win64\UE4Editor-allinone-693.dll
+[2017.12.20-06.23.16:450][623]CompilerResultsLog: Total build time: 34.78 seconds (Local executor: 0.00 seconds)
+[2017.12.20-06.23.16:450][623]LogMainFrame: MainFrame: Module compiling took 35.132 seconds
+[2017.12.20-06.23.16:450][623]Warning: HotReload failed, recompile failed
+[2017.12.20-06.23.40:331][843]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.12.20-06.23.40:335][843]Candidate modules for hot reload:
+[2017.12.20-06.23.40:335][843]  allinone
+[2017.12.20-06.23.40:335][843]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe allinone -ModuleWithSuffix allinone 8430 Win64 Development -editorrecompile -canskiplink "C:/allinone/allinone.uproject" ]
+[2017.12.20-06.23.40:342][843]Warning: Starting HotReload took  0.0s.
+[2017.12.20-06.23.59:670][ 79]CompilerResultsLog: New page: 컴파일 - 2017. 12. 21. 오전 12:23:59
+[2017.12.20-06.23.59:670][ 79]CompilerResultsLog: Compiling game modules for hot reload
+[2017.12.20-06.23.59:670][ 79]CompilerResultsLog: Parsing headers for allinoneEditor
+[2017.12.20-06.23.59:671][ 79]CompilerResultsLog:   Running UnrealHeaderTool "C:\allinone\allinone.uproject" "C:\allinone\Intermediate\Build\Win64\allinoneEditor\Development\allinoneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.12.20-06.23.59:671][ 79]CompilerResultsLog: Reflection code generated for allinoneEditor in 13.9533305 seconds
+[2017.12.20-06.23.59:671][ 79]CompilerResultsLog: Performing 6 actions (4 in parallel)
+[2017.12.20-06.23.59:671][ 79]CompilerResultsLog: allinone.init.gen.cpp
+[2017.12.20-06.23.59:671][ 79]CompilerResultsLog: allinoneGameMode.cpp
+[2017.12.20-06.23.59:671][ 79]CompilerResultsLog: allinoneCharacter.cpp
+[2017.12.20-06.23.59:671][ 79]CompilerResultsLog: allinoneCharacter.gen.cpp
+[2017.12.20-06.23.59:671][ 79]CompilerResultsLog: [5/6] Link UE4Editor-allinone-8430.dll
+[2017.12.20-06.23.59:671][ 79]CompilerResultsLog: [6/6] Link UE4Editor-allinone-8430.lib
+[2017.12.20-06.23.59:671][ 79]CompilerResultsLog:    C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-8430.lib ???̺귯?? ?? C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-8430.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2017.12.20-06.23.59:671][ 79]CompilerResultsLog:    C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-8430.suppressed.lib ???̺귯?? ?? C:\allinone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-allinone-8430.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2017.12.20-06.23.59:671][ 79]CompilerResultsLog: Total build time: 18.99 seconds (Local executor: 2.94 seconds)
+[2017.12.20-06.23.59:671][ 79]LogMainFrame: MainFrame: Module compiling took 19.340 seconds
+[2017.12.20-06.24.00:368][ 79]LogClass: Could not find existing class allinoneCharacter in package /Script/allinone for HotReload, assuming new class
+[2017.12.20-06.24.00:368][ 79]LogClass: Function RFMB is new.
+[2017.12.20-06.24.00:368][ 79]LogClass: Function RLR is new.
+[2017.12.20-06.24.00:379][ 79]LogHotReload: Re-instancing allinoneCharacter after hot-reload.
+[2017.12.20-06.24.00:799][ 79]LogContentBrowser: Native class hierarchy updated for 'allinone' in 0.0019 seconds. Added 2 classes and 2 folders.
+[2017.12.20-06.24.00:803][ 79]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.12.20-06.24.01:130][ 79]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2368 classes and 527 folders.
+[2017.12.20-06.24.01:130][ 79]Display: HotReload took 20.8s.
+[2017.12.20-06.24.41:153][828]LogMaterial: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2017.12.20-06.24.41:193][828]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2017.12.20-06.24.41:329][828]LogMaterial: Missing cached shader map for material M_Radial_Gradient, compiling. 
+[2017.12.20-06.24.41:383][828]LogMaterial: Missing cached shader map for material M_Heat_Distortion, compiling. 
+[2017.12.20-06.24.41:469][828]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.20-06.26.00:597][298]LogSavePackage: Save=319.92ms
+[2017.12.20-06.26.00:597][298]LogSavePackage: Moving '../../../../../../allinone/Saved/ThirdPersonExampleMap_Auto5E43BB6D14F98C94186AD1F822B1DA506.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2017.12.20-06.26.00:598][298]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto5.umap
+[2017.12.20-06.26.00:604][298]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.443
+[2017.12.20-06.26.00:604][298]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.443
+[2017.12.20-06.26.00:629][298]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2017.12.20-06.26.00:629][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData]
+[2017.12.20-06.26.00:669][298]LogSavePackage: Save=22.77ms
+[2017.12.20-06.26.00:669][298]LogSavePackage: Moving '../../../../../../allinone/Saved/ThirdPersonExampleMap_BuiltData_0418633F4C6C8D9DC415D0951F1FD5C7.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData_Auto5.uasset'
+[2017.12.20-06.26.00:670][298]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData_Auto5.uasset
+[2017.12.20-06.26.00:671][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint] ([1] browsable assets)...
+[2017.12.20-06.26.00:685][298]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint.NewAnimBlueprint]
+[2017.12.20-06.26.00:685][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint]
+[2017.12.20-06.26.00:717][298]LogSavePackage: Save=28.69ms
+[2017.12.20-06.26.00:717][298]LogSavePackage: Moving '../../../../../../allinone/Saved/NewAnimBlueprint_Auto57FAE5DBD41A7CBC345F142B6AE39779A.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto5.uasset'
+[2017.12.20-06.26.00:718][298]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto5.uasset
+[2017.12.20-06.26.00:718][298]LogFileHelpers: Auto-saving content packages took 0.091
+[2017.12.20-06.40.11:378][275]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.Actor_11.DebugSkelMeshComponent_21) Already registered. Aborting.
+[2017.12.20-06.40.11:410][275]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.Actor_11.DebugSkelMeshComponent_21) - call TermArticulated first.
+[2017.12.20-06.40.11:836][275]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.20-06.49.21:157][149]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.050
+[2017.12.20-06.49.21:159][149]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint] ([1] browsable assets)...
+[2017.12.20-06.49.21:209][149]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint.NewAnimBlueprint]
+[2017.12.20-06.49.21:209][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint]
+[2017.12.20-06.49.21:243][149]LogSavePackage: Save=28.66ms
+[2017.12.20-06.49.21:243][149]LogSavePackage: Moving '../../../../../../allinone/Saved/NewAnimBlueprint_Auto6F577E413438A95FFAF8F72960C82D27C.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto6.uasset'
+[2017.12.20-06.49.21:244][149]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto6.uasset
+[2017.12.20-06.49.21:244][149]LogFileHelpers: Auto-saving content packages took 0.086
+[2017.12.20-06.53.01:208][282]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.20-06.53.01:842][302]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.20-06.53.26:824][405]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.20-06.53.36:069][756]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.20-06.53.36:088][756]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-06.53.36:089][756]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2017.12.20-06.53.36:092][756]LogPlayLevel: [PlayLevel] Compiling NewAnimBlueprint before play...
+[2017.12.20-06.53.36:288][756]LogPlayLevel: PlayLevel: Blueprint regeneration took 199 ms (1 blueprints)
+[2017.12.20-06.53.36:288][756]PIE: New page: PIE 세션: ThirdPersonExampleMap (2017. 12. 21. 오전 12:53:36)
+[2017.12.20-06.53.36:288][756]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.20-06.53.36:339][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051415s)
+[2017.12.20-06.53.36:341][756]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.20-06.53.36:341][756]LogPlayLevel: PIE: World Init took: (0.001682s)
+[2017.12.20-06.53.36:341][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.053486s)
+[2017.12.20-06.53.36:423][756]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.20-06.53.36:461][756]LogInit: FAudioDevice initialized.
+[2017.12.20-06.53.36:504][756]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.20-06.53.36:508][756]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.12.20-15.53.36
+[2017.12.20-06.53.36:509][756]LogWorld: Bringing up level for play took: 0.003257
+[2017.12.20-06.53.36:511][756]PIE: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.487
+[2017.12.20-06.53.36:512][756]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-06.53.39:652][941]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-06.53.39:685][941]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.20-06.53.41:146][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.20-06.53.43:941][181]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.20-06.53.52:005][551]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.20-06.54.12:581][306]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.Actor_12.DebugSkelMeshComponent_23) Already registered. Aborting.
+[2017.12.20-06.54.12:848][306]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.Actor_12.DebugSkelMeshComponent_23) - call TermArticulated first.
+[2017.12.20-06.56.14:534][167]BlueprintLog: New page: NewAnimBlueprint 컴파일
+[2017.12.20-06.59.38:588][314]LogRenderer: Reallocating scene render targets to support 1208x900 Format 9 NumSamples 1 (Frame:1).
+[2017.12.20-07.01.10:125][804]LogSlate: Took 0.005729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.12.20-07.02.25:602][597]LogSavePackage: Save=478.07ms
+[2017.12.20-07.02.25:602][597]LogSavePackage: Moving '../../../../../../allinone/Saved/ThirdPersonExampleMap_Auto70D8911F8443185CBF6C8EA9847977DAA.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2017.12.20-07.02.25:603][597]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto7.umap
+[2017.12.20-07.02.25:723][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.793
+[2017.12.20-07.02.25:723][597]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.793
+[2017.12.20-07.02.25:770][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.12.20-07.02.25:888][597]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.12.20-07.02.25:888][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2017.12.20-07.02.25:926][597]LogSavePackage: Save=28.14ms
+[2017.12.20-07.02.25:927][597]LogSavePackage: Moving '../../../../../../allinone/Saved/ThirdPersonCharacter_Auto74116519B4A740B492B371985EC4D50C9.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto7.uasset'
+[2017.12.20-07.02.25:929][597]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto7.uasset
+[2017.12.20-07.02.25:930][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint] ([1] browsable assets)...
+[2017.12.20-07.02.26:070][597]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint.NewAnimBlueprint]
+[2017.12.20-07.02.26:070][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint]
+[2017.12.20-07.02.26:123][597]LogSavePackage: Save=46.70ms
+[2017.12.20-07.02.26:123][597]LogSavePackage: Moving '../../../../../../allinone/Saved/NewAnimBlueprint_Auto75D6571054A9A9625B84ECDA53848432F.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto7.uasset'
+[2017.12.20-07.02.26:125][597]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto7.uasset
+[2017.12.20-07.02.26:125][597]LogFileHelpers: Auto-saving content packages took 0.356
+[2017.12.20-07.02.51:406][717]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2017.12.20-07.02.58:845][717]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2017.12.20-07.03.02:389][717]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2017.12.20-07.03.25:380][201]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.Actor_13.DebugSkelMeshComponent_25) Already registered. Aborting.
+[2017.12.20-07.03.25:661][201]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_46:PersistentLevel.Actor_13.DebugSkelMeshComponent_25) - call TermArticulated first.
+[2017.12.20-07.06.30:716][ 46]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2017.12.20-07.10.27:131][342]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2017.12.20-07.12.13:290][292]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.Actor_14.DebugSkelMeshComponent_27) Already registered. Aborting.
+[2017.12.20-07.12.13:554][292]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_51:PersistentLevel.Actor_14.DebugSkelMeshComponent_27) - call TermArticulated first.
+[2017.12.20-07.13.01:290][778]LogSavePackage: Save=255.41ms
+[2017.12.20-07.13.01:290][778]LogSavePackage: Moving '../../../../../../allinone/Saved/ThirdPersonExampleMap_Auto8099B169A4DC112300E5D7F97EA378D4F.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2017.12.20-07.13.01:293][778]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto8.umap
+[2017.12.20-07.13.01:299][778]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.362
+[2017.12.20-07.13.01:299][778]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.362
+[2017.12.20-07.13.01:458][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.12.20-07.13.01:602][778]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.12.20-07.13.01:602][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2017.12.20-07.13.01:665][778]LogSavePackage: Save=47.45ms
+[2017.12.20-07.13.01:665][778]LogSavePackage: Moving '../../../../../../allinone/Saved/ThirdPersonCharacter_Auto8680AE39A4A94ECDD1E43C48EDE8D6F08.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto8.uasset'
+[2017.12.20-07.13.01:666][778]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto8.uasset
+[2017.12.20-07.13.01:667][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint] ([1] browsable assets)...
+[2017.12.20-07.13.01:705][778]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint.NewAnimBlueprint]
+[2017.12.20-07.13.01:705][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint]
+[2017.12.20-07.13.01:737][778]LogSavePackage: Save=26.98ms
+[2017.12.20-07.13.01:737][778]LogSavePackage: Moving '../../../../../../allinone/Saved/NewAnimBlueprint_Auto878C0692E49D6A7ED1D697AA8432B0BA6.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto8.uasset'
+[2017.12.20-07.13.01:738][778]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto8.uasset
+[2017.12.20-07.13.01:738][778]LogFileHelpers: Auto-saving content packages took 0.282
+[2017.12.20-07.16.22:655][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:655][309]LogLinker: Warning: ../../../../../../allinone/Content/gruntAnimBlueprint.uasset 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:655][309]LoadErrors: Error: /Game/gruntAnimBlueprint : 애셋에 대한 파일을 찾을 수 없습니다. /Script/hi
+[2017.12.20-07.16.22:655][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:655][309]LogLinker: Warning: ../../../../../../allinone/Content/gruntAnimBlueprint.uasset 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:656][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:656][309]LogLinker: Warning: ../../../../../../allinone/Content/gruntAnimBlueprint.uasset 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:657][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:657][309]LogLinker: Warning: ../../../../../../allinone/Content/gruntAnimBlueprint.uasset 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:663][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:663][309]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:663][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:663][309]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:663][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:663][309]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:663][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:663][309]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:664][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:664][309]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:665][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:665][309]LoadErrors: 로드에 실패했습니다. /Script/hi.hiCharacter 레퍼런싱한 것: K2Node_CallFunction_23
+[2017.12.20-07.16.22:665][309]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:665][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:665][309]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:665][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:665][309]LoadErrors: 로드에 실패했습니다. /Script/hi.hiCharacter 레퍼런싱한 것: K2Node_CallFunction_27
+[2017.12.20-07.16.22:665][309]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:665][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:665][309]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:666][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:666][309]LoadErrors: 로드에 실패했습니다. /Script/hi.hiCharacter 레퍼런싱한 것: K2Node_DynamicCast_0
+[2017.12.20-07.16.22:666][309]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:666][309]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:666][309]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.16.22:671][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] Object  핀과  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2017.12.20-07.16.22:671][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  As Hi Character  no longer exists on node  잘못된 형변환 노드입니다. . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:672][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  <이름없음>  no longer exists on node  RLR . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:672][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  <이름없음>  no longer exists on node  RLR . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:672][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  타겟  no longer exists on node  RLR . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:672][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  Return Value  no longer exists on node  RLR . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:672][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] 이름이 "RLR" 인 함수를 'gruntAnimBlueprint' 에서 찾을 수 없었습니다.
+'gruntAnimBlueprint' 컴파일이  RLR  에 대해 되었는지 확인하세요.
+[2017.12.20-07.16.22:672][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  <이름없음>  no longer exists on node  RFMB . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:672][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  <이름없음>  no longer exists on node  RFMB . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:672][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  타겟  no longer exists on node  RFMB . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:672][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  Return Value  no longer exists on node  RFMB . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:672][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] 이름이 "RFMB" 인 함수를 'gruntAnimBlueprint' 에서 찾을 수 없었습니다.
+'gruntAnimBlueprint' 컴파일이  RFMB  에 대해 되었는지 확인하세요.
+[2017.12.20-07.16.22:672][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] Return Value  핀과  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2017.12.20-07.16.22:674][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] Object  핀과  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2017.12.20-07.16.22:674][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  As Hi Character  no longer exists on node  잘못된 형변환 노드입니다. . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:674][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  <이름없음>  no longer exists on node  RLR . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:674][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  <이름없음>  no longer exists on node  RLR . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:674][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  타겟  no longer exists on node  RLR . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:674][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  Return Value  no longer exists on node  RLR . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:674][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] 이름이 "RLR" 인 함수를 'gruntAnimBlueprint' 에서 찾을 수 없었습니다.
+'gruntAnimBlueprint' 컴파일이  RLR  에 대해 되었는지 확인하세요.
+[2017.12.20-07.16.22:674][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  <이름없음>  no longer exists on node  RFMB . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:674][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  <이름없음>  no longer exists on node  RFMB . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:674][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  타겟  no longer exists on node  RFMB . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:674][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] In use pin  Return Value  no longer exists on node  RFMB . Please refresh node or break links to remove pin.
+[2017.12.20-07.16.22:674][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] 이름이 "RFMB" 인 함수를 'gruntAnimBlueprint' 에서 찾을 수 없었습니다.
+'gruntAnimBlueprint' 컴파일이  RFMB  에 대해 되었는지 확인하세요.
+[2017.12.20-07.16.22:674][309]LogBlueprint: Error: [Compiler gruntAnimBlueprint] Return Value  핀과  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2017.12.20-07.16.22:676][309]LogBlueprint: Warning: [Compiler gruntAnimBlueprint] [7713.66] gruntAnimBlueprint 컴파일에 실패했습니다. 치명적 오류 26 회, 경고 0 회, [소요시간 8 ms] (/Game/gruntAnimBlueprint.gruntAnimBlueprint)
+[2017.12.20-07.16.22:677][309]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Enemy_Master_Grunt_Animation/ExoGame_MasterGrunt_Idle.ExoGame_MasterGrunt_Idle
+[2017.12.20-07.16.22:678][309]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Enemy_Master_Grunt_Animation/ExoGame_MasterGrunt_Idle.ExoGame_MasterGrunt_Idle) using current/default (AnimCompress_RemoveLinearKeys_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-07.16.22:709][309]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Enemy_Master_Grunt_Animation/ExoGame_MasterGrunt_Walk_Left.ExoGame_MasterGrunt_Walk_Left
+[2017.12.20-07.16.22:709][309]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Enemy_Master_Grunt_Animation/ExoGame_MasterGrunt_Walk_Left.ExoGame_MasterGrunt_Walk_Left) using current/default (AnimCompress_RemoveLinearKeys_21) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-07.16.22:720][309]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Enemy_Master_Grunt_Animation/ExoGame_MasterGrunt_Walk_Right.ExoGame_MasterGrunt_Walk_Right
+[2017.12.20-07.16.22:720][309]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Enemy_Master_Grunt_Animation/ExoGame_MasterGrunt_Walk_Right.ExoGame_MasterGrunt_Walk_Right) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-07.16.22:731][309]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Enemy_Master_Grunt_Animation/ExoGame_MasterGrunt_Walk_Bwd.ExoGame_MasterGrunt_Walk_Bwd
+[2017.12.20-07.16.22:731][309]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Enemy_Master_Grunt_Animation/ExoGame_MasterGrunt_Walk_Bwd.ExoGame_MasterGrunt_Walk_Bwd) using current/default (AnimCompress_RemoveLinearKeys_19) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-07.16.22:742][309]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Enemy_Master_Grunt_Animation/ExoGame_MasterGrunt_Walk_Fwd.ExoGame_MasterGrunt_Walk_Fwd
+[2017.12.20-07.16.22:742][309]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Enemy_Master_Grunt_Animation/ExoGame_MasterGrunt_Walk_Fwd.ExoGame_MasterGrunt_Walk_Fwd) using current/default (AnimCompress_RemoveLinearKeys_20) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.20-07.16.23:489][309]LogTexture: Display: 텍스처 빌드: T_Master_Grunt_M (AutoDXT, 2048X2048)
+[2017.12.20-07.16.23:489][309]LogTexture: Display: 텍스처 빌드: T_Master_Grunt_N (BC5, 2048X2048)
+[2017.12.20-07.16.23:489][309]LogTexture: Display: 텍스처 빌드: T_Master_Grunt_D (AutoDXT, 2048X2048)
+[2017.12.20-07.16.26:034][309]LogMaterial: Missing cached shader map for material CharM_Master_Grunt, compiling. 
+[2017.12.20-07.16.26:273][309]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.Actor_15.DebugSkelMeshComponent_29) Already registered. Aborting.
+[2017.12.20-07.21.38:264][267]LogEditorTransaction: Undo 노드 이동
+[2017.12.20-07.21.38:521][267]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.Actor_15.DebugSkelMeshComponent_29) Already registered. Aborting.
+[2017.12.20-07.21.38:527][267]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.Actor_14.DebugSkelMeshComponent_27) Already registered. Aborting.
+[2017.12.20-07.21.41:313][291]BlueprintLog: New page: NewAnimBlueprint 컴파일
+[2017.12.20-07.25.59:106][815]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.034
+[2017.12.20-07.25.59:126][815]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint] ([1] browsable assets)...
+[2017.12.20-07.25.59:175][815]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint.NewAnimBlueprint]
+[2017.12.20-07.25.59:175][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint]
+[2017.12.20-07.25.59:236][815]LogSavePackage: Save=55.58ms
+[2017.12.20-07.25.59:236][815]LogSavePackage: Moving '../../../../../../allinone/Saved/NewAnimBlueprint_Auto9A9B64DB24D07BBC09CCC38ADDD0B40D1.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto9.uasset'
+[2017.12.20-07.25.59:238][815]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Enemy_Gruntling_Animation/NewAnimBlueprint_Auto9.uasset
+[2017.12.20-07.25.59:238][815]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/gruntAnimBlueprint] ([1] browsable assets)...
+[2017.12.20-07.25.59:252][815]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/gruntAnimBlueprint.gruntAnimBlueprint]
+[2017.12.20-07.25.59:252][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/gruntAnimBlueprint]
+[2017.12.20-07.25.59:252][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gruntAnimBlueprint" FILE="../../../../../../allinone/Saved/Autosaves/Game/gruntAnimBlueprint_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2017.12.20-07.25.59:307][815]LogSavePackage: Save=44.78ms
+[2017.12.20-07.25.59:309][815]LogSavePackage: Moving '../../../../../../allinone/Saved/gruntAnimBlueprint_Auto9D573B25C4F04D1E22DE58AA9223CD73A.tmp' to '../../../../../../allinone/Saved/Autosaves/Game/gruntAnimBlueprint_Auto9.uasset'
+[2017.12.20-07.25.59:311][815]LogSavePackage: Display: Finished SavePackage ../../../../../../allinone/Saved/Autosaves/Game/gruntAnimBlueprint_Auto9.uasset
+[2017.12.20-07.25.59:311][815]LogFileHelpers: Auto-saving content packages took 0.186
+[2017.12.20-07.26.43:703][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:703][996]LogLinker: Warning: ../../../../../../allinone/Content/ThirdPersonCharacter.uasset 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:703][996]LoadErrors: Error: /Game/ThirdPersonCharacter : 애셋에 대한 파일을 찾을 수 없습니다. /Script/hi
+[2017.12.20-07.26.43:703][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:703][996]LogLinker: Warning: ../../../../../../allinone/Content/ThirdPersonCharacter.uasset 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:703][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:703][996]LogLinker: Warning: ../../../../../../allinone/Content/ThirdPersonCharacter.uasset 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:703][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:703][996]LogLinker: Warning: ../../../../../../allinone/Content/ThirdPersonCharacter.uasset 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:704][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:704][996]LogLinker: Warning: ../../../../../../allinone/Content/ThirdPersonCharacter.uasset 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:704][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:704][996]LogLinker: Warning: ../../../../../../allinone/Content/ThirdPersonCharacter.uasset 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:705][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:705][996]LogLinker: Warning: ../../../../../../allinone/Content/ThirdPersonCharacter.uasset 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: ../../../../../../allinone/Content/ThirdPersonCharacter.uasset 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: ../../../../../../allinone/Content/ThirdPersonCharacter.uasset 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:706][996]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.20-07.26.43:707][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:707][996]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:707][996]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.20-07.26.43:707][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:707][996]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:707][996]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.20-07.26.43:707][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:707][996]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:707][996]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.20-07.26.43:707][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:707][996]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:707][996]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.20-07.26.43:707][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:707][996]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:708][996]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.20-07.26.43:708][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:708][996]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:708][996]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.20-07.26.43:708][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:708][996]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:708][996]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.20-07.26.43:708][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:708][996]LoadErrors: 로드에 실패했습니다. /Script/hi.hiCharacter 레퍼런싱한 것: ThirdPersonCharacter
+[2017.12.20-07.26.43:708][996]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:708][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:708][996]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:708][996]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.20-07.26.43:709][996]LogLinker: Warning: '/Script/hi' 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:709][996]LoadErrors: 로드에 실패했습니다. /Script/hi.hiCharacter 레퍼런싱한 것: PackageMetaData
+[2017.12.20-07.26.43:709][996]LogLinker: Warning: NULL 로드중 '/Script/hi' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.20-07.26.43:709][996]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.20-07.26.49:024][996]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.780 s
+[2017.12.20-07.26.49:024][996]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.20-07.26.49:024][996]LogOutputDevice: Error: 
+[2017.12.20-07.26.49:024][996]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp] [Line: 631]
+[2017.12.20-07.26.49:024][996]LogOutputDevice: Error: Unable to resolve IsEventUnimplementable() - Blueprint (ThirdPersonCharacter) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2017.12.20-07.26.49:024][996]LogOutputDevice: Error: Stack: 
+[2017.12.20-07.26.49:024][996]LogOutputDevice: Error: [Callstack] 0x00000000C5712786 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.20-07.26.49:024][996]LogOutputDevice: Error: [Callstack] 0x00000000C54B123A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.20-07.26.49:024][996]LogOutputDevice: Error: [Callstack] 0x00000000C54CB906 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.20-07.26.49:024][996]LogOutputDevice: Error: [Callstack] 0x00000000B4C041ED UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2017.12.20-07.26.49:024][996]LogOutputDevice: Error: [Callstack] 0x00000000B4C0501D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000B4C04CF9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000A9FB53E5 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000A9FF3CB4 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000A9FB5D4A UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000AA1BDBF7 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000AA1E869C UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000AA1EAEAC UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000A8B97F18 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000A8ABDEAA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000AA1AC5BA UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000AA1CCD6D UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000AA1C8F09 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000AA1ABBFE UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000AA1C94D6 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000A9EF90BE UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000A9F31FDC UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000A9F20CD9 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000A9FA2514 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000AA0BCC1D UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000A0C5E39E UE4Editor-AssetTools.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000AB3E59FD UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000A0BF6415 UE4Editor-AssetTools.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x000000009FAD6A18 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x000000009FA886E7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x000000009FA8FF77 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x000000009FAE0FA9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x000000009FA86C31 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x000000009FA8ED7F UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x000000009FA8CA88 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x000000009FAEDB90 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x000000009FAE120A UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000B5B57ADE UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000B5B27CEE UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000B5BC0B84 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000B5BAA492 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000B5B9CEB3 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000CA44E4F9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000CA441A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000CA4503EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000CA43D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000F111BC50 USER32.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000F111B5CF USER32.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000CA451516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x000000006D6E50C8 UE4Editor.exe!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x000000006D6F5430 UE4Editor.exe!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x000000006D6F54AA UE4Editor.exe!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x000000006D702379 UE4Editor.exe!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x000000006D703D57 UE4Editor.exe!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000EF862774 KERNEL32.DLL!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: [Callstack] 0x00000000F2190D51 ntdll.dll!UnknownFunction []
+[2017.12.20-07.26.49:025][996]LogOutputDevice: Error: 
+[2017.12.20-07.26.49:027][996]LogStats:                SubmitErrorReport -  0.000 s

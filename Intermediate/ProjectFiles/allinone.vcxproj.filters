@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\allinone.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{88D1DFB8-D106-426C-9A33-1BA6FBB028D0}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\allinone.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\allinoneEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{169CBDC8-BA81-415F-8BA1-4A63FD13A917}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\allinone">
+			<UniqueIdentifier>{4971825D-A0A9-4359-A845-9BD730597EB8}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\allinone\allinone.Build.cs">
+			<Filter>Source\allinone</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\allinone\allinone.cpp">
+			<Filter>Source\allinone</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\allinone\allinone.h">
+			<Filter>Source\allinone</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\allinone\allinoneCharacter.cpp">
+			<Filter>Source\allinone</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\allinone\allinoneCharacter.h">
+			<Filter>Source\allinone</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\allinone\allinoneGameMode.cpp">
+			<Filter>Source\allinone</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\allinone\allinoneGameMode.h">
+			<Filter>Source\allinone</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
