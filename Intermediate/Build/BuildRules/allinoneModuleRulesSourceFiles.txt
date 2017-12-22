@@ -1,3 +1,3 @@
-C:\allinone\Source\allinone\allinone.Build.cs
-C:\allinone\Source\allinone.Target.cs
-C:\allinone\Source\allinoneEditor.Target.cs
+C:\Users\강망\Desktop\새 폴더 (4)\Source\allinone\allinone.Build.cs
+C:\Users\강망\Desktop\새 폴더 (4)\Source\allinone.Target.cs
+C:\Users\강망\Desktop\새 폴더 (4)\Source\allinoneEditor.Target.cs
