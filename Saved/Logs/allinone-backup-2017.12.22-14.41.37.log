@@ -1,0 +1,1134 @@
+﻿Log file open, 12/22/17 00:09:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: allinone
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1731372032) SRandInit(-1731372032).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.222263
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/강망/Desktop/새 폴더 (4)/Binaries/Win64/UE4Editor-allinone-3517.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.21-15.10.03:121][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.21-15.10.03:121][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.21-15.10.03:140][  0]LogInit: Computer: DESKTOP-FRCQVUI
+[2017.12.21-15.10.03:140][  0]LogInit: User: oner
+[2017.12.21-15.10.03:140][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.21-15.10.03:140][  0]LogInit: High frequency timer resolution =2.630626 MHz
+[2017.12.21-15.10.03:140][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.21-15.10.03:140][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.21-15.10.03:140][  0]LogMemory: Process Physical Memory: 274.79 MB used, 274.79 MB peak
+[2017.12.21-15.10.03:140][  0]LogMemory: Process Virtual Memory: 269.59 MB used, 269.59 MB peak
+[2017.12.21-15.10.03:140][  0]LogMemory: Physical Memory: 4058.21 MB used,  4022.53 MB free, 8080.75 MB total
+[2017.12.21-15.10.03:140][  0]LogMemory: Virtual Memory: 643.75 MB used,  4022.53 MB free, 134217728.00 MB total
+[2017.12.21-15.10.03:470][  0]LogInit: Using OS detected language (ko-KR).
+[2017.12.21-15.10.03:470][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.12.21-15.10.03:476][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.12.21-15.10.03:651][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.21-15.10.04:095][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.21-15.10.04:147][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2017.12.21-15.10.04:148][  0]LogD3D11RHI:       3040/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.21-15.10.04:153][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5600' (Feature Level 11_0)
+[2017.12.21-15.10.04:153][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.21-15.10.04:155][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.21-15.10.04:155][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.21-15.10.04:155][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.21-15.10.04:161][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.21-15.10.04:161][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.21-15.10.04:161][  0]LogWindows: EnumDisplayDevices:
+[2017.12.21-15.10.04:161][  0]LogWindows:    0. 'Intel(R) HD Graphics 5600' (P:1 D:1)
+[2017.12.21-15.10.04:161][  0]LogWindows:    1. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2017.12.21-15.10.04:161][  0]LogWindows:    2. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2017.12.21-15.10.04:162][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.21-15.10.04:162][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2017.12.21-15.10.04:162][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.21-15.10.04:162][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.21-15.10.04:162][  0]LogRHI: Texture pool is 2128 MB (70% of 3040 MB)
+[2017.12.21-15.10.04:193][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.21-15.10.04:253][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.21-15.10.04:255][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../../Users/강망/Desktop/새 폴더 (4)/Intermediate/Shaders/WorkingDirectory/6288/).
+[2017.12.21-15.10.04:255][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/강망/AppData/Local/Temp/UnrealShaderWorkingDir/D594EE84449C8FA7B6F86D850DE0E87F/'.
+[2017.12.21-15.10.04:255][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.21-15.10.05:463][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.21-15.10.05:581][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.21-15.10.05:691][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.21-15.10.05:799][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.21-15.10.05:914][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.21-15.10.06:032][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.21-15.10.06:154][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.21-15.10.06:276][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.21-15.10.06:391][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.21-15.10.06:504][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.21-15.10.06:652][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.21-15.10.06:761][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.21-15.10.06:907][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.21-15.10.07:026][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.21-15.10.07:367][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.21-15.10.07:367][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.21-15.10.07:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.21-15.10.07:620][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.21-15.10.07:798][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.21-15.10.07:841][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.21-15.10.07:957][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.21-15.10.08:072][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.21-15.10.08:191][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.21-15.10.08:318][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.21-15.10.08:318][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.21-15.10.09:370][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.21-15.10.09:491][  0]LogDerivedDataCache: Loaded boot cache 0.12s 79MB C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.21-15.10.09:491][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.21-15.10.09:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/강망/Desktop/새 폴더 (4)/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.21-15.10.09:492][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.21-15.10.09:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/강망/Desktop/새 폴더 (4)/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.21-15.10.09:492][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.21-15.10.09:506][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.21-15.10.09:519][  0]LogDerivedDataCache: Using Local data cache path C:/Users/강망/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.21-15.10.09:529][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.21-15.10.09:530][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.21-15.10.09:530][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.21-15.10.09:530][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.21-15.10.10:085][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.21-15.10.10:754][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.21-15.10.10:878][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.21-15.10.10:878][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.21-15.10.10:878][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.21-15.10.10:878][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.21-15.10.10:878][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.21-15.10.10:915][  0]LogNetVersion: allinone , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1047487898)
+[2017.12.21-15.10.11:190][  0]LogAssetRegistry: FAssetRegistry took 0.0277 seconds to start up
+[2017.12.21-15.10.11:979][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.111490 seconds
+[2017.12.21-15.10.11:986][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.21-15.10.11:986][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.21-15.10.11:986][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.21-15.10.12:124][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.21-15.10.17:503][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.21-15.10.17:570][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.21-15.10.19:789][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.21-15.10.20:790][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.21-15.10.20:790][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.21-15.10.20:918][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.21-15.10.21:084][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.21-15.10.22:951][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.21-15.10.23:608][  0]LogOcInput: OculusInput pre-init called
+[2017.12.21-15.10.24:168][  0]LogEngine: Initializing Engine...
+[2017.12.21-15.10.24:172][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.21-15.10.24:510][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.21-15.10.24:510][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.21-15.10.24:857][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.21-15.10.24:866][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-15.10.24:890][  0]LogInit: FAudioDevice initialized.
+[2017.12.21-15.10.25:019][  0]LogDerivedDataCache: Saved boot cache 0.13s 79MB C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.21-15.10.25:034][  0]LogInit: Texture streaming: Enabled
+[2017.12.21-15.10.25:244][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.21-15.10.25:586][  0]LogInit: Transaction tracking system initialized
+[2017.12.21-15.10.26:376][  0]BlueprintLog: New page: 에디터 로드
+[2017.12.21-15.10.28:662][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.12.21-15.10.30:735][  0]LogConsoleResponse: Display: 
+[2017.12.21-15.10.30:967][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.21-15.10.30:967][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.21-15.10.30:967][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.21-15.10.32:034][  0]LogFileCache: Scanning file cache for directory 'C:/Users/강망/Desktop/새 폴더 (4)/Content/' took 0.04s
+[2017.12.21-15.10.33:858][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.21-15.10.33:858][  0]Cmd: MAP LOAD FILE="../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.21-15.10.33:866][  0]LightingResults: New page: 라이팅 빌드
+[2017.12.21-15.10.33:974][  0]MapCheck: New page: 맵 체크
+[2017.12.21-15.10.33:974][  0]LightingResults: New page: 라이팅 빌드
+[2017.12.21-15.10.34:470][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.21-15.10.34:492][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.21-15.10.34:505][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.21-15.10.34:589][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 84.009ms.
+[2017.12.21-15.10.34:589][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.732
+[2017.12.21-15.10.34:668][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.12.21-15.10.34:893][  0]LogCollectionManager: Loaded 0 collections in 0.003715 seconds
+[2017.12.21-15.10.35:091][  0]LogFileCache: Scanning file cache for directory 'C:/Users/강망/Desktop/새 폴더 (4)/Saved/Collections/' took 0.01s
+[2017.12.21-15.10.35:091][  0]LogFileCache: Scanning file cache for directory 'C:/Users/강망/Desktop/새 폴더 (4)/Content/Developers/oner/Collections/' took 0.01s
+[2017.12.21-15.10.35:091][  0]LogFileCache: Scanning file cache for directory 'C:/Users/강망/Desktop/새 폴더 (4)/Content/Collections/' took 0.01s
+[2017.12.21-15.10.35:091][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.21-15.10.35:105][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2365 classes and 521 folders.
+[2017.12.21-15.10.35:283][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.12.21-15.10.35:780][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.12.21-15.10.35:893][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.12.21-15.10.36:268][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2017.12.21-15.10.36:268][  0]LogLoad: (Engine Initialization) Total time: 38.73 seconds
+[2017.12.21-15.10.36:268][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.21-15.10.36:268][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.21-15.10.36:312][  0]LogContentStreaming: Texture pool size now 600 MB
+[2017.12.21-15.10.36:314][  0]LogSlate: Took 0.000485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.21-15.10.36:326][  0]LogSlate: Took 0.009382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.12.21-15.10.36:328][  0]LogSlate: Took 0.000394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.21-15.10.36:347][  0]LogSlate: Took 0.011818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.21-15.10.36:656][  0]LogRenderer: Reallocating scene render targets to support 1000x512 Format 9 NumSamples 1 (Frame:1).
+[2017.12.21-15.10.36:720][  0]LogSlate: Took 0.005218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.21-15.10.36:819][  2]LogAssetRegistry: Asset discovery search completed in 25.6518 seconds
+[2017.12.21-15.10.36:824][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.21-15.10.36:824][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000087 seconds (updated 0 objects)
+[2017.12.21-15.10.51:935][809]LogSlate: Took 0.001552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.21-15.10.51:983][809]LogLinker: Warning: '/Game/gruntAnimBlueprint' 파일을 찾을 수 없습니다.
+[2017.12.21-15.10.51:983][809]LogLinker: Warning: ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap 로드중 '/Game/gruntAnimBlueprint' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.21-15.10.51:984][809]LoadErrors: Error: /Game/InfinityBladeGrassLands/Maps/ElvenRuins : 애셋에 대한 파일을 찾을 수 없습니다. /Game/gruntAnimBlueprint
+[2017.12.21-15.10.53:133][809]LogLinker: Warning: '/Game/gruntAnimBlueprint' 파일을 찾을 수 없습니다.
+[2017.12.21-15.10.53:133][809]LogLinker: Warning: ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap 로드중 '/Game/gruntAnimBlueprint' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.21-15.10.53:148][809]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.21-15.10.55:358][809]LogLinker: Warning: '/Game/gruntAnimBlueprint' 파일을 찾을 수 없습니다.
+[2017.12.21-15.10.55:358][809]LogLinker: Warning: NULL 로드중 '/Game/gruntAnimBlueprint' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.21-15.10.55:358][809]LogLinker: Warning: '/Game/gruntAnimBlueprint' 파일을 찾을 수 없습니다.
+[2017.12.21-15.10.55:358][809]LogLinker: Warning: NULL 로드중 '/Game/gruntAnimBlueprint' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.21-15.10.55:977][809]LogLinker: Warning: '/Game/gruntAnimBlueprint' 파일을 찾을 수 없습니다.
+[2017.12.21-15.10.55:977][809]LoadErrors: 로드에 실패했습니다. /Game/gruntAnimBlueprint.gruntAnimBlueprint_C 레퍼런싱한 것: ThirdPersonCharacter_2
+[2017.12.21-15.10.55:977][809]LogLinker: Warning: NULL 로드중 '/Game/gruntAnimBlueprint' 애셋에 대한 파일을 찾을 수 없습니다.
+[2017.12.21-15.10.59:813][809]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-15.10.59:918][809]Cmd: MAP LOAD FILE="../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.21-15.10.59:918][809]LightingResults: New page: 라이팅 빌드
+[2017.12.21-15.10.59:920][809]LoadErrors: New page: 맵 로드중: ElvenRuins.umap
+[2017.12.21-15.10.59:923][809]MapCheck: New page: 맵 체크
+[2017.12.21-15.10.59:923][809]LightingResults: New page: 라이팅 빌드
+[2017.12.21-15.11.00:606][809]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2017.12.21-15.11.00:657][809]MapCheck: /Game/InfinityBladeGrassLands/Maps/ElvenRuins 레벨의 2 개 컴포넌트에 대해 칠해진 버텍스 컬러 수리에 0.0s 걸렸습니다. 맵을 다시 저장하면 확정됩니다. 
+[2017.12.21-15.11.00:657][809]MapCheck: Warning: 스태틱 메시 리임포트로 인해 칠해진 버텍스 컬러를 고치는 데 시간이 0.0s 만큼 걸렸습니다. 맵을 다시 저장하기 전까지는 로드할 때마다 이 작업이 실행됩니다. 
+[2017.12.21-15.11.00:692][809]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.21-15.11.00:843][809]MapCheck: 맵 체크 완료: 오류 0 회, 경고 1 회, 소요 시간 150.761ms.
+[2017.12.21-15.11.00:872][809]LogFileHelpers: Loading map 'ElvenRuins' took 0.957
+[2017.12.21-15.11.21:321][352]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.21-15.12.18:353][234]LogStaticMesh: SM_Gruntling_Torch_Internal 스태틱 메시 빌드중...
+[2017.12.21-15.12.18:359][234]LogTexture: Display: 텍스처 빌드: T_PickAxe_E (AutoDXT, 512X512)
+[2017.12.21-15.12.18:372][234]LogTexture: Display: 텍스처 빌드: T_PickAxe_M (AutoDXT, 512X512)
+[2017.12.21-15.12.18:376][234]LogTexture: Display: 텍스처 빌드: T_PickAxe_N (AutoDXT, 512X512)
+[2017.12.21-15.12.18:402][234]LogStaticMesh: Built static mesh [0.05s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Weapons/Meshes/SM_Gruntling_Torch_Internal.SM_Gruntling_Torch_Internal
+[2017.12.21-15.12.18:589][234]LogTexture: Display: 텍스처 빌드: T_PickAxe_D (AutoDXT, 512X512)
+[2017.12.21-15.12.18:767][234]LogMaterial: Missing cached shader map for material M_Gruntling_weapons, compiling. 
+[2017.12.21-15.12.20:617][234]LogRenderer: Reallocating scene render targets to support 1432x924 Format 9 NumSamples 1 (Frame:1).
+[2017.12.21-15.13.53:026][724]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2017.12.21-15.14.01:782][952]LogSlate: Took 0.007788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.21-15.14.12:728][244]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.12.21-15.15.01:470][107]LogSlate: Took 0.000620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.21-15.18.35:449][ 76]LogStaticMesh: SM_Gruntling_Weapon01_Internal 스태틱 메시 빌드중...
+[2017.12.21-15.18.35:512][ 76]LogStaticMesh: Built static mesh [0.06s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Weapons/Meshes/SM_Gruntling_Weapon01_Internal.SM_Gruntling_Weapon01_Internal
+[2017.12.21-15.18.51:756][465]BlueprintLog: New page: weapon 컴파일
+[2017.12.21-15.19.31:983][113]LogStaticMesh: SM_Gruntling_Weapon02_Internal 스태틱 메시 빌드중...
+[2017.12.21-15.19.32:048][113]LogStaticMesh: Built static mesh [0.07s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Weapons/Meshes/SM_Gruntling_Weapon02_Internal.SM_Gruntling_Weapon02_Internal
+[2017.12.21-15.21.01:637][363]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfinityBladeGrassLands/Maps/ElvenRuins' took 0.033
+[2017.12.21-15.21.01:642][363]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pratice/weapon] ([1] browsable assets)...
+[2017.12.21-15.21.01:688][363]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/pratice/weapon.weapon]
+[2017.12.21-15.21.01:688][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/weapon]
+[2017.12.21-15.21.01:688][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/weapon" FILE="../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/pratice/weapon_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.21-15.21.01:745][363]LogSavePackage: Save=47.27ms
+[2017.12.21-15.21.01:745][363]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/weapon_Auto1E952103B46CAA84C8EE13B844ECA908A.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/pratice/weapon_Auto1.uasset'
+[2017.12.21-15.21.01:749][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/pratice/weapon_Auto1.uasset
+[2017.12.21-15.21.01:749][363]LogFileHelpers: Auto-saving content packages took 0.111
+[2017.12.21-15.24.28:710][582]BlueprintLog: New page: weapon 컴파일
+[2017.12.21-15.24.30:047][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/weapon" FILE="../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/pratice/weapon.uasset" SILENT=true
+[2017.12.21-15.24.30:102][601]LogSavePackage: Save=23.21ms
+[2017.12.21-15.24.30:102][601]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/weaponE11513734B784506E68642B42867EAA6.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/pratice/weapon.uasset'
+[2017.12.21-15.24.30:112][601]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/pratice/weapon.uasset
+[2017.12.21-15.26.03:357][916]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.21-15.26.12:619][314]LogSlate: Took 0.011257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.21-15.27.39:552][948]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2017.12.21-15.28.30:622][997]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.21-15.30.06:167][141]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2017.12.21-15.30.08:753][181]LogSavePackage: Save=78.78ms
+[2017.12.21-15.30.08:753][181]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/ThirdPersonCharacter8097EEE04320EC41A92C198769B952DE.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.21-15.30.08:759][181]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.21-15.30.12:491][268]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-15.30.12:652][268]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.30.12:652][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-15.30.12:654][268]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 9:30:12)
+[2017.12.21-15.30.12:654][268]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-15.30.12:754][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098967s)
+[2017.12.21-15.30.12:755][268]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-15.30.12:755][268]LogPlayLevel: PIE: World Init took: (0.001525s)
+[2017.12.21-15.30.12:756][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.101866s)
+[2017.12.21-15.30.12:814][268]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-15.30.12:833][268]LogInit: FAudioDevice initialized.
+[2017.12.21-15.30.12:878][268]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-15.30.12:906][268]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-00.30.12
+[2017.12.21-15.30.12:911][268]LogWorld: Bringing up level for play took: 0.026936
+[2017.12.21-15.30.13:033][268]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2017.12.21-15.30.13:038][268]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: -0.118
+[2017.12.21-15.30.13:038][268]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.30.17:202][382]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.30.17:297][382]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.32.48:532][629]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.21-15.33.08:777][783]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Master_Grunt_Skeleton, removing AnimBP from actor.
+[2017.12.21-15.33.08:778][783]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Master_Grunt_Skeleton, removing AnimBP from actor.
+[2017.12.21-15.33.08:778][783]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Master_Grunt_Skeleton, removing AnimBP from actor.
+[2017.12.21-15.33.33:633][889]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2017.12.21-15.33.41:077][918]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-15.33.41:127][918]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.33.41:128][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-15.33.41:128][918]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 9:33:41)
+[2017.12.21-15.33.41:128][918]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-15.33.41:260][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131574s)
+[2017.12.21-15.33.41:261][918]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-15.33.41:261][918]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2017.12.21-15.33.41:262][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.133873s)
+[2017.12.21-15.33.41:370][918]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-15.33.41:394][918]LogInit: FAudioDevice initialized.
+[2017.12.21-15.33.41:430][918]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-15.33.41:454][918]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-00.33.41
+[2017.12.21-15.33.41:456][918]LogWorld: Bringing up level for play took: 0.025242
+[2017.12.21-15.33.41:460][918]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: 0.304
+[2017.12.21-15.33.41:460][918]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.33.51:299][  8]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.33.51:470][  8]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.34.08:511][115]LogEditorTransaction: Undo 컴포넌트 변경
+[2017.12.21-15.34.42:994][335]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2017.12.21-15.34.45:522][355]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-15.34.45:563][355]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.34.45:563][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-15.34.45:563][355]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 9:34:45)
+[2017.12.21-15.34.45:563][355]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-15.34.45:715][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151617s)
+[2017.12.21-15.34.45:715][355]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-15.34.45:715][355]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2017.12.21-15.34.45:716][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.153349s)
+[2017.12.21-15.34.45:745][355]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-15.34.45:768][355]LogInit: FAudioDevice initialized.
+[2017.12.21-15.34.45:805][355]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-15.34.45:842][355]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-00.34.45
+[2017.12.21-15.34.45:845][355]LogWorld: Bringing up level for play took: 0.039667
+[2017.12.21-15.34.45:848][355]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: 0.692
+[2017.12.21-15.34.45:849][355]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.35.01:659][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.35.01:776][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.35.51:465][443]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2017.12.21-15.35.51:554][443]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.21-15.35.52:099][443]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0013 seconds. Added 1 classes and 0 folders.
+[2017.12.21-15.35.56:335][481]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.21-15.36.47:359][201]LogSavePackage: Save=12.34ms
+[2017.12.21-15.36.47:360][201]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/SK_Master_Grunt_Skeleton5953DDEF43B6A683BE08539C3C1F7F1B.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/SK_Master_Grunt_Skeleton.uasset'
+[2017.12.21-15.36.47:374][201]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/SK_Master_Grunt_Skeleton.uasset
+[2017.12.21-15.38.24:944][703]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2017.12.21-15.38.24:961][703]LogBlueprint: Error: [Compiler ThirdPersonCharacter] 이 블루프린트(self)는 SceneComponent 가 아니라, ' 타겟 ' 에는 연결이 있어야 합니다.
+[2017.12.21-15.38.25:471][703]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [1707.93] ThirdPersonCharacter 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 527 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.12.21-15.38.58:103][138]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2017.12.21-15.38.58:121][138]LogBlueprint: Error: [Compiler ThirdPersonCharacter] ' Spawn Transform ' 핀의 현재 값이 유효하지 않습니다: 'Spawn Transform' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2017.12.21-15.38.58:121][138]LogBlueprint: Error: [Compiler ThirdPersonCharacter] ' Spawn Transform ' 핀의 현재 값이 유효하지 않습니다: 'Spawn Transform' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2017.12.21-15.38.58:750][138]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [1741.21] ThirdPersonCharacter 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 0 회, [소요시간 647 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.12.21-15.39.49:988][374]LogSavePackage: Save=7581.99ms
+[2017.12.21-15.39.49:988][374]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/ElvenRuins_Auto2604E1F674A7E2687164863BC7FE663B6.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/InfinityBladeGrassLands/Maps/ElvenRuins_Auto2.umap'
+[2017.12.21-15.39.49:992][374]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/InfinityBladeGrassLands/Maps/ElvenRuins_Auto2.umap
+[2017.12.21-15.39.49:999][374]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfinityBladeGrassLands/Maps/ElvenRuins' took 8.109
+[2017.12.21-15.39.49:999][374]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 8.109
+[2017.12.21-15.39.50:029][374]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.12.21-15.39.50:082][374]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.12.21-15.39.50:082][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2017.12.21-15.39.50:149][374]LogSavePackage: Save=54.54ms
+[2017.12.21-15.39.50:149][374]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/ThirdPersonCharacter_Auto2E747BFF841BA307F7295439BE5B62880.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2017.12.21-15.39.50:153][374]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2017.12.21-15.39.50:153][374]LogFileHelpers: Auto-saving content packages took 0.125
+[2017.12.21-15.44.13:418][710]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2017.12.21-15.44.13:438][710]LogBlueprint: Error: [Compiler ThirdPersonCharacter] ' Spawn Transform ' 핀의 현재 값이 유효하지 않습니다: 'Spawn Transform' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2017.12.21-15.44.13:438][710]LogBlueprint: Error: [Compiler ThirdPersonCharacter] ' Spawn Transform ' 핀의 현재 값이 유효하지 않습니다: 'Spawn Transform' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2017.12.21-15.44.14:082][710]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2056.54] ThirdPersonCharacter 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 0 회, [소요시간 663 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.12.21-15.45.04:454][387]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2017.12.21-15.45.07:569][418]LogSavePackage: Save=61.01ms
+[2017.12.21-15.45.07:569][418]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/ThirdPersonCharacter6D74DF924A22A33DA6BE9BB69D097C1E.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.21-15.45.07:582][418]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.21-15.45.39:696][425]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.21-15.45.43:510][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_3.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.12.21-15.46.54:778][144]LogStaticMesh: SM_Creature_Gruntling_Weapon05_Internal 스태틱 메시 빌드중...
+[2017.12.21-15.46.54:801][144]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Weapons/Meshes/SM_Creature_Gruntling_Weapon05_Internal.SM_Creature_Gruntling_Weapon05_Internal
+[2017.12.21-15.47.16:216][415]LogSavePackage: Save=17.57ms
+[2017.12.21-15.47.16:216][415]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/SK_Master_Grunt_Skeleton135FE4094F44D158F8C671955235A922.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/SK_Master_Grunt_Skeleton.uasset'
+[2017.12.21-15.47.16:226][415]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/SK_Master_Grunt_Skeleton.uasset
+[2017.12.21-15.47.22:144][494]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-15.47.22:188][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.47.22:189][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-15.47.22:190][494]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 9:47:22)
+[2017.12.21-15.47.22:190][494]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-15.47.22:301][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111668s)
+[2017.12.21-15.47.22:302][494]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-15.47.22:302][494]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2017.12.21-15.47.22:303][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.113254s)
+[2017.12.21-15.47.22:330][494]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-15.47.22:355][494]LogInit: FAudioDevice initialized.
+[2017.12.21-15.47.22:387][494]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-15.47.22:410][494]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-00.47.22
+[2017.12.21-15.47.22:413][494]LogWorld: Bringing up level for play took: 0.024868
+[2017.12.21-15.47.22:416][494]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: -0.74
+[2017.12.21-15.47.22:416][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.47.30:638][712]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.47.30:731][712]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.48.30:711][486]BlueprintLog: New page: weapon 컴파일
+[2017.12.21-15.48.32:703][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/weapon" FILE="../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/pratice/weapon.uasset" SILENT=true
+[2017.12.21-15.48.32:745][492]LogSavePackage: Save=27.96ms
+[2017.12.21-15.48.32:746][492]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/weapon3EC55EA1457954E7A2C85884042E98DC.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/pratice/weapon.uasset'
+[2017.12.21-15.48.32:757][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/pratice/weapon.uasset
+[2017.12.21-15.48.36:833][600]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-15.48.36:883][600]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.48.36:883][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-15.48.36:883][600]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 9:48:36)
+[2017.12.21-15.48.36:883][600]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-15.48.36:997][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113939s)
+[2017.12.21-15.48.36:998][600]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-15.48.36:998][600]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2017.12.21-15.48.36:999][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.115633s)
+[2017.12.21-15.48.37:024][600]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-15.48.37:043][600]LogInit: FAudioDevice initialized.
+[2017.12.21-15.48.37:075][600]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-15.48.37:098][600]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-00.48.37
+[2017.12.21-15.48.37:100][600]LogWorld: Bringing up level for play took: 0.025053
+[2017.12.21-15.48.37:103][600]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: -0.052
+[2017.12.21-15.48.37:103][600]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.48.38:801][653]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.48.38:883][653]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.48.47:405][848]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_4.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.12.21-15.48.50:114][875]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_5.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.21-15.50.17:565][117]LogActorFactory: Actor Factory created SM_Creature_Gruntling_Weapon05_Internal
+[2017.12.21-15.50.23:860][208]BlueprintLog: New page: weapon 컴파일
+[2017.12.21-15.50.24:981][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/weapon" FILE="../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/pratice/weapon.uasset" SILENT=true
+[2017.12.21-15.50.25:014][213]LogSavePackage: Save=25.09ms
+[2017.12.21-15.50.25:014][213]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/weaponEC74AC004F977B360B594EA934EC0474.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/pratice/weapon.uasset'
+[2017.12.21-15.50.25:019][213]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/pratice/weapon.uasset
+[2017.12.21-15.50.33:856][256]LogSavePackage: Save=6124.82ms
+[2017.12.21-15.50.33:856][256]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/ElvenRuinsB1A71A13460B4D1A55D88A9E98248DEA.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap'
+[2017.12.21-15.50.33:877][256]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap
+[2017.12.21-15.50.34:658][284]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-15.50.34:716][284]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.50.34:716][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-15.50.34:716][284]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 9:50:34)
+[2017.12.21-15.50.34:717][284]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-15.50.34:839][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121835s)
+[2017.12.21-15.50.34:840][284]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-15.50.34:840][284]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2017.12.21-15.50.34:841][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.123699s)
+[2017.12.21-15.50.34:875][284]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-15.50.34:893][284]LogInit: FAudioDevice initialized.
+[2017.12.21-15.50.34:928][284]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-15.50.34:952][284]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-00.50.34
+[2017.12.21-15.50.34:955][284]LogWorld: Bringing up level for play took: 0.026565
+[2017.12.21-15.50.34:957][284]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: -0.198
+[2017.12.21-15.50.34:958][284]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.50.41:755][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.50.41:844][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.50.43:221][542]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.21-15.53.11:461][169]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2017.12.21-15.53.27:602][281]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_AttachToComponent' [요소가 없습니다.]
+[2017.12.21-15.53.37:879][360]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-15.53.37:934][360]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.53.37:934][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-15.53.37:934][360]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 9:53:37)
+[2017.12.21-15.53.37:935][360]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-15.53.38:067][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132535s)
+[2017.12.21-15.53.38:068][360]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-15.53.38:069][360]LogPlayLevel: PIE: World Init took: (0.001345s)
+[2017.12.21-15.53.38:070][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.134901s)
+[2017.12.21-15.53.38:128][360]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-15.53.38:148][360]LogInit: FAudioDevice initialized.
+[2017.12.21-15.53.38:184][360]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-15.53.38:214][360]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-00.53.38
+[2017.12.21-15.53.38:218][360]LogWorld: Bringing up level for play took: 0.032815
+[2017.12.21-15.53.38:221][360]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: 1.065
+[2017.12.21-15.53.38:222][360]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.53.43:526][449]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.53.43:659][449]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.53.49:867][537]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.21-15.53.52:203][563]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.21-15.54.03:468][742]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.21-15.54.05:208][777]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-15.54.05:244][777]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.54.05:245][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-15.54.05:245][777]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 9:54:05)
+[2017.12.21-15.54.05:245][777]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-15.54.05:364][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.118651s)
+[2017.12.21-15.54.05:365][777]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-15.54.05:366][777]LogPlayLevel: PIE: World Init took: (0.001510s)
+[2017.12.21-15.54.05:367][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.121976s)
+[2017.12.21-15.54.05:424][777]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-15.54.05:441][777]LogInit: FAudioDevice initialized.
+[2017.12.21-15.54.05:475][777]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-15.54.05:512][777]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-00.54.05
+[2017.12.21-15.54.05:520][777]LogWorld: Bringing up level for play took: 0.044722
+[2017.12.21-15.54.05:525][777]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: 0.369
+[2017.12.21-15.54.05:526][777]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.54.30:025][412]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.54.30:125][412]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.54.42:498][708]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.21-15.55.38:016][685]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.21-15.55.57:958][943]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_6.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2017.12.21-15.56.22:593][ 32]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.21-15.56.40:131][ 84]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2017.12.21-15.56.41:619][ 84]LogSavePackage: Save=68.41ms
+[2017.12.21-15.56.41:619][ 84]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/ThirdPersonCharacter8D4F0B61484EA17F8F357CAE9665501F.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.21-15.56.41:626][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.21-15.56.44:784][ 90]LogSavePackage: Save=52.43ms
+[2017.12.21-15.56.44:785][ 90]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/ThirdPersonCharacter64B7776C482727C409FD2B90870241E1.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.21-15.56.44:788][ 90]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.21-15.56.49:429][110]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-15.56.49:484][110]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.56.49:484][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-15.56.49:484][110]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 9:56:49)
+[2017.12.21-15.56.49:485][110]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-15.56.49:589][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104314s)
+[2017.12.21-15.56.49:590][110]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-15.56.49:590][110]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2017.12.21-15.56.49:592][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.107617s)
+[2017.12.21-15.56.49:792][110]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-15.56.49:810][110]LogInit: FAudioDevice initialized.
+[2017.12.21-15.56.49:855][110]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-15.56.49:903][110]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-00.56.49
+[2017.12.21-15.56.49:905][110]LogWorld: Bringing up level for play took: 0.047686
+[2017.12.21-15.56.49:908][110]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: 0.752
+[2017.12.21-15.56.49:908][110]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.56.51:716][126]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.56.51:855][126]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-15.56.54:234][152]Cmd: SELECT NONE
+[2017.12.21-16.00.01:468][793]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-16.00.01:514][793]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.00.01:514][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-16.00.01:515][793]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 10:00:01)
+[2017.12.21-16.00.01:515][793]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-16.00.01:710][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.195491s)
+[2017.12.21-16.00.01:713][793]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-16.00.01:713][793]LogPlayLevel: PIE: World Init took: (0.002672s)
+[2017.12.21-16.00.01:715][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.200270s)
+[2017.12.21-16.00.01:759][793]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-16.00.01:793][793]LogInit: FAudioDevice initialized.
+[2017.12.21-16.00.01:837][793]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-16.00.01:895][793]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-01.00.01
+[2017.12.21-16.00.01:899][793]LogWorld: Bringing up level for play took: 0.062052
+[2017.12.21-16.00.01:903][793]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: 0.748
+[2017.12.21-16.00.01:905][793]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.00.05:600][851]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.00.05:723][851]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.00.17:631][978]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2017.12.21-16.00.24:561][ 41]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-16.00.24:629][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.00.24:630][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-16.00.24:630][ 41]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 10:00:24)
+[2017.12.21-16.00.24:630][ 41]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-16.00.24:746][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116048s)
+[2017.12.21-16.00.24:747][ 41]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-16.00.24:747][ 41]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2017.12.21-16.00.24:748][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.118047s)
+[2017.12.21-16.00.24:772][ 41]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-16.00.24:795][ 41]LogInit: FAudioDevice initialized.
+[2017.12.21-16.00.24:830][ 41]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-16.00.24:856][ 41]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-01.00.24
+[2017.12.21-16.00.24:858][ 41]LogWorld: Bringing up level for play took: 0.028104
+[2017.12.21-16.00.24:862][ 41]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: -0.294
+[2017.12.21-16.00.24:862][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.00.32:989][186]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.00.33:124][186]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.00.58:088][427]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2017.12.21-16.01.01:009][453]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-16.01.01:052][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.01.01:052][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-16.01.01:052][453]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 10:01:01)
+[2017.12.21-16.01.01:053][453]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-16.01.01:179][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125827s)
+[2017.12.21-16.01.01:181][453]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-16.01.01:181][453]LogPlayLevel: PIE: World Init took: (0.002009s)
+[2017.12.21-16.01.01:182][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.129108s)
+[2017.12.21-16.01.01:219][453]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-16.01.01:247][453]LogInit: FAudioDevice initialized.
+[2017.12.21-16.01.01:284][453]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-16.01.01:317][453]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-01.01.01
+[2017.12.21-16.01.01:320][453]LogWorld: Bringing up level for play took: 0.035838
+[2017.12.21-16.01.01:324][453]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: 0.168
+[2017.12.21-16.01.01:325][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.01.25:290][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.01.25:451][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.01.26:621][895]Cmd: SELECT NONE
+[2017.12.21-16.01.54:610][319]BlueprintLog: New page: weapon 컴파일
+[2017.12.21-16.01.56:747][339]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-16.01.56:800][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.01.56:800][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-16.01.56:801][339]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 10:01:56)
+[2017.12.21-16.01.56:801][339]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-16.01.56:943][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.141843s)
+[2017.12.21-16.01.56:944][339]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-16.01.56:945][339]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2017.12.21-16.01.56:946][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.144869s)
+[2017.12.21-16.01.56:986][339]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-16.01.57:011][339]LogInit: FAudioDevice initialized.
+[2017.12.21-16.01.57:049][339]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-16.01.57:097][339]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-01.01.57
+[2017.12.21-16.01.57:104][339]LogWorld: Bringing up level for play took: 0.053998
+[2017.12.21-16.01.57:110][339]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: -0.045
+[2017.12.21-16.01.57:115][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.02.10:495][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.02.10:645][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.02.20:346][606]BlueprintLog: New page: weapon 컴파일
+[2017.12.21-16.02.24:654][674]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-16.02.24:696][674]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.02.24:696][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-16.02.24:697][674]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 10:02:24)
+[2017.12.21-16.02.24:697][674]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-16.02.24:818][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120824s)
+[2017.12.21-16.02.24:819][674]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-16.02.24:820][674]LogPlayLevel: PIE: World Init took: (0.001870s)
+[2017.12.21-16.02.24:820][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.123733s)
+[2017.12.21-16.02.24:853][674]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-16.02.24:873][674]LogInit: FAudioDevice initialized.
+[2017.12.21-16.02.24:917][674]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-16.02.24:942][674]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-01.02.24
+[2017.12.21-16.02.24:945][674]LogWorld: Bringing up level for play took: 0.027879
+[2017.12.21-16.02.24:948][674]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: -0.207
+[2017.12.21-16.02.24:949][674]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.02.45:093][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.02.45:200][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.03.29:669][449]LogSavePackage: Save=5632.13ms
+[2017.12.21-16.03.29:669][449]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/ElvenRuins_Auto330B185E74795721BC2AD158C5B4DBD24.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/InfinityBladeGrassLands/Maps/ElvenRuins_Auto3.umap'
+[2017.12.21-16.03.29:674][449]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/InfinityBladeGrassLands/Maps/ElvenRuins_Auto3.umap
+[2017.12.21-16.03.29:677][449]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfinityBladeGrassLands/Maps/ElvenRuins' took 5.840
+[2017.12.21-16.03.29:677][449]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.840
+[2017.12.21-16.03.29:711][449]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.12.21-16.03.29:757][449]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.12.21-16.03.29:757][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2017.12.21-16.03.29:819][449]LogSavePackage: Save=51.48ms
+[2017.12.21-16.03.29:819][449]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/ThirdPersonCharacter_Auto3732945964AA097BF20FA2A880B40E3DB.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2017.12.21-16.03.29:821][449]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto3.uasset
+[2017.12.21-16.03.29:822][449]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pratice/weapon] ([1] browsable assets)...
+[2017.12.21-16.03.29:837][449]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/pratice/weapon.weapon]
+[2017.12.21-16.03.29:837][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/weapon]
+[2017.12.21-16.03.29:838][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/weapon" FILE="../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/pratice/weapon_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.12.21-16.03.29:880][449]LogSavePackage: Save=32.50ms
+[2017.12.21-16.03.29:881][449]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/weapon_Auto37411C9194E5ADF254AEE4E9435F240EE.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/pratice/weapon_Auto3.uasset'
+[2017.12.21-16.03.29:884][449]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/pratice/weapon_Auto3.uasset
+[2017.12.21-16.03.29:884][449]LogFileHelpers: Auto-saving content packages took 0.174
+[2017.12.21-16.43.12:946][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Castle_Bridge_Wall_24)
+[2017.12.21-16.43.13:417][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Tree16)
+[2017.12.21-16.43.18:309][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Castle_Fountain_2)
+[2017.12.21-16.43.19:378][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Plains_Floors_Rubble6)
+[2017.12.21-16.43.20:062][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Flat01)
+[2017.12.21-16.43.20:727][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Castle_Fountain_2)
+[2017.12.21-16.43.28:123][351]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_Castle_Fountain_2)
+[2017.12.21-16.43.28:929][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Rubble13)
+[2017.12.21-16.43.29:642][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Flat01)
+[2017.12.21-16.43.41:308][939]Cmd: TRANSACTION UNDO
+[2017.12.21-16.43.41:308][939]LogEditorTransaction: Undo 액터 이동
+[2017.12.21-16.44.27:769][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock41)
+[2017.12.21-16.44.37:590][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Plains_Mountain_2)
+[2017.12.21-16.44.38:169][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Plains_Mountain_2)
+[2017.12.21-16.44.39:313][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Plains_Mountain_3)
+[2017.12.21-16.44.42:404][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock_SpireLOD_104)
+[2017.12.21-16.44.42:490][370]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.12.21-16.44.49:563][651]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.21-16.44.49:684][651]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.44.49:684][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-16.44.49:685][651]PIE: New page: PIE 세션: ElvenRuins (2017. 12. 22. 오전 10:44:49)
+[2017.12.21-16.44.49:685][651]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2017.12.21-16.44.49:811][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125887s)
+[2017.12.21-16.44.49:813][651]LogAIModule: Creating AISystem for world ElvenRuins
+[2017.12.21-16.44.49:814][651]LogPlayLevel: PIE: World Init took: (0.002321s)
+[2017.12.21-16.44.49:814][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins (0.129155s)
+[2017.12.21-16.44.49:881][651]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.21-16.44.49:901][651]LogInit: FAudioDevice initialized.
+[2017.12.21-16.44.49:934][651]LogLoad: Game class is 'allinoneGameMode'
+[2017.12.21-16.44.49:966][651]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 60) at 2017.12.22-01.44.49
+[2017.12.21-16.44.49:968][651]LogWorld: Bringing up level for play took: 0.033367
+[2017.12.21-16.44.49:972][651]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins 에 대한 에디터에서 플레이 시작 시간: 0.816
+[2017.12.21-16.44.49:972][651]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.45.13:796][439]LogCharacterMovement: ThirdPersonCharacter_2 is stuck and failed to move! Velocity: X=-184.16 Y=-80.53 Z=0.00 Location: X=-6236.62 Y=2279.07 Z=7772.01 Normal: X=-0.23 Y=0.40 Z=0.89 PenetrationDepth:0.226 Actor:SM_WoodenBarrel_Damaged_2 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2017.12.21-16.45.32:688][502]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.45.32:754][502]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.ElvenRuins'
+[2017.12.21-16.45.33:631][550]Cmd: SELECT NONE
+[2017.12.21-16.46.10:029][908]LogSavePackage: Save=6119.55ms
+[2017.12.21-16.46.10:029][908]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/ElvenRuins_Auto457CAADB348AC7E263B4858AD1CCB4FA3.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/InfinityBladeGrassLands/Maps/ElvenRuins_Auto4.umap'
+[2017.12.21-16.46.10:033][908]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/Autosaves/Game/InfinityBladeGrassLands/Maps/ElvenRuins_Auto4.umap
+[2017.12.21-16.46.10:035][908]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfinityBladeGrassLands/Maps/ElvenRuins' took 6.262
+[2017.12.21-16.46.10:035][908]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 6.262
+[2017.12.21-17.51.01:961][752]LogSavePackage: Save=5482.95ms
+[2017.12.21-17.51.01:962][752]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/ElvenRuins74E4B5AB4E3C55AC9E668E9C0BC659BC.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap'
+[2017.12.21-17.51.01:983][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap
+[2017.12.21-17.51.02:179][752]LogFileHelpers: Saving map 'ElvenRuins' took 9.554
+[2017.12.21-17.51.02:229][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/weapon" FILE="../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/pratice/weapon.uasset" SILENT=true
+[2017.12.21-17.51.02:259][752]LogSavePackage: Save=18.68ms
+[2017.12.21-17.51.02:259][752]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/weapon5FEE2A69452345CEB17F69AFB5BF46D0.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/pratice/weapon.uasset'
+[2017.12.21-17.51.02:269][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/pratice/weapon.uasset
+[2017.12.21-17.51.02:354][752]LogSavePackage: Save=40.00ms
+[2017.12.21-17.51.02:354][752]LogSavePackage: Moving '../../../../../../Users/강망/Desktop/새 폴더 (4)/Saved/ThirdPersonCharacter31B0DCD9400E301B907E279416B0A8EF.tmp' to '../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.21-17.51.02:364][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.21-17.51.02:693][752]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.21-17.51.02:810][752]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.12.21-17.51.03:528][753]Cmd: QUIT_EDITOR
+[2017.12.21-17.51.03:787][753]LogExit: Preparing to exit.
+[2017.12.21-17.51.04:258][753]LogDirectoryWatcher: A directory notification failed for 'C:/Users/강망/Desktop/새 폴더 (4)/Content/', and we were unable to create a new request.
+[2017.12.21-17.51.04:471][753]LogExit: Editor shut down
+[2017.12.21-17.51.04:502][753]LogExit: Transaction tracking system shut down
+[2017.12.21-17.51.04:781][753]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.21-17.51.04:782][753]LogDirectoryWatcher: A directory notification for '../../../../../../Users/강망/Desktop/새 폴더 (4)/Content/' was aborted.
+[2017.12.21-17.51.04:782][753]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.21-17.51.04:782][753]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.21-17.51.04:782][753]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.21-17.51.04:782][753]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.21-17.51.04:782][753]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.21-17.51.05:178][753]LogExit: Object subsystem successfully closed.
+[2017.12.21-17.51.05:237][753]LogD3D11RHI: Shutdown
+[2017.12.21-17.51.05:237][753]LogD3D11RHI: CleanupD3DDevice
+[2017.12.21-17.51.05:256][753]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.21-17.51.05:293][753]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (562)
+[2017.12.21-17.51.05:293][753]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (560)
+[2017.12.21-17.51.05:293][753]LogModuleManager: Shutting down and abandoning module SkeletonEditor (558)
+[2017.12.21-17.51.05:293][753]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2017.12.21-17.51.05:294][753]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2017.12.21-17.51.05:294][753]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (552)
+[2017.12.21-17.51.05:294][753]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2017.12.21-17.51.05:294][753]LogModuleManager: Shutting down and abandoning module DesktopPlatform (548)
+[2017.12.21-17.51.05:294][753]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.21-17.51.05:294][753]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.21-17.51.05:294][753]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.21-17.51.05:301][753]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.21-17.51.05:301][753]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.21-17.51.05:301][753]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.21-17.51.05:302][753]LogDirectoryWatcher: A directory notification for 'C:/Users/강망/Desktop/새 폴더 (4)/Content/Collections/' was aborted.
+[2017.12.21-17.51.05:302][753]LogDirectoryWatcher: A directory notification for 'C:/Users/강망/Desktop/새 폴더 (4)/Content/Developers/oner/Collections/' was aborted.
+[2017.12.21-17.51.05:302][753]LogDirectoryWatcher: A directory notification for 'C:/Users/강망/Desktop/새 폴더 (4)/Saved/Collections/' was aborted.
+[2017.12.21-17.51.05:302][753]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.21-17.51.05:303][753]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.21-17.51.05:303][753]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.21-17.51.05:305][753]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.21-17.51.05:305][753]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.21-17.51.05:305][753]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.21-17.51.05:305][753]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.21-17.51.05:305][753]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.21-17.51.05:305][753]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.21-17.51.05:305][753]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.21-17.51.05:305][753]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.21-17.51.05:305][753]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.21-17.51.05:305][753]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.21-17.51.05:305][753]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.21-17.51.05:305][753]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.21-17.51.05:307][753]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.21-17.51.05:307][753]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.21-17.51.05:308][753]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.21-17.51.05:309][753]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.21-17.51.05:309][753]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.21-17.51.05:310][753]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.21-17.51.05:312][753]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.21-17.51.05:313][753]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.21-17.51.05:313][753]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.21-17.51.05:313][753]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.21-17.51.05:313][753]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.21-17.51.05:735][753]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.21-17.51.05:735][753]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.21-17.51.05:735][753]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.21-17.51.05:735][753]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.21-17.51.05:736][753]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.21-17.51.05:736][753]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.21-17.51.05:736][753]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.21-17.51.05:737][753]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.21-17.51.05:737][753]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.21-17.51.05:737][753]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.21-17.51.05:737][753]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.21-17.51.05:737][753]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.21-17.51.05:737][753]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.21-17.51.05:737][753]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.21-17.51.05:738][753]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.21-17.51.05:738][753]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.21-17.51.05:738][753]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.21-17.51.05:739][753]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.21-17.51.05:739][753]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.21-17.51.05:739][753]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.21-17.51.05:740][753]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.21-17.51.05:740][753]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.21-17.51.05:740][753]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.21-17.51.05:741][753]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.21-17.51.05:795][753]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.21-17.51.05:795][753]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.21-17.51.05:796][753]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.21-17.51.05:798][753]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.21-17.51.05:798][753]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.21-17.51.05:798][753]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.21-17.51.05:799][753]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.21-17.51.05:800][753]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.21-17.51.05:800][753]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.21-17.51.05:800][753]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.21-17.51.05:814][753]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.21-17.51.05:816][753]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.21-17.51.05:816][753]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.21-17.51.05:817][753]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.21-17.51.05:817][753]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.21-17.51.05:818][753]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.21-17.51.05:818][753]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.21-17.51.05:819][753]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.21-17.51.05:819][753]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.21-17.51.05:819][753]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.21-17.51.05:820][753]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.21-17.51.05:820][753]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.21-17.51.05:820][753]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.21-17.51.05:820][753]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.21-17.51.05:820][753]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.21-17.51.05:820][753]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.21-17.51.05:820][753]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.21-17.51.05:821][753]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.21-17.51.05:821][753]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2017.12.21-17.51.05:938][753]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2017.12.21-17.51.05:983][753]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2017.12.21-17.51.05:983][753]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2017.12.21-17.51.05:983][753]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2017.12.21-17.51.05:983][753]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2017.12.21-17.51.05:984][753]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2017.12.21-17.51.05:984][753]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2017.12.21-17.51.05:984][753]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2017.12.21-17.51.05:984][753]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2017.12.21-17.51.05:984][753]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2017.12.21-17.51.05:984][753]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2017.12.21-17.51.05:984][753]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2017.12.21-17.51.05:987][753]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2017.12.21-17.51.05:988][753]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2017.12.21-17.51.05:988][753]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2017.12.21-17.51.05:988][753]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2017.12.21-17.51.05:988][753]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2017.12.21-17.51.05:988][753]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2017.12.21-17.51.05:989][753]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2017.12.21-17.51.05:989][753]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2017.12.21-17.51.05:989][753]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2017.12.21-17.51.05:991][753]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2017.12.21-17.51.05:993][753]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2017.12.21-17.51.05:994][753]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2017.12.21-17.51.05:994][753]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2017.12.21-17.51.05:994][753]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2017.12.21-17.51.05:995][753]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2017.12.21-17.51.05:996][753]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2017.12.21-17.51.05:997][753]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2017.12.21-17.51.05:998][753]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2017.12.21-17.51.05:998][753]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2017.12.21-17.51.05:998][753]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2017.12.21-17.51.05:998][753]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2017.12.21-17.51.06:000][753]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2017.12.21-17.51.06:001][753]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2017.12.21-17.51.06:010][753]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2017.12.21-17.51.06:010][753]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2017.12.21-17.51.06:011][753]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2017.12.21-17.51.06:011][753]LogDirectoryWatcher: A directory notification for 'C:/Users/강망/Desktop/새 폴더 (4)/Binaries/Win64' was aborted.
+[2017.12.21-17.51.06:013][753]LogModuleManager: Shutting down and abandoning module allinone (270)
+[2017.12.21-17.51.06:014][753]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.21-17.51.06:014][753]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.21-17.51.06:014][753]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.21-17.51.06:014][753]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.21-17.51.06:014][753]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.21-17.51.06:014][753]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.21-17.51.06:014][753]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.21-17.51.06:015][753]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.21-17.51.06:117][753]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.21-17.51.06:219][753]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.21-17.51.06:220][753]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.21-17.51.06:220][753]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.21-17.51.06:220][753]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.21-17.51.06:221][753]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.21-17.51.06:221][753]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.21-17.51.06:227][753]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.21-17.51.06:227][753]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.21-17.51.06:227][753]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.21-17.51.06:227][753]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.21-17.51.06:228][753]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.21-17.51.06:229][753]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.21-17.51.06:229][753]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.21-17.51.06:229][753]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.21-17.51.06:229][753]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.21-17.51.06:229][753]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.21-17.51.06:237][753]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.21-17.51.06:237][753]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.21-17.51.06:237][753]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.21-17.51.06:238][753]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.21-17.51.06:239][753]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.21-17.51.06:239][753]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.21-17.51.06:240][753]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.21-17.51.06:241][753]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.21-17.51.06:241][753]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.21-17.51.06:241][753]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.21-17.51.06:243][753]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.21-17.51.06:244][753]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.21-17.51.06:245][753]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.21-17.51.06:246][753]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.21-17.51.06:247][753]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.21-17.51.06:247][753]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.21-17.51.06:253][753]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.21-17.51.06:253][753]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.21-17.51.06:253][753]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.21-17.51.06:253][753]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.21-17.51.06:253][753]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.21-17.51.06:253][753]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.21-17.51.06:253][753]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.21-17.51.06:253][753]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.21-17.51.06:264][753]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.21-17.51.06:264][753]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.21-17.51.06:264][753]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.21-17.51.06:265][753]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.21-17.51.06:265][753]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.21-17.51.06:265][753]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.21-17.51.06:265][753]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.21-17.51.06:265][753]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.21-17.51.06:266][753]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.21-17.51.06:309][753]LogDerivedDataCache: Shutdown
+[2017.12.21-17.51.06:309][753]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.21-17.51.06:310][753]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.21-17.51.06:310][753]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.21-17.51.06:310][753]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.21-17.51.06:310][753]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.21-17.51.06:311][753]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.21-17.51.06:311][753]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.21-17.51.06:311][753]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.21-17.51.06:311][753]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.21-17.51.06:311][753]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.21-17.51.06:312][753]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.21-17.51.06:313][753]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.21-17.51.06:314][753]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.21-17.51.06:315][753]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.21-17.51.06:315][753]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.21-17.51.06:315][753]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5D4C5BC8-413E-6397-CEAE-91A70903F051%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=463d32804ed0e00b32bdea8316121d1a%7Cbe7002ba347b47079d44449137132371%7C9fb0c685-e72c-4645-aa63-f3eea19a5c0c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.21-17.51.06:338][753]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.21-17.51.06:341][753]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.21-17.51.06:342][753]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.21-17.51.06:342][753]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.21-17.51.06:342][753]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.21-17.51.06:342][753]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.21-17.51.06:343][753]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.21-17.51.06:343][753]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.21-17.51.06:359][753]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.21-17.51.06:360][753]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.21-17.51.06:360][753]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.21-17.51.06:360][753]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.21-17.51.06:360][753]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.21-17.51.06:360][753]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.21-17.51.06:361][753]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.21-17.51.06:361][753]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.21-17.51.06:361][753]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.21-17.51.06:361][753]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.21-17.51.06:361][753]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.21-17.51.06:365][753]LogExit: Exiting.
+[2017.12.21-17.51.06:389][753]Log file closed, 12/22/17 02:51:06
