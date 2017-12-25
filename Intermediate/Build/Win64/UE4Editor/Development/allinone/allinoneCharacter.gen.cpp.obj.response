@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source"
-/I C:\main\Source
-/I C:\main\Intermediate\Build\Win64\UE4Editor\Inc\allinone
-/I C:\main\Source\allinone
+/I C:\remain\Source
+/I C:\remain\Intermediate\Build\Win64\UE4Editor\Inc\allinone
+/I C:\remain\Source\allinone
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Async"
@@ -358,9 +358,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\main\Intermediate\Build\Win64\UE4Editor\Inc\allinone\allinoneCharacter.gen.cpp"
-/FI"C:\main\Intermediate\Build\Win64\UE4Editor\Development\allinone\Definitions.allinone.h"
-/Fo"C:\main\Intermediate\Build\Win64\UE4Editor\Development\allinone\allinoneCharacter.gen.cpp.obj"
+"C:\remain\Intermediate\Build\Win64\UE4Editor\Inc\allinone\allinoneCharacter.gen.cpp"
+/FI"C:\remain\Intermediate\Build\Win64\UE4Editor\Development\allinone\Definitions.allinone.h"
+/Fo"C:\remain\Intermediate\Build\Win64\UE4Editor\Development\allinone\allinoneCharacter.gen.cpp.obj"
 /TP
 /GR-
 /W4
