@@ -1,0 +1,3 @@
+C:\main\Source\allinone\allinone.Build.cs
+C:\main\Source\allinone.Target.cs
+C:\main\Source\allinoneEditor.Target.cs
