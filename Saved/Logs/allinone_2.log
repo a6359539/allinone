@@ -1,4 +1,4 @@
-﻿Log file open, 12/25/17 22:29:41
+﻿Log file open, 12/27/17 20:25:35
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: allinone
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-1741218027) SRandInit(-1741218027).
+LogInit: Display: RandInit(-529004404) SRandInit(-529004404).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.190421
+LogStats: Stats thread started at 0.184081
 LogD3D11RHI: Aftermath initialized
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -78,7 +78,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogModuleManager: Warning: Module file ../../../../../../remain/Binaries/Win64/UE4Editor-allinone-3404.dll is missing. This is likely a stale module that must be recompiled.
+LogModuleManager: Warning: Module file ../../../../../../remain/Binaries/Win64/UE4Editor-allinone-7675.dll is missing. This is likely a stale module that must be recompiled.
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
@@ -175,4 +175,4 @@ LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 LogModuleManager: Shutting down and abandoning module SandboxFile (4)
 LogModuleManager: Shutting down and abandoning module PakFile (2)
 LogExit: Exiting.
-Log file closed, 12/25/17 22:29:48
+Log file closed, 12/27/17 20:25:42
