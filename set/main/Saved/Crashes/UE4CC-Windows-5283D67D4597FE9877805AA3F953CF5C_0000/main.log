@@ -1,0 +1,906 @@
+﻿Log file open, 01/07/18 00:03:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: main
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1148365208) SRandInit(-1148365208).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.184941
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../in/set/main/Binaries/Win64/UE4Editor-main.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.06-15.03.38:062][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.06-15.03.38:062][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.06-15.03.38:083][  0]LogInit: Computer: DESKTOP-FRCQVUI
+[2018.01.06-15.03.38:083][  0]LogInit: User: oner
+[2018.01.06-15.03.38:083][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.06-15.03.38:083][  0]LogInit: High frequency timer resolution =2.630631 MHz
+[2018.01.06-15.03.38:083][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.06-15.03.38:083][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.06-15.03.38:083][  0]LogMemory: Process Physical Memory: 272.35 MB used, 272.35 MB peak
+[2018.01.06-15.03.38:083][  0]LogMemory: Process Virtual Memory: 269.51 MB used, 269.51 MB peak
+[2018.01.06-15.03.38:083][  0]LogMemory: Physical Memory: 3117.68 MB used,  4963.07 MB free, 8080.75 MB total
+[2018.01.06-15.03.38:083][  0]LogMemory: Virtual Memory: 643.75 MB used,  4963.07 MB free, 134217728.00 MB total
+[2018.01.06-15.03.38:312][  0]LogInit: Using OS detected language (ko-KR).
+[2018.01.06-15.03.38:312][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.01.06-15.03.38:367][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.01.06-15.03.38:591][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.06-15.03.41:657][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.06-15.03.42:474][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2018.01.06-15.03.42:474][  0]LogD3D11RHI:       3040/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.06-15.03.42:479][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5600' (Feature Level 11_0)
+[2018.01.06-15.03.42:479][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.06-15.03.42:480][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.06-15.03.42:480][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.06-15.03.42:480][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.06-15.03.42:487][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.06-15.03.42:487][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.06-15.03.42:487][  0]LogWindows: EnumDisplayDevices:
+[2018.01.06-15.03.42:487][  0]LogWindows:    0. 'Intel(R) HD Graphics 5600' (P:1 D:1)
+[2018.01.06-15.03.42:488][  0]LogWindows:    1. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2018.01.06-15.03.42:488][  0]LogWindows:    2. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2018.01.06-15.03.42:488][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.06-15.03.42:488][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2018.01.06-15.03.42:488][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.06-15.03.42:488][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.06-15.03.42:488][  0]LogRHI: Texture pool is 2128 MB (70% of 3040 MB)
+[2018.01.06-15.03.42:520][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.06-15.03.42:588][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.06-15.03.42:589][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../../../in/set/main/Intermediate/Shaders/WorkingDirectory/12652/).
+[2018.01.06-15.03.42:590][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/강망/AppData/Local/Temp/UnrealShaderWorkingDir/287FDDC64C3B9547295B0A8F6C9C20E8/'.
+[2018.01.06-15.03.42:590][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.06-15.03.43:748][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.06-15.03.43:820][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.06-15.03.43:895][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.06-15.03.43:967][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.06-15.03.44:042][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.06-15.03.44:109][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.06-15.03.44:178][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.06-15.03.44:245][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.06-15.03.44:306][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.06-15.03.44:373][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.06-15.03.44:440][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.06-15.03.44:508][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.06-15.03.44:578][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.06-15.03.44:645][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.06-15.03.44:778][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.06-15.03.44:778][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.06-15.03.44:853][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.06-15.03.44:909][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.06-15.03.45:035][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.06-15.03.45:072][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.06-15.03.45:143][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.06-15.03.45:215][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.06-15.03.45:284][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.06-15.03.45:358][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.06-15.03.45:358][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.06-15.03.46:279][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.06-15.03.46:687][  0]LogDerivedDataCache: Loaded boot cache 0.41s 79MB C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.06-15.03.46:688][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.06-15.03.46:688][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../in/set/main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.06-15.03.46:688][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.06-15.03.46:688][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../in/set/main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.06-15.03.46:688][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.06-15.03.46:711][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.06-15.03.46:723][  0]LogDerivedDataCache: Using Local data cache path C:/Users/강망/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.06-15.03.46:738][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.06-15.03.46:738][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.06-15.03.46:751][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.06-15.03.46:751][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.06-15.03.47:919][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.06-15.03.48:539][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.06-15.03.48:619][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.06-15.03.48:620][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.06-15.03.48:620][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.06-15.03.48:620][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.06-15.03.48:620][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.06-15.03.48:654][  0]LogNetVersion: main , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1998149536)
+[2018.01.06-15.03.48:863][  0]LogAssetRegistry: FAssetRegistry took 0.0290 seconds to start up
+[2018.01.06-15.03.49:653][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.097722 seconds
+[2018.01.06-15.03.49:660][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.06-15.03.49:660][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.06-15.03.49:660][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.06-15.03.49:771][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.06-15.03.56:014][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.06-15.03.56:068][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.06-15.03.57:498][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.06-15.03.58:126][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.06-15.04.00:340][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.06-15.04.00:742][  0]LogOcInput: OculusInput pre-init called
+[2018.01.06-15.04.01:156][  0]LogEngine: Initializing Engine...
+[2018.01.06-15.04.01:161][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.06-15.04.01:474][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.06-15.04.01:474][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.06-15.04.01:728][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.06-15.04.01:736][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.06-15.04.01:785][  0]LogInit: FAudioDevice initialized.
+[2018.01.06-15.04.01:937][  0]LogDerivedDataCache: Saved boot cache 0.15s 79MB C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.06-15.04.01:963][  0]LogInit: Texture streaming: Enabled
+[2018.01.06-15.04.02:126][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.06-15.04.02:322][  0]LogInit: Transaction tracking system initialized
+[2018.01.06-15.04.03:028][  0]BlueprintLog: New page: 에디터 로드
+[2018.01.06-15.04.04:758][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.01.06-15.04.06:136][  0]LogConsoleResponse: Display: 
+[2018.01.06-15.04.06:526][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.06-15.04.06:526][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.06-15.04.06:526][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.06-15.04.06:875][  0]LogFileCache: Scanning file cache for directory 'C:/in/set/main/Content/' took 0.03s
+[2018.01.06-15.04.08:580][  0]Cmd: MAP LOAD FILE="../../../../../../in/set/main/Content/InfinityBladeGrassLands/Maps/entry.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.06-15.04.08:584][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.06-15.04.08:638][  0]MapCheck: New page: 맵 체크
+[2018.01.06-15.04.08:638][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.06-15.04.08:658][  0]LogAIModule: Creating AISystem for world entry
+[2018.01.06-15.04.08:660][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.06-15.04.08:672][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.06-15.04.08:759][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 86.869ms.
+[2018.01.06-15.04.08:759][  0]LogFileHelpers: Loading map 'entry' took 0.179
+[2018.01.06-15.04.09:095][  0]LogCollectionManager: Loaded 0 collections in 0.006216 seconds
+[2018.01.06-15.04.09:259][  0]LogFileCache: Scanning file cache for directory 'C:/in/set/main/Saved/Collections/' took 0.01s
+[2018.01.06-15.04.09:259][  0]LogFileCache: Scanning file cache for directory 'C:/in/set/main/Content/Developers/oner/Collections/' took 0.01s
+[2018.01.06-15.04.09:259][  0]LogFileCache: Scanning file cache for directory 'C:/in/set/main/Content/Collections/' took 0.01s
+[2018.01.06-15.04.09:259][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.06-15.04.09:270][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2365 classes and 521 folders.
+[2018.01.06-15.04.09:383][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.01.06-15.04.09:786][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.01.06-15.04.09:852][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.01.06-15.04.10:066][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.01.06-15.04.10:066][  0]LogLoad: (Engine Initialization) Total time: 36.74 seconds
+[2018.01.06-15.04.10:066][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.06-15.04.10:067][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.06-15.04.10:118][  0]SourceControl: On branch master
+[2018.01.06-15.04.10:118][  0]SourceControl: Changes to be committed:
+[2018.01.06-15.04.10:118][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.01.06-15.04.10:118][  0]SourceControl: 	new file:   set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Mesh/Maximo_SWAT_Skeleton.uasset
+[2018.01.06-15.04.10:118][  0]SourceControl: 	new file:   set/main/Content/pratice/sinyoung/Mixamo_SWAT/Anims/NewBlendSpace1.uasset
+[2018.01.06-15.04.10:118][  0]SourceControl: 	new file:   set/main/Content/pratice/sinyoung/Mixamo_SWAT/Mesh/Maximo_SWAT_Skeleton.uasset
+[2018.01.06-15.04.10:118][  0]SourceControl: 	new file:   set/main/Content/pratice/sinyoung/Mixamo_SWAT/NewBlendSpace.uasset
+[2018.01.06-15.04.10:118][  0]SourceControl: Changes not staged for commit:
+[2018.01.06-15.04.10:118][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.01.06-15.04.10:118][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.06-15.04.10:118][  0]SourceControl: 	modified:   set/main/Content/InfinityBladeGrassLands/Maps/map.umap
+[2018.01.06-15.04.10:118][  0]SourceControl: 	modified:   set/main/Content/InfinityBladeGrassLands/Maps/map_BuiltData.uasset
+[2018.01.06-15.04.10:118][  0]SourceControl: 	modified:   set/main/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.06-15.04.10:118][  0]SourceControl: 	deleted:    set/main/Content/pratice/sinyoung/Mixamo_SWAT/Anims/NewBlendSpace1.uasset
+[2018.01.06-15.04.10:118][  0]SourceControl: 	deleted:    set/main/Content/pratice/sinyoung/Mixamo_SWAT/Mesh/Maximo_SWAT_Skeleton.uasset
+[2018.01.06-15.04.10:118][  0]SourceControl: 	deleted:    set/main/Content/pratice/sinyoung/Mixamo_SWAT/NewBlendSpace.uasset
+[2018.01.06-15.04.10:118][  0]SourceControl: 	deleted:    set/main/Content/pratice/sinyoung/sad.txt
+[2018.01.06-15.04.10:118][  0]SourceControl: 	modified:   set/main/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.01.06-15.04.10:118][  0]SourceControl: 	modified:   set/main/Intermediate/CachedAssetRegistry.bin
+[2018.01.06-15.04.10:118][  0]SourceControl: 	modified:   set/main/Saved/AutoScreenshot.png
+[2018.01.06-15.04.10:118][  0]SourceControl: 	modified:   set/main/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	modified:   set/main/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.01.06-15.04.10:119][  0]SourceControl: 	modified:   set/main/Saved/Config/Windows/Engine.ini
+[2018.01.06-15.04.10:119][  0]SourceControl: 	modified:   set/main/Saved/Logs/main.log
+[2018.01.06-15.04.10:119][  0]SourceControl: Untracked files:
+[2018.01.06-15.04.10:119][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Content/pratice/sinyoung/Blade_HeroSword22/
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Content/pratice/sinyoung/Blunt_Hellhammer_Cine/
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Content/pratice/sinyoung/MixamoAnimPack/MixamoCharacter_Master.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Content/pratice/sinyoung/MixamoAnimPack/MixamoGame.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_BasicAnimationPack_UE4_Readme.pdf
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_BasicAnimation_Pack_UnrealEngine4_Readme.pdf
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Materials/
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Mesh/Maximo_SWAT.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Mesh/SWAT_Physics.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Mixamo_Swat.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Autosaves/Game/InfinityBladeGrassLands/
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/Maximo_SWAT_2018-01-06-23-43-10.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/Maximo_SWAT_2018-01-06-23-56-44.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/Maximo_Swat_Idle_2018-01-06-23-56-43.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/Maximo_Swat_Running_Jump_2018-01-06-23-56-43.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/Maximo_Swat_Shooting_2018-01-06-23-56-43.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/Maximo_Swat_Swat_Jump_2018-01-06-23-56-43.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/Maximo_Swat_Swat_Run_2018-01-06-23-56-43.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/Maximo_Swat_Sword_Slash_2018-01-06-23-56-43.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/Maximo_Swat_Walk_2018-01-06-23-56-43.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/Swat_Mat_2018-01-06-23-48-43.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_2018-01-06-19-50-38.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_2018-01-06-20-03-22.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-06-19-50-36.umap
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-06-20-03-20.umap
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-06-23-42-06.umap
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-06-23-56-39.umap
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Backup/map_BuiltData_2018-01-06-23-56-40.uasset
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-449624F840BCB31CDF38148D0C8839AC/
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-498E93DF454ED5EE1A64A0A93E1191F0/
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-5283D67D4597FE9877805AA3F953CF5C/
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-8C45D4954DC8FDD415C5ABAC9323B453/
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-B8F3E9D246A168DAA7EAC59F4BB1BAD3/
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Config/Windows/SourceControlSettings.ini
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.06-18.31.52.log
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.06-18.37.42.log
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.06-18.48.39.log
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.06-23.17.57.log
+[2018.01.06-15.04.10:119][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.07-00.03.35.log
+[2018.01.06-15.04.10:120][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.01.06-15.04.10:135][  0]LogSlate: Took 0.013349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.06-15.04.10:166][  0]LogSlate: Took 0.030261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.01.06-15.04.10:173][  0]LogSlate: Took 0.005612 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.06-15.04.10:186][  0]LogSlate: Took 0.005556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.06-15.04.10:422][  0]LogSlate: Took 0.005970 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.06-15.04.10:459][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/in/set/main/Content/' took 0.36s
+[2018.01.06-15.04.10:495][  2]LogRenderer: Reallocating scene render targets to support 1124x448 Format 9 NumSamples 1 (Frame:1).
+[2018.01.06-15.04.10:650][  2]LogAssetRegistry: Asset discovery search completed in 21.8091 seconds
+[2018.01.06-15.04.10:654][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.06-15.04.10:654][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2018.01.06-15.04.33:674][ 54]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.06-15.04.34:469][ 54]LogLinker: Warning: '/Game/pratice/sinyoung/Mixamo_SWAT/Materials/Swat_Mat' 파일을 찾을 수 없습니다.
+[2018.01.06-15.04.34:469][ 54]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Mesh/Maximo_SWAT.uasset 로드중 '/Game/pratice/sinyoung/Mixamo_SWAT/Materials/Swat_Mat' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.04.34:469][ 54]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Mesh/Maximo_SWAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/pratice/sinyoung/Mixamo_SWAT/Materials/Swat_Mat
+[2018.01.06-15.04.34:469][ 54]LogLinker: Warning: '/Game/pratice/sinyoung/Mixamo_SWAT/Materials/Swat_Mat' 파일을 찾을 수 없습니다.
+[2018.01.06-15.04.34:469][ 54]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Mesh/Maximo_SWAT.uasset 로드중 '/Game/pratice/sinyoung/Mixamo_SWAT/Materials/Swat_Mat' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.04.34:492][ 54]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.06-15.04.34:884][ 54]LogLinker: Warning: '/Game/pratice/sinyoung/Mixamo_SWAT/Materials/Swat_Mat' 파일을 찾을 수 없습니다.
+[2018.01.06-15.04.34:885][ 54]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/Mixamo_SWAT/Materials/Swat_Mat.Swat_Mat 레퍼런싱한 것: Maximo_SWAT
+[2018.01.06-15.04.34:885][ 54]LogLinker: Warning: NULL 로드중 '/Game/pratice/sinyoung/Mixamo_SWAT/Materials/Swat_Mat' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.04.37:030][ 54]LogAIModule: Creating AISystem for world map
+[2018.01.06-15.04.37:101][ 54]Cmd: MAP LOAD FILE="../../../../../../in/set/main/Content/InfinityBladeGrassLands/Maps/map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.06-15.04.37:101][ 54]LightingResults: New page: 라이팅 빌드
+[2018.01.06-15.04.37:102][ 54]LoadErrors: New page: 맵 로드중: map.umap
+[2018.01.06-15.04.37:103][ 54]MapCheck: New page: 맵 체크
+[2018.01.06-15.04.37:103][ 54]LightingResults: New page: 라이팅 빌드
+[2018.01.06-15.04.37:401][ 54]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.06-15.04.37:462][ 54]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.06-15.04.37:554][ 54]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 91.065ms.
+[2018.01.06-15.04.37:554][ 54]LogFileHelpers: Loading map 'map' took 0.454
+[2018.01.06-15.04.39:992][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Exo_Decos_Door02)
+[2018.01.06-15.04.40:802][201]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.01.06-15.04.43:704][305]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.06-15.04.43:811][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.06-15.04.43:811][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.06-15.04.43:812][305]PIE: New page: PIE 세션: map (2018. 1. 7. 오전 9:04:43)
+[2018.01.06-15.04.43:812][305]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map
+[2018.01.06-15.04.43:885][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073395s)
+[2018.01.06-15.04.43:887][305]LogAIModule: Creating AISystem for world map
+[2018.01.06-15.04.43:887][305]LogPlayLevel: PIE: World Init took: (0.001546s)
+[2018.01.06-15.04.43:888][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/map.map to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map (0.075691s)
+[2018.01.06-15.04.43:935][305]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.06-15.04.43:954][305]LogInit: FAudioDevice initialized.
+[2018.01.06-15.04.43:999][305]LogLoad: Game class is 'mainGameMode'
+[2018.01.06-15.04.44:013][305]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map up for play (max tick rate 60) at 2018.01.07-00.04.44
+[2018.01.06-15.04.44:014][305]LogWorld: Bringing up level for play took: 0.013474
+[2018.01.06-15.04.44:071][305]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2018.01.06-15.04.44:076][305]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map 에 대한 에디터에서 플레이 시작 시간: 1.254
+[2018.01.06-15.04.44:076][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.06-15.04.46:036][413]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.06-15.04.46:087][413]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.06-15.05.15:484][810]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.01.06-15.05.17:815][885]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.06-15.05.24:445][ 28]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.01.06-15.05.24:856][ 28]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.06-15.05.25:277][ 28]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.06-15.05.25:356][ 28]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0010 seconds. Added 1 classes and 0 folders.
+[2018.01.06-15.05.25:367][ 29]LogRenderer: Reallocating scene render targets to support 1124x796 Format 9 NumSamples 1 (Frame:1).
+[2018.01.06-15.05.39:874][276]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_diffuse' 파일을 찾을 수 없습니다.
+[2018.01.06-15.05.39:874][276]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_Mat.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_diffuse' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.05.39:874][276]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_Mat : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_diffuse
+[2018.01.06-15.05.39:874][276]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_mask' 파일을 찾을 수 없습니다.
+[2018.01.06-15.05.39:874][276]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_Mat.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_mask' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.05.39:874][276]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_Mat : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_mask
+[2018.01.06-15.05.39:874][276]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_diffuse' 파일을 찾을 수 없습니다.
+[2018.01.06-15.05.39:874][276]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_Mat.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_diffuse' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.05.39:875][276]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_mask' 파일을 찾을 수 없습니다.
+[2018.01.06-15.05.39:875][276]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_Mat.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_mask' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.05.39:875][276]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_mask' 파일을 찾을 수 없습니다.
+[2018.01.06-15.05.39:875][276]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_mask.Swat_new_mask 레퍼런싱한 것: MaterialExpressionTextureSample_3
+[2018.01.06-15.05.39:875][276]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_mask' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.05.39:876][276]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_diffuse' 파일을 찾을 수 없습니다.
+[2018.01.06-15.05.39:876][276]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_diffuse.Swat_new_diffuse 레퍼런싱한 것: MaterialExpressionTextureSample_54
+[2018.01.06-15.05.39:876][276]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_diffuse' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.05.39:880][276]LogMaterial: Missing cached shader map for material Swat_Mat, compiling. 
+[2018.01.06-15.05.39:881][276]LogMaterial: Warning: C:\in\set\main\Content\pratice\sinyoung\MixamoAnimPack\Mixamo_SWAT\Materials\Swat_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.06-15.05.39:881][276]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.06-15.05.42:474][330]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2018.01.06-15.05.42:477][330]LogMaterial: Missing cached shader map for material Swat_Mat, compiling. 
+[2018.01.06-15.05.42:477][330]LogMaterial: Warning: /Engine/Transient.Swat_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.06-15.05.42:477][330]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.06-15.05.42:651][330]LogMaterial: Missing cached shader map for material Swat_Mat, compiling. 
+[2018.01.06-15.05.42:652][330]LogMaterial: Warning: /Engine/Transient.Swat_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.06-15.05.42:652][330]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.06-15.05.42:657][330]LogMaterial: Missing cached shader map for material Swat_Mat, compiling. 
+[2018.01.06-15.05.42:658][330]LogMaterial: Warning: /Engine/Transient.Swat_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.06-15.05.42:658][330]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.06-15.05.42:690][330]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_54, compiling. 
+[2018.01.06-15.05.42:692][330]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.06-15.05.42:699][330]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.01.06-15.05.42:705][330]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.06-15.05.51:098][490]LogMaterial: Missing cached shader map for material Swat_Mat, compiling. 
+[2018.01.06-15.05.51:098][490]LogMaterial: Warning: /Engine/Transient.Swat_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.06-15.05.51:098][490]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.06-15.05.51:103][490]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_54, compiling. 
+[2018.01.06-15.05.56:969][578]LogMaterial: Missing cached shader map for material Swat_Mat, compiling. 
+[2018.01.06-15.05.57:054][578]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.06-15.06.00:380][606]LogMaterialEditor: Saving and Compiling material Swat_Mat
+[2018.01.06-15.06.02:083][606]LogMaterial: Missing cached shader map for material Swat_Mat, compiling. 
+[2018.01.06-15.06.02:347][606]LogMaterial: Missing cached shader map for material Swat_Mat, compiling. 
+[2018.01.06-15.06.02:556][606]LogMaterial: Missing cached shader map for material Swat_Mat, compiling. 
+[2018.01.06-15.06.02:744][606]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Swat_Mat, compiling. 
+[2018.01.06-15.06.09:252][606]TextureStreamingBuild: Display: Compiling optional shaders took 6.520 seconds.
+[2018.01.06-15.06.17:667][606]LogSavePackage: Save=21.00ms
+[2018.01.06-15.06.17:667][606]LogSavePackage: Moving '../../../../../../in/set/main/Saved/Swat_Mat1E035413475B04540C553B85FE927119.tmp' to '../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_Mat.uasset'
+[2018.01.06-15.06.17:676][606]LogSavePackage: Display: Finished SavePackage ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_Mat.uasset
+[2018.01.06-15.06.17:702][606]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.01.06-15.06.17:703][606]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2018.01.06-15.06.17:703][606]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.06-15.06.17:703][606]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.06-15.06.17:703][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.06-15.06.19:584][629]LogMaterialEditor: Saving and Compiling material Swat_Mat
+[2018.01.06-15.06.19:910][629]LogSavePackage: Save=9.92ms
+[2018.01.06-15.06.19:910][629]LogSavePackage: Moving '../../../../../../in/set/main/Saved/Swat_Mat2387A1C2427CE6AB1B2FE295BF0F5EFB.tmp' to '../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_Mat.uasset'
+[2018.01.06-15.06.19:914][629]LogSavePackage: Display: Finished SavePackage ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_Mat.uasset
+[2018.01.06-15.06.31:025][889]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.06.31:026][889]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Idle.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.06.31:026][889]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Idle : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton
+[2018.01.06-15.06.31:028][889]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.06.31:029][889]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Idle.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.06.31:031][889]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.06.31:031][889]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton.SWAT_Skeleton 레퍼런싱한 것: Maximo_Swat_Idle
+[2018.01.06-15.06.31:032][889]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.06.32:711][889]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.01.06-15.06.39:040][976]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Mesh/Maximo_SWAT' 파일을 찾을 수 없습니다.
+[2018.01.06-15.06.39:040][976]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Mesh/Maximo_SWAT' 파일을 찾을 수 없습니다.
+[2018.01.06-15.06.39:041][976]LogUObjectGlobals: Warning: 'Object /Game/MixamoAnimPack/Mixamo_SWAT/Mesh/Maximo_SWAT.Maximo_SWAT' 오브젝트를 찾는 데 실패했습니다.
+[2018.01.06-15.06.47:460][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.01.06-15.06.48:469][ 83]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.06-15.06.51:377][107]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.06.51:377][107]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.06.51:377][107]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton
+[2018.01.06-15.06.51:377][107]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.06.51:377][107]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.06.51:378][107]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.06.51:378][107]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton.SWAT_Skeleton 레퍼런싱한 것: Maximo_Swat_Running_Jump
+[2018.01.06-15.06.51:379][107]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.06.53:048][107]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.01.06-15.07.01:887][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.01.06-15.07.02:830][221]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.06-15.07.04:274][234]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.04:274][234]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.04:275][234]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton
+[2018.01.06-15.07.04:275][234]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.04:275][234]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.04:277][234]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.04:277][234]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton.SWAT_Skeleton 레퍼런싱한 것: Maximo_Swat_Shooting
+[2018.01.06-15.07.04:277][234]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.05:795][234]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.01.06-15.07.16:409][333]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.16:409][333]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.16:409][333]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton
+[2018.01.06-15.07.16:410][333]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.16:410][333]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.16:411][333]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.16:412][333]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton.SWAT_Skeleton 레퍼런싱한 것: Maximo_Swat_Swat_Jump
+[2018.01.06-15.07.16:412][333]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.18:163][333]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.01.06-15.07.30:569][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_3.DebugSkelMeshComponent_16) Already registered. Aborting.
+[2018.01.06-15.07.31:472][503]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.06-15.07.34:695][540]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.34:695][540]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Run.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.34:695][540]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Run : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton
+[2018.01.06-15.07.34:695][540]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.34:696][540]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Run.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.34:696][540]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.34:696][540]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton.SWAT_Skeleton 레퍼런싱한 것: Maximo_Swat_Swat_Run
+[2018.01.06-15.07.34:697][540]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.36:592][540]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.01.06-15.07.41:959][611]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_4.DebugSkelMeshComponent_21) Already registered. Aborting.
+[2018.01.06-15.07.42:944][611]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.06-15.07.46:025][643]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.46:025][643]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Sword_Slash.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.46:025][643]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Sword_Slash : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton
+[2018.01.06-15.07.46:025][643]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.46:025][643]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Sword_Slash.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.46:027][643]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.46:027][643]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton.SWAT_Skeleton 레퍼런싱한 것: Maximo_Swat_Sword_Slash
+[2018.01.06-15.07.46:027][643]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.47:505][643]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.01.06-15.07.52:313][685]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.Actor_5.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.06-15.07.53:392][685]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.06-15.07.56:829][715]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.56:829][715]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Walk.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.56:829][715]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Walk : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton
+[2018.01.06-15.07.56:829][715]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.56:830][715]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Walk.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.56:832][715]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.56:833][715]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton.SWAT_Skeleton 레퍼런싱한 것: Maximo_Swat_Walk
+[2018.01.06-15.07.56:833][715]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.07.58:666][715]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.01.06-15.08.03:107][790]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.Actor_6.DebugSkelMeshComponent_31) Already registered. Aborting.
+[2018.01.06-15.08.04:068][790]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.06-15.08.19:875][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:876][147]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:877][147]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump
+[2018.01.06-15.08.19:879][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:880][147]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:880][147]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting
+[2018.01.06-15.08.19:881][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:881][147]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:881][147]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump
+[2018.01.06-15.08.19:882][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:882][147]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:882][147]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D
+[2018.01.06-15.08.19:882][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:883][147]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:883][147]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/MixamoCharacter_Master
+[2018.01.06-15.08.19:883][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:884][147]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:884][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:884][147]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:888][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:889][147]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:889][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:890][147]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:891][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:892][147]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:894][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:894][147]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:895][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:895][147]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:896][147]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT : 애셋에 대한 파일을 찾을 수 없습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton
+[2018.01.06-15.08.19:896][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:896][147]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:897][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:897][147]LogLinker: Warning: ../../../../../../in/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:898][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:899][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton.SWAT_Skeleton 레퍼런싱한 것: MixamoAnimBP_SWAT_C
+[2018.01.06-15.08.19:899][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:909][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:909][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:909][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:910][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:910][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:910][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:910][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:911][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:911][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:911][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:911][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:911][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:911][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:912][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:912][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:912][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:912][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:913][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:913][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:913][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:913][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:913][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:914][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:914][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:914][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:914][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:914][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:914][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:915][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:915][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:915][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:915][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump.Maximo_Swat_Running_Jump 레퍼런싱한 것: Default__MixamoAnimBP_SWAT_C
+[2018.01.06-15.08.19:915][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:916][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:916][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting.Maximo_Swat_Shooting 레퍼런싱한 것: Default__MixamoAnimBP_SWAT_C
+[2018.01.06-15.08.19:917][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:917][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:918][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump.Maximo_Swat_Swat_Jump 레퍼런싱한 것: Default__MixamoAnimBP_SWAT_C
+[2018.01.06-15.08.19:918][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:919][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:919][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D.MixamoBlend_SWAT_1D 레퍼런싱한 것: Default__MixamoAnimBP_SWAT_C
+[2018.01.06-15.08.19:919][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:920][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:920][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton.SWAT_Skeleton 레퍼런싱한 것: MixamoAnimBP_SWAT
+[2018.01.06-15.08.19:921][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:928][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:928][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master_C 레퍼런싱한 것: K2Node_DynamicCast_120
+[2018.01.06-15.08.19:929][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:930][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:930][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master_C 레퍼런싱한 것: EdGraphPin_29307
+[2018.01.06-15.08.19:930][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:931][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:932][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master_C 레퍼런싱한 것: K2Node_VariableGet_1007
+[2018.01.06-15.08.19:932][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:933][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:933][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master_C 레퍼런싱한 것: EdGraphPin_29319
+[2018.01.06-15.08.19:934][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:940][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:941][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master_C 레퍼런싱한 것: K2Node_VariableGet_1157
+[2018.01.06-15.08.19:941][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:942][147]LogLinker: Warning: '/Game/MixamoAnimPack/MixamoCharacter_Master' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:942][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master_C 레퍼런싱한 것: EdGraphPin_29325
+[2018.01.06-15.08.19:943][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/MixamoCharacter_Master' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:947][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:947][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D.MixamoBlend_SWAT_1D 레퍼런싱한 것: AnimGraphNode_BlendSpacePlayer_9
+[2018.01.06-15.08.19:947][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:949][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:949][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump.Maximo_Swat_Swat_Jump 레퍼런싱한 것: AnimGraphNode_SequencePlayer_483
+[2018.01.06-15.08.19:950][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:953][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:953][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting.Maximo_Swat_Shooting 레퍼런싱한 것: AnimGraphNode_SequencePlayer_153
+[2018.01.06-15.08.19:953][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:958][147]LogLinker: Warning: '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump' 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:959][147]LoadErrors: 로드에 실패했습니다. /Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump.Maximo_Swat_Running_Jump 레퍼런싱한 것: AnimGraphNode_SequencePlayer_34
+[2018.01.06-15.08.19:959][147]LogLinker: Warning: NULL 로드중 '/Game/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.06-15.08.19:967][147]LogBlueprint: Warning: [Compiler MixamoAnimBP_SWAT] Get : 'attacking?' variable not found. Base class was probably changed. /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT
+[2018.01.06-15.08.19:967][147]LogBlueprint: Warning: [Compiler MixamoAnimBP_SWAT] Get : 'bJumpButtonDown' variable not found. Base class was probably changed. /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT
+[2018.01.06-15.08.19:977][147]LogBlueprint: Warning: [Compiler MixamoAnimBP_SWAT] 'MixamoAnimBP_SWAT' 에서 "bJumpButtonDown" 라는 이름의 변수를 찾을 수 없습니다.
+ bJumpButtonDown 구하기  에 대해 'MixamoAnimBP_SWAT' 컴파일이 되었는지 확인하세요.
+[2018.01.06-15.08.19:977][147]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] Return Value  핀과  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2018.01.06-15.08.19:977][147]LogBlueprint: Warning: [Compiler MixamoAnimBP_SWAT] 'MixamoAnimBP_SWAT' 에서 "attacking?" 라는 이름의 변수를 찾을 수 없습니다.
+ attacking? 구하기  에 대해 'MixamoAnimBP_SWAT' 컴파일이 되었는지 확인하세요.
+[2018.01.06-15.08.19:978][147]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] Object  핀과  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2018.01.06-15.08.19:978][147]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] In use pin  As Mixamo Character Master C  no longer exists on node  잘못된 형변환 노드입니다. . Please refresh node or break links to remove pin.
+[2018.01.06-15.08.19:978][147]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] MixamoAnimBP_SWAT  - 이 애니메이션 블루프린트에 대한 스켈레톤 애셋이 없어, 컴파일할 수 없습니다!
+[2018.01.06-15.08.19:978][147]LogBlueprint: Warning: [Compiler MixamoAnimBP_SWAT] 'MixamoAnimBP_SWAT' 에서 "bJumpButtonDown" 라는 이름의 변수를 찾을 수 없습니다.
+ bJumpButtonDown 구하기  에 대해 'MixamoAnimBP_SWAT' 컴파일이 되었는지 확인하세요.
+[2018.01.06-15.08.19:979][147]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] Return Value  핀과  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2018.01.06-15.08.19:979][147]LogBlueprint: Warning: [Compiler MixamoAnimBP_SWAT] 'MixamoAnimBP_SWAT' 에서 "attacking?" 라는 이름의 변수를 찾을 수 없습니다.
+ attacking? 구하기  에 대해 'MixamoAnimBP_SWAT' 컴파일이 되었는지 확인하세요.
+[2018.01.06-15.08.19:979][147]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] Object  핀과  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2018.01.06-15.08.19:979][147]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] In use pin  As Mixamo Character Master C  no longer exists on node  잘못된 형변환 노드입니다. . Please refresh node or break links to remove pin.
+[2018.01.06-15.08.19:980][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_0.K2Node_CommutativeAssociativeBinaryOperator_2253' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.19:980][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_0.K2Node_CallFunction_102548' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.19:980][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_0.K2Node_VariableGet_2488' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.19:980][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_0.K2Node_FunctionResult_0' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.19:980][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_0.K2Node_FunctionEntry_139' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.19:981][147]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] Jump Button Down  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.01.06-15.08.19:981][147]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] Attacking?  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.01.06-15.08.19:983][147]LogBlueprint: Warning: [Compiler MixamoAnimBP_SWAT] [0286.66] MixamoAnimBP_SWAT 컴파일에 실패했습니다. 치명적 오류 9 회, 경고 6 회, [소요시간 18 ms] (/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT)
+[2018.01.06-15.08.20:015][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateNode_1.Locomotion/Idle.AnimGraphNode_BlendSpacePlayer_9' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:016][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_Root_5' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:016][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateNode_2.Run Jump.AnimGraphNode_SequencePlayer_34' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:016][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateNode_3.Jump.AnimGraphNode_SequencePlayer_483' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:016][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateNode_7.attacking.AnimGraphNode_SequencePlayer_153' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:016][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:016][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateNode_1.Locomotion/Idle.AnimGraphNode_StateResult_20' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:016][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateNode_2.Run Jump.AnimGraphNode_StateResult_15' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:016][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateNode_3.Jump.AnimGraphNode_StateResult_55' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:016][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateNode_7.attacking.AnimGraphNode_StateResult_188' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:016][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_1.Transition.AnimGraphNode_TransitionResult_20' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:016][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_12.Transition.AnimGraphNode_TransitionResult_467' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:016][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_28' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_5.Transition.AnimGraphNode_TransitionResult_142' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_6.AnimationTransitionGraph_65.AnimGraphNode_TransitionResult_22' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_7.Transition.AnimGraphNode_TransitionResult_148' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_8.Transition.AnimGraphNode_TransitionResult_233' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateEntryNode_0' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateNode_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateNode_2' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateNode_7' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_12' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_2' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_5' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_6' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:017][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_7' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:018][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_8' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:018][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.EdGraphNode_Comment_19' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:018][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.EdGraphNode_Comment_22' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:018][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.EdGraphNode_Comment_26' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:019][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_12.Transition.K2Node_CallFunction_91451' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:019][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_2.Transition.K2Node_CallFunction_11224' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:019][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_5.Transition.K2Node_CallFunction_224620' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:019][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_5.Transition.K2Node_CallFunction_2831' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:019][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_6.AnimationTransitionGraph_65.K2Node_CallFunction_92056' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:019][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_7.Transition.K2Node_CallFunction_225505' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:019][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:CanJump.K2Node_CallFunction_102548' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:019][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_CallFunction_108580' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:019][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_CallFunction_162498' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:019][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_CallFunction_169492' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:019][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_CallFunction_227144' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:019][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_CallFunction_29781' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:020][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_CallFunction_29886' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:020][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_CallFunction_45546' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:020][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_CallFunction_45889' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:020][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_2.Transition.K2Node_CommutativeAssociativeBinaryOperator_211' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:020][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_5.Transition.K2Node_CommutativeAssociativeBinaryOperator_77' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:020][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:CanJump.K2Node_CommutativeAssociativeBinaryOperator_2253' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:020][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_521' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:020][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_DynamicCast_120' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:021][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_DynamicCast_127' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:021][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_DynamicCast_99' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:021][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_Event_1003' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:021][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_Event_2429' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:021][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_Event_85' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:021][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_ExecutionSequence_180' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:021][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:CanJump.K2Node_FunctionEntry_139' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:021][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:CanJump.K2Node_FunctionResult_0' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:021][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_IfThenElse_332' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:021][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_IfThenElse_413' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:021][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_12.Transition.K2Node_TransitionRuleGetter_8' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:021][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_6.AnimationTransitionGraph_65.K2Node_TransitionRuleGetter_17' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:021][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_6.AnimationTransitionGraph_65.K2Node_TransitionRuleGetter_182' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:021][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateNode_1.Locomotion/Idle.K2Node_VariableGet_589' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_1.Transition.K2Node_VariableGet_208' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_2.Transition.K2Node_VariableGet_125' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_2.Transition.K2Node_VariableGet_129' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_5.Transition.K2Node_VariableGet_1066' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_5.Transition.K2Node_VariableGet_74' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_7.Transition.K2Node_VariableGet_1084' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:AnimGraph.AnimGraphNode_StateMachine_6.Default.AnimStateTransitionNode_8.Transition.K2Node_VariableGet_624' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:CanJump.K2Node_VariableGet_2488' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_VariableGet_1007' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_VariableGet_1157' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_VariableGet_3156' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_VariableSet_1402' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_VariableSet_2289' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_VariableSet_2465' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.20:022][147]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EventGraph.K2Node_VariableSet_74' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.21:686][147]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.01.06-15.08.28:034][278]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_1.K2Node_CommutativeAssociativeBinaryOperator_2253' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.28:034][278]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_1.K2Node_CallFunction_102548' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.28:034][278]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_1.K2Node_VariableGet_2488' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.28:034][278]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_1.K2Node_FunctionResult_0' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.28:034][278]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_1.K2Node_FunctionEntry_139' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.28:046][278]LogBlueprint: Warning: [MixamoAnimBP_SWAT] 'attacking?' variable not found. Base class was probably changed. /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT
+[2018.01.06-15.08.28:047][278]LogBlueprint: Warning: [MixamoAnimBP_SWAT] 'bJumpButtonDown' variable not found. Base class was probably changed. /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT
+[2018.01.06-15.08.28:141][278]LogBlueprint: Warning: [Compiler MixamoAnimBP_SWAT] 'MixamoAnimBP_SWAT' 에서 "bJumpButtonDown" 라는 이름의 변수를 찾을 수 없습니다.
+ bJumpButtonDown 구하기  에 대해 'MixamoAnimBP_SWAT' 컴파일이 되었는지 확인하세요.
+[2018.01.06-15.08.28:142][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] Return Value  핀과  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2018.01.06-15.08.28:142][278]LogBlueprint: Warning: [Compiler MixamoAnimBP_SWAT] 'MixamoAnimBP_SWAT' 에서 "attacking?" 라는 이름의 변수를 찾을 수 없습니다.
+ attacking? 구하기  에 대해 'MixamoAnimBP_SWAT' 컴파일이 되었는지 확인하세요.
+[2018.01.06-15.08.28:142][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] Object  핀과  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2018.01.06-15.08.28:142][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] In use pin  As Mixamo Character Master C  no longer exists on node  잘못된 형변환 노드입니다. . Please refresh node or break links to remove pin.
+[2018.01.06-15.08.28:144][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] 블렌드스페이스 플레이어 '(없음)'  references an unknown blend space
+[2018.01.06-15.08.28:144][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] 플레이 (없음)  references an unknown sequence
+[2018.01.06-15.08.28:145][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] 플레이 (없음)  references an unknown sequence
+[2018.01.06-15.08.28:146][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] 플레이 (없음)  references an unknown sequence
+[2018.01.06-15.08.28:149][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] ICE: Player node  플레이 (없음)  was not processed prior to handling a transition getter  애니메이션 애셋  that used it
+[2018.01.06-15.08.28:149][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] ICE: Player node  플레이 (없음)  was not processed prior to handling a transition getter  애니메이션 애셋  that used it
+[2018.01.06-15.08.28:150][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] ICE: Player node  플레이 (없음)  was not processed prior to handling a transition getter  애니메이션 애셋  that used it
+[2018.01.06-15.08.28:150][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] 노드 링크 검색 도중 AnimGraphNode_BlendSpacePlayer_9 에 대해 할당된 노드가 없습니다 - 노드에 현재 오류가 있기 때문일 수 있습니다.
+[2018.01.06-15.08.28:150][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] 노드 링크 검색 도중 AnimGraphNode_SequencePlayer_483 에 대해 할당된 노드가 없습니다 - 노드에 현재 오류가 있기 때문일 수 있습니다.
+[2018.01.06-15.08.28:150][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] 노드 링크 검색 도중 AnimGraphNode_SequencePlayer_153 에 대해 할당된 노드가 없습니다 - 노드에 현재 오류가 있기 때문일 수 있습니다.
+[2018.01.06-15.08.28:151][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] 노드 링크 검색 도중 AnimGraphNode_SequencePlayer_34 에 대해 할당된 노드가 없습니다 - 노드에 현재 오류가 있기 때문일 수 있습니다.
+[2018.01.06-15.08.28:151][278]LogBlueprint: Warning: [Compiler MixamoAnimBP_SWAT] 'MixamoAnimBP_SWAT' 에서 "bJumpButtonDown" 라는 이름의 변수를 찾을 수 없습니다.
+ bJumpButtonDown 구하기  에 대해 'MixamoAnimBP_SWAT' 컴파일이 되었는지 확인하세요.
+[2018.01.06-15.08.28:152][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] Return Value  핀과  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2018.01.06-15.08.28:152][278]LogBlueprint: Warning: [Compiler MixamoAnimBP_SWAT] 'MixamoAnimBP_SWAT' 에서 "attacking?" 라는 이름의 변수를 찾을 수 없습니다.
+ attacking? 구하기  에 대해 'MixamoAnimBP_SWAT' 컴파일이 되었는지 확인하세요.
+[2018.01.06-15.08.28:152][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] Object  핀과  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2018.01.06-15.08.28:152][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] In use pin  As Mixamo Character Master C  no longer exists on node  잘못된 형변환 노드입니다. . Please refresh node or break links to remove pin.
+[2018.01.06-15.08.28:155][278]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_2.K2Node_CommutativeAssociativeBinaryOperator_2253' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.28:155][278]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_2.K2Node_CallFunction_102548' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.28:155][278]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_2.K2Node_VariableGet_2488' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.28:155][278]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_2.K2Node_FunctionResult_0' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.28:155][278]LogBlueprint: Warning: Node '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT:EdGraph_2.K2Node_FunctionEntry_139' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.01.06-15.08.28:155][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] 애니메이션 애셋  에 예기치 못한 K2Node_TransitionRuleGetter 노드 유형이 발생했습니다.
+[2018.01.06-15.08.28:155][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] 애니메이션 애셋  에 예기치 못한 K2Node_TransitionRuleGetter 노드 유형이 발생했습니다.
+[2018.01.06-15.08.28:156][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] 애니메이션 애셋  에 예기치 못한 K2Node_TransitionRuleGetter 노드 유형이 발생했습니다.
+[2018.01.06-15.08.28:157][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] 애니메이션 애셋  에 예기치 못한 K2Node_TransitionRuleGetter 노드 유형이 발생했습니다.
+[2018.01.06-15.08.28:157][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] Jump Button Down  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.01.06-15.08.28:157][278]LogBlueprint: Error: [Compiler MixamoAnimBP_SWAT] Attacking?  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.01.06-15.08.28:159][278]LogBlueprint: Warning: [Compiler MixamoAnimBP_SWAT] [0294.83] MixamoAnimBP_SWAT 컴파일에 실패했습니다. 치명적 오류 23 회, 경고 4 회, [소요시간 63 ms] (/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.MixamoAnimBP_SWAT)
+[2018.01.06-15.08.33:748][358]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 116 classes and 0 folders.
+[2018.01.06-15.08.35:223][358]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.748 s
+[2018.01.06-15.08.35:223][358]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.06-15.08.35:223][358]LogOutputDevice: Error: 
+[2018.01.06-15.08.35:223][358]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 853]
+[2018.01.06-15.08.35:223][358]LogOutputDevice: Error: Type mismatch: Expected MixamoAnimBP_SWAT_C, Found AnimPreviewInstance
+[2018.01.06-15.08.35:223][358]LogOutputDevice: Error: Stack: 
+[2018.01.06-15.08.35:223][358]LogOutputDevice: Error: [Callstack] 0x0000000022EC2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.06-15.08.35:223][358]LogOutputDevice: Error: [Callstack] 0x0000000022C6123A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.06-15.08.35:223][358]LogOutputDevice: Error: [Callstack] 0x0000000022C7B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000001DB1B771 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x0000000000DCEFA1 UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x0000000000DBF62D UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000000EA9DF8C UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000001CB259FD UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000000EA36415 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000000D8C6A18 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000000D8786E7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000000D87FF77 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000000D8D0FA9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000000D876C31 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000000D87ED7F UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000000D87CA88 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000000D8DDB90 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000000D8D120A UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x0000000021F77ADE UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x0000000021F47CEE UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x0000000021FE0B84 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x0000000021FCA492 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x0000000021FBCEB3 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000004050E4F9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x0000000040501A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x00000000405103EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x00000000404FD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000005B86BC50 USER32.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000005B86B5CF USER32.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x0000000040511516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x00000000673650C8 UE4Editor.exe!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x0000000067375430 UE4Editor.exe!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x00000000673754AA UE4Editor.exe!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x0000000067382379 UE4Editor.exe!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x0000000067383D57 UE4Editor.exe!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000005B012774 KERNEL32.DLL!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: [Callstack] 0x000000005BD90D51 ntdll.dll!UnknownFunction []
+[2018.01.06-15.08.35:224][358]LogOutputDevice: Error: 
+[2018.01.06-15.08.35:229][358]LogStats:                SubmitErrorReport -  0.000 s
