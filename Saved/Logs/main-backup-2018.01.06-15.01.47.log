@@ -1,0 +1,1096 @@
+﻿Log file open, 01/05/18 03:04:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: main
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-951423621) SRandInit(-951423621).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.566078
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file D:/mm/set/main/Binaries/Win64/UE4Editor-main.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  -skipcompile
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.04-18.04.44:372][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.04-18.04.44:372][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.04-18.04.44:394][  0]LogInit: Computer: DESKTOP-LOUV37F
+[2018.01.04-18.04.44:394][  0]LogInit: User: choiw
+[2018.01.04-18.04.44:394][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.04-18.04.44:394][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.01.04-18.04.44:395][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.04-18.04.44:395][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.04-18.04.44:395][  0]LogMemory: Process Physical Memory: 272.88 MB used, 272.88 MB peak
+[2018.01.04-18.04.44:395][  0]LogMemory: Process Virtual Memory: 269.63 MB used, 269.63 MB peak
+[2018.01.04-18.04.44:395][  0]LogMemory: Physical Memory: 4675.99 MB used,  3408.09 MB free, 8084.07 MB total
+[2018.01.04-18.04.44:395][  0]LogMemory: Virtual Memory: 643.75 MB used,  3408.09 MB free, 134217728.00 MB total
+[2018.01.04-18.04.44:790][  0]LogInit: Using OS detected language (ko-KR).
+[2018.01.04-18.04.44:790][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.01.04-18.04.44:854][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.01.04-18.04.45:148][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.04-18.04.48:230][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.04-18.04.48:336][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2018.01.04-18.04.48:337][  0]LogD3D11RHI:       6061/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.04-18.04.48:357][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.01.04-18.04.48:357][  0]LogD3D11RHI:       128/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.04-18.04.48:365][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.04-18.04.48:365][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.04-18.04.48:365][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.04-18.04.48:380][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.04-18.04.48:380][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.04-18.04.48:381][  0]LogWindows: EnumDisplayDevices:
+[2018.01.04-18.04.48:381][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.01.04-18.04.48:381][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.04-18.04.48:382][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.04-18.04.48:382][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.04-18.04.48:382][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.04-18.04.48:383][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.04-18.04.48:383][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.04-18.04.48:383][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.01.04-18.04.48:383][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2018.01.04-18.04.48:383][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
+[2018.01.04-18.04.48:383][  0]LogD3D11RHI:      Driver Date: 11-14-2017
+[2018.01.04-18.04.48:383][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.01.04-18.04.48:423][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.04-18.04.48:463][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.04-18.04.48:472][  0]LogShaderCompilers: Guid format shader working directory is 32 characters bigger than the processId version (D:/mm/set/main/Intermediate/Shaders/WorkingDirectory/9652/).
+[2018.01.04-18.04.48:472][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/choiw/AppData/Local/Temp/UnrealShaderWorkingDir/FE2E36F04050208FADDCE6BF7E81E2C6/'.
+[2018.01.04-18.04.48:473][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.04-18.04.50:853][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.04-18.04.50:904][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.04-18.04.50:959][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.04-18.04.51:009][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.04-18.04.51:071][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.04-18.04.51:130][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.04-18.04.51:186][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.04-18.04.51:239][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.04-18.04.51:284][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.04-18.04.51:344][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.04-18.04.51:399][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.04-18.04.51:455][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.04-18.04.51:510][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.04-18.04.51:568][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.04-18.04.51:683][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.04-18.04.51:683][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.04-18.04.51:747][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.04-18.04.51:788][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.04-18.04.51:930][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.04-18.04.51:966][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.04-18.04.52:024][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.04-18.04.52:081][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.04-18.04.52:148][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.04-18.04.52:218][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.04-18.04.52:218][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.04-18.04.52:868][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.04-18.04.53:120][  0]LogDerivedDataCache: Loaded boot cache 0.25s 90MB C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.04-18.04.53:120][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.04-18.04.53:120][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/mm/set/main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.04-18.04.53:120][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.04-18.04.53:121][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/mm/set/main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.04-18.04.53:121][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.04-18.04.53:150][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.04-18.04.53:163][  0]LogDerivedDataCache: Using Local data cache path C:/Users/choiw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.04-18.04.53:194][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.04-18.04.53:200][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.04-18.04.53:216][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.04-18.04.53:216][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.04-18.04.54:128][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.04-18.04.54:736][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.04-18.04.54:815][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.04-18.04.54:816][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.04-18.04.54:816][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.04-18.04.54:816][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.04-18.04.54:816][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.04-18.04.54:917][  0]LogNetVersion: main , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1998149536)
+[2018.01.04-18.04.55:461][  0]LogAssetRegistry: FAssetRegistry took 0.0309 seconds to start up
+[2018.01.04-18.04.56:953][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.072177 seconds
+[2018.01.04-18.04.56:962][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.04-18.04.56:962][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.01.04-18.04.56:962][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.04-18.04.57:031][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.04-18.05.05:015][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.04-18.05.05:067][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.04-18.05.05:874][  0]LogLinker: Warning: Asset 'D:/mm/set/main/Content/pratice/gamehud.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.01.04-18.05.06:180][  0]LogLinker: Warning: '/Game/pratice/crosshair' 파일을 찾을 수 없습니다.
+[2018.01.04-18.05.06:180][  0]LogLinker: Warning: D:/mm/set/main/Content/pratice/gamehud.uasset 로드중 '/Game/pratice/crosshair' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.04-18.05.06:181][  0]LoadErrors: Error: /Game/pratice/gamehud : 애셋에 대한 파일을 찾을 수 없습니다. /Game/pratice/crosshair
+[2018.01.04-18.05.06:181][  0]LogLinker: Warning: '/Game/pratice/crosshair' 파일을 찾을 수 없습니다.
+[2018.01.04-18.05.06:181][  0]LogLinker: Warning: D:/mm/set/main/Content/pratice/gamehud.uasset 로드중 '/Game/pratice/crosshair' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.04-18.05.06:181][  0]LoadErrors: Error: /Game/pratice/gamehud : 애셋에 대한 파일을 찾을 수 없습니다. /Game/pratice/crosshair
+[2018.01.04-18.05.06:186][  0]LogLinker: Warning: '/Game/pratice/crosshair' 파일을 찾을 수 없습니다.
+[2018.01.04-18.05.06:186][  0]LoadErrors: 로드에 실패했습니다. /Game/pratice/crosshair.crosshair 레퍼런싱한 것: K2Node_CallFunction_0
+[2018.01.04-18.05.06:186][  0]LogLinker: Warning: D:/mm/set/main/Content/pratice/gamehud.uasset 로드중 '/Game/pratice/crosshair' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.04-18.05.06:186][  0]LoadErrors: 로드에 실패했습니다. /Game/pratice/crosshair.crosshair 레퍼런싱한 것: K2Node_CallFunction_0
+[2018.01.04-18.05.06:186][  0]LoadErrors: Error: /Game/pratice/gamehud : 애셋에 대한 파일을 찾을 수 없습니다. /Game/pratice/crosshair
+[2018.01.04-18.05.06:261][  0]LogLinker: Warning: '/Game/pratice/crosshair' 파일을 찾을 수 없습니다.
+[2018.01.04-18.05.06:261][  0]LogLinker: Warning: D:/mm/set/main/Content/pratice/gamehud.uasset 로드중 '/Game/pratice/crosshair' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.04-18.05.06:261][  0]LoadErrors: Error: /Game/pratice/gamehud : 애셋에 대한 파일을 찾을 수 없습니다. /Game/pratice/crosshair
+[2018.01.04-18.05.06:262][  0]LogLinker: Warning: '/Game/pratice/crosshair' 파일을 찾을 수 없습니다.
+[2018.01.04-18.05.06:262][  0]LogLinker: Warning: D:/mm/set/main/Content/pratice/gamehud.uasset 로드중 '/Game/pratice/crosshair' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.04-18.05.06:262][  0]LoadErrors: Error: /Game/pratice/gamehud : 애셋에 대한 파일을 찾을 수 없습니다. /Game/pratice/crosshair
+[2018.01.04-18.05.06:388][  0]LogStaticMesh: SM_Creature_Gruntling_Weapon03_Internal 스태틱 메시 빌드중...
+[2018.01.04-18.05.06:394][  0]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Weapons/Meshes/SM_Creature_Gruntling_Weapon03_Internal.SM_Creature_Gruntling_Weapon03_Internal
+[2018.01.04-18.05.06:789][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.04-18.05.07:424][  0]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.04-18.05.07:424][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.04-18.05.07:424][  0]LogPackageName: SearchForPackageOnDisk took   0.105s, but failed to resolve S_ClothTarps_03.
+[2018.01.04-18.05.07:424][  0]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2018.01.04-18.05.07:424][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.04-18.05.07:424][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.04-18.05.07:492][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.04-18.05.07:557][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.04-18.05.08:584][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.04-18.05.08:897][  0]LogOcInput: OculusInput pre-init called
+[2018.01.04-18.05.09:274][  0]LogEngine: Initializing Engine...
+[2018.01.04-18.05.09:280][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.04-18.05.09:719][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.04-18.05.09:719][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.04-18.05.09:905][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.04-18.05.09:927][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-18.05.09:950][  0]LogInit: FAudioDevice initialized.
+[2018.01.04-18.05.10:029][  0]LogDerivedDataCache: Saved boot cache 0.08s 91MB C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.04-18.05.10:055][  0]LogInit: Texture streaming: Enabled
+[2018.01.04-18.05.10:184][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.04-18.05.10:330][  0]LogInit: Transaction tracking system initialized
+[2018.01.04-18.05.10:702][  0]BlueprintLog: New page: 에디터 로드
+[2018.01.04-18.05.11:838][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.01.04-18.05.12:738][  0]LogConsoleResponse: Display: 
+[2018.01.04-18.05.13:120][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.04-18.05.13:120][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.04-18.05.13:121][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.04-18.05.13:672][  0]LogFileCache: Scanning file cache for directory 'D:/mm/set/main/Content/' took 0.02s
+[2018.01.04-18.05.14:775][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.04-18.05.14:777][  0]Cmd: MAP LOAD FILE="D:/mm/set/main/Content/InfinityBladeGrassLands/Maps/entry.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.04-18.05.14:778][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.04-18.05.14:868][  0]MapCheck: New page: 맵 체크
+[2018.01.04-18.05.14:869][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.04-18.05.14:932][  0]LogAIModule: Creating AISystem for world entry
+[2018.01.04-18.05.14:942][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.04-18.05.14:966][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.04-18.05.15:040][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 73.534ms.
+[2018.01.04-18.05.15:040][  0]LogFileHelpers: Loading map 'entry' took 0.264
+[2018.01.04-18.05.15:407][  0]LogCollectionManager: Loaded 0 collections in 0.001751 seconds
+[2018.01.04-18.05.15:540][  0]LogFileCache: Scanning file cache for directory 'D:/mm/set/main/Saved/Collections/' took 0.01s
+[2018.01.04-18.05.15:540][  0]LogFileCache: Scanning file cache for directory 'D:/mm/set/main/Content/Developers/choiw/Collections/' took 0.02s
+[2018.01.04-18.05.15:540][  0]LogFileCache: Scanning file cache for directory 'D:/mm/set/main/Content/Collections/' took 0.02s
+[2018.01.04-18.05.15:540][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.04-18.05.15:559][  0]LogContentBrowser: Native class hierarchy populated in 0.0158 seconds. Added 2365 classes and 521 folders.
+[2018.01.04-18.05.15:654][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.01.04-18.05.16:064][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.01.04-18.05.16:122][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.04-18.05.16:401][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.01.04-18.05.16:401][  0]LogLoad: (Engine Initialization) Total time: 35.93 seconds
+[2018.01.04-18.05.16:401][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.04-18.05.16:402][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.04-18.05.16:465][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.01.04-18.05.16:566][  0]LogSlate: Took 0.006117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.04-18.05.16:595][  0]LogSlate: Took 0.027905 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.01.04-18.05.16:603][  0]LogSlate: Took 0.007219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.04-18.05.16:626][  0]LogSlate: Took 0.010819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.04-18.05.16:889][  0]LogSlate: Took 0.004168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.04-18.05.16:925][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/mm/set/main/Content/' took 0.49s
+[2018.01.04-18.05.16:983][  2]LogRenderer: Reallocating scene render targets to support 848x380 Format 9 NumSamples 1 (Frame:1).
+[2018.01.04-18.05.17:177][  2]LogAssetRegistry: Asset discovery search completed in 21.7406 seconds
+[2018.01.04-18.05.17:184][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2018.01.04-18.05.17:184][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.001556 seconds (updated 0 objects)
+[2018.01.04-18.05.19:439][181]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.04-18.05.37:298][592]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.04-18.05.38:174][592]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.04-18.05.40:801][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_76 (AutoDXT, 128X128)
+[2018.01.04-18.05.40:801][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_75 (AutoDXT, 128X128)
+[2018.01.04-18.05.40:801][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_77 (AutoDXT, 128X128)
+[2018.01.04-18.05.40:801][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_79 (AutoDXT, 64X64)
+[2018.01.04-18.05.40:801][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_78 (AutoDXT, 128X128)
+[2018.01.04-18.05.40:801][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.01.04-18.05.40:801][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2018.01.04-18.05.40:801][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2018.01.04-18.05.40:801][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2018.01.04-18.05.40:801][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_11 (AutoDXT, 512X512)
+[2018.01.04-18.05.40:801][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2018.01.04-18.05.40:802][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_15 (AutoDXT, 128X128)
+[2018.01.04-18.05.40:802][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2018.01.04-18.05.40:802][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2018.01.04-18.05.40:802][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2018.01.04-18.05.40:802][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_17 (AutoDXT, 512X512)
+[2018.01.04-18.05.40:802][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_20 (AutoDXT, 128X128)
+[2018.01.04-18.05.40:802][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_21 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:013][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_22 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:013][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.01.04-18.05.41:014][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_23 (AutoDXT, 512X512)
+[2018.01.04-18.05.41:014][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_24 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:014][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_25 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:014][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_26 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:228][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_27 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:228][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_28 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:228][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_29 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:228][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_30 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:229][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_31 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:229][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_32 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:229][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.01.04-18.05.41:229][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_33 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:229][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_34 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:229][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_36 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:229][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_35 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:229][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_38 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:229][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_37 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:455][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_39 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:455][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_40 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:456][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_41 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:456][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_42 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:456][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_43 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:456][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2018.01.04-18.05.41:456][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_45 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:456][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_44 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:456][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_47 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:456][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_46 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:456][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_48 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:456][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_49 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:456][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_50 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:456][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2018.01.04-18.05.41:457][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_51 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:664][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_52 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:664][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_53 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:665][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_54 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:665][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_55 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:665][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_56 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:665][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_57 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:665][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_58 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:665][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_59 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:665][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_60 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:665][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2018.01.04-18.05.41:665][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_61 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:873][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_62 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:873][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_63 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:873][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_64 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:873][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_65 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:874][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_66 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:875][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_67 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:875][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_68 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:875][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_69 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:875][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2018.01.04-18.05.41:875][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_71 (AutoDXT, 256X256)
+[2018.01.04-18.05.41:875][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_70 (AutoDXT, 1024X1024)
+[2018.01.04-18.05.42:069][592]LogMaterial: Missing cached shader map for material M_Plains_Floors_Block, compiling. 
+[2018.01.04-18.05.42:194][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_72 (AutoDXT, 128X128)
+[2018.01.04-18.05.42:195][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_73 (AutoDXT, 128X128)
+[2018.01.04-18.05.42:195][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_74 (AutoDXT, 128X128)
+[2018.01.04-18.05.42:417][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2018.01.04-18.05.43:325][592]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2018.01.04-18.05.43:325][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_75 (DXT1, 128X128)
+[2018.01.04-18.05.43:325][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_76 (DXT1, 128X128)
+[2018.01.04-18.05.43:325][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_77 (DXT1, 128X128)
+[2018.01.04-18.05.43:325][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_78 (DXT1, 128X128)
+[2018.01.04-18.05.43:325][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_79 (DXT1, 64X64)
+[2018.01.04-18.05.43:325][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.01.04-18.05.43:325][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2018.01.04-18.05.43:325][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2018.01.04-18.05.43:325][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_11 (DXT1, 512X512)
+[2018.01.04-18.05.43:843][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2018.01.04-18.05.43:844][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2018.01.04-18.05.43:844][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_15 (DXT1, 128X128)
+[2018.01.04-18.05.43:844][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2018.01.04-18.05.43:844][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_17 (DXT1, 512X512)
+[2018.01.04-18.05.43:844][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2018.01.04-18.05.43:844][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2018.01.04-18.05.43:844][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.01.04-18.05.43:844][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_20 (DXT1, 128X128)
+[2018.01.04-18.05.43:844][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_21 (DXT1, 128X128)
+[2018.01.04-18.05.43:844][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_22 (DXT1, 128X128)
+[2018.01.04-18.05.43:845][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_23 (DXT1, 512X512)
+[2018.01.04-18.05.43:847][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_24 (DXT1, 128X128)
+[2018.01.04-18.05.44:453][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_25 (DXT1, 128X128)
+[2018.01.04-18.05.44:454][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_26 (DXT1, 128X128)
+[2018.01.04-18.05.44:455][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_27 (DXT1, 128X128)
+[2018.01.04-18.05.44:455][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_28 (DXT1, 128X128)
+[2018.01.04-18.05.44:455][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_29 (DXT1, 128X128)
+[2018.01.04-18.05.44:455][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_30 (DXT1, 128X128)
+[2018.01.04-18.05.44:455][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_31 (DXT1, 128X128)
+[2018.01.04-18.05.44:455][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_32 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_33 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_34 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_35 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_36 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_37 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_38 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_39 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_40 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_41 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_42 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_43 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_44 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_45 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_46 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_47 (DXT1, 128X128)
+[2018.01.04-18.05.44:456][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_48 (DXT1, 128X128)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_49 (DXT1, 128X128)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_50 (DXT1, 128X128)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_51 (DXT1, 128X128)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_52 (DXT1, 128X128)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_53 (DXT1, 128X128)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_54 (DXT1, 128X128)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_55 (DXT1, 128X128)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_56 (DXT1, 128X128)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_57 (DXT1, 128X128)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_58 (DXT1, 128X128)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_59 (DXT1, 128X128)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_60 (DXT1, 128X128)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2018.01.04-18.05.44:457][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_61 (DXT1, 128X128)
+[2018.01.04-18.05.44:458][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_62 (DXT1, 128X128)
+[2018.01.04-18.05.45:927][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_63 (DXT1, 128X128)
+[2018.01.04-18.05.45:928][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_64 (DXT1, 128X128)
+[2018.01.04-18.05.45:928][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_65 (DXT1, 128X128)
+[2018.01.04-18.05.45:928][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_66 (DXT1, 128X128)
+[2018.01.04-18.05.45:928][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_67 (DXT1, 128X128)
+[2018.01.04-18.05.45:928][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_68 (DXT1, 128X128)
+[2018.01.04-18.05.45:928][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_69 (DXT1, 128X128)
+[2018.01.04-18.05.45:928][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2018.01.04-18.05.45:930][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_71 (DXT1, 256X256)
+[2018.01.04-18.05.45:930][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_70 (DXT1, 1024X1024)
+[2018.01.04-18.05.45:931][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_72 (DXT1, 128X128)
+[2018.01.04-18.05.45:931][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_73 (DXT1, 128X128)
+[2018.01.04-18.05.45:931][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_74 (DXT1, 128X128)
+[2018.01.04-18.05.45:931][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2018.01.04-18.05.45:931][592]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2018.01.04-18.05.45:931][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_75 (AutoDXT, 128X64)
+[2018.01.04-18.05.45:931][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_76 (AutoDXT, 128X64)
+[2018.01.04-18.05.45:931][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_77 (AutoDXT, 128X64)
+[2018.01.04-18.05.45:931][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_78 (AutoDXT, 128X64)
+[2018.01.04-18.05.45:931][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_79 (AutoDXT, 64X32)
+[2018.01.04-18.05.45:932][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2018.01.04-18.05.45:932][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_10 (AutoDXT, 1024X512)
+[2018.01.04-18.05.45:932][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_11 (AutoDXT, 512X256)
+[2018.01.04-18.05.45:932][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_12 (AutoDXT, 256X128)
+[2018.01.04-18.05.45:932][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_13 (AutoDXT, 256X128)
+[2018.01.04-18.05.45:932][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_14 (AutoDXT, 128X64)
+[2018.01.04-18.05.45:932][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_15 (AutoDXT, 128X64)
+[2018.01.04-18.05.45:932][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_16 (AutoDXT, 256X128)
+[2018.01.04-18.05.45:932][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_17 (AutoDXT, 512X256)
+[2018.01.04-18.05.45:932][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_18 (AutoDXT, 256X128)
+[2018.01.04-18.05.45:932][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_19 (AutoDXT, 128X64)
+[2018.01.04-18.05.45:932][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_21 (AutoDXT, 128X64)
+[2018.01.04-18.05.45:932][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_20 (AutoDXT, 128X64)
+[2018.01.04-18.05.45:933][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_22 (AutoDXT, 128X64)
+[2018.01.04-18.05.45:933][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_23 (AutoDXT, 512X256)
+[2018.01.04-18.05.45:933][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2018.01.04-18.05.45:933][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_24 (AutoDXT, 128X64)
+[2018.01.04-18.05.45:934][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_25 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:672][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_26 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:672][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_27 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_28 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_29 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_30 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_31 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_33 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_32 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_34 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_35 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_36 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_37 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_38 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_39 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_40 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_41 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:673][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_42 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:674][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2018.01.04-18.05.46:676][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_43 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:676][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_44 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:676][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_45 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:676][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_46 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:676][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_47 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:676][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_48 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:676][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_49 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:677][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_50 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:677][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_51 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:677][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2018.01.04-18.05.46:677][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_52 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:677][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_53 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:677][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_54 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:678][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_55 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:678][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_56 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:679][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_57 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:679][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_58 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:680][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_59 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:680][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_60 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:680][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2018.01.04-18.05.46:680][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_61 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:680][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_62 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:680][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_63 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:680][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_64 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:681][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_65 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:681][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_66 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:683][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_67 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:683][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_68 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:683][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_69 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:683][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_7 (AutoDXT, 128X64)
+[2018.01.04-18.05.46:683][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_70 (AutoDXT, 1024X512)
+[2018.01.04-18.05.46:684][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_71 (AutoDXT, 256X128)
+[2018.01.04-18.05.47:238][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_72 (AutoDXT, 128X64)
+[2018.01.04-18.05.47:239][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_73 (AutoDXT, 128X64)
+[2018.01.04-18.05.47:239][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_74 (AutoDXT, 128X64)
+[2018.01.04-18.05.47:239][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_8 (AutoDXT, 512X256)
+[2018.01.04-18.05.47:239][592]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_9 (AutoDXT, 256X128)
+[2018.01.04-18.05.47:239][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_100 (G8, 64X64)
+[2018.01.04-18.05.47:239][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_101 (G8, 64X64)
+[2018.01.04-18.05.47:239][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_102 (G8, 64X64)
+[2018.01.04-18.05.47:239][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_103 (G8, 64X64)
+[2018.01.04-18.05.47:239][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_104 (G8, 64X64)
+[2018.01.04-18.05.47:239][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_105 (G8, 64X64)
+[2018.01.04-18.05.47:239][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_106 (G8, 64X64)
+[2018.01.04-18.05.47:239][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_107 (G8, 64X64)
+[2018.01.04-18.05.47:239][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_108 (G8, 64X64)
+[2018.01.04-18.05.47:239][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_109 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_110 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_111 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_112 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_113 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_114 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_115 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_116 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_117 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_118 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_119 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_120 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_121 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_122 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_123 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_124 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_125 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_126 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_127 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_128 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_129 (G8, 64X64)
+[2018.01.04-18.05.47:240][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_130 (G8, 128X64)
+[2018.01.04-18.05.47:241][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_131 (G8, 64X64)
+[2018.01.04-18.05.47:241][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_132 (G8, 64X64)
+[2018.01.04-18.05.47:241][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_133 (G8, 64X64)
+[2018.01.04-18.05.47:241][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_134 (G8, 64X64)
+[2018.01.04-18.05.47:241][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_135 (G8, 64X64)
+[2018.01.04-18.05.47:241][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_136 (G8, 64X64)
+[2018.01.04-18.05.47:241][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_137 (G8, 64X64)
+[2018.01.04-18.05.47:241][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_138 (G8, 64X64)
+[2018.01.04-18.05.47:241][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_139 (G8, 64X64)
+[2018.01.04-18.05.47:241][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_140 (G8, 64X64)
+[2018.01.04-18.05.47:241][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_141 (G8, 64X64)
+[2018.01.04-18.05.47:241][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_142 (G8, 1024X128)
+[2018.01.04-18.05.47:242][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_143 (G8, 256X64)
+[2018.01.04-18.05.47:245][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_144 (G8, 64X64)
+[2018.01.04-18.05.47:246][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_145 (G8, 128X64)
+[2018.01.04-18.05.47:246][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_146 (G8, 64X64)
+[2018.01.04-18.05.47:246][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_147 (G8, 64X64)
+[2018.01.04-18.05.47:246][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_148 (G8, 64X64)
+[2018.01.04-18.05.47:246][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_149 (G8, 64X64)
+[2018.01.04-18.05.47:246][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_150 (G8, 64X64)
+[2018.01.04-18.05.47:246][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_151 (G8, 32X32)
+[2018.01.04-18.05.47:246][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_76 (G8, 1024X128)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_77 (G8, 1024X256)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_78 (G8, 1024X512)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_80 (G8, 64X512)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_81 (G8, 1024X256)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_82 (G8, 128X64)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_83 (G8, 1024X64)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_79 (G8, 1024X1024)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_84 (G8, 1024X128)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_85 (G8, 1024X64)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_86 (G8, 512X64)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_87 (G8, 512X64)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_88 (G8, 128X64)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_89 (G8, 64X64)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_90 (G8, 256X64)
+[2018.01.04-18.05.47:247][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_91 (G8, 1024X256)
+[2018.01.04-18.05.47:248][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_92 (G8, 128X64)
+[2018.01.04-18.05.47:248][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_93 (G8, 64X64)
+[2018.01.04-18.05.47:248][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_94 (G8, 64X64)
+[2018.01.04-18.05.47:248][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_95 (G8, 64X64)
+[2018.01.04-18.05.47:248][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_96 (G8, 64X64)
+[2018.01.04-18.05.47:248][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_97 (G8, 1024X64)
+[2018.01.04-18.05.47:248][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_98 (G8, 64X64)
+[2018.01.04-18.05.47:248][592]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_99 (G8, 64X64)
+[2018.01.04-18.05.47:833][592]LogMaterial: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2018.01.04-18.05.47:891][592]LogMaterial: Missing cached shader map for material M_Burst, compiling. 
+[2018.01.04-18.05.47:958][592]LogMaterial: Missing cached shader map for material m_flare_01, compiling. 
+[2018.01.04-18.05.48:018][592]LogMaterial: Missing cached shader map for material M_radial_ramp, compiling. 
+[2018.01.04-18.05.48:201][592]LogAIModule: Creating AISystem for world map
+[2018.01.04-18.05.48:244][592]AnimBlueprint: Warning: 슬롯노드: NewAnimBlueprint_C 애니메이션 인스턴트 클래스의 'attack' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.01.04-18.05.48:346][592]Cmd: MAP LOAD FILE="D:/mm/set/main/Content/InfinityBladeGrassLands/Maps/map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.04-18.05.48:347][592]LightingResults: New page: 라이팅 빌드
+[2018.01.04-18.05.48:348][592]LoadErrors: New page: 맵 로드중: map.umap
+[2018.01.04-18.05.48:350][592]MapCheck: New page: 맵 체크
+[2018.01.04-18.05.48:350][592]LightingResults: New page: 라이팅 빌드
+[2018.01.04-18.05.48:409][592]AnimBlueprint: Warning: 슬롯노드: NewAnimBlueprint_C 애니메이션 인스턴트 클래스의 'attack' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.01.04-18.05.48:892][592]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.01.04-18.05.48:970][592]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.04-18.05.49:088][592]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 117.414ms.
+[2018.01.04-18.05.49:089][592]LogFileHelpers: Loading map 'map' took 0.748
+[2018.01.04-18.05.56:064][969]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.04-18.05.56:219][969]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.04-18.05.56:220][969]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.04-18.05.56:346][969]LogPackageName: SearchForPackageOnDisk took   0.127s, but failed to resolve S_ClothTarps_03.
+[2018.01.04-18.05.56:347][969]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2018.01.04-18.05.56:535][969]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.05.56:536][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-18.05.56:539][969]PIE: New page: PIE 세션: map (2018. 1. 5. 오후 12:05:56)
+[2018.01.04-18.05.56:540][969]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map
+[2018.01.04-18.05.56:620][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080005s)
+[2018.01.04-18.05.56:621][969]LogAIModule: Creating AISystem for world map
+[2018.01.04-18.05.56:622][969]LogPlayLevel: PIE: World Init took: (0.001505s)
+[2018.01.04-18.05.56:623][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/map.map to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map (0.082817s)
+[2018.01.04-18.05.56:638][969]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-18.05.56:686][969]LogInit: FAudioDevice initialized.
+[2018.01.04-18.05.56:758][969]LogLoad: Game class is 'mainGameMode'
+[2018.01.04-18.05.56:786][969]AnimBlueprint: Warning: 슬롯노드: NewAnimBlueprint_C 애니메이션 인스턴트 클래스의 'attack' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.01.04-18.05.56:788][969]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map up for play (max tick rate 0) at 2018.01.05-03.05.56
+[2018.01.04-18.05.56:795][969]LogWorld: Bringing up level for play took: 0.029645
+[2018.01.04-18.05.56:872][969]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2018.01.04-18.05.56:894][969]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map 에 대한 에디터에서 플레이 시작 시간: 0.714
+[2018.01.04-18.05.56:895][969]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.06.02:062][154]LogAnimation: Warning: SLOTNODE: 'attack' in animation instance class NewAnimBlueprint_C already exists. Remove duplicates from the animation graph for this class.
+[2018.01.04-18.06.20:099][278]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.06.20:176][278]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.06.23:689][488]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.01.04-18.06.40:603][109]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.04-18.06.40:648][109]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.06.40:648][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-18.06.40:649][109]PIE: New page: PIE 세션: map (2018. 1. 5. 오후 12:06:40)
+[2018.01.04-18.06.40:649][109]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map
+[2018.01.04-18.06.40:729][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079920s)
+[2018.01.04-18.06.40:731][109]LogAIModule: Creating AISystem for world map
+[2018.01.04-18.06.40:732][109]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2018.01.04-18.06.40:732][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/map.map to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map (0.083672s)
+[2018.01.04-18.06.40:777][109]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-18.06.40:790][109]LogInit: FAudioDevice initialized.
+[2018.01.04-18.06.40:834][109]LogLoad: Game class is 'mainGameMode'
+[2018.01.04-18.06.40:856][109]AnimBlueprint: Warning: 슬롯노드: NewAnimBlueprint_C 애니메이션 인스턴트 클래스의 'attack' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.01.04-18.06.40:858][109]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map up for play (max tick rate 0) at 2018.01.05-03.06.40
+[2018.01.04-18.06.40:860][109]LogWorld: Bringing up level for play took: 0.025372
+[2018.01.04-18.06.40:867][109]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map 에 대한 에디터에서 플레이 시작 시간: 0.687
+[2018.01.04-18.06.40:868][109]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.06.48:311][565]LogAnimation: Warning: SLOTNODE: 'attack' in animation instance class NewAnimBlueprint_C already exists. Remove duplicates from the animation graph for this class.
+[2018.01.04-18.06.50:665][716]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.06.50:727][716]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.06.57:191][161]AssetReimport: New page: 처리중인 소스 콘텐츠 변경사항 오후 12:06:57
+[2018.01.04-18.06.57:197][161]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/mm/set/main/Content/pratice/cross.png)
+[2018.01.04-18.06.57:312][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/cross" FILE="D:/mm/set/main/Content/pratice/cross.uasset" SILENT=true
+[2018.01.04-18.06.57:339][162]LogSavePackage: Save=23.81ms
+[2018.01.04-18.06.57:339][162]LogSavePackage: Moving 'D:/mm/set/main/Saved/crossC1505976438EFAE688497D8350A4F976.tmp' to 'D:/mm/set/main/Content/pratice/cross.uasset'
+[2018.01.04-18.06.57:351][162]LogSavePackage: Display: Finished SavePackage D:/mm/set/main/Content/pratice/cross.uasset
+[2018.01.04-18.07.00:376][349]AssetReimport: /Game/pratice/cross 새 애셋 임포트중.
+[2018.01.04-18.07.20:733][ 70]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.04-18.07.20:776][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.07.20:777][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-18.07.20:777][ 70]PIE: New page: PIE 세션: map (2018. 1. 5. 오후 12:07:20)
+[2018.01.04-18.07.20:777][ 70]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map
+[2018.01.04-18.07.20:837][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058953s)
+[2018.01.04-18.07.20:838][ 70]LogAIModule: Creating AISystem for world map
+[2018.01.04-18.07.20:838][ 70]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2018.01.04-18.07.20:838][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/map.map to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map (0.060867s)
+[2018.01.04-18.07.20:853][ 70]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-18.07.20:871][ 70]LogInit: FAudioDevice initialized.
+[2018.01.04-18.07.20:923][ 70]LogLoad: Game class is 'mainGameMode'
+[2018.01.04-18.07.20:943][ 70]AnimBlueprint: Warning: 슬롯노드: NewAnimBlueprint_C 애니메이션 인스턴트 클래스의 'attack' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.01.04-18.07.20:946][ 70]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map up for play (max tick rate 0) at 2018.01.05-03.07.20
+[2018.01.04-18.07.20:948][ 70]LogWorld: Bringing up level for play took: 0.024488
+[2018.01.04-18.07.20:957][ 70]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map 에 대한 에디터에서 플레이 시작 시간: 0.777
+[2018.01.04-18.07.20:958][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.07.22:095][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.07.22:150][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.07.38:026][362]LogRenderer: Reallocating scene render targets to support 1020x456 Format 9 NumSamples 1 (Frame:5489).
+[2018.01.04-18.07.44:801][845]LogActorFactory: Actor Factory created Cube
+[2018.01.04-18.07.45:255][872]LogActorFactory: Actor Factory created Cube
+[2018.01.04-18.07.48:495][ 75]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.01.04-18.07.49:669][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.04-18.07.51:896][271]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.01.04-18.07.55:123][399]LogStaticMesh: SM_Creature_Gruntling_Weapon04_Internal 스태틱 메시 빌드중...
+[2018.01.04-18.07.55:124][399]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.04-18.07.55:125][399]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Weapons/Meshes/SM_Creature_Gruntling_Weapon04_Internal.SM_Creature_Gruntling_Weapon04_Internal
+[2018.01.04-18.08.03:398][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block26)
+[2018.01.04-18.08.04:006][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.04-18.08.28:963][463]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.04-18.08.29:001][463]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.08.29:002][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-18.08.29:003][463]PIE: New page: PIE 세션: map (2018. 1. 5. 오후 12:08:29)
+[2018.01.04-18.08.29:007][463]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map
+[2018.01.04-18.08.29:072][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064409s)
+[2018.01.04-18.08.29:073][463]LogAIModule: Creating AISystem for world map
+[2018.01.04-18.08.29:074][463]LogPlayLevel: PIE: World Init took: (0.001520s)
+[2018.01.04-18.08.29:075][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/map.map to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map (0.067375s)
+[2018.01.04-18.08.29:090][463]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-18.08.29:108][463]LogInit: FAudioDevice initialized.
+[2018.01.04-18.08.29:150][463]LogLoad: Game class is 'mainGameMode'
+[2018.01.04-18.08.29:172][463]AnimBlueprint: Warning: 슬롯노드: NewAnimBlueprint_C 애니메이션 인스턴트 클래스의 'attack' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.01.04-18.08.29:175][463]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map up for play (max tick rate 0) at 2018.01.05-03.08.29
+[2018.01.04-18.08.29:178][463]LogWorld: Bringing up level for play took: 0.026943
+[2018.01.04-18.08.29:188][463]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map 에 대한 에디터에서 플레이 시작 시간: 1.007
+[2018.01.04-18.08.29:189][463]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.08.35:704][932]LogAnimation: Warning: SLOTNODE: 'attack' in animation instance class NewAnimBlueprint_C already exists. Remove duplicates from the animation graph for this class.
+[2018.01.04-18.08.38:171][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.08.38:227][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.08.38:936][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.04-18.08.39:379][189]Cmd: DELETE
+[2018.01.04-18.08.39:380][189]Cmd: ACTOR DELETE
+[2018.01.04-18.08.39:407][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.04-18.08.39:423][189]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.01.04-18.09.05:767][947]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.01.04-18.09.10:435][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block26)
+[2018.01.04-18.09.11:045][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block26)
+[2018.01.04-18.09.13:069][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block26)
+[2018.01.04-18.09.13:531][334]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2018.01.04-18.09.32:096][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.01.04-18.09.32:579][525]Cmd: DELETE
+[2018.01.04-18.09.32:580][525]Cmd: ACTOR DELETE
+[2018.01.04-18.09.32:606][525]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.04-18.09.32:620][525]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.01.04-18.09.35:906][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block26)
+[2018.01.04-18.09.36:405][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block26)
+[2018.01.04-18.09.37:863][873]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.04-18.09.37:902][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.09.37:902][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-18.09.37:902][873]PIE: New page: PIE 세션: map (2018. 1. 5. 오후 12:09:37)
+[2018.01.04-18.09.37:903][873]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map
+[2018.01.04-18.09.37:966][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063256s)
+[2018.01.04-18.09.37:967][873]LogAIModule: Creating AISystem for world map
+[2018.01.04-18.09.37:967][873]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2018.01.04-18.09.37:968][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/map.map to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map (0.065261s)
+[2018.01.04-18.09.37:979][873]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-18.09.37:995][873]LogInit: FAudioDevice initialized.
+[2018.01.04-18.09.38:048][873]LogLoad: Game class is 'mainGameMode'
+[2018.01.04-18.09.38:069][873]AnimBlueprint: Warning: 슬롯노드: NewAnimBlueprint_C 애니메이션 인스턴트 클래스의 'attack' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.01.04-18.09.38:071][873]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map up for play (max tick rate 0) at 2018.01.05-03.09.38
+[2018.01.04-18.09.38:075][873]LogWorld: Bringing up level for play took: 0.026452
+[2018.01.04-18.09.38:082][873]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map 에 대한 에디터에서 플레이 시작 시간: -0.098
+[2018.01.04-18.09.38:084][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.09.40:516][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.09.40:569][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.04-18.09.45:640][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block26)
+[2018.01.04-18.09.46:085][427]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2018.01.04-18.09.46:707][465]LogEditorViewport: Clicking on Actor (context menu): TriggerBox (TriggerBox)
+[2018.01.04-18.10.07:257][510]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.01.04-18.10.08:098][510]LogSlate: Took 0.007330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.04-18.10.35:540][973]LogAIModule: Creating AISystem for world entry
+[2018.01.04-18.10.37:298][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeGrassLands/Maps/map" FILE="D:/mm/set/main/Content/InfinityBladeGrassLands/Maps/map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.04-18.10.38:664][973]LogSavePackage: Save=1261.61ms
+[2018.01.04-18.10.38:664][973]LogSavePackage: Moving 'D:/mm/set/main/Saved/map4BC8147B46F649A33868C88D910E5F57.tmp' to 'D:/mm/set/main/Content/InfinityBladeGrassLands/Maps/map.umap'
+[2018.01.04-18.10.38:669][973]LogSavePackage: Display: Finished SavePackage D:/mm/set/main/Content/InfinityBladeGrassLands/Maps/map.umap
+[2018.01.04-18.10.38:712][973]LogFileHelpers: Saving map 'map' took 1.527
+[2018.01.04-18.10.38:714][973]Cmd: MAP LOAD FILE="D:/mm/set/main/Content/InfinityBladeGrassLands/Maps/entry.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.04-18.10.38:714][973]LightingResults: New page: 라이팅 빌드
+[2018.01.04-18.10.38:715][973]LoadErrors: New page: 맵 로드중: entry.umap
+[2018.01.04-18.10.38:721][973]MapCheck: New page: 맵 체크
+[2018.01.04-18.10.38:721][973]LightingResults: New page: 라이팅 빌드
+[2018.01.04-18.10.38:860][973]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.04-18.10.38:932][973]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.04-18.10.39:029][973]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 96.244ms.
+[2018.01.04-18.10.39:037][973]LogFileHelpers: Loading map 'entry' took 0.324
+[2018.01.04-18.11.11:391][ 56]BlueprintLog: New page: entry 컴파일
+[2018.01.04-18.11.16:226][384]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.04-18.11.16:280][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.11.16:280][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-18.11.16:280][384]PIE: New page: PIE 세션: entry (2018. 1. 5. 오후 12:11:16)
+[2018.01.04-18.11.16:281][384]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry
+[2018.01.04-18.11.16:283][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001919s)
+[2018.01.04-18.11.16:284][384]LogAIModule: Creating AISystem for world entry
+[2018.01.04-18.11.16:285][384]LogPlayLevel: PIE: World Init took: (0.002160s)
+[2018.01.04-18.11.16:286][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/entry.entry to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry.entry (0.005489s)
+[2018.01.04-18.11.16:314][384]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-18.11.16:326][384]LogInit: FAudioDevice initialized.
+[2018.01.04-18.11.16:362][384]LogLoad: Game class is 'mainGameMode'
+[2018.01.04-18.11.16:364][384]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry.entry up for play (max tick rate 0) at 2018.01.05-03.11.16
+[2018.01.04-18.11.16:365][384]LogWorld: Bringing up level for play took: 0.001124
+[2018.01.04-18.11.16:372][384]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry 에 대한 에디터에서 플레이 시작 시간: 0.192
+[2018.01.04-18.11.16:372][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.11.16:374][384]LogNet: Browse: 192.168.123.108//Game/InfinityBladeGrassLands/Maps/entry
+[2018.01.04-18.11.16:375][384]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.04-18.11.16:375][384]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.01.04-18.11.16:375][384]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.04-18.11.16:376][384]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.04-18.11.16:386][384]LogInit: WinSock: I am DESKTOP-LOUV37F (192.168.0.4:0)
+[2018.01.04-18.11.16:387][384]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.04-18.11.16:389][384]LogNet: Game client on port 7777, rate 10000
+[2018.01.04-18.11.35:117][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.11.35:175][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.11.35:197][124]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.123.108:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.04-18.11.35:197][124]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.123.108:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, Channels: 2, Time: 2018.01.04-18.11.35
+[2018.01.04-18.11.35:197][124]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.123.108:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.04-18.11.35:200][124]LogExit: PendingNetDriver None shut down
+[2018.01.04-18.11.43:172][684]Cmd: DELETE
+[2018.01.04-18.11.43:173][684]Cmd: ACTOR DELETE
+[2018.01.04-18.11.43:176][684]LogEditorActor: Deleted Actor: DirectionalLight
+[2018.01.04-18.11.43:210][684]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.01.04-18.11.46:621][942]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.04-18.11.46:654][942]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.11.46:654][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-18.11.46:655][942]PIE: New page: PIE 세션: entry (2018. 1. 5. 오후 12:11:46)
+[2018.01.04-18.11.46:655][942]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry
+[2018.01.04-18.11.46:658][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002102s)
+[2018.01.04-18.11.46:660][942]LogAIModule: Creating AISystem for world entry
+[2018.01.04-18.11.46:661][942]LogPlayLevel: PIE: World Init took: (0.003111s)
+[2018.01.04-18.11.46:663][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/entry.entry to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry.entry (0.007456s)
+[2018.01.04-18.11.46:694][942]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-18.11.46:708][942]LogInit: FAudioDevice initialized.
+[2018.01.04-18.11.46:744][942]LogLoad: Game class is 'mainGameMode'
+[2018.01.04-18.11.46:745][942]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry.entry up for play (max tick rate 0) at 2018.01.05-03.11.46
+[2018.01.04-18.11.46:745][942]LogWorld: Bringing up level for play took: 0.000790
+[2018.01.04-18.11.46:749][942]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry 에 대한 에디터에서 플레이 시작 시간: 0.569
+[2018.01.04-18.11.46:750][942]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.11.46:752][942]LogNet: Browse: 192.168.123.108//Game/InfinityBladeGrassLands/Maps/entry
+[2018.01.04-18.11.46:753][942]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.04-18.11.46:753][942]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.01.04-18.11.46:753][942]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.04-18.11.46:753][942]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.04-18.11.46:754][942]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.04-18.11.46:754][942]LogNet: Game client on port 7777, rate 10000
+[2018.01.04-18.11.56:553][711]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.11.56:601][711]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.11.56:618][711]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.123.108:7777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.04-18.11.56:619][711]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.123.108:7777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, Channels: 2, Time: 2018.01.04-18.11.56
+[2018.01.04-18.11.56:619][711]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.123.108:7777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.04-18.11.56:622][711]LogExit: PendingNetDriver None shut down
+[2018.01.04-18.12.00:692][ 15]LogEditorViewport: Clicking Background
+[2018.01.04-18.12.02:768][155]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.04-18.12.03:148][175]Cmd: DELETE
+[2018.01.04-18.12.03:148][175]Cmd: ACTOR DELETE
+[2018.01.04-18.12.03:151][175]LogEditorActor: Deleted Actor: SpotLight
+[2018.01.04-18.12.03:177][175]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.01.04-18.12.04:773][311]LogEditorViewport: Clicking Background
+[2018.01.04-18.12.16:275][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeGrassLands/Maps/entry" FILE="D:/mm/set/main/Content/InfinityBladeGrassLands/Maps/entry.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.04-18.12.16:472][962]LogSavePackage: Save=162.24ms
+[2018.01.04-18.12.16:472][962]LogSavePackage: Moving 'D:/mm/set/main/Saved/entry72B6CE4849C607BF4C848A9F82518656.tmp' to 'D:/mm/set/main/Content/InfinityBladeGrassLands/Maps/entry.umap'
+[2018.01.04-18.12.16:480][962]LogSavePackage: Display: Finished SavePackage D:/mm/set/main/Content/InfinityBladeGrassLands/Maps/entry.umap
+[2018.01.04-18.12.16:531][962]LogFileHelpers: Saving map 'entry' took 0.364
+[2018.01.04-18.12.21:093][191]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.04-18.12.21:129][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.21:130][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-18.12.21:130][191]PIE: New page: PIE 세션: entry (2018. 1. 5. 오후 12:12:21)
+[2018.01.04-18.12.21:131][191]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry
+[2018.01.04-18.12.21:133][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002613s)
+[2018.01.04-18.12.21:135][191]LogAIModule: Creating AISystem for world entry
+[2018.01.04-18.12.21:136][191]LogPlayLevel: PIE: World Init took: (0.001927s)
+[2018.01.04-18.12.21:136][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/entry.entry to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry.entry (0.005736s)
+[2018.01.04-18.12.21:161][191]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-18.12.21:180][191]LogInit: FAudioDevice initialized.
+[2018.01.04-18.12.21:233][191]LogLoad: Game class is 'mainGameMode'
+[2018.01.04-18.12.21:234][191]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry.entry up for play (max tick rate 0) at 2018.01.05-03.12.21
+[2018.01.04-18.12.21:235][191]LogWorld: Bringing up level for play took: 0.001443
+[2018.01.04-18.12.21:242][191]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry 에 대한 에디터에서 플레이 시작 시간: 1.062
+[2018.01.04-18.12.21:243][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.21:247][191]LogNet: Browse: 192.168.123.108:0//Game/InfinityBladeGrassLands/Maps/entry
+[2018.01.04-18.12.21:247][191]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.04-18.12.21:247][191]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.01.04-18.12.21:248][191]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.04-18.12.21:248][191]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.04-18.12.21:249][191]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.04-18.12.21:249][191]LogNet: Game client on port 0, rate 10000
+[2018.01.04-18.12.43:984][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.44:041][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.44:067][866]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.123.108:0, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.04-18.12.44:067][866]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.123.108:0, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, Channels: 2, Time: 2018.01.04-18.12.44
+[2018.01.04-18.12.44:067][866]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.123.108:0, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.04-18.12.44:072][866]LogExit: PendingNetDriver None shut down
+[2018.01.04-18.12.46:714][ 69]LogEditorActor: Deleted Actor: DirectionalLight
+[2018.01.04-18.12.46:753][ 69]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.01.04-18.12.49:163][273]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.04-18.12.49:203][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.49:204][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-18.12.49:204][273]PIE: New page: PIE 세션: entry (2018. 1. 5. 오후 12:12:49)
+[2018.01.04-18.12.49:204][273]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry
+[2018.01.04-18.12.49:207][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002092s)
+[2018.01.04-18.12.49:208][273]LogAIModule: Creating AISystem for world entry
+[2018.01.04-18.12.49:209][273]LogPlayLevel: PIE: World Init took: (0.001910s)
+[2018.01.04-18.12.49:210][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/entry.entry to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry.entry (0.005126s)
+[2018.01.04-18.12.49:250][273]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-18.12.49:261][273]LogInit: FAudioDevice initialized.
+[2018.01.04-18.12.49:299][273]LogLoad: Game class is 'mainGameMode'
+[2018.01.04-18.12.49:300][273]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry.entry up for play (max tick rate 0) at 2018.01.05-03.12.49
+[2018.01.04-18.12.49:301][273]LogWorld: Bringing up level for play took: 0.000761
+[2018.01.04-18.12.49:306][273]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry 에 대한 에디터에서 플레이 시작 시간: -0.875
+[2018.01.04-18.12.49:306][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.49:308][273]LogNet: Browse: 192.168.123.108:0//Game/InfinityBladeGrassLands/Maps/entry
+[2018.01.04-18.12.49:308][273]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.04-18.12.49:308][273]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.01.04-18.12.49:309][273]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.04-18.12.49:309][273]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.04-18.12.49:309][273]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.04-18.12.49:309][273]LogNet: Game client on port 0, rate 10000
+[2018.01.04-18.12.52:943][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.52:996][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.53:021][592]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.123.108:0, Name: IpConnection_3, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.04-18.12.53:021][592]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.123.108:0, Name: IpConnection_3, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, Channels: 2, Time: 2018.01.04-18.12.53
+[2018.01.04-18.12.53:021][592]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.123.108:0, Name: IpConnection_3, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.04-18.12.53:027][592]LogExit: PendingNetDriver None shut down
+[2018.01.04-18.12.53:869][657]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.04-18.12.53:904][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.53:905][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-18.12.53:905][657]PIE: New page: PIE 세션: entry (2018. 1. 5. 오후 12:12:53)
+[2018.01.04-18.12.53:905][657]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry
+[2018.01.04-18.12.53:908][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002035s)
+[2018.01.04-18.12.53:909][657]LogAIModule: Creating AISystem for world entry
+[2018.01.04-18.12.53:910][657]LogPlayLevel: PIE: World Init took: (0.002354s)
+[2018.01.04-18.12.53:911][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/entry.entry to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry.entry (0.005579s)
+[2018.01.04-18.12.53:941][657]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-18.12.53:959][657]LogInit: FAudioDevice initialized.
+[2018.01.04-18.12.54:003][657]LogLoad: Game class is 'mainGameMode'
+[2018.01.04-18.12.54:004][657]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry.entry up for play (max tick rate 0) at 2018.01.05-03.12.54
+[2018.01.04-18.12.54:004][657]LogWorld: Bringing up level for play took: 0.000625
+[2018.01.04-18.12.54:008][657]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry 에 대한 에디터에서 플레이 시작 시간: -0.172
+[2018.01.04-18.12.54:009][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.54:010][657]LogNet: Browse: 192.168.123.108:0//Game/InfinityBladeGrassLands/Maps/entry
+[2018.01.04-18.12.54:010][657]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.04-18.12.54:010][657]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2018.01.04-18.12.54:011][657]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.04-18.12.54:011][657]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.04-18.12.54:011][657]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.04-18.12.54:011][657]LogNet: Game client on port 0, rate 10000
+[2018.01.04-18.12.54:813][710]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.54:876][710]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.54:904][710]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.123.108:0, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.04-18.12.54:904][710]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.123.108:0, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL, Channels: 2, Time: 2018.01.04-18.12.54
+[2018.01.04-18.12.54:904][710]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.123.108:0, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.04-18.12.54:908][710]LogExit: PendingNetDriver None shut down
+[2018.01.04-18.12.56:587][815]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.04-18.12.56:645][815]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.56:646][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-18.12.56:646][815]PIE: New page: PIE 세션: entry (2018. 1. 5. 오후 12:12:56)
+[2018.01.04-18.12.56:646][815]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry
+[2018.01.04-18.12.56:648][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001135s)
+[2018.01.04-18.12.56:649][815]LogAIModule: Creating AISystem for world entry
+[2018.01.04-18.12.56:649][815]LogPlayLevel: PIE: World Init took: (0.001747s)
+[2018.01.04-18.12.56:650][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/entry.entry to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry.entry (0.003930s)
+[2018.01.04-18.12.56:680][815]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-18.12.56:697][815]LogInit: FAudioDevice initialized.
+[2018.01.04-18.12.56:743][815]LogLoad: Game class is 'mainGameMode'
+[2018.01.04-18.12.56:744][815]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry.entry up for play (max tick rate 0) at 2018.01.05-03.12.56
+[2018.01.04-18.12.56:744][815]LogWorld: Bringing up level for play took: 0.000814
+[2018.01.04-18.12.56:751][815]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry 에 대한 에디터에서 플레이 시작 시간: 0.571
+[2018.01.04-18.12.56:752][815]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.56:755][815]LogNet: Browse: 192.168.123.108:0//Game/InfinityBladeGrassLands/Maps/entry
+[2018.01.04-18.12.56:755][815]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.04-18.12.56:756][815]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2018.01.04-18.12.56:756][815]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.04-18.12.56:756][815]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.04-18.12.56:757][815]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.04-18.12.56:757][815]LogNet: Game client on port 0, rate 10000
+[2018.01.04-18.12.58:102][901]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.58:156][901]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.12.58:175][901]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.123.108:0, Name: IpConnection_5, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.04-18.12.58:175][901]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.123.108:0, Name: IpConnection_5, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, Channels: 2, Time: 2018.01.04-18.12.58
+[2018.01.04-18.12.58:176][901]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.123.108:0, Name: IpConnection_5, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.04-18.12.58:180][901]LogExit: PendingNetDriver None shut down
+[2018.01.04-18.13.57:953][522]BlueprintLog: New page: entry 컴파일
+[2018.01.04-18.14.01:472][778]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.04-18.14.01:503][778]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.14.01:504][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.04-18.14.01:504][778]PIE: New page: PIE 세션: entry (2018. 1. 5. 오후 12:14:01)
+[2018.01.04-18.14.01:504][778]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry
+[2018.01.04-18.14.01:506][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001506s)
+[2018.01.04-18.14.01:508][778]LogAIModule: Creating AISystem for world entry
+[2018.01.04-18.14.01:509][778]LogPlayLevel: PIE: World Init took: (0.001797s)
+[2018.01.04-18.14.01:509][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/entry.entry to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry.entry (0.004205s)
+[2018.01.04-18.14.01:532][778]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.04-18.14.01:543][778]LogInit: FAudioDevice initialized.
+[2018.01.04-18.14.01:577][778]LogLoad: Game class is 'mainGameMode'
+[2018.01.04-18.14.01:578][778]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry.entry up for play (max tick rate 0) at 2018.01.05-03.14.01
+[2018.01.04-18.14.01:578][778]LogWorld: Bringing up level for play took: 0.000474
+[2018.01.04-18.14.01:583][778]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_entry 에 대한 에디터에서 플레이 시작 시간: -0.598
+[2018.01.04-18.14.01:583][778]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.14.01:585][778]LogNet: Browse: 192.168.123.254//Game/InfinityBladeGrassLands/Maps/entry
+[2018.01.04-18.14.01:586][778]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.04-18.14.01:586][778]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2018.01.04-18.14.01:586][778]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.04-18.14.01:586][778]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.04-18.14.01:586][778]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.04-18.14.01:587][778]LogNet: Game client on port 7777, rate 10000
+[2018.01.04-18.14.10:392][603]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.14.10:446][603]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/entry.entry_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/entry.entry:PersistentLevel.entry'
+[2018.01.04-18.14.10:468][603]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.123.254:7777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_6, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.04-18.14.10:468][603]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.123.254:7777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_6, IsServer: NO, PC: NULL, Owner: NULL, Channels: 2, Time: 2018.01.04-18.14.10
+[2018.01.04-18.14.10:468][603]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.123.254:7777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_6, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.04-18.14.10:471][603]LogExit: PendingNetDriver None shut down

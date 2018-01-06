@@ -1,0 +1,9 @@
+Begin Object Class=/Script/Engine.Material Name="NewMaterial"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   StateId=DDA8333C4DFB704364A975B634367A7A
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=C7A86D5E4E324930F68E17925FAA8E7C
+End Object
