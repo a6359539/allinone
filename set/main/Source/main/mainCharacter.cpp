@@ -58,8 +58,8 @@ void AmainCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerInpu
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
 
-	PlayerInputComponent->BindAction("attack", IE_Pressed, this, &AmainCharacter::AttackAction);
-	PlayerInputComponent->BindAction("attack", IE_Released, this, &AmainCharacter::AttackAction);
+	PlayerInputComponent->BindAction("comboattack", IE_Pressed, this, &AmainCharacter::AttackAction);
+	PlayerInputComponent->BindAction("comboattack", IE_Released, this, &AmainCharacter::AttackAction);
 
 	PlayerInputComponent->BindAxis("MoveForward", this, &AmainCharacter::MoveForward);
 	PlayerInputComponent->BindAxis("MoveRight", this, &AmainCharacter::MoveRight);
