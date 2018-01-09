@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source"
-/I D:\team\set\main\Source
-/I D:\team\set\main\Intermediate\Build\Win64\UE4Editor\Inc\main
-/I D:\team\set\main\Source\main
+/I C:\in\set\main\Source
+/I C:\in\set\main\Intermediate\Build\Win64\UE4Editor\Inc\main
+/I C:\in\set\main\Source\main
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Async"
@@ -358,9 +358,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\team\set\main\Intermediate\Build\Win64\UE4Editor\Inc\main\mainCharacter.gen.cpp"
-/FI"D:\team\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\Definitions.main.h"
-/Fo"D:\team\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\mainCharacter.gen.cpp.obj"
+"C:\in\set\main\Intermediate\Build\Win64\UE4Editor\Inc\main\mainCharacter.gen.cpp"
+/FI"C:\in\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\Definitions.main.h"
+/Fo"C:\in\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\mainCharacter.gen.cpp.obj"
 /TP
 /GR-
 /W4
