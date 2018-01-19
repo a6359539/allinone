@@ -1,0 +1,950 @@
+﻿Log file open, 01/07/18 18:07:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: main
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1802145313) SRandInit(-1802145313).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.186147
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../in/set/main/Binaries/Win64/UE4Editor-main.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.07-09.07.53:788][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.07-09.07.53:788][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.07-09.07.53:817][  0]LogInit: Computer: DESKTOP-FRCQVUI
+[2018.01.07-09.07.53:817][  0]LogInit: User: oner
+[2018.01.07-09.07.53:817][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.07-09.07.53:817][  0]LogInit: High frequency timer resolution =2.630631 MHz
+[2018.01.07-09.07.53:817][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.07-09.07.53:817][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.07-09.07.53:817][  0]LogMemory: Process Physical Memory: 272.87 MB used, 272.87 MB peak
+[2018.01.07-09.07.53:817][  0]LogMemory: Process Virtual Memory: 269.54 MB used, 269.54 MB peak
+[2018.01.07-09.07.53:817][  0]LogMemory: Physical Memory: 3439.90 MB used,  4640.85 MB free, 8080.75 MB total
+[2018.01.07-09.07.53:817][  0]LogMemory: Virtual Memory: 643.75 MB used,  4640.85 MB free, 134217728.00 MB total
+[2018.01.07-09.07.54:065][  0]LogInit: Using OS detected language (ko-KR).
+[2018.01.07-09.07.54:065][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.01.07-09.07.54:068][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.01.07-09.07.54:398][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.07-09.07.57:113][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.07-09.07.57:168][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2018.01.07-09.07.57:168][  0]LogD3D11RHI:       3040/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.07-09.07.57:174][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5600' (Feature Level 11_0)
+[2018.01.07-09.07.57:174][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.07-09.07.57:176][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.07-09.07.57:176][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.07-09.07.57:176][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.07-09.07.57:183][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.07-09.07.57:183][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.07-09.07.57:183][  0]LogWindows: EnumDisplayDevices:
+[2018.01.07-09.07.57:183][  0]LogWindows:    0. 'Intel(R) HD Graphics 5600' (P:1 D:1)
+[2018.01.07-09.07.57:183][  0]LogWindows:    1. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2018.01.07-09.07.57:184][  0]LogWindows:    2. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2018.01.07-09.07.57:184][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.07-09.07.57:184][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2018.01.07-09.07.57:184][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.07-09.07.57:184][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.07-09.07.57:184][  0]LogRHI: Texture pool is 2128 MB (70% of 3040 MB)
+[2018.01.07-09.07.57:216][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.07-09.07.57:284][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.07-09.07.57:285][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../../../in/set/main/Intermediate/Shaders/WorkingDirectory/8180/).
+[2018.01.07-09.07.57:285][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/강망/AppData/Local/Temp/UnrealShaderWorkingDir/291992C247F976D1334E3094B15CC9B2/'.
+[2018.01.07-09.07.57:285][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.07-09.07.59:575][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.07-09.07.59:657][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.07-09.07.59:733][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.07-09.07.59:813][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.07-09.07.59:899][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.07-09.07.59:965][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.07-09.08.00:034][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.07-09.08.00:101][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.07-09.08.00:159][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.07-09.08.00:219][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.07-09.08.00:283][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.07-09.08.00:344][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.07-09.08.00:403][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.07-09.08.00:462][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.07-09.08.00:602][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.07-09.08.00:603][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.07-09.08.00:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.07-09.08.00:751][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.07-09.08.00:891][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.07-09.08.00:946][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.07-09.08.01:030][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.07-09.08.01:112][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.07-09.08.01:179][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.07-09.08.01:244][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.07-09.08.01:244][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.07-09.08.01:959][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.07-09.08.02:088][  0]LogDerivedDataCache: Loaded boot cache 0.13s 79MB C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.07-09.08.02:088][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.07-09.08.02:088][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../in/set/main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.07-09.08.02:088][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.07-09.08.02:088][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../in/set/main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.07-09.08.02:088][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.07-09.08.02:118][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.07-09.08.02:131][  0]LogDerivedDataCache: Using Local data cache path C:/Users/강망/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.07-09.08.02:147][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.07-09.08.02:147][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.07-09.08.02:148][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.07-09.08.02:148][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.07-09.08.02:550][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.07-09.08.03:108][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.07-09.08.03:161][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.07-09.08.03:161][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.07-09.08.03:161][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.07-09.08.03:161][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.07-09.08.03:161][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.07-09.08.03:209][  0]LogNetVersion: main , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1998149536)
+[2018.01.07-09.08.03:611][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.01.07-09.08.04:824][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.109113 seconds
+[2018.01.07-09.08.04:831][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.07-09.08.04:831][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.07-09.08.04:831][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.07-09.08.04:950][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.07-09.08.10:428][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.07-09.08.10:479][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.07-09.08.12:166][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.07-09.08.12:854][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.07-09.08.15:027][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.07-09.08.15:365][  0]LogOcInput: OculusInput pre-init called
+[2018.01.07-09.08.15:711][  0]LogEngine: Initializing Engine...
+[2018.01.07-09.08.15:714][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.07-09.08.16:127][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.07-09.08.16:127][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.07-09.08.16:292][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.07-09.08.16:299][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.07-09.08.16:322][  0]LogInit: FAudioDevice initialized.
+[2018.01.07-09.08.16:460][  0]LogDerivedDataCache: Saved boot cache 0.14s 79MB C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.07-09.08.16:482][  0]LogInit: Texture streaming: Enabled
+[2018.01.07-09.08.16:635][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.07-09.08.16:635][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={F8548E16-4B41-69E3-178C-DFAF3F8217B9}
+[2018.01.07-09.08.16:821][  0]LogInit: Transaction tracking system initialized
+[2018.01.07-09.08.17:226][  0]BlueprintLog: New page: 에디터 로드
+[2018.01.07-09.08.18:436][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.01.07-09.08.19:631][  0]LogConsoleResponse: Display: 
+[2018.01.07-09.08.20:255][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.07-09.08.20:255][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.07-09.08.20:255][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.07-09.08.21:473][  0]LogFileCache: Scanning file cache for directory 'C:/in/set/main/Content/' took 0.03s
+[2018.01.07-09.08.22:044][  0]LogSlate: Took 0.000439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.07-09.08.22:050][  0]LogSlate: Took 0.005521 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.01.07-09.08.47:999][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.01.07-09.08.48:013][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.01.07-09.08.48:233][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.01.07-09.08.48:267][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.01.07-09.08.48:272][  0]Cmd: MAP LOAD FILE="../../../../../../in/set/main/Content/InfinityBladeGrassLands/Maps/entry.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.07-09.08.48:282][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.07-09.08.48:377][  0]MapCheck: New page: 맵 체크
+[2018.01.07-09.08.48:377][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.07-09.08.48:418][  0]LogAIModule: Creating AISystem for world entry
+[2018.01.07-09.08.48:418][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.07-09.08.48:440][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.07-09.08.48:551][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 110.621ms.
+[2018.01.07-09.08.48:552][  0]LogFileHelpers: Loading map 'entry' took 0.280
+[2018.01.07-09.08.48:756][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_329c_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_2794_0///####STATCAT_Advanced####
+[2018.01.07-09.08.48:757][  0]LogCollectionManager: Loaded 0 collections in 0.003290 seconds
+[2018.01.07-09.08.48:880][  0]LogFileCache: Scanning file cache for directory 'C:/in/set/main/Saved/Collections/' took 0.01s
+[2018.01.07-09.08.48:880][  0]LogFileCache: Scanning file cache for directory 'C:/in/set/main/Content/Developers/oner/Collections/' took 0.01s
+[2018.01.07-09.08.48:880][  0]LogFileCache: Scanning file cache for directory 'C:/in/set/main/Content/Collections/' took 0.01s
+[2018.01.07-09.08.48:880][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.07-09.08.48:892][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2365 classes and 521 folders.
+[2018.01.07-09.08.48:995][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.01.07-09.08.49:290][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.01.07-09.08.49:343][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.01.07-09.08.49:429][  0]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.07-09.08.49:437][  0]LogSlate: Took 0.003972 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.07-09.08.49:747][  0]LogRenderer: Reallocating scene render targets to support 1280x576 Format 9 NumSamples 1 (Frame:1).
+[2018.01.07-09.08.50:108][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.01.07-09.08.50:108][  0]LogLoad: (Engine Initialization) Total time: 60.63 seconds
+[2018.01.07-09.08.50:108][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.07-09.08.50:108][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.07-09.08.50:163][  0]SourceControl: On branch master
+[2018.01.07-09.08.50:163][  0]SourceControl: Your branch is up to date with 'origin/team'.
+[2018.01.07-09.08.50:163][  0]SourceControl: Changes to be committed:
+[2018.01.07-09.08.50:163][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.01.07-09.08.50:163][  0]SourceControl: 	new file:   set/main/Content/pratice/sinyoung/testaim.uasset
+[2018.01.07-09.08.50:163][  0]SourceControl: 	new file:   set/main/Content/pratice/sinyoung/weapon.uasset
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Content/pratice/weapon.uasset
+[2018.01.07-09.08.50:163][  0]SourceControl: Changes not staged for commit:
+[2018.01.07-09.08.50:163][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.01.07-09.08.50:163][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Config/DefaultEngine.ini
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Config/DefaultInput.ini
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Content/InfinityBladeGrassLands/Maps/map.umap
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Content/pratice/NewAnimBlueprint.uasset
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Content/pratice/gamehud.uasset
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Content/pratice/sinyoung/testaim.uasset
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Content/pratice/sinyoung/weapon.uasset
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Intermediate/CachedAssetRegistry.bin
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Saved/AutoScreenshot.png
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Saved/Autosaves/Game/InfinityBladeGrassLands/Maps/map_Auto1.umap
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Saved/Autosaves/Game/InfinityBladeGrassLands/Maps/map_Auto3.umap
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto3.uasset
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.01.07-09.08.50:163][  0]SourceControl: 	modified:   set/main/Saved/Config/Windows/Engine.ini
+[2018.01.07-09.08.50:163][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.06-18.31.52.log
+[2018.01.07-09.08.50:164][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.06-18.37.42.log
+[2018.01.07-09.08.50:164][  0]SourceControl: 	modified:   set/main/Saved/Logs/main.log
+[2018.01.07-09.08.50:164][  0]SourceControl: Untracked files:
+[2018.01.07-09.08.50:164][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/InfinityBladeGrassLands/Maps/map_Auto2.umap
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/InfinityBladeGrassLands/Maps/map_Auto4.umap
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/InfinityBladeGrassLands/Maps/map_Auto5.umap
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/InfinityBladeGrassLands/Maps/map_Auto6.umap
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/NewAnimBlueprint_Auto1.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/gamehud_Auto1.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/sinyoung/ThirdPersonCharacter_Auto1.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/sinyoung/ThirdPersonCharacter_Auto2.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/sinyoung/testaim_Auto1.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/sinyoung/testaim_Auto2.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/sinyoung/testaim_Auto3.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/sinyoung/testaim_Auto4.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/sinyoung/testaim_Auto5.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/sinyoung/testaim_Auto6.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/sinyoung/weapon_Auto1.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/NewAnimBlueprint_2018-01-07-15-36-04.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/NewAnimBlueprint_2018-01-07-15-42-40.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_2018-01-07-15-36-03.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_2018-01-07-15-42-42.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_2018-01-07-15-50-57.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_2018-01-07-16-01-45.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_2018-01-07-16-13-09.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_2018-01-07-16-25-26.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/gamehud_2018-01-07-15-36-04.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/gamehud_2018-01-07-15-42-40.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-07-15-36-02.umap
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-07-15-42-37.umap
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-07-16-01-44.umap
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-07-16-25-25.umap
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-07-16-40-44.umap
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-07-16-53-36.umap
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-07-17-05-36.umap
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-07-17-25-13.umap
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-07-17-42-13.umap
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-07-18-02-46.umap
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/testaim_2018-01-07-16-25-26.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/testaim_2018-01-07-16-40-45.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/testaim_2018-01-07-16-53-37.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/testaim_2018-01-07-17-05-37.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/testaim_2018-01-07-17-25-14.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/testaim_2018-01-07-17-42-15.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/testaim_2018-01-07-18-02-48.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/weapon_2018-01-07-15-21-20.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/weapon_2018-01-07-15-36-04.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Backup/weapon_2018-01-07-15-42-41.uasset
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-33D8955D4E3A47BE1BAA3CB7815235D1/
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-7C2E1EF14F851F9D339E8E967E4F7BE2/
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-C4483E9B4FAD3BF4980B10B6CF32591F/
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-DFAD1AE54A3C8E0B9718BB81BA125769/
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Crashes/UE4CC-Windows-33D8955D4E3A47BE1BAA3CB7815235D1_0000/
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Crashes/UE4CC-Windows-DFAD1AE54A3C8E0B9718BB81BA125769_0000/
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.07-15.13.50.log
+[2018.01.07-09.08.50:164][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.07-15.43.02.log
+[2018.01.07-09.08.50:165][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.07-17.08.09.log
+[2018.01.07-09.08.50:165][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.07-18.07.51.log
+[2018.01.07-09.08.50:165][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.01.07-09.08.50:214][  0]LogSlate: Took 0.004510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.07-09.08.50:230][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/in/set/main/Content/' took 0.09s
+[2018.01.07-09.08.50:385][  2]LogAssetRegistry: Asset discovery search completed in 46.7960 seconds
+[2018.01.07-09.08.50:391][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.01.07-09.08.50:391][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000106 seconds (updated 0 objects)
+[2018.01.07-09.08.51:175][ 45]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.07-09.11.10:190][990]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.07-09.11.11:475][990]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.07-09.11.15:141][990]LogAIModule: Creating AISystem for world map
+[2018.01.07-09.11.15:237][990]Cmd: MAP LOAD FILE="../../../../../../in/set/main/Content/InfinityBladeGrassLands/Maps/map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.07-09.11.15:237][990]LightingResults: New page: 라이팅 빌드
+[2018.01.07-09.11.15:238][990]LoadErrors: New page: 맵 로드중: map.umap
+[2018.01.07-09.11.15:238][990]MapCheck: New page: 맵 체크
+[2018.01.07-09.11.15:239][990]LightingResults: New page: 라이팅 빌드
+[2018.01.07-09.11.15:511][990]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.07-09.11.15:593][990]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.07-09.11.15:688][990]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 93.956ms.
+[2018.01.07-09.11.15:688][990]LogFileHelpers: Loading map 'map' took 0.452
+[2018.01.07-09.12.21:430][425]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.07-09.12.21:546][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.12.21:546][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.07-09.12.21:547][425]PIE: New page: PIE 세션: map (2018. 1. 8. 오전 3:12:21)
+[2018.01.07-09.12.21:547][425]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map
+[2018.01.07-09.12.21:614][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067168s)
+[2018.01.07-09.12.21:615][425]LogAIModule: Creating AISystem for world map
+[2018.01.07-09.12.21:615][425]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2018.01.07-09.12.21:616][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/map.map to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map (0.069028s)
+[2018.01.07-09.12.21:633][425]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.07-09.12.21:653][425]LogInit: FAudioDevice initialized.
+[2018.01.07-09.12.21:695][425]LogLoad: Game class is 'mainGameMode'
+[2018.01.07-09.12.21:714][425]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map up for play (max tick rate 60) at 2018.01.07-18.12.21
+[2018.01.07-09.12.21:715][425]LogWorld: Bringing up level for play took: 0.017944
+[2018.01.07-09.12.21:788][425]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2018.01.07-09.12.21:794][425]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map 에 대한 에디터에서 플레이 시작 시간: -0.685
+[2018.01.07-09.12.21:795][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.12.21:815][425]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.21:815][425]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.21:944][426]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.21:956][427]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.21:981][428]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.22:010][429]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.22:042][430]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.22:072][431]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.22:109][432]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.22:139][433]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.22:165][434]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.22:212][435]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.22:243][436]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.22:274][437]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.22:305][438]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.22:329][439]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.22:354][440]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.gamehud_C_0
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.12.43:938][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.12.44:039][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.12.53:593][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Exo_Decos_Door02)
+[2018.01.07-09.13.46:961][516]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.07-09.13.47:015][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.13.47:015][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.07-09.13.47:015][516]PIE: New page: PIE 세션: map (2018. 1. 8. 오전 3:13:47)
+[2018.01.07-09.13.47:015][516]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map
+[2018.01.07-09.13.47:125][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.109574s)
+[2018.01.07-09.13.47:126][516]LogAIModule: Creating AISystem for world map
+[2018.01.07-09.13.47:127][516]LogPlayLevel: PIE: World Init took: (0.001507s)
+[2018.01.07-09.13.47:127][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/map.map to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map (0.111965s)
+[2018.01.07-09.13.47:154][516]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.07-09.13.47:192][516]LogInit: FAudioDevice initialized.
+[2018.01.07-09.13.47:235][516]LogLoad: Game class is 'mainGameMode'
+[2018.01.07-09.13.47:263][516]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map up for play (max tick rate 60) at 2018.01.07-18.13.47
+[2018.01.07-09.13.47:264][516]LogWorld: Bringing up level for play took: 0.028849
+[2018.01.07-09.13.47:273][516]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map 에 대한 에디터에서 플레이 시작 시간: 0.794
+[2018.01.07-09.13.47:274][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.13.47:292][516]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:292][516]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:439][517]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:463][518]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:477][519]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:496][520]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:517][521]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:534][522]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:557][523]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:579][524]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:595][525]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:612][526]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:632][527]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:653][528]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:678][529]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:696][530]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.13.47:717][531]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.gamehud_C_1
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.14.21:623][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.14.21:706][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.15.29:031][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Exo_Decos_Door02)
+[2018.01.07-09.15.29:783][478]LogEditorViewport: Clicking on Actor (LMB): testaim_C (testaim)
+[2018.01.07-09.15.30:398][487]LogEditorViewport: Clicking on Actor (LMB): testaim_C (testaim)
+[2018.01.07-09.15.34:130][583]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 116 classes and 0 folders.
+[2018.01.07-09.15.35:086][583]LogSlate: Took 0.006831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.07-09.15.35:462][584]LogSlate: Took 0.005190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.07-09.17.25:064][517]BlueprintLog: New page: testaim 컴파일
+[2018.01.07-09.18.07:796][575]BlueprintLog: New page: testaim 컴파일
+[2018.01.07-09.18.12:203][697]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.07-09.18.12:286][697]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.18.12:286][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.07-09.18.12:286][697]PIE: New page: PIE 세션: map (2018. 1. 8. 오전 3:18:12)
+[2018.01.07-09.18.12:286][697]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map
+[2018.01.07-09.18.12:352][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065727s)
+[2018.01.07-09.18.12:353][697]LogAIModule: Creating AISystem for world map
+[2018.01.07-09.18.12:353][697]LogPlayLevel: PIE: World Init took: (0.001267s)
+[2018.01.07-09.18.12:354][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/map.map to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map (0.067750s)
+[2018.01.07-09.18.12:410][697]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.07-09.18.12:433][697]LogInit: FAudioDevice initialized.
+[2018.01.07-09.18.12:467][697]LogLoad: Game class is 'mainGameMode'
+[2018.01.07-09.18.12:483][697]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map up for play (max tick rate 60) at 2018.01.07-18.18.12
+[2018.01.07-09.18.12:484][697]LogWorld: Bringing up level for play took: 0.016673
+[2018.01.07-09.18.12:489][697]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map 에 대한 에디터에서 플레이 시작 시간: 0.01
+[2018.01.07-09.18.12:489][697]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.18.12:504][697]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:504][697]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:603][698]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:616][699]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:634][700]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:647][701]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:663][702]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:679][703]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:695][704]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:712][705]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:730][706]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:747][707]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:768][708]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:781][709]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:796][710]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:813][711]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.12:829][712]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.gamehud_C_2
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.18:695][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.18.18:745][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.18.21:587][201]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.07-09.18.21:624][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.18.21:624][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.07-09.18.21:625][201]PIE: New page: PIE 세션: map (2018. 1. 8. 오전 3:18:21)
+[2018.01.07-09.18.21:625][201]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map
+[2018.01.07-09.18.21:682][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056774s)
+[2018.01.07-09.18.21:682][201]LogAIModule: Creating AISystem for world map
+[2018.01.07-09.18.21:683][201]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2018.01.07-09.18.21:683][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/map.map to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map (0.058716s)
+[2018.01.07-09.18.21:718][201]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.07-09.18.21:741][201]LogInit: FAudioDevice initialized.
+[2018.01.07-09.18.21:774][201]LogLoad: Game class is 'mainGameMode'
+[2018.01.07-09.18.21:789][201]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map up for play (max tick rate 60) at 2018.01.07-18.18.21
+[2018.01.07-09.18.21:790][201]LogWorld: Bringing up level for play took: 0.015516
+[2018.01.07-09.18.21:795][201]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map 에 대한 에디터에서 플레이 시작 시간: -0.683
+[2018.01.07-09.18.21:796][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.18.21:876][201]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.21:876][201]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.21:913][202]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.21:934][203]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.21:950][204]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.21:965][205]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.21:982][206]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.21:998][207]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.22:015][208]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.22:032][209]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.22:048][210]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.22:066][211]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.22:082][212]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.22:100][213]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.22:118][214]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.22:134][215]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.22:150][216]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.gamehud_C_3
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.23:542][298]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.18.23:595][298]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.18.55:170][130]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.07-09.18.55:213][130]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.18.55:213][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.07-09.18.55:214][130]PIE: New page: PIE 세션: map (2018. 1. 8. 오전 3:18:55)
+[2018.01.07-09.18.55:214][130]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map
+[2018.01.07-09.18.55:288][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074576s)
+[2018.01.07-09.18.55:289][130]LogAIModule: Creating AISystem for world map
+[2018.01.07-09.18.55:290][130]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2018.01.07-09.18.55:290][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/map.map to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map (0.076412s)
+[2018.01.07-09.18.55:322][130]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.07-09.18.55:354][130]LogInit: FAudioDevice initialized.
+[2018.01.07-09.18.55:390][130]LogLoad: Game class is 'mainGameMode'
+[2018.01.07-09.18.55:405][130]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map up for play (max tick rate 60) at 2018.01.07-18.18.55
+[2018.01.07-09.18.55:406][130]LogWorld: Bringing up level for play took: 0.015291
+[2018.01.07-09.18.55:411][130]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map 에 대한 에디터에서 플레이 시작 시간: 0.932
+[2018.01.07-09.18.55:411][130]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.18.55:424][130]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:425][130]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:494][131]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:505][132]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:536][133]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:550][134]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:565][135]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:582][136]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:598][137]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:615][138]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:638][139]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:651][140]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:666][141]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:681][142]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:698][143]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:717][144]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.55:733][145]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.gamehud_C_4
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.18.58:341][301]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.18.58:385][301]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.20.45:178][455]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.07-09.20.45:218][455]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.20.45:218][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.07-09.20.45:218][455]PIE: New page: PIE 세션: map (2018. 1. 8. 오전 3:20:45)
+[2018.01.07-09.20.45:218][455]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map
+[2018.01.07-09.20.45:271][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052442s)
+[2018.01.07-09.20.45:272][455]LogAIModule: Creating AISystem for world map
+[2018.01.07-09.20.45:272][455]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2018.01.07-09.20.45:272][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/map.map to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map (0.053915s)
+[2018.01.07-09.20.45:295][455]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.07-09.20.45:317][455]LogInit: FAudioDevice initialized.
+[2018.01.07-09.20.45:354][455]LogLoad: Game class is 'mainGameMode'
+[2018.01.07-09.20.45:374][455]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map up for play (max tick rate 60) at 2018.01.07-18.20.45
+[2018.01.07-09.20.45:375][455]LogWorld: Bringing up level for play took: 0.020372
+[2018.01.07-09.20.45:380][455]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map 에 대한 에디터에서 플레이 시작 시간: 0.901
+[2018.01.07-09.20.45:380][455]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.20.45:445][455]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:445][455]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:527][456]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:549][457]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:564][458]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:583][459]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:601][460]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:611][461]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:626][462]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:643][463]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:660][464]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:682][465]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:693][466]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:709][467]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:725][468]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:742][469]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.45:759][470]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.gamehud_C_5
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.20.51:334][804]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.20.51:377][804]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.21.29:621][954]BlueprintLog: New page: testaim 컴파일
+[2018.01.07-09.22.08:488][968]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.07-09.22.08:554][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.22.08:554][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.07-09.22.08:554][968]PIE: New page: PIE 세션: map (2018. 1. 8. 오전 3:22:08)
+[2018.01.07-09.22.08:555][968]LogPlayLevel: Creating play world package: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map
+[2018.01.07-09.22.08:623][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067499s)
+[2018.01.07-09.22.08:623][968]LogAIModule: Creating AISystem for world map
+[2018.01.07-09.22.08:624][968]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2018.01.07-09.22.08:624][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfinityBladeGrassLands/Maps/map.map to /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map (0.069204s)
+[2018.01.07-09.22.08:686][968]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.07-09.22.08:711][968]LogInit: FAudioDevice initialized.
+[2018.01.07-09.22.08:750][968]LogLoad: Game class is 'mainGameMode'
+[2018.01.07-09.22.08:774][968]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map.map up for play (max tick rate 60) at 2018.01.07-18.22.08
+[2018.01.07-09.22.08:776][968]LogWorld: Bringing up level for play took: 0.024841
+[2018.01.07-09.22.08:786][968]PIE: /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_map 에 대한 에디터에서 플레이 시작 시간: 0.307
+[2018.01.07-09.22.08:786][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.22.08:810][968]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.08:811][968]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.08:908][969]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.08:923][970]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.08:942][971]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.08:956][972]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.08:975][973]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.08:986][974]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.09:003][975]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.09:019][976]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.09:035][977]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.09:051][978]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.09:069][979]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.09:084][980]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.09:101][981]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.09:118][982]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.09:136][983]LogScript: Warning: mychar 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	gamehud_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.gamehud_C_6
+	Function /Game/pratice/gamehud.gamehud_C:GetPercent_1:001F
+[2018.01.07-09.22.12:764][200]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.22.12:821][200]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map' with GeneratedClass '/Game/InfinityBladeGrassLands/Maps/map.map_C' with ClassGeneratedBy '/Game/InfinityBladeGrassLands/Maps/map.map:PersistentLevel.map'
+[2018.01.07-09.22.55:721][296]BlueprintLog: New page: testaim 컴파일
