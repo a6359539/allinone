@@ -1,0 +1,811 @@
+﻿Log file open, 01/08/18 22:41:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: main
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-303649626) SRandInit(-303649626).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.648566
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file D:/team/set/main/Binaries/Win64/UE4Editor-main.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.08-13.41.14:420][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.08-13.41.14:420][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.08-13.41.14:511][  0]LogInit: Computer: DESKTOP-LOUV37F
+[2018.01.08-13.41.14:511][  0]LogInit: User: choiw
+[2018.01.08-13.41.14:511][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.08-13.41.14:511][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2018.01.08-13.41.14:512][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.08-13.41.14:512][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.08-13.41.14:512][  0]LogMemory: Process Physical Memory: 272.71 MB used, 272.71 MB peak
+[2018.01.08-13.41.14:512][  0]LogMemory: Process Virtual Memory: 271.66 MB used, 271.66 MB peak
+[2018.01.08-13.41.14:512][  0]LogMemory: Physical Memory: 2272.49 MB used,  5811.58 MB free, 8084.07 MB total
+[2018.01.08-13.41.14:513][  0]LogMemory: Virtual Memory: 645.81 MB used,  5811.58 MB free, 134217728.00 MB total
+[2018.01.08-13.41.15:848][  0]LogInit: Using OS detected language (ko-KR).
+[2018.01.08-13.41.15:848][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.01.08-13.41.15:909][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.01.08-13.41.16:201][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.08-13.41.18:750][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.08-13.41.19:755][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2018.01.08-13.41.19:755][  0]LogD3D11RHI:       6061/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.08-13.41.19:774][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.01.08-13.41.19:774][  0]LogD3D11RHI:       128/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.08-13.41.19:777][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.08-13.41.19:777][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.08-13.41.19:777][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.08-13.41.19:789][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.08-13.41.19:790][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.08-13.41.19:790][  0]LogWindows: EnumDisplayDevices:
+[2018.01.08-13.41.19:790][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.01.08-13.41.19:790][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.08-13.41.19:790][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.08-13.41.19:791][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.08-13.41.19:791][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.08-13.41.19:791][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.08-13.41.19:792][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.08-13.41.19:792][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.01.08-13.41.19:792][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2018.01.08-13.41.19:792][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
+[2018.01.08-13.41.19:792][  0]LogD3D11RHI:      Driver Date: 11-14-2017
+[2018.01.08-13.41.19:792][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.01.08-13.41.19:844][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.08-13.41.20:035][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.08-13.41.20:045][  0]LogShaderCompilers: Guid format shader working directory is 30 characters bigger than the processId version (D:/team/set/main/Intermediate/Shaders/WorkingDirectory/3876/).
+[2018.01.08-13.41.20:046][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/choiw/AppData/Local/Temp/UnrealShaderWorkingDir/BCF34DCC48BF7AF920D57FA823C2A9FF/'.
+[2018.01.08-13.41.20:046][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.08-13.41.23:249][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.08-13.41.23:292][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.08-13.41.23:343][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.08-13.41.23:387][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.08-13.41.23:439][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.08-13.41.23:490][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.08-13.41.23:537][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.08-13.41.23:582][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.08-13.41.23:626][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.08-13.41.23:672][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.08-13.41.23:714][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.08-13.41.23:760][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.08-13.41.23:803][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.08-13.41.23:848][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.08-13.41.23:934][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.08-13.41.23:934][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.08-13.41.24:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.08-13.41.24:097][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.08-13.41.24:260][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.08-13.41.24:329][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.08-13.41.24:439][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.08-13.41.24:485][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.08-13.41.24:528][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.08-13.41.24:573][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.08-13.41.24:573][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.08-13.41.25:460][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.08-13.41.25:817][  0]LogDerivedDataCache: Loaded boot cache 0.36s 80MB C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.08-13.41.25:817][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.08-13.41.25:817][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/team/set/main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.08-13.41.25:817][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.08-13.41.25:817][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/team/set/main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.08-13.41.25:817][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.08-13.41.25:853][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.08-13.41.25:866][  0]LogDerivedDataCache: Using Local data cache path C:/Users/choiw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.08-13.41.25:882][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.08-13.41.25:887][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.08-13.41.25:900][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.08-13.41.25:900][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.08-13.41.26:915][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.08-13.41.27:985][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.08-13.41.28:111][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.08-13.41.28:112][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.08-13.41.28:112][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.08-13.41.28:112][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.08-13.41.28:112][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.08-13.41.28:334][  0]LogNetVersion: main , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1998149536)
+[2018.01.08-13.41.29:023][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2018.01.08-13.41.30:704][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.070738 seconds
+[2018.01.08-13.41.30:710][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.08-13.41.30:711][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.08-13.41.30:711][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.08-13.41.30:763][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.08-13.41.38:750][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.08-13.41.38:801][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.08-13.41.41:626][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.08-13.41.42:376][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.08-13.41.44:060][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.08-13.41.44:394][  0]LogOcInput: OculusInput pre-init called
+[2018.01.08-13.41.44:755][  0]LogEngine: Initializing Engine...
+[2018.01.08-13.41.44:760][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.08-13.41.45:302][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.08-13.41.45:302][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.08-13.41.45:473][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.08-13.41.45:486][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.08-13.41.45:506][  0]LogInit: FAudioDevice initialized.
+[2018.01.08-13.41.45:578][  0]LogDerivedDataCache: Saved boot cache 0.07s 79MB C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.08-13.41.45:600][  0]LogInit: Texture streaming: Enabled
+[2018.01.08-13.41.45:707][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.08-13.41.45:897][  0]LogInit: Transaction tracking system initialized
+[2018.01.08-13.41.46:455][  0]BlueprintLog: New page: 에디터 로드
+[2018.01.08-13.41.47:833][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.01.08-13.41.48:860][  0]LogConsoleResponse: Display: 
+[2018.01.08-13.41.49:571][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.08-13.41.49:572][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.08-13.41.49:572][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.08-13.41.49:751][  0]LogFileCache: Scanning file cache for directory 'D:/team/set/main/Content/' took 0.02s
+[2018.01.08-13.41.51:204][  0]Cmd: MAP LOAD FILE="D:/team/set/main/Content/InfinityBladeGrassLands/Maps/entry.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.08-13.41.51:309][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.08-13.41.51:369][  0]MapCheck: New page: 맵 체크
+[2018.01.08-13.41.51:369][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.08-13.41.51:403][  0]LogAIModule: Creating AISystem for world entry
+[2018.01.08-13.41.51:410][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.08-13.41.51:425][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.08-13.41.51:483][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 57.728ms.
+[2018.01.08-13.41.51:483][  0]LogFileHelpers: Loading map 'entry' took 0.280
+[2018.01.08-13.41.51:766][  0]LogCollectionManager: Loaded 0 collections in 0.002172 seconds
+[2018.01.08-13.41.51:872][  0]LogFileCache: Scanning file cache for directory 'D:/team/set/main/Saved/Collections/' took 0.01s
+[2018.01.08-13.41.51:872][  0]LogFileCache: Scanning file cache for directory 'D:/team/set/main/Content/Developers/choiw/Collections/' took 0.01s
+[2018.01.08-13.41.51:873][  0]LogFileCache: Scanning file cache for directory 'D:/team/set/main/Content/Collections/' took 0.01s
+[2018.01.08-13.41.51:873][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.08-13.41.51:889][  0]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2365 classes and 521 folders.
+[2018.01.08-13.41.51:967][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.01.08-13.41.52:414][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.08-13.41.52:466][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.08-13.41.52:660][  0]LogSlate: Took 0.013719 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.08-13.41.52:679][  0]LogSlate: Took 0.018102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.01.08-13.41.52:686][  0]LogSlate: Took 0.005380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.08-13.41.52:697][  0]LogSlate: Took 0.004539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.08-13.41.52:960][  0]LogRenderer: Reallocating scene render targets to support 980x456 Format 9 NumSamples 1 (Frame:1).
+[2018.01.08-13.41.53:223][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.08-13.41.53:223][  0]LogLoad: (Engine Initialization) Total time: 47.19 seconds
+[2018.01.08-13.41.53:223][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.08-13.41.53:223][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.08-13.41.53:599][  0]SourceControl: On branch master
+[2018.01.08-13.41.53:599][  0]SourceControl: Your branch is up to date with 'origin/team'.
+[2018.01.08-13.41.53:599][  0]SourceControl: Changes to be committed:
+[2018.01.08-13.41.53:599][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.01.08-13.41.53:599][  0]SourceControl: 	copied:     set/main/Content/pratice/wonseok/map/testmap.umap -> set/main/Content/pratice/wonseok/Material/testmap.umap
+[2018.01.08-13.41.53:599][  0]SourceControl: 	new file:   set/main/Content/pratice/wonseok/character/E_Stats.uasset
+[2018.01.08-13.41.53:599][  0]SourceControl: 	deleted:    set/main/Content/pratice/wonseok/character/ThirdPersonCharacter.uasset
+[2018.01.08-13.41.53:599][  0]SourceControl: 	deleted:    set/main/Content/pratice/wonseok/character/ThirdPersonCharacter_2.uasset
+[2018.01.08-13.41.53:599][  0]SourceControl: 	new file:   set/main/Content/pratice/wonseok/character/weapon/shield/shield.uasset
+[2018.01.08-13.41.53:599][  0]SourceControl: 	deleted:    set/main/Content/pratice/wonseok/character/wonseok.uasset
+[2018.01.08-13.41.53:599][  0]SourceControl: 	deleted:    set/main/Content/pratice/wonseok/character/wonseokcharacter.uasset
+[2018.01.08-13.41.53:599][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/map/testmap.umap
+[2018.01.08-13.41.53:600][  0]SourceControl: 	new file:   set/main/Content/pratice/wonseok/mat/M_progress.uasset
+[2018.01.08-13.41.53:600][  0]SourceControl: 	new file:   set/main/Content/pratice/wonseok/mat/M_progressfill.uasset
+[2018.01.08-13.41.53:600][  0]SourceControl: 	new file:   set/main/Content/pratice/wonseok/structures/s_StatData.uasset
+[2018.01.08-13.41.53:600][  0]SourceControl: 	new file:   set/main/Content/pratice/wonseok/structures/s_StatLerp.uasset
+[2018.01.08-13.41.53:600][  0]SourceControl: 	new file:   set/main/Content/pratice/wonseok/widzet/MainHUD.uasset
+[2018.01.08-13.41.53:600][  0]SourceControl: 	new file:   set/main/Content/pratice/wonseok/widzet/healthbar2.uasset
+[2018.01.08-13.41.53:600][  0]SourceControl: 	new file:   set/main/Content/pratice/wonseok/widzet/healthbarDef3.uasset
+[2018.01.08-13.41.53:600][  0]SourceControl: 	new file:   set/main/Content/pratice/wonseok/widzet/healthbarfill.uasset
+[2018.01.08-13.41.53:600][  0]SourceControl: 	new file:   set/main/Content/pratice/wonseok/widzet/healthbarfill3.uasset
+[2018.01.08-13.41.53:600][  0]SourceControl: 	new file:   set/main/Content/pratice/wonseok/widzet/wonseokHUD.uasset
+[2018.01.08-13.41.53:600][  0]SourceControl: Changes not staged for commit:
+[2018.01.08-13.41.53:600][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.01.08-13.41.53:600][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Content/pratice/gamehud.uasset
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/Material/testmap.umap
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/character/E_Stats.uasset
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/character/NewBlendSpace.uasset
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/character/ThirdPersonCharacter_3.uasset
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/character/dreyar_m_aure.uasset
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/character/dreyar_m_aure_Skeleton.uasset
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/character/weapon/shield/shield.uasset
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/mat/M_progress.uasset
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/mat/M_progressfill.uasset
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/widzet/MainHUD.uasset
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/widzet/wonseokHUD.uasset
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Intermediate/CachedAssetRegistry.bin
+[2018.01.08-13.41.53:601][  0]SourceControl: 	modified:   set/main/Saved/AutoScreenshot.png
+[2018.01.08-13.41.53:601][  0]SourceControl: 	deleted:    set/main/Saved/Config/CrashReportClient/UE4CC-Windows-3D644BB24168B6252396D795D60192B2/CrashReportClient.ini
+[2018.01.08-13.41.53:601][  0]SourceControl: 	deleted:    set/main/Saved/Config/CrashReportClient/UE4CC-Windows-449624F840BCB31CDF38148D0C8839AC/CrashReportClient.ini
+[2018.01.08-13.41.53:602][  0]SourceControl: 	deleted:    set/main/Saved/Config/CrashReportClient/UE4CC-Windows-498E93DF454ED5EE1A64A0A93E1191F0/CrashReportClient.ini
+[2018.01.08-13.41.53:602][  0]SourceControl: 	deleted:    set/main/Saved/Config/CrashReportClient/UE4CC-Windows-5283D67D4597FE9877805AA3F953CF5C/CrashReportClient.ini
+[2018.01.08-13.41.53:602][  0]SourceControl: 	deleted:    set/main/Saved/Config/CrashReportClient/UE4CC-Windows-8C45D4954DC8FDD415C5ABAC9323B453/CrashReportClient.ini
+[2018.01.08-13.41.53:602][  0]SourceControl: 	deleted:    set/main/Saved/Config/CrashReportClient/UE4CC-Windows-909063134A24D1CB7EA36A93DB3EC477/CrashReportClient.ini
+[2018.01.08-13.41.53:602][  0]SourceControl: 	deleted:    set/main/Saved/Config/CrashReportClient/UE4CC-Windows-B8F3E9D246A168DAA7EAC59F4BB1BAD3/CrashReportClient.ini
+[2018.01.08-13.41.53:602][  0]SourceControl: 	deleted:    set/main/Saved/Config/CrashReportClient/UE4CC-Windows-D10B6A1840CA97540BDF56BCC0586A20/CrashReportClient.ini
+[2018.01.08-13.41.53:602][  0]SourceControl: 	deleted:    set/main/Saved/Config/CrashReportClient/UE4CC-Windows-DC27D6774FDCEE1A1D7DD5A159DF2446/CrashReportClient.ini
+[2018.01.08-13.41.53:602][  0]SourceControl: 	modified:   set/main/Saved/Config/Windows/Editor.ini
+[2018.01.08-13.41.53:602][  0]SourceControl: 	modified:   set/main/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.01.08-13.41.53:602][  0]SourceControl: 	modified:   set/main/Saved/Config/Windows/Engine.ini
+[2018.01.08-13.41.53:602][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.07-02.13.11.log
+[2018.01.08-13.41.53:602][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.07-02.15.44.log
+[2018.01.08-13.41.53:602][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.07-02.26.47.log
+[2018.01.08-13.41.53:603][  0]SourceControl: 	modified:   set/main/Saved/Logs/main.log
+[2018.01.08-13.41.53:603][  0]SourceControl: Untracked files:
+[2018.01.08-13.41.53:603][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.08-13.41.53:603][  0]SourceControl: 	set/main/.vs/
+[2018.01.08-13.41.53:603][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/M_Dual_Blade_Tech.uasset
+[2018.01.08-13.41.53:603][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/SK_Dual_Blade_Tech.uasset
+[2018.01.08-13.41.53:603][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/SK_Dual_Blade_Tech_Skeleton.uasset
+[2018.01.08-13.41.53:603][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/T_Dual_Blade_Tech1_D.uasset
+[2018.01.08-13.41.53:603][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/T_Dual_Blade_Tech1_M.uasset
+[2018.01.08-13.41.53:603][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/T_Dual_Blade_Tech1_N.uasset
+[2018.01.08-13.41.53:603][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/T_Dual_Blade_Tech2_D.uasset
+[2018.01.08-13.41.53:603][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/T_Dual_Blade_Tech2_M.uasset
+[2018.01.08-13.41.53:603][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/T_Dual_Blade_Tech2_N.uasset
+[2018.01.08-13.41.53:603][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/shield/BattalionLeader_MAT.uasset
+[2018.01.08-13.41.53:603][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/shield/BucklerTex.uasset
+[2018.01.08-13.41.53:603][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/shield/battalion-leader-heraklios_diffuse.uasset
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/shield/battalion-leader-heraklios_normal.uasset
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/shield/battalion-leader-heraklios_specular.uasset
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/shield/iron_buckler_diffuse.uasset
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/shield/iron_buckler_normal.uasset
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/shield/iron_buckler_specular.uasset
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Content/pratice/wonseok/character/weapon/shield/ironbuckler.uasset
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Intermediate/Build/Win64/mainEditor/DependencyCache.bin.buildmutex
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Intermediate/Build/Win64/mainEditor/FlatCPPIncludes.bin.buildmutex
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/NewAnimBlueprint_Auto2.uasset
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/gamehud_Auto1.uasset
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/gamehud_Auto3.uasset
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/wonseok/
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Saved/Backup/BattalionLeader_MAT_2018-01-07-15-34-30.uasset
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Saved/Backup/BucklerTex_2018-01-07-15-35-24.uasset
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Saved/Backup/E_Stats_2018-01-08-00-38-34.uasset
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Saved/Backup/M_Dual_Blade_Tech_2018-01-07-01-20-11.uasset
+[2018.01.08-13.41.53:604][  0]SourceControl: 	set/main/Saved/Backup/M_Dual_Blade_Tech_2018-01-07-01-25-54.uasset
+[2018.01.08-13.41.53:605][  0]SourceControl: 	set/main/Saved/Backup/M_progress_2018-01-07-17-32-12.uasset
+[2018.01.08-13.41.53:605][  0]SourceControl: 	set/main/Saved/Backup/M_progress_2018-01-07-18-07-41.uasset
+[2018.01.08-13.41.53:605][  0]SourceControl: 	set/main/Saved/Backup/M_progress_2018-01-07-18-38-03.uasset
+[2018.01.08-13.41.53:605][  0]SourceControl: 	set/main/Saved/Backup/M_progressfill_2018-01-07-17-35-29.uasset
+[2018.01.08-13.41.53:605][  0]SourceControl: 	set/main/Saved/Backup/M_progressfill_2018-01-07-18-07-52.uasset
+[2018.01.08-13.41.53:605][  0]SourceControl: 	set/main/Saved/Backup/M_progressfill_2018-01-07-18-13-16.uasset
+[2018.01.08-13.41.53:605][  0]SourceControl: 	set/main/Saved/Backup/M_progressfill_2018-01-07-18-38-48.uasset
+[2018.01.08-13.41.53:605][  0]SourceControl: 	set/main/Saved/Backup/MainHUD_2018-01-07-18-43-58.uasset
+[2018.01.08-13.41.53:605][  0]SourceControl: 	set/main/Saved/Backup/MainHUD_2018-01-08-01-30-40.uasset
+[2018.01.08-13.41.53:605][  0]SourceControl: 	set/main/Saved/Backup/MainHUD_2018-01-08-01-41-53.uasset
+[2018.01.08-13.41.53:605][  0]SourceControl: 	set/main/Saved/Backup/MainHUD_2018-01-08-01-52-26.uasset
+[2018.01.08-13.41.53:605][  0]SourceControl: 	set/main/Saved/Backup/MainHUD_2018-01-08-02-21-16.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/NewAnimBlueprint_2018-01-07-00-16-54.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/NewAnimBlueprint_2018-01-07-01-53-25.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/NewBlendSpace_2018-01-06-23-52-07.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/NewBlendSpace_2018-01-07-00-06-27.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/NewBlendSpace_2018-01-07-00-14-18.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/NewBlendSpace_2018-01-07-00-32-06.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/NewBlendSpace_2018-01-07-00-37-12.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/NewBlendSpace_2018-01-07-00-43-07.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/NewBlendSpace_2018-01-07-01-42-53.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/NewBlendSpace_2018-01-07-15-30-41.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/SK_Dual_Blade_Tech_2018-01-07-01-22-57.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/SK_Dual_Blade_Tech_2018-01-07-01-29-11.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/Standard_Run_2018-01-07-00-36-04.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/Standing_Walk_Back_2018-01-07-00-31-09.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/Standing_Walk_Back_2018-01-07-00-38-38.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_2018-01-06-17-38-29.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_2_2018-01-06-22-19-16.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_2_2018-01-06-22-31-42.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-06-22-49-32.uasset
+[2018.01.08-13.41.53:606][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-06-22-57-43.uasset
+[2018.01.08-13.41.53:607][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-06-23-36-49.uasset
+[2018.01.08-13.41.53:607][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-07-01-40-57.uasset
+[2018.01.08-13.41.53:607][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-07-15-49-30.uasset
+[2018.01.08-13.41.53:607][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-07-16-05-09.uasset
+[2018.01.08-13.41.53:607][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-07-16-15-19.uasset
+[2018.01.08-13.41.53:607][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-07-16-43-30.uasset
+[2018.01.08-13.41.53:607][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-07-17-58-48.uasset
+[2018.01.08-13.41.53:607][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-08-01-15-29.uasset
+[2018.01.08-13.41.53:607][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-08-01-30-39.uasset
+[2018.01.08-13.41.53:607][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-08-01-41-52.uasset
+[2018.01.08-13.41.53:607][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-08-01-52-26.uasset
+[2018.01.08-13.41.53:608][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-08-02-03-04.uasset
+[2018.01.08-13.41.53:608][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-08-02-14-07.uasset
+[2018.01.08-13.41.53:608][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-08-02-21-15.uasset
+[2018.01.08-13.41.53:608][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-08-03-18-37.uasset
+[2018.01.08-13.41.53:608][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-08-03-28-39.uasset
+[2018.01.08-13.41.53:608][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-08-03-36-37.uasset
+[2018.01.08-13.41.53:608][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-08-03-50-50.uasset
+[2018.01.08-13.41.53:608][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-08-04-01-37.uasset
+[2018.01.08-13.41.53:608][  0]SourceControl: 	set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-08-04-12-51.uasset
+[2018.01.08-13.41.53:608][  0]SourceControl: 	set/main/Saved/Backup/bladeweapon_2018-01-07-01-52-36.uasset
+[2018.01.08-13.41.53:608][  0]SourceControl: 	set/main/Saved/Backup/dreyar_m_aure_2018-01-07-01-34-10.uasset
+[2018.01.08-13.41.53:608][  0]SourceControl: 	set/main/Saved/Backup/dreyar_m_aure_2018-01-07-01-53-25.uasset
+[2018.01.08-13.41.53:609][  0]SourceControl: 	set/main/Saved/Backup/dreyar_m_aure_2018-01-07-16-05-09.uasset
+[2018.01.08-13.41.53:609][  0]SourceControl: 	set/main/Saved/Backup/dreyar_m_aure_2018-01-07-16-43-30.uasset
+[2018.01.08-13.41.53:609][  0]SourceControl: 	set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-07-01-33-01.uasset
+[2018.01.08-13.41.53:609][  0]SourceControl: 	set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-07-01-43-28.uasset
+[2018.01.08-13.41.53:609][  0]SourceControl: 	set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-07-15-39-12.uasset
+[2018.01.08-13.41.53:609][  0]SourceControl: 	set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-07-16-03-10.uasset
+[2018.01.08-13.41.53:609][  0]SourceControl: 	set/main/Saved/Backup/gamehud_2018-01-06-17-24-58.uasset
+[2018.01.08-13.41.53:609][  0]SourceControl: 	set/main/Saved/Backup/gamehud_2018-01-06-17-33-50.uasset
+[2018.01.08-13.41.53:609][  0]SourceControl: 	set/main/Saved/Backup/gamehud_2018-01-07-03-46-03.uasset
+[2018.01.08-13.41.53:609][  0]SourceControl: 	set/main/Saved/Backup/gamehud_2018-01-07-16-15-19.uasset
+[2018.01.08-13.41.53:609][  0]SourceControl: 	set/main/Saved/Backup/gamehud_2018-01-07-16-43-30.uasset
+[2018.01.08-13.41.53:609][  0]SourceControl: 	set/main/Saved/Backup/idle_2018-01-07-00-30-22.uasset
+[2018.01.08-13.41.53:610][  0]SourceControl: 	set/main/Saved/Backup/idle_2018-01-07-00-36-28.uasset
+[2018.01.08-13.41.53:610][  0]SourceControl: 	set/main/Saved/Backup/ironbuckler_2018-01-07-15-35-37.uasset
+[2018.01.08-13.41.53:610][  0]SourceControl: 	set/main/Saved/Backup/left_strafe_walking_2018-01-07-00-29-08.uasset
+[2018.01.08-13.41.53:610][  0]SourceControl: 	set/main/Saved/Backup/left_strafe_walking_2018-01-07-00-36-23.uasset
+[2018.01.08-13.41.53:610][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-06-17-38-28.umap
+[2018.01.08-13.41.53:610][  0]SourceControl: 	set/main/Saved/Backup/map_2018-01-06-22-19-15.umap
+[2018.01.08-13.41.53:610][  0]SourceControl: 	set/main/Saved/Backup/right_strafe_walking_2018-01-07-00-29-36.uasset
+[2018.01.08-13.41.53:610][  0]SourceControl: 	set/main/Saved/Backup/right_strafe_walking_2018-01-07-00-36-15.uasset
+[2018.01.08-13.41.53:610][  0]SourceControl: 	set/main/Saved/Backup/shield_2018-01-07-15-49-31.uasset
+[2018.01.08-13.41.53:610][  0]SourceControl: 	set/main/Saved/Backup/shield_2018-01-07-16-05-09.uasset
+[2018.01.08-13.41.53:610][  0]SourceControl: 	set/main/Saved/Backup/shield_2018-01-07-16-43-30.uasset
+[2018.01.08-13.41.53:611][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-06-22-31-42.umap
+[2018.01.08-13.41.53:611][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-06-22-46-38.umap
+[2018.01.08-13.41.53:611][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-06-22-57-43.umap
+[2018.01.08-13.41.53:611][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-06-23-36-49.umap
+[2018.01.08-13.41.53:611][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-07-00-04-54.umap
+[2018.01.08-13.41.53:612][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-07-01-53-21.umap
+[2018.01.08-13.41.53:612][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-07-15-49-30.umap
+[2018.01.08-13.41.53:612][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-07-16-05-09.umap
+[2018.01.08-13.41.53:612][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-07-16-15-18.umap
+[2018.01.08-13.41.53:612][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-07-16-43-07.umap
+[2018.01.08-13.41.53:612][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-07-18-01-14.umap
+[2018.01.08-13.41.53:612][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-07-18-43-54.umap
+[2018.01.08-13.41.53:612][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-08-01-15-29.umap
+[2018.01.08-13.41.53:612][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-08-01-30-39.umap
+[2018.01.08-13.41.53:612][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-08-01-41-52.umap
+[2018.01.08-13.41.53:612][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-08-01-52-25.umap
+[2018.01.08-13.41.53:612][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-08-02-03-04.umap
+[2018.01.08-13.41.53:613][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-08-02-14-06.umap
+[2018.01.08-13.41.53:613][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-08-02-21-13.umap
+[2018.01.08-13.41.53:613][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-08-03-18-36.umap
+[2018.01.08-13.41.53:613][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-08-03-28-39.umap
+[2018.01.08-13.41.53:613][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-08-03-40-48.umap
+[2018.01.08-13.41.53:613][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-08-03-50-50.umap
+[2018.01.08-13.41.53:613][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-08-04-01-37.umap
+[2018.01.08-13.41.53:613][  0]SourceControl: 	set/main/Saved/Backup/testmap_2018-01-08-04-12-50.umap
+[2018.01.08-13.41.53:613][  0]SourceControl: 	set/main/Saved/Backup/walking_2018-01-07-00-28-17.uasset
+[2018.01.08-13.41.53:613][  0]SourceControl: 	set/main/Saved/Backup/walking_2018-01-07-00-36-36.uasset
+[2018.01.08-13.41.53:614][  0]SourceControl: 	set/main/Saved/Backup/wonseokHUD_2018-01-07-17-48-43.uasset
+[2018.01.08-13.41.53:614][  0]SourceControl: 	set/main/Saved/Backup/wonseokHUD_2018-01-07-18-01-15.uasset
+[2018.01.08-13.41.53:614][  0]SourceControl: 	set/main/Saved/Backup/wonseokHUD_2018-01-07-18-13-16.uasset
+[2018.01.08-13.41.53:614][  0]SourceControl: 	set/main/Saved/Backup/wonseokHUD_2018-01-07-18-23-41.uasset
+[2018.01.08-13.41.53:614][  0]SourceControl: 	set/main/Saved/Backup/wonseokHUD_2018-01-07-18-39-44.uasset
+[2018.01.08-13.41.53:614][  0]SourceControl: 	set/main/Saved/Backup/wonseokHUD_2018-01-08-01-41-53.uasset
+[2018.01.08-13.41.53:614][  0]SourceControl: 	set/main/Saved/Backup/wonseokHUD_2018-01-08-01-52-26.uasset
+[2018.01.08-13.41.53:614][  0]SourceControl: 	set/main/Saved/Backup/wonseokHUD_2018-01-08-02-21-16.uasset
+[2018.01.08-13.41.53:614][  0]SourceControl: 	set/main/Saved/Backup/wonseok_2018-01-06-22-43-50.uasset
+[2018.01.08-13.41.53:614][  0]SourceControl: 	set/main/Saved/Backup/wonseokanimBP_2018-01-06-23-35-38.uasset
+[2018.01.08-13.41.53:615][  0]SourceControl: 	set/main/Saved/Backup/wonseokanimBP_2018-01-07-00-16-55.uasset
+[2018.01.08-13.41.53:615][  0]SourceControl: 	set/main/Saved/Backup/wonseokanimBP_2018-01-07-00-34-24.uasset
+[2018.01.08-13.41.53:615][  0]SourceControl: 	set/main/Saved/Backup/wonseokanimBP_2018-01-07-00-50-49.uasset
+[2018.01.08-13.41.53:615][  0]SourceControl: 	set/main/Saved/Backup/wonseokanimBP_2018-01-07-01-53-26.uasset
+[2018.01.08-13.41.53:615][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-67F2F7104A40C28ECC0787AF318016D0/
+[2018.01.08-13.41.53:615][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-6BB737C04CCA5F7159D8D19E9DD0DF51/
+[2018.01.08-13.41.53:615][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-87DDBFCC4E85411C98ADC183BC7B1117/
+[2018.01.08-13.41.53:615][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-DF78A49A4AEF64F68C58F088194FAC01/
+[2018.01.08-13.41.53:615][  0]SourceControl: 	set/main/Saved/Config/WorldState/1372570861.json
+[2018.01.08-13.41.53:616][  0]SourceControl: 	set/main/Saved/Config/WorldState/4005536833.json
+[2018.01.08-13.41.53:616][  0]SourceControl: 	set/main/Saved/Crashes/UE4CC-Windows-0DE7888947BE2978B5160981A56B06ED_0000/
+[2018.01.08-13.41.53:616][  0]SourceControl: 	set/main/Saved/Crashes/UE4CC-Windows-87DDBFCC4E85411C98ADC183BC7B1117_0000/
+[2018.01.08-13.41.53:616][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.07-03.43.14.log
+[2018.01.08-13.41.53:616][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.07-15.28.07.log
+[2018.01.08-13.41.53:616][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.08-00.27.44.log
+[2018.01.08-13.41.53:616][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.08-03.06.25.log
+[2018.01.08-13.41.53:616][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.08-22.41.10.log
+[2018.01.08-13.41.53:619][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.01.08-13.41.53:785][  0]LogSlate: Took 0.015396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.08-13.41.54:590][  3]LogSlate: Took 0.001969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.08-13.41.54:913][  4]LogAssetRegistry: Asset discovery search completed in 25.9129 seconds
+[2018.01.08-13.41.54:916][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.08-13.41.54:916][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2018.01.08-13.44.44:884][534]LogSlate: Took 0.010687 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.08-13.44.45:608][534]LogSlate: Took 0.009123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.08-13.44.46:065][534]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0026 seconds. Added 116 classes and 0 folders.
+[2018.01.08-13.44.47:863][534]LogSlate: Took 0.008755 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.08-13.44.48:435][535]LogSlate: Took 0.005242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.08-13.44.57:190][619]LogAIModule: Creating AISystem for world testmap
+[2018.01.08-13.44.57:368][619]Cmd: MAP LOAD FILE="D:/team/set/main/Content/pratice/wonseok/Material/testmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.08-13.44.57:368][619]LightingResults: New page: 라이팅 빌드
+[2018.01.08-13.44.57:369][619]LoadErrors: New page: 맵 로드중: testmap.umap
+[2018.01.08-13.44.57:369][619]MapCheck: New page: 맵 체크
+[2018.01.08-13.44.57:369][619]LightingResults: New page: 라이팅 빌드
+[2018.01.08-13.44.57:459][619]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.08-13.44.57:517][619]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.08-13.45.00:320][619]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 2,802.217ms.
+[2018.01.08-13.45.00:325][619]LogFileHelpers: Loading map 'testmap' took 2.958
+[2018.01.08-13.45.02:357][653]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.08-13.45.02:794][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.45.02:795][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.08-13.45.02:796][653]PIE: New page: PIE 세션: testmap (2018. 1. 9. 오전 7:45:02)
+[2018.01.08-13.45.02:796][653]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/Material/UEDPIE_0_testmap
+[2018.01.08-13.45.02:802][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005798s)
+[2018.01.08-13.45.02:803][653]LogAIModule: Creating AISystem for world testmap
+[2018.01.08-13.45.02:804][653]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2018.01.08-13.45.02:804][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/Material/testmap.testmap to /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap (0.007473s)
+[2018.01.08-13.45.02:837][653]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.08-13.45.02:852][653]LogInit: FAudioDevice initialized.
+[2018.01.08-13.45.02:895][653]LogLoad: Game class is 'mainGameMode'
+[2018.01.08-13.45.02:899][653]LogWorld: Bringing World /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap up for play (max tick rate 60) at 2018.01.08-22.45.02
+[2018.01.08-13.45.02:900][653]LogWorld: Bringing up level for play took: 0.002122
+[2018.01.08-13.45.02:951][653]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.01.08-13.45.02:956][653]PIE: /Game/pratice/wonseok/Material/UEDPIE_0_testmap 에 대한 에디터에서 플레이 시작 시간: 1.102
+[2018.01.08-13.45.02:957][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.45.18:223][113]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.45.18:310][113]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.45.36:113][309]BlueprintLog: New page: ThirdPersonCharacter_3 컴파일
+[2018.01.08-13.45.38:894][343]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.08-13.45.38:939][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.45.38:940][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.08-13.45.38:940][343]PIE: New page: PIE 세션: testmap (2018. 1. 9. 오전 7:45:38)
+[2018.01.08-13.45.38:940][343]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/Material/UEDPIE_0_testmap
+[2018.01.08-13.45.38:942][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002166s)
+[2018.01.08-13.45.38:943][343]LogAIModule: Creating AISystem for world testmap
+[2018.01.08-13.45.38:944][343]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2018.01.08-13.45.38:944][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/Material/testmap.testmap to /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap (0.004292s)
+[2018.01.08-13.45.38:965][343]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.08-13.45.38:974][343]LogInit: FAudioDevice initialized.
+[2018.01.08-13.45.39:013][343]LogLoad: Game class is 'mainGameMode'
+[2018.01.08-13.45.39:017][343]LogWorld: Bringing World /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap up for play (max tick rate 60) at 2018.01.08-22.45.39
+[2018.01.08-13.45.39:017][343]LogWorld: Bringing up level for play took: 0.002900
+[2018.01.08-13.45.39:022][343]PIE: /Game/pratice/wonseok/Material/UEDPIE_0_testmap 에 대한 에디터에서 플레이 시작 시간: -0.833
+[2018.01.08-13.45.39:022][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.45.51:095][706]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.45.51:192][706]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.48.20:241][608]BlueprintLog: New page: ThirdPersonCharacter_3 컴파일
+[2018.01.08-13.48.23:172][648]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.08-13.48.23:226][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.48.23:226][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.08-13.48.23:227][648]PIE: New page: PIE 세션: testmap (2018. 1. 9. 오전 7:48:23)
+[2018.01.08-13.48.23:227][648]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/Material/UEDPIE_0_testmap
+[2018.01.08-13.48.23:229][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001992s)
+[2018.01.08-13.48.23:230][648]LogAIModule: Creating AISystem for world testmap
+[2018.01.08-13.48.23:230][648]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2018.01.08-13.48.23:230][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/Material/testmap.testmap to /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap (0.002809s)
+[2018.01.08-13.48.23:249][648]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.08-13.48.23:260][648]LogInit: FAudioDevice initialized.
+[2018.01.08-13.48.23:291][648]LogLoad: Game class is 'mainGameMode'
+[2018.01.08-13.48.23:293][648]LogWorld: Bringing World /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap up for play (max tick rate 60) at 2018.01.08-22.48.23
+[2018.01.08-13.48.23:294][648]LogWorld: Bringing up level for play took: 0.001405
+[2018.01.08-13.48.23:296][648]PIE: /Game/pratice/wonseok/Material/UEDPIE_0_testmap 에 대한 에디터에서 플레이 시작 시간: -0.559
+[2018.01.08-13.48.23:296][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.48.43:103][244]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.48.43:195][244]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.48.49:397][340]BlueprintLog: New page: ThirdPersonCharacter_3 컴파일
+[2018.01.08-13.48.51:513][372]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.08-13.48.51:547][372]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.48.51:547][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.08-13.48.51:547][372]PIE: New page: PIE 세션: testmap (2018. 1. 9. 오전 7:48:51)
+[2018.01.08-13.48.51:548][372]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/Material/UEDPIE_0_testmap
+[2018.01.08-13.48.51:549][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001473s)
+[2018.01.08-13.48.51:549][372]LogAIModule: Creating AISystem for world testmap
+[2018.01.08-13.48.51:550][372]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2018.01.08-13.48.51:550][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/Material/testmap.testmap to /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap (0.002197s)
+[2018.01.08-13.48.51:584][372]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.08-13.48.51:592][372]LogInit: FAudioDevice initialized.
+[2018.01.08-13.48.51:634][372]LogLoad: Game class is 'mainGameMode'
+[2018.01.08-13.48.51:640][372]LogWorld: Bringing World /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap up for play (max tick rate 60) at 2018.01.08-22.48.51
+[2018.01.08-13.48.51:641][372]LogWorld: Bringing up level for play took: 0.004662
+[2018.01.08-13.48.51:648][372]PIE: /Game/pratice/wonseok/Material/UEDPIE_0_testmap 에 대한 에디터에서 플레이 시작 시간: -0.207
+[2018.01.08-13.48.51:649][372]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.48.59:382][604]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.48.59:474][604]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.52.27:590][770]BlueprintLog: New page: ThirdPersonCharacter_3 컴파일
+[2018.01.08-13.52.30:207][801]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.08-13.52.30:277][801]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.52.30:277][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.08-13.52.30:277][801]PIE: New page: PIE 세션: testmap (2018. 1. 9. 오전 7:52:30)
+[2018.01.08-13.52.30:277][801]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/Material/UEDPIE_0_testmap
+[2018.01.08-13.52.30:279][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001557s)
+[2018.01.08-13.52.30:280][801]LogAIModule: Creating AISystem for world testmap
+[2018.01.08-13.52.30:280][801]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2018.01.08-13.52.30:281][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/Material/testmap.testmap to /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap (0.003023s)
+[2018.01.08-13.52.30:306][801]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.08-13.52.30:315][801]LogInit: FAudioDevice initialized.
+[2018.01.08-13.52.30:350][801]LogLoad: Game class is 'mainGameMode'
+[2018.01.08-13.52.30:352][801]LogWorld: Bringing World /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap up for play (max tick rate 60) at 2018.01.08-22.52.30
+[2018.01.08-13.52.30:352][801]LogWorld: Bringing up level for play took: 0.001543
+[2018.01.08-13.52.30:355][801]PIE: /Game/pratice/wonseok/Material/UEDPIE_0_testmap 에 대한 에디터에서 플레이 시작 시간: 0.501
+[2018.01.08-13.52.30:355][801]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.52.38:927][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.52.39:083][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.52.45:051][ 50]BlueprintLog: New page: ThirdPersonCharacter_3 컴파일
+[2018.01.08-13.57.39:210][964]BlueprintLog: New page: ThirdPersonCharacter_3 컴파일
+[2018.01.08-13.57.41:700][997]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.08-13.57.41:774][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.57.41:775][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.08-13.57.41:775][997]PIE: New page: PIE 세션: testmap (2018. 1. 9. 오전 7:57:41)
+[2018.01.08-13.57.41:775][997]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/Material/UEDPIE_0_testmap
+[2018.01.08-13.57.41:776][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001651s)
+[2018.01.08-13.57.41:778][997]LogAIModule: Creating AISystem for world testmap
+[2018.01.08-13.57.41:778][997]LogPlayLevel: PIE: World Init took: (0.001319s)
+[2018.01.08-13.57.41:778][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/Material/testmap.testmap to /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap (0.003401s)
+[2018.01.08-13.57.41:799][997]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.08-13.57.41:811][997]LogInit: FAudioDevice initialized.
+[2018.01.08-13.57.41:846][997]LogLoad: Game class is 'mainGameMode'
+[2018.01.08-13.57.41:851][997]LogWorld: Bringing World /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap up for play (max tick rate 60) at 2018.01.08-22.57.41
+[2018.01.08-13.57.41:852][997]LogWorld: Bringing up level for play took: 0.004930
+[2018.01.08-13.57.41:859][997]PIE: /Game/pratice/wonseok/Material/UEDPIE_0_testmap 에 대한 에디터에서 플레이 시작 시간: 0.004
+[2018.01.08-13.57.41:859][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.57.59:066][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.57.59:135][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.58.12:299][687]BlueprintLog: New page: ThirdPersonCharacter_3 컴파일
+[2018.01.08-13.58.36:707][ 32]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.08-13.58.36:773][ 32]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.58.36:774][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.08-13.58.36:774][ 32]PIE: New page: PIE 세션: testmap (2018. 1. 9. 오전 7:58:36)
+[2018.01.08-13.58.36:774][ 32]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/Material/UEDPIE_0_testmap
+[2018.01.08-13.58.36:777][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003080s)
+[2018.01.08-13.58.36:778][ 32]LogAIModule: Creating AISystem for world testmap
+[2018.01.08-13.58.36:778][ 32]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2018.01.08-13.58.36:778][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/Material/testmap.testmap to /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap (0.004333s)
+[2018.01.08-13.58.36:805][ 32]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.08-13.58.36:815][ 32]LogInit: FAudioDevice initialized.
+[2018.01.08-13.58.36:851][ 32]LogLoad: Game class is 'mainGameMode'
+[2018.01.08-13.58.36:857][ 32]LogWorld: Bringing World /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap up for play (max tick rate 60) at 2018.01.08-22.58.36
+[2018.01.08-13.58.36:857][ 32]LogWorld: Bringing up level for play took: 0.004215
+[2018.01.08-13.58.36:864][ 32]PIE: /Game/pratice/wonseok/Material/UEDPIE_0_testmap 에 대한 에디터에서 플레이 시작 시간: 1.009
+[2018.01.08-13.58.36:865][ 32]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.59.51:076][110]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-13.59.51:262][110]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-14.02.09:014][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/wonseok/Material/testmap" FILE="D:/team/set/main/Saved/Autosaves/Game/pratice/wonseok/Material/testmap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.08-14.02.09:337][324]LogSavePackage: Save=215.10ms
+[2018.01.08-14.02.09:337][324]LogSavePackage: Moving 'D:/team/set/main/Saved/testmap_Auto1710450F64FDDF0861A184483534FBD59.tmp' to 'D:/team/set/main/Saved/Autosaves/Game/pratice/wonseok/Material/testmap_Auto1.umap'
+[2018.01.08-14.02.09:354][324]LogSavePackage: Display: Finished SavePackage D:/team/set/main/Saved/Autosaves/Game/pratice/wonseok/Material/testmap_Auto1.umap
+[2018.01.08-14.02.09:360][324]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/pratice/wonseok/Material/testmap' took 0.473
+[2018.01.08-14.02.09:360][324]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.473
+[2018.01.08-14.02.09:394][324]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pratice/wonseok/character/ThirdPersonCharacter_3] ([1] browsable assets)...
+[2018.01.08-14.02.09:489][324]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/pratice/wonseok/character/ThirdPersonCharacter_3.ThirdPersonCharacter_3]
+[2018.01.08-14.02.09:489][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/wonseok/character/ThirdPersonCharacter_3]
+[2018.01.08-14.02.10:075][324]LogSavePackage: Save=523.30ms
+[2018.01.08-14.02.10:075][324]LogSavePackage: Moving 'D:/team/set/main/Saved/ThirdPersonCharacter_3_Auto145CB51AC4DBCA9EA0C851DB412219DFB.tmp' to 'D:/team/set/main/Saved/Autosaves/Game/pratice/wonseok/character/ThirdPersonCharacter_3_Auto1.uasset'
+[2018.01.08-14.02.10:078][324]LogSavePackage: Display: Finished SavePackage D:/team/set/main/Saved/Autosaves/Game/pratice/wonseok/character/ThirdPersonCharacter_3_Auto1.uasset
+[2018.01.08-14.02.10:079][324]LogFileHelpers: Auto-saving content packages took 0.686
+[2018.01.08-14.03.29:016][779]BlueprintLog: New page: wonseokHUD 컴파일
+[2018.01.08-14.03.32:465][832]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.08-14.03.32:492][832]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-14.03.32:492][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.08-14.03.32:493][832]PIE: New page: PIE 세션: testmap (2018. 1. 9. 오전 8:03:32)
+[2018.01.08-14.03.32:493][832]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/Material/UEDPIE_0_testmap
+[2018.01.08-14.03.32:495][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001835s)
+[2018.01.08-14.03.32:495][832]LogAIModule: Creating AISystem for world testmap
+[2018.01.08-14.03.32:495][832]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2018.01.08-14.03.32:495][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/Material/testmap.testmap to /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap (0.002743s)
+[2018.01.08-14.03.32:519][832]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.08-14.03.32:530][832]LogInit: FAudioDevice initialized.
+[2018.01.08-14.03.32:563][832]LogLoad: Game class is 'mainGameMode'
+[2018.01.08-14.03.32:566][832]LogWorld: Bringing World /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap up for play (max tick rate 60) at 2018.01.08-23.03.32
+[2018.01.08-14.03.32:566][832]LogWorld: Bringing up level for play took: 0.002087
+[2018.01.08-14.03.32:569][832]PIE: /Game/pratice/wonseok/Material/UEDPIE_0_testmap 에 대한 에디터에서 플레이 시작 시간: 0.715
+[2018.01.08-14.03.32:569][832]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-14.04.32:048][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-14.04.32:129][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-14.04.53:278][932]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.01.08-14.06.10:013][962]BlueprintLog: New page: wonseokHUD 컴파일
+[2018.01.08-14.06.12:361][  1]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.08-14.06.12:394][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-14.06.12:394][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.08-14.06.12:394][  1]PIE: New page: PIE 세션: testmap (2018. 1. 9. 오전 8:06:12)
+[2018.01.08-14.06.12:394][  1]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/Material/UEDPIE_0_testmap
+[2018.01.08-14.06.12:396][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001817s)
+[2018.01.08-14.06.12:396][  1]LogAIModule: Creating AISystem for world testmap
+[2018.01.08-14.06.12:397][  1]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2018.01.08-14.06.12:397][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/Material/testmap.testmap to /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap (0.002714s)
+[2018.01.08-14.06.12:426][  1]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.08-14.06.12:438][  1]LogInit: FAudioDevice initialized.
+[2018.01.08-14.06.12:474][  1]LogLoad: Game class is 'mainGameMode'
+[2018.01.08-14.06.12:478][  1]LogWorld: Bringing World /Game/pratice/wonseok/Material/UEDPIE_0_testmap.testmap up for play (max tick rate 0) at 2018.01.08-23.06.12
+[2018.01.08-14.06.12:479][  1]LogWorld: Bringing up level for play took: 0.003910
+[2018.01.08-14.06.12:484][  1]PIE: /Game/pratice/wonseok/Material/UEDPIE_0_testmap 에 대한 에디터에서 플레이 시작 시간: 0.629
+[2018.01.08-14.06.12:485][  1]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-14.06.15:349][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-14.06.15:439][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/pratice/wonseok/Material/testmap.testmap_C' with ClassGeneratedBy '/Game/pratice/wonseok/Material/testmap.testmap:PersistentLevel.testmap'
+[2018.01.08-14.06.42:052][463]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.01.08-14.06.43:168][463]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.116 s
+[2018.01.08-14.06.43:168][463]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.08-14.06.43:168][463]LogOutputDevice: Error: 
+[2018.01.08-14.06.43:168][463]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.01.08-14.06.43:168][463]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: Stack: 
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x0000000049622786 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x00000000493C123A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x00000000493DB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x0000000031B433F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x00000000364D03AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x0000000033A73EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x00000000339074AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x000000003390ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x0000000033A38225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x0000000039517397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x000000003951CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x0000000039759913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x0000000039573484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x000000003954B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x000000003953D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x0000000048E0E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x0000000048E01A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x0000000048E103EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x0000000048DFD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x000000006591BC50 USER32.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x000000006591B5CF USER32.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x0000000048E11516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x00000000E9B350C8 UE4Editor.exe!UnknownFunction []
+[2018.01.08-14.06.43:169][463]LogOutputDevice: Error: [Callstack] 0x00000000E9B45430 UE4Editor.exe!UnknownFunction []
+[2018.01.08-14.06.43:170][463]LogOutputDevice: Error: [Callstack] 0x00000000E9B454AA UE4Editor.exe!UnknownFunction []
+[2018.01.08-14.06.43:170][463]LogOutputDevice: Error: [Callstack] 0x00000000E9B52379 UE4Editor.exe!UnknownFunction []
+[2018.01.08-14.06.43:170][463]LogOutputDevice: Error: [Callstack] 0x00000000E9B53D57 UE4Editor.exe!UnknownFunction []
+[2018.01.08-14.06.43:170][463]LogOutputDevice: Error: [Callstack] 0x0000000066512774 KERNEL32.DLL!UnknownFunction []
+[2018.01.08-14.06.43:170][463]LogOutputDevice: Error: [Callstack] 0x0000000066AB0D51 ntdll.dll!UnknownFunction []
+[2018.01.08-14.06.43:170][463]LogOutputDevice: Error: 
+[2018.01.08-14.06.43:177][463]LogStats:                SubmitErrorReport -  0.000 s
