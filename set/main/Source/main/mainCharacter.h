@@ -2,9 +2,11 @@
 
 #pragma once
 
+#include "UnrealNetwork.h"
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
 #include "mainCharacter.generated.h"
+
 
 UCLASS(config=Game)
 class AmainCharacter : public ACharacter
@@ -34,16 +36,20 @@ public:
 
 	virtual void Tick(float DeltaSeconds) override;
 
-	UFUNCTION(BlueprintCallable, Category = "Example Nodes")
+	UFUNCTION(BlueprintCallable,  Category = "Example Nodes")
 		float RFB();
-	UFUNCTION(BlueprintCallable, Category = "Example Nodes")
+	UFUNCTION(BlueprintCallable,  Category = "Example Nodes")
 		float RLR();
 	UFUNCTION(BlueprintCallable, Category = "Example Nodes")
 		bool Rattack();
-
-	UPROPERTY(EditAnywhere)
+	UFUNCTION(server,reliable,WithValidation)
+		void RsetFB(float val);
+	UFUNCTION(server, reliable, WithValidation)
+		void RsetLR(float val);
+	UPROPERTY(EditAnywhere,replicated)
 		float FB;//앞 중간 뒤 블랜드스페이스 거드는용
-	float LR;//블랜드스페이스 좌우
+	UPROPERTY(EditAnywhere, replicated)
+		float LR;//블랜드스페이스 좌우
 
 	bool isattack;
 

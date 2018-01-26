@@ -36,6 +36,66 @@
 			"IsPrecompiled": true
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll",
+			"Type": "DynamicLibrary",
+			"IsPrecompiled": true
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.pdb",
+			"Type": "SymbolFile",
+			"IsPrecompiled": true
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemSteam/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-OnlineSubsystemSteam.lib",
+			"Type": "ImportLibrary",
+			"IsPrecompiled": true
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll",
+			"Type": "DynamicLibrary",
+			"IsPrecompiled": true
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.pdb",
+			"Type": "SymbolFile",
+			"IsPrecompiled": true
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystem/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-OnlineSubsystem.lib",
+			"Type": "ImportLibrary",
+			"IsPrecompiled": true
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll",
+			"Type": "DynamicLibrary",
+			"IsPrecompiled": true
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.pdb",
+			"Type": "SymbolFile",
+			"IsPrecompiled": true
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-OnlineSubsystemUtils.lib",
+			"Type": "ImportLibrary",
+			"IsPrecompiled": true
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll",
+			"Type": "DynamicLibrary",
+			"IsPrecompiled": true
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.pdb",
+			"Type": "SymbolFile",
+			"IsPrecompiled": true
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-OnlineBlueprintSupport.lib",
+			"Type": "ImportLibrary",
+			"IsPrecompiled": true
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll",
 			"Type": "DynamicLibrary",
 			"IsPrecompiled": true
@@ -696,21 +756,6 @@
 			"IsPrecompiled": true
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll",
-			"Type": "DynamicLibrary",
-			"IsPrecompiled": true
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.pdb",
-			"Type": "SymbolFile",
-			"IsPrecompiled": true
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystem/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-OnlineSubsystem.lib",
-			"Type": "ImportLibrary",
-			"IsPrecompiled": true
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll",
 			"Type": "DynamicLibrary",
 			"IsPrecompiled": true
@@ -722,36 +767,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemNull/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-OnlineSubsystemNull.lib",
-			"Type": "ImportLibrary",
-			"IsPrecompiled": true
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll",
-			"Type": "DynamicLibrary",
-			"IsPrecompiled": true
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.pdb",
-			"Type": "SymbolFile",
-			"IsPrecompiled": true
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-OnlineSubsystemUtils.lib",
-			"Type": "ImportLibrary",
-			"IsPrecompiled": true
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll",
-			"Type": "DynamicLibrary",
-			"IsPrecompiled": true
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.pdb",
-			"Type": "SymbolFile",
-			"IsPrecompiled": true
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-OnlineBlueprintSupport.lib",
 			"Type": "ImportLibrary",
 			"IsPrecompiled": true
 		},
@@ -5598,6 +5613,21 @@
 			"IsPrecompiled": true
 		},
 		{
+			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-Voice.dll",
+			"Type": "DynamicLibrary",
+			"IsPrecompiled": true
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-Voice.pdb",
+			"Type": "SymbolFile",
+			"IsPrecompiled": true
+		},
+		{
+			"Path": "$(EngineDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-Voice.lib",
+			"Type": "ImportLibrary",
+			"IsPrecompiled": true
+		},
+		{
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-MediaUtils.dll",
 			"Type": "DynamicLibrary",
 			"IsPrecompiled": true
@@ -5624,21 +5654,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MediaAssets.lib",
-			"Type": "ImportLibrary",
-			"IsPrecompiled": true
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-Voice.dll",
-			"Type": "DynamicLibrary",
-			"IsPrecompiled": true
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-Voice.pdb",
-			"Type": "SymbolFile",
-			"IsPrecompiled": true
-		},
-		{
-			"Path": "$(EngineDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-Voice.lib",
 			"Type": "ImportLibrary",
 			"IsPrecompiled": true
 		},
@@ -5695,6 +5710,18 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/main.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -5814,15 +5841,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin",
 			"Type": "UFS"
 		},
 		{

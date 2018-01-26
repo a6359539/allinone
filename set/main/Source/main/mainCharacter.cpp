@@ -1,6 +1,7 @@
 // Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
 
 #include "mainCharacter.h"
+#include "UnrealNetwork.h"
 #include "HeadMountedDisplayFunctionLibrary.h"
 #include "Camera/CameraComponent.h"
 #include "Components/CapsuleComponent.h"
@@ -9,12 +10,14 @@
 #include "GameFramework/Controller.h"
 #include "GameFramework/SpringArmComponent.h"
 
+
 //////////////////////////////////////////////////////////////////////////
 // AmainCharacter
 AmainCharacter::AmainCharacter()
 {
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
+	bReplicates = true;
 
 	// set our turn rates for input
 	BaseTurnRate = 45.f;
@@ -133,14 +136,10 @@ void AmainCharacter::MoveForward(float Value)
 	if ((Controller != NULL) && (Value != 0.0f))
 	{
 		if (isattack == 0) {
-			if (Value == 1) {
-				FB = Value;
-			}
-			else if (Value == -1) {
+			if (Value == -1) {
 				Value *= 0.3;
-				FB = Value;
 			}
-
+			RsetFB(Value);
 			// find out which way is forward
 			const FRotator Rotation = Controller->GetControlRotation();
 			const FRotator YawRotation(0, Rotation.Yaw, 0);
@@ -150,6 +149,11 @@ void AmainCharacter::MoveForward(float Value)
 			AddMovementInput(Direction, Value);
 		}
 	}
+	else
+	{
+	
+		RsetFB(0);
+	}
 }
 
 void AmainCharacter::MoveRight(float Value)
@@ -158,9 +162,10 @@ void AmainCharacter::MoveRight(float Value)
 	{
 		if (isattack == 0)
 		{
-			if (Value == 1) LR = Value;
-			else if (Value == -1) LR = Value;
+			RsetLR(Value);
+		
 			Value *= 0.4;
+			
 			// find out which way is right
 
 			const FRotator Rotation = Controller->GetControlRotation();
@@ -172,12 +177,34 @@ void AmainCharacter::MoveRight(float Value)
 			AddMovementInput(Direction, Value);
 		}
 	}
+	else
+	{
+		RsetLR(0);
+	}
 }
 
-
-float AmainCharacter::RFB() {
-	return FB; //1뒤 2 중간 3 앞
+float AmainCharacter::RFB()
+{
+	//power();
+	return FB;
 }
+void AmainCharacter::RsetFB_Implementation(float val)
+{
+	FB = val;
+}
+bool AmainCharacter::RsetFB_Validate(float val)
+{
+	return true;                              // This will allow the RPC to be called
+}
+void AmainCharacter::RsetLR_Implementation(float val)
+{
+	LR = val;
+}
+bool AmainCharacter::RsetLR_Validate(float val)
+{
+	return true;                              // This will allow the RPC to be called
+}
+
 
 float AmainCharacter::RLR() {
 
@@ -192,11 +219,19 @@ bool AmainCharacter::Rattack()
 }
 
 
+
 void AmainCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	FB = 0;//중간 디폴드값
-	LR = 0;
+	
+
+}
+
+void AmainCharacter::GetLifetimeReplicatedProps(TArray< FLifetimeProperty > & OutLifetimeProps) const
+{
+	Super::GetLifetimeReplicatedProps(OutLifetimeProps);
+	DOREPLIFETIME(AmainCharacter, FB);
+	DOREPLIFETIME(AmainCharacter, LR);
 
 }

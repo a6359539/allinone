@@ -20,9 +20,25 @@ void EmptyLinkFunctionForGeneratedCodemainCharacter() {}
 	MAIN_API UFunction* Z_Construct_UFunction_AmainCharacter_Rattack();
 	MAIN_API UFunction* Z_Construct_UFunction_AmainCharacter_RFB();
 	MAIN_API UFunction* Z_Construct_UFunction_AmainCharacter_RLR();
+	MAIN_API UFunction* Z_Construct_UFunction_AmainCharacter_RsetFB();
+	MAIN_API UFunction* Z_Construct_UFunction_AmainCharacter_RsetLR();
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USpringArmComponent_NoRegister();
 // End Cross Module References
+	static FName NAME_AmainCharacter_RsetFB = FName(TEXT("RsetFB"));
+	void AmainCharacter::RsetFB(float val)
+	{
+		mainCharacter_eventRsetFB_Parms Parms;
+		Parms.val=val;
+		ProcessEvent(FindFunctionChecked(NAME_AmainCharacter_RsetFB),&Parms);
+	}
+	static FName NAME_AmainCharacter_RsetLR = FName(TEXT("RsetLR"));
+	void AmainCharacter::RsetLR(float val)
+	{
+		mainCharacter_eventRsetLR_Parms Parms;
+		Parms.val=val;
+		ProcessEvent(FindFunctionChecked(NAME_AmainCharacter_RsetLR),&Parms);
+	}
 	void AmainCharacter::StaticRegisterNativesAmainCharacter()
 	{
 		UClass* Class = AmainCharacter::StaticClass();
@@ -30,6 +46,8 @@ void EmptyLinkFunctionForGeneratedCodemainCharacter() {}
 			{ "Rattack", (Native)&AmainCharacter::execRattack },
 			{ "RFB", (Native)&AmainCharacter::execRFB },
 			{ "RLR", (Native)&AmainCharacter::execRLR },
+			{ "RsetFB", (Native)&AmainCharacter::execRsetFB },
+			{ "RsetLR", (Native)&AmainCharacter::execRsetLR },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
 	}
@@ -106,6 +124,44 @@ void EmptyLinkFunctionForGeneratedCodemainCharacter() {}
 		}
 		return ReturnFunction;
 	}
+	UFunction* Z_Construct_UFunction_AmainCharacter_RsetFB()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_val = { UE4CodeGen_Private::EPropertyClass::Float, "val", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000080, 1, nullptr, STRUCT_OFFSET(mainCharacter_eventRsetFB_Parms, val), METADATA_PARAMS(nullptr, 0) };
+			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_val,
+			};
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+				{ "ModuleRelativePath", "mainCharacter.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFunctionParams FuncParams = { (UObject*(*)())Z_Construct_UClass_AmainCharacter, "RsetFB", RF_Public|RF_Transient|RF_MarkAsNative, nullptr, (EFunctionFlags)0x80220CC0, sizeof(mainCharacter_eventRsetFB_Parms), PropPointers, ARRAY_COUNT(PropPointers), 0, 0, METADATA_PARAMS(Function_MetaDataParams, ARRAY_COUNT(Function_MetaDataParams)) };
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, FuncParams);
+		}
+		return ReturnFunction;
+	}
+	UFunction* Z_Construct_UFunction_AmainCharacter_RsetLR()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_val = { UE4CodeGen_Private::EPropertyClass::Float, "val", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000080, 1, nullptr, STRUCT_OFFSET(mainCharacter_eventRsetLR_Parms, val), METADATA_PARAMS(nullptr, 0) };
+			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_val,
+			};
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+				{ "ModuleRelativePath", "mainCharacter.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFunctionParams FuncParams = { (UObject*(*)())Z_Construct_UClass_AmainCharacter, "RsetLR", RF_Public|RF_Transient|RF_MarkAsNative, nullptr, (EFunctionFlags)0x80220CC0, sizeof(mainCharacter_eventRsetLR_Parms), PropPointers, ARRAY_COUNT(PropPointers), 0, 0, METADATA_PARAMS(Function_MetaDataParams, ARRAY_COUNT(Function_MetaDataParams)) };
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, FuncParams);
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_AmainCharacter_NoRegister()
 	{
 		return AmainCharacter::StaticClass();
@@ -123,6 +179,8 @@ void EmptyLinkFunctionForGeneratedCodemainCharacter() {}
 				{ &Z_Construct_UFunction_AmainCharacter_Rattack, "Rattack" }, // 1161227106
 				{ &Z_Construct_UFunction_AmainCharacter_RFB, "RFB" }, // 2939027287
 				{ &Z_Construct_UFunction_AmainCharacter_RLR, "RLR" }, // 410643976
+				{ &Z_Construct_UFunction_AmainCharacter_RsetFB, "RsetFB" }, // 768974938
+				{ &Z_Construct_UFunction_AmainCharacter_RsetLR, "RsetLR" }, // 2967506112
 			};
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
@@ -132,12 +190,20 @@ void EmptyLinkFunctionForGeneratedCodemainCharacter() {}
 			};
 #endif
 #if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_LR_MetaData[] = {
+				{ "Category", "mainCharacter" },
+				{ "ModuleRelativePath", "mainCharacter.h" },
+				{ "ToolTip", "?? ?\xdf\xb0? ?? ?\xed\xb7\xa3?\xe5\xbd\xba???\xcc\xbd? ?\xc5\xb5??\xc2\xbf?" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_LR = { UE4CodeGen_Private::EPropertyClass::Float, "LR", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000021, 1, nullptr, STRUCT_OFFSET(AmainCharacter, LR), METADATA_PARAMS(NewProp_LR_MetaData, ARRAY_COUNT(NewProp_LR_MetaData)) };
+#if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_FB_MetaData[] = {
 				{ "Category", "mainCharacter" },
 				{ "ModuleRelativePath", "mainCharacter.h" },
 			};
 #endif
-			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_FB = { UE4CodeGen_Private::EPropertyClass::Float, "FB", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000001, 1, nullptr, STRUCT_OFFSET(AmainCharacter, FB), METADATA_PARAMS(NewProp_FB_MetaData, ARRAY_COUNT(NewProp_FB_MetaData)) };
+			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_FB = { UE4CodeGen_Private::EPropertyClass::Float, "FB", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000021, 1, nullptr, STRUCT_OFFSET(AmainCharacter, FB), METADATA_PARAMS(NewProp_FB_MetaData, ARRAY_COUNT(NewProp_FB_MetaData)) };
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_BaseLookUpRate_MetaData[] = {
 				{ "Category", "Camera" },
@@ -175,6 +241,7 @@ void EmptyLinkFunctionForGeneratedCodemainCharacter() {}
 #endif
 			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_CameraBoom = { UE4CodeGen_Private::EPropertyClass::Object, "CameraBoom", RF_Public|RF_Transient|RF_MarkAsNative, 0x00400000000a001d, 1, nullptr, STRUCT_OFFSET(AmainCharacter, CameraBoom), Z_Construct_UClass_USpringArmComponent_NoRegister, METADATA_PARAMS(NewProp_CameraBoom_MetaData, ARRAY_COUNT(NewProp_CameraBoom_MetaData)) };
 			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_LR,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_FB,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_BaseLookUpRate,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_BaseTurnRate,
@@ -199,7 +266,7 @@ void EmptyLinkFunctionForGeneratedCodemainCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AmainCharacter, 1231407327);
+	IMPLEMENT_CLASS(AmainCharacter, 48802438);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AmainCharacter(Z_Construct_UClass_AmainCharacter, &AmainCharacter::StaticClass, TEXT("/Script/main"), TEXT("AmainCharacter"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AmainCharacter);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
