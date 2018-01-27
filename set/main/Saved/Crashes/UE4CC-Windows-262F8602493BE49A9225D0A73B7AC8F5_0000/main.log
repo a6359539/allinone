@@ -1,0 +1,1134 @@
+﻿Log file open, 01/20/18 15:35:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: main
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1678681810) SRandInit(-1678681809).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.191508
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file D:/20180120/set/main/Binaries/Win64/UE4Editor-main.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.20-06.35.51:053][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.20-06.35.51:053][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.20-06.35.51:130][  0]LogInit: Computer: DESKTOP-LOUV37F
+[2018.01.20-06.35.51:130][  0]LogInit: User: choiw
+[2018.01.20-06.35.51:130][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.20-06.35.51:130][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2018.01.20-06.35.51:131][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.20-06.35.51:131][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.20-06.35.51:131][  0]LogMemory: Process Physical Memory: 274.07 MB used, 274.07 MB peak
+[2018.01.20-06.35.51:131][  0]LogMemory: Process Virtual Memory: 264.95 MB used, 264.95 MB peak
+[2018.01.20-06.35.51:131][  0]LogMemory: Physical Memory: 2683.38 MB used,  5400.70 MB free, 8084.07 MB total
+[2018.01.20-06.35.51:131][  0]LogMemory: Virtual Memory: 641.97 MB used,  5400.70 MB free, 134217728.00 MB total
+[2018.01.20-06.35.52:342][  0]LogInit: Using OS detected language (ko-KR).
+[2018.01.20-06.35.52:342][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.01.20-06.35.52:392][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.01.20-06.35.52:606][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.20-06.35.54:903][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.20-06.35.55:947][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2018.01.20-06.35.55:947][  0]LogD3D11RHI:       6061/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.20-06.35.55:968][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.01.20-06.35.55:968][  0]LogD3D11RHI:       128/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.20-06.35.55:971][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.20-06.35.55:972][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.20-06.35.55:972][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.20-06.35.55:982][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.20-06.35.55:982][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.20-06.35.55:982][  0]LogWindows: EnumDisplayDevices:
+[2018.01.20-06.35.55:983][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.01.20-06.35.55:985][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.20-06.35.55:987][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.20-06.35.55:988][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.20-06.35.55:991][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.20-06.35.55:993][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.20-06.35.55:995][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.20-06.35.55:997][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.01.20-06.35.55:997][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2018.01.20-06.35.55:997][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
+[2018.01.20-06.35.55:997][  0]LogD3D11RHI:      Driver Date: 11-14-2017
+[2018.01.20-06.35.55:997][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.01.20-06.35.56:028][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.20-06.35.56:070][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.20-06.35.56:077][  0]LogShaderCompilers: Guid format shader working directory is 25 characters bigger than the processId version (D:/20180120/set/main/Intermediate/Shaders/WorkingDirectory/16788/).
+[2018.01.20-06.35.56:077][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/choiw/AppData/Local/Temp/UnrealShaderWorkingDir/76A1995C482DF317223101BFD73D8953/'.
+[2018.01.20-06.35.56:077][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.20-06.35.58:115][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.20-06.35.58:205][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.20-06.35.58:295][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.20-06.35.58:385][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.20-06.35.58:476][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.20-06.35.58:559][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.20-06.35.58:648][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.20-06.35.58:732][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.20-06.35.58:809][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.20-06.35.58:892][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.20-06.35.58:976][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.20-06.35.59:059][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.20-06.35.59:145][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.20-06.35.59:226][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.20-06.35.59:393][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.20-06.35.59:393][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.20-06.35.59:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.20-06.35.59:558][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.20-06.35.59:710][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.20-06.35.59:754][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.20-06.35.59:848][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.20-06.35.59:968][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.20-06.36.00:085][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.20-06.36.00:179][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.20-06.36.00:179][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.20-06.36.01:248][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.20-06.36.01:367][  0]LogDerivedDataCache: Loaded boot cache 0.12s 79MB C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.20-06.36.01:367][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.20-06.36.01:367][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/20180120/set/main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.20-06.36.01:367][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.20-06.36.01:367][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/20180120/set/main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.20-06.36.01:367][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.20-06.36.01:388][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.20-06.36.01:401][  0]LogDerivedDataCache: Using Local data cache path C:/Users/choiw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.20-06.36.01:412][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.20-06.36.01:412][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.20-06.36.01:421][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.20-06.36.01:421][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.20-06.36.02:103][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.20-06.36.02:794][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.20-06.36.02:875][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.20-06.36.02:875][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.20-06.36.02:875][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.20-06.36.02:875][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.20-06.36.02:875][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.20-06.36.02:929][  0]LogNetVersion: main , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1998149536)
+[2018.01.20-06.36.03:338][  0]LogAssetRegistry: FAssetRegistry took 0.0286 seconds to start up
+[2018.01.20-06.36.04:375][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.072241 seconds
+[2018.01.20-06.36.04:380][  0]LogUObjectArray: 35907 objects as part of root set at end of initial load.
+[2018.01.20-06.36.04:380][  0]LogUObjectAllocator: 7585952 out of 0 bytes used by permanent object pool.
+[2018.01.20-06.36.04:380][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.20-06.36.11:973][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.20-06.36.12:065][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.20-06.36.13:499][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] 입력 액션 이벤트가  click 입력 액션  에 대한 미확인 'click' 액션을 레퍼런싱합니다.
+[2018.01.20-06.36.13:518][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0027.54] ThirdPersonCharacter 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 39 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.01.20-06.36.14:029][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.20-06.36.14:824][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.20-06.36.17:362][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.20-06.36.17:922][  0]LogOcInput: OculusInput pre-init called
+[2018.01.20-06.36.18:386][  0]LogEngine: Initializing Engine...
+[2018.01.20-06.36.18:389][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.20-06.36.18:790][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.20-06.36.18:790][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.20-06.36.19:018][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.20-06.36.19:051][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-06.36.19:144][  0]LogInit: FAudioDevice initialized.
+[2018.01.20-06.36.19:239][  0]LogDerivedDataCache: Saved boot cache 0.09s 79MB C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.20-06.36.19:260][  0]LogInit: Texture streaming: Enabled
+[2018.01.20-06.36.19:477][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.20-06.36.19:846][  0]LogInit: Transaction tracking system initialized
+[2018.01.20-06.36.20:527][  0]BlueprintLog: New page: 에디터 로드
+[2018.01.20-06.36.22:566][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.01.20-06.36.24:170][  0]LogConsoleResponse: Display: 
+[2018.01.20-06.36.24:794][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.20-06.36.24:794][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.20-06.36.24:794][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.20-06.36.25:960][  0]LogFileCache: Scanning file cache for directory 'D:/20180120/set/main/Content/' took 0.05s
+[2018.01.20-06.36.27:400][  0]Cmd: MAP LOAD FILE="D:/20180120/set/main/Content/pratice/wonseok/MultiPlay/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.20-06.36.27:404][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.20-06.36.27:483][  0]MapCheck: New page: 맵 체크
+[2018.01.20-06.36.27:483][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.20-06.36.27:773][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.01.20-06.36.27:775][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.20-06.36.27:785][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.20-06.36.27:863][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 76.916ms.
+[2018.01.20-06.36.27:863][  0]LogFileHelpers: Loading map 'MainMenu' took 0.462
+[2018.01.20-06.36.28:159][  0]LogCollectionManager: Loaded 0 collections in 0.001873 seconds
+[2018.01.20-06.36.28:293][  0]LogFileCache: Scanning file cache for directory 'D:/20180120/set/main/Saved/Collections/' took 0.01s
+[2018.01.20-06.36.28:293][  0]LogFileCache: Scanning file cache for directory 'D:/20180120/set/main/Content/Developers/choiw/Collections/' took 0.01s
+[2018.01.20-06.36.28:293][  0]LogFileCache: Scanning file cache for directory 'D:/20180120/set/main/Content/Collections/' took 0.01s
+[2018.01.20-06.36.28:293][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.20-06.36.28:303][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2367 classes and 524 folders.
+[2018.01.20-06.36.28:423][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.01.20-06.36.28:986][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.01.20-06.36.29:071][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.01.20-06.36.29:229][  0]LogSlate: Took 0.007926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.20-06.36.29:247][  0]LogSlate: Took 0.015440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.01.20-06.36.29:253][  0]LogSlate: Took 0.005422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.20-06.36.29:261][  0]LogSlate: Took 0.003936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.20-06.36.29:497][  0]LogRenderer: Reallocating scene render targets to support 980x456 Format 9 NumSamples 1 (Frame:1).
+[2018.01.20-06.36.29:775][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.01.20-06.36.29:775][  0]LogLoad: (Engine Initialization) Total time: 43.80 seconds
+[2018.01.20-06.36.29:775][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.20-06.36.29:775][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.20-06.36.30:137][  0]SourceControl: On branch master
+[2018.01.20-06.36.30:137][  0]SourceControl: Changes not staged for commit:
+[2018.01.20-06.36.30:137][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.01.20-06.36.30:137][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.20-06.36.30:137][  0]SourceControl: 	modified:   set/main/Config/DefaultEngine.ini
+[2018.01.20-06.36.30:137][  0]SourceControl: 	modified:   set/main/Content/InfinityBladeGrassLands/Maps/map.umap
+[2018.01.20-06.36.30:138][  0]SourceControl: 	modified:   set/main/Content/pratice/shot.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	modified:   set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	modified:   set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/combo1mon.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	modified:   set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Mesh/Maximo_SWAT_Skeleton.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	modified:   set/main/Content/pratice/sinyoung/testaim.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Lobby/LobbyPC.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/MultiPlay/Maps/MainMenu.umap
+[2018.01.20-06.36.30:138][  0]SourceControl: 	modified:   set/main/Content/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	modified:   set/main/Intermediate/CachedAssetRegistry.bin
+[2018.01.20-06.36.30:138][  0]SourceControl: 	modified:   set/main/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2018.01.20-06.36.30:138][  0]SourceControl: 	modified:   set/main/Intermediate/ReimportCache/3688439234.bin
+[2018.01.20-06.36.30:138][  0]SourceControl: 	modified:   set/main/Saved/Autosaves/PackageRestoreData.json
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/AI_2018-01-13-18-35-21.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/AI_2018-01-13-18-45-47.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/AI_2018-01-13-19-02-16.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/AI_2018-01-13-19-53-11.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/AimModeBlend_2018-01-14-16-17-54.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/AimModeBlend_2018-01-14-16-47-15.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Aim_Space_Hip1_2018-01-15-01-13-34.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Aim_Space_Hip2_2018-01-15-01-13-34.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Aim_Space_Hip_2018-01-15-01-01-28.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-18-01-01.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-18-23-17.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-18-45-47.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-19-02-16.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-19-17-48.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-19-29-25.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-19-47-48.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-19-53-09.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-20-06-27.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-20-19-29.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-20-40-04.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-21-37-40.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-21-53-24.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-22-15-18.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-22-46-48.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-13-22-53-47.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-14-19-13-12.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-14-19-25-20.uasset
+[2018.01.20-06.36.30:138][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-14-19-42-10.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-14-20-09-44.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-14-20-24-47.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-15-01-38-32.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-15-02-41-33.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-15-02-56-54.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-16-13-01-44.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-16-13-23-59.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-16-17-33-24.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-16-17-59-42.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-16-18-31-36.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-16-19-17-01.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-17-04-44-10.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-17-05-09-16.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Arrowactor_2018-01-17-06-00-30.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/BP_Hook_2018-01-17-04-19-01.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/BP_Hook_2018-01-17-06-00-31.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/BP_LightStudio_2018-01-17-05-23-07.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Blueprint_CeilingLight_2018-01-17-05-23-10.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Blueprint_Effect_Explosion_2018-01-17-05-23-12.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Blueprint_Effect_Fire_2018-01-17-05-23-14.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Blueprint_Effect_Smoke_2018-01-17-05-23-15.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Blueprint_Effect_Sparks_2018-01-17-05-23-17.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Blueprint_Effect_Steam_2018-01-17-05-23-19.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Blueprint_WallSconce_2018-01-17-05-23-20.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/BowBlendSpace_2018-01-14-16-07-47.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Bow_2018-01-12-15-28-47.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Bow_2018-01-12-15-43-56.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/GreatSwordBlend2_2018-01-11-03-32-03.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/GreenArrowQuiver_2018-01-14-17-27-43.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/M_Blade_BlackKnight_2018-01-11-01-13-47.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/M_IceBlastBase_2018-01-12-01-33-33.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/M_IceTrap_Shard_INST_2018-01-12-01-28-25.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/M_Rock_2018-01-16-20-28-17.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/M_SwipeTrail_Add_2Sided_Base_02_INST_2018-01-12-01-23-31.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/M_Trail_2018-01-11-21-34-04.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/MixamoCharacter_Master_2018-01-17-05-23-04.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/MixamoGame_2018-01-17-05-23-06.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/NewBlendSpace_2018-01-11-04-48-44.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/New_inst_2018-01-17-04-25-38.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/New_inst_2018-01-17-04-38-00.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/New_inst_2018-01-17-05-09-17.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/New_inst_2018-01-17-05-39-14.uasset
+[2018.01.20-06.36.30:139][  0]SourceControl: 	deleted:    set/main/Saved/Backup/New_inst_2018-01-17-06-00-31.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/P_Fire_2018-01-10-18-31-58.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/P_Fire_2018-01-10-18-41-39.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/P_Fire_2018-01-11-20-20-53.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/P_HeldCharge_Ice_00_2018-01-12-01-25-10.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/P_HeldCharge_Ice_00_2018-01-12-01-35-12.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/P_HeldCharge_Ice_00_2018-01-12-01-45-13.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/P_HeldCharge_Ice_00_2018-01-12-02-42-00.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/P_HeldCharge_Ice_00_2018-01-12-02-49-53.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/P_HeldCharge_Ice_00_2018-01-12-03-10-24.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/P_HeldCharge_Ice_02_2018-01-12-01-53-12.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/P_SwordTrail_2018-01-12-00-59-22.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/P_SwordTrail_2018-01-12-01-49-49.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/SK_Blade_BlackKnight_2018-01-11-01-14-13.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/SK_Mannequin_2018-01-15-01-01-28.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/StaticArrow_2018-01-13-20-06-27.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/StaticArrow_2018-01-13-20-19-29.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/StaticArrow_2018-01-13-20-40-05.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/StaticArrow_2018-01-13-22-46-48.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/StaticArrow_2018-01-13-22-53-47.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/StaticArrow_2018-01-17-05-09-17.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/StaticArrow_2018-01-17-06-00-30.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/T_SwipeTrail_Mat_2018-01-11-21-42-25.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/T_SwipeTrail_Mat_2018-01-11-22-05-22.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/T_SwipeTrail_Mat_2018-01-11-22-12-50.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/T_SwipeTrail_Mat_2018-01-12-00-41-52.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/T_SwipeTrail_Mat_2018-01-12-01-00-19.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-10-17-31-08.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-10-17-44-44.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-10-17-55-08.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-10-18-05-13.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-10-18-15-50.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-10-18-41-40.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-01-26-45.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-01-36-49.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-01-53-06.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-02-04-37.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-03-41-10.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-03-51-57.uasset
+[2018.01.20-06.36.30:140][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-04-02-00.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-04-12-08.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-04-22-57.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-04-33-00.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-04-44-56.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-05-07-59.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-16-58-14.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-17-11-56.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-17-30-01.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-20-14-23.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-20-25-15.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-11-22-12-55.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-12-02-34-45.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-12-02-58-59.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-12-03-10-27.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-12-15-43-55.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-12-18-13-37.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-12-18-23-43.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-12-18-36-01.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-13-18-01-01.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-13-18-12-09.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-13-18-23-17.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-13-18-45-46.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-13-19-02-15.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-13-19-17-46.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-13-19-29-22.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-13-19-47-46.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-13-19-53-07.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-13-20-19-27.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-13-20-40-02.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-13-22-53-45.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-14-16-00-20.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-14-16-12-10.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-14-16-49-09.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-14-18-09-08.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-14-18-18-49.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-14-19-01-16.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-14-19-13-11.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-14-19-25-19.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-14-19-42-09.uasset
+[2018.01.20-06.36.30:141][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-14-19-52-52.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-14-20-09-43.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-14-20-24-47.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-15-01-38-32.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-15-01-50-57.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-15-02-41-32.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-15-02-54-34.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-15-17-18-02.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-15-17-41-58.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-15-17-52-10.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-15-18-14-04.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-16-12-38-18.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-16-13-01-43.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-16-13-23-58.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-16-17-59-40.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-16-18-31-35.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-16-19-14-04.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-17-01-51-56.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-17-02-04-20.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-17-02-11-02.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-17-04-19-00.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-17-05-09-16.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-17-06-00-29.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/ThirdPersonCharacter_3_2018-01-17-17-38-01.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/UE4_Mannequin_Skeleton_2018-01-15-00-52-21.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/UE4_Mannequin_Skeleton_2018-01-15-01-01-28.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/UE4_Mannequin_Skeleton_2018-01-15-01-07-16.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/UE4_Mannequin_Skeleton_2018-01-15-01-13-34.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Ue4ASP_Character_2018-01-13-18-45-47.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Ue4ASP_Character_2018-01-13-19-02-16.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Ue4ASP_Character_2018-01-13-19-53-07.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Ue4ASP_Character_2018-01-13-21-53-24.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Ue4ASP_Character_2018-01-13-22-15-19.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Ue4ASP_Character_2018-01-13-22-46-48.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Ue4ASP_Character_2018-01-13-22-53-45.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Ue4ASP_Character_2018-01-14-20-09-43.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/Ue4ASP_Character_2018-01-14-20-24-46.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS01_2018-01-11-20-14-24.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS01_2018-01-11-21-40-42.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS01_2018-01-12-01-00-08.uasset
+[2018.01.20-06.36.30:142][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS02_2018-01-11-20-14-24.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS02_2018-01-11-22-12-54.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS02_2018-01-12-01-12-10.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS02_2018-01-12-03-10-25.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS04_2018-01-11-17-02-37.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS04_2018-01-11-17-18-54.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS04_2018-01-11-17-26-04.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS04_2018-01-11-20-14-24.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS04_2018-01-11-22-12-55.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS04_2018-01-12-01-04-15.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS04_2018-01-12-01-46-45.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS04_2018-01-12-01-59-42.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS04_2018-01-12-02-09-39.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS04_2018-01-12-02-44-00.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS04_2018-01-12-02-58-59.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS04_2018-01-12-03-10-26.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS3_2018-01-11-20-14-24.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_GS3_2018-01-11-22-12-55.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_Montage1_2018-01-10-17-37-18.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_Montage1_2018-01-10-17-55-08.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_Montage1_2018-01-10-18-15-51.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_Montage1_2018-01-10-18-31-25.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_Montage1_2018-01-10-18-39-16.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_Montage1_2018-01-11-04-52-42.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_Montage1_2018-01-12-02-13-30.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_Montage1_2018-01-12-02-34-46.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_Montage1_2018-01-12-02-58-59.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_Montage1_2018-01-12-03-10-26.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_Montage2_2018-01-10-18-37-57.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/W_Montage4_2018-01-10-17-25-58.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/charCamShake_2018-01-11-05-07-58.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/debri_2018-01-16-18-17-00.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/debri_2018-01-16-18-26-53.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/draw_sword_2_2018-01-11-04-02-01.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/draw_sword_2_2018-01-11-05-07-36.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_2018-01-11-01-26-46.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_2018-01-11-05-07-58.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_2018-01-11-21-47-21.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_2018-01-11-22-12-55.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_2018-01-12-18-23-43.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_2018-01-12-18-39-48.uasset
+[2018.01.20-06.36.30:143][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-10-17-31-08.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-10-17-55-07.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-10-18-15-50.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-10-18-28-21.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-10-18-41-40.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-11-01-26-45.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-11-01-36-49.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-11-01-58-51.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-11-04-02-00.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-11-04-12-08.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-11-04-32-59.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-11-05-07-59.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-11-17-30-01.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-11-21-39-27.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-12-01-59-42.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-12-02-34-45.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-12-02-58-59.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-12-03-10-26.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-12-15-43-55.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-12-18-11-47.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-12-18-16-58.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-13-18-59-35.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-14-16-49-10.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-14-17-40-19.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-14-18-10-31.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-14-18-18-49.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-15-00-57-02.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-15-01-07-14.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-15-01-13-34.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/dreyar_m_aure_Skeleton_2018-01-15-01-19-39.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/force_2018-01-16-18-10-00.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/force_2018-01-16-19-17-03.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/force_2018-01-16-20-00-01.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/force_2018-01-16-20-25-53.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/force_2018-01-16-20-54-02.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-16-12-45-46.uasset
+[2018.01.20-06.36.30:144][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-16-13-01-44.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-16-13-23-51.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-16-17-10-07.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-16-17-18-40.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-16-17-33-00.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-16-17-39-31.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-16-17-59-42.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-16-18-31-36.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-16-19-17-02.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-16-20-19-11.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-16-20-24-34.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-16-20-29-47.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-16-20-53-47.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-17-01-44-50.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-17-04-22-26.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-17-04-29-26.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-17-04-44-10.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-17-05-09-17.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-17-05-39-13.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/forcefield_2018-01-17-06-00-31.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/great_sword_blocking_2018-01-11-01-53-06.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/great_sword_blocking_2018-01-11-05-07-39.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/great_sword_casting_2018-01-11-01-53-07.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/great_sword_casting_2018-01-11-05-07-39.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/great_sword_crouching__2__2018-01-11-01-53-07.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/great_sword_crouching__2__2018-01-11-05-07-40.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/great_sword_crouching__3__2018-01-11-01-53-07.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/great_sword_crouching__3__2018-01-11-05-07-40.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/icetrail_2018-01-11-21-35-46.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/icetrail_2018-01-11-21-41-50.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/material_2018-01-16-19-16-53.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/material_2018-01-16-19-56-54.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/material_2018-01-16-20-08-13.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/sheath_sword_1_2018-01-11-01-34-01.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/sheath_sword_1_2018-01-11-04-33-00.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/sheath_sword_1_2018-01-11-05-07-57.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/sheath_sword_2_2018-01-11-04-12-09.uasset
+[2018.01.20-06.36.30:145][  0]SourceControl: 	deleted:    set/main/Saved/Backup/sheath_sword_2_2018-01-11-05-07-58.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/standing_aim_recoil_2018-01-14-18-10-31.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/standing_aim_recoil_2018-01-14-18-18-48.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/standing_draw_arrow_2018-01-14-18-10-31.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/standing_draw_arrow_2018-01-14-18-18-49.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/staticarrow_2018-01-13-18-45-47.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/staticarrow_2018-01-13-19-29-25.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/staticarrow_2018-01-13-19-47-48.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/staticarrow_2018-01-13-19-53-10.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/sword_and_shield_attack_2018-01-10-17-20-58.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/sword_and_shield_attack_2018-01-10-18-41-39.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/sword_and_shield_attack_2018-01-11-17-11-56.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/sword_and_shield_attack_2018-01-11-17-34-33.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/sword_and_shield_attack__2__2018-01-10-17-20-58.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/sword_and_shield_attack__2__2018-01-10-18-41-39.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/sword_and_shield_idle_2018-01-11-04-48-08.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/sword_and_shield_slash_2018-01-10-17-35-29.uasset
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-10-17-20-57.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-10-17-31-08.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-10-17-44-43.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-10-17-55-07.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-10-18-05-12.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-10-18-15-50.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-10-18-41-36.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-01-26-44.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-01-36-49.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-01-53-05.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-02-04-36.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-03-41-09.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-03-51-56.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-04-01-59.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-04-12-08.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-04-22-56.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-04-32-59.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-04-44-56.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-05-08-03.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-16-58-14.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-17-11-55.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-17-30-00.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-20-14-22.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-20-25-14.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-21-25-56.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-11-22-12-59.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-12-01-36-54.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-12-02-34-44.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-12-02-58-58.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-12-15-43-56.umap
+[2018.01.20-06.36.30:146][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-12-18-13-37.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-12-18-23-42.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-12-18-36-00.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-18-01-00.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-18-12-08.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-18-23-16.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-18-45-45.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-19-02-15.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-19-17-45.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-19-29-21.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-19-47-45.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-19-53-10.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-20-19-26.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-20-35-22.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-21-37-39.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-21-53-23.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-22-15-18.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-22-32-06.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-22-46-47.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-13-22-53-47.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-14-16-00-19.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-14-16-12-09.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-14-16-49-09.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-14-18-07-59.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-14-18-18-43.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-14-19-01-16.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-14-19-13-10.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-14-19-25-19.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-14-19-42-08.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-14-19-52-52.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-14-20-09-42.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-14-20-21-07.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-15-01-01-28.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-15-01-38-31.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-15-01-50-57.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-15-02-02-10.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-15-02-12-55.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-15-02-25-32.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-15-02-41-32.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-15-02-54-34.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-15-17-18-02.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-15-17-41-58.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-15-17-52-09.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-15-18-13-55.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-16-12-38-18.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-16-13-01-42.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-16-13-23-55.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-16-17-18-40.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-16-17-33-24.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-16-17-59-39.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-16-18-31-34.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-16-19-16-57.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-16-20-54-00.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-17-01-51-55.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-17-02-04-20.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-17-02-11-03.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-17-04-18-59.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-17-04-29-26.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-17-04-44-09.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-17-05-09-15.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-17-05-39-13.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-17-06-00-26.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/testmap_2018-01-17-17-38-01.umap
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-10-17-31-08.uasset
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-10-17-44-43.uasset
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-10-17-55-07.uasset
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-10-18-05-12.uasset
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-10-18-15-50.uasset
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-10-18-41-41.uasset
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-11-02-04-36.uasset
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-11-03-41-10.uasset
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-11-03-51-56.uasset
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-11-04-01-59.uasset
+[2018.01.20-06.36.30:147][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-11-04-12-08.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-11-04-22-57.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-11-04-32-59.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-11-04-44-56.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-11-04-56-36.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-11-05-08-00.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-11-17-30-00.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-11-20-14-23.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-11-20-25-14.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-11-22-12-56.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-12-01-59-42.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-12-02-34-44.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-12-02-58-58.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-12-03-10-28.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-14-16-00-20.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-14-16-12-10.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-14-16-26-54.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-14-16-49-10.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-14-18-18-49.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-16-17-59-41.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Backup/wonseokanimBP_2018-01-16-19-17-02.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	modified:   set/main/Saved/Config/Windows/Editor.ini
+[2018.01.20-06.36.30:148][  0]SourceControl: 	modified:   set/main/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.01.20-06.36.30:148][  0]SourceControl: 	modified:   set/main/Saved/Config/Windows/Engine.ini
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.18-17.19.01.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.18-18.27.21.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.18-21.20.03.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.18-23.25.47.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.19-01.39.52.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.19-01.40.43.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.19-01.51.54.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.19-03.08.31.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.19-03.33.18.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.19-04.00.36.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.19-04.25.14.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.19-04.28.37.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.19-04.30.28.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main-backup-2018.01.19-15.07.52.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	modified:   set/main/Saved/Logs/main.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main_2-backup-2018.01.19-01.27.39.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main_2-backup-2018.01.19-04.03.59.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main_2-backup-2018.01.19-04.04.05.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main_2-backup-2018.01.19-04.04.26.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main_2-backup-2018.01.19-04.09.45.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main_2-backup-2018.01.19-04.11.33.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	deleted:    set/main/Saved/Logs/main_2-backup-2018.01.19-04.24.35.log
+[2018.01.20-06.36.30:148][  0]SourceControl: 	modified:   set/main/Saved/Logs/main_2.log
+[2018.01.20-06.36.30:148][  0]SourceControl: Untracked files:
+[2018.01.20-06.36.30:148][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.20-06.36.30:148][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Lobby/LobbyPC_Auto2.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Lobby/LobbyPC_Auto3.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Lobby/LobbyPC_Auto4.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Lobby/LobbyPC_Auto5.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu_Auto1.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu_Auto2.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	set/main/Saved/Backup/LobbyMenu_2018-01-20-03-57-35.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	set/main/Saved/Backup/LobbyMenu_2018-01-20-04-07-37.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	set/main/Saved/Backup/LobbyMenu_2018-01-20-04-43-02.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	set/main/Saved/Backup/LobbyPC_2018-01-20-04-07-37.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	set/main/Saved/Backup/LobbyPC_2018-01-20-04-17-38.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	set/main/Saved/Backup/LobbyPC_2018-01-20-04-28-01.uasset
+[2018.01.20-06.36.30:148][  0]SourceControl: 	set/main/Saved/Backup/LobbyPC_2018-01-20-04-40-23.uasset
+[2018.01.20-06.36.30:149][  0]SourceControl: 	set/main/Saved/Backup/MainMenu_2018-01-20-04-42-59.umap
+[2018.01.20-06.36.30:149][  0]SourceControl: 	set/main/Saved/Backup/shot_2018-01-20-02-55-02.uasset
+[2018.01.20-06.36.30:149][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-21593E674E8019DADEA5F1AB40B2FE06/
+[2018.01.20-06.36.30:149][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-262F8602493BE49A9225D0A73B7AC8F5/
+[2018.01.20-06.36.30:149][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-7A8F436E4BF7D1E900613EA91A12FE84/
+[2018.01.20-06.36.30:149][  0]SourceControl: 	set/main/Saved/Config/CrashReportClient/UE4CC-Windows-C07A0B2449995FA2573F6EA2DBD9BC5B/
+[2018.01.20-06.36.30:149][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.20-02.53.48.log
+[2018.01.20-06.36.30:149][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.20-03.47.04.log
+[2018.01.20-06.36.30:149][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.20-14.52.53.log
+[2018.01.20-06.36.30:149][  0]SourceControl: 	set/main/Saved/Logs/main-backup-2018.01.20-15.35.47.log
+[2018.01.20-06.36.30:149][  0]SourceControl: 	set/main/Saved/Logs/main_2-backup-2018.01.20-02.55.22.log
+[2018.01.20-06.36.30:149][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.01.20-06.36.30:149][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.01.20-06.36.31:464][  4]LogAssetRegistry: Asset discovery search completed in 28.1481 seconds
+[2018.01.20-06.36.31:471][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.20-06.36.31:471][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000097 seconds (updated 0 objects)
+[2018.01.20-06.36.35:132][ 15]LogSlate: Took 0.006774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.20-06.42.17:121][528]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.20-06.42.17:657][528]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.20-06.42.17:983][528]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0022 seconds. Added 116 classes and 0 folders.
+[2018.01.20-06.42.19:105][528]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.20-06.42.19:110][528]LogSlate: Took 0.004566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.20-06.43.17:625][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/gamehud.SKEL_gamehud_C:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:625][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/gamehud.gamehud_C:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:625][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/AllLevels/LoadingChat.LoadingChat:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:625][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:625][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/MainMenu/MainMenu.MainMenu:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:625][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/MainMenu/OptionsMenu.OptionsMenu:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:625][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/MainMenu/ServerMenu.ServerMenu:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:625][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/MainMenu/HostMenu.SKEL_HostMenu_C:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/AllLevels/LoadingChat.SKEL_LoadingChat_C:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/MainMenu/MainMenu.SKEL_MainMenu_C:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/MainMenu/HostMenu.HostMenu_C:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/AllLevels/LoadingChat.LoadingChat_C:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/MainMenu/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/MainMenu/OptionsMenu.OptionsMenu_C:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/MainMenu/ServerMenu.ServerMenu_C:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu_C:WidgetTree.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:LobbyMenu_C_0.WidgetTree_0.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:LobbyMenu_C_1.WidgetTree_1.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_0.WidgetTree_2.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:MainMenu_C_1.WidgetTree_3.CanvasPanel_0
+[2018.01.20-06.43.17:626][238]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/pratice/gamehud.gamehud:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0) from referencer (Border /Engine/UMG/Editor/Transient.Border_3).  Import failed...
+[2018.01.20-06.43.17:626][238]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_0"''
+[2018.01.20-06.43.17:997][243]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/UMG/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/UMG/Editor/Transient.uasset' is outside repository
+[2018.01.20-06.43.27:050][399]PIE: '/Engine/Transient.Border_3' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:052][399]PIE: '/Engine/Transient.Border_1' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:054][399]PIE: '/Engine/Transient.Border_3' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:131][400]PIE: '/Engine/Transient.Border_5' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:134][400]PIE: '/Engine/Transient.Border_7' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:163][401]PIE: '/Engine/Transient.Border_9' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:234][402]PIE: '/Engine/Transient.Border_11' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:236][402]PIE: '/Engine/Transient.Border_13' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:311][403]PIE: '/Engine/Transient.Border_15' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:313][403]PIE: '/Engine/Transient.Border_17' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:315][403]PIE: '/Engine/Transient.Border_19' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:383][404]PIE: '/Engine/Transient.Border_21' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:384][404]PIE: '/Engine/Transient.Border_23' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:387][404]PIE: '/Engine/Transient.Border_25' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:453][405]PIE: '/Engine/Transient.Border_27' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:456][405]PIE: '/Engine/Transient.Border_29' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:522][406]PIE: '/Engine/Transient.Border_31' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:598][407]PIE: '/Engine/Transient.Border_33' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:599][407]PIE: '/Engine/Transient.Border_35' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:602][407]PIE: '/Engine/Transient.Border_37' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:669][408]PIE: '/Engine/Transient.Border_39' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:671][408]PIE: '/Engine/Transient.Border_41' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:676][408]PIE: '/Engine/Transient.Border_43' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:746][409]PIE: '/Engine/Transient.Border_45' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:749][409]PIE: '/Engine/Transient.Border_47' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:821][410]PIE: '/Engine/Transient.Border_49' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:824][410]PIE: '/Engine/Transient.Border_51' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:829][410]PIE: '/Engine/Transient.Border_53' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:900][411]PIE: '/Engine/Transient.Border_55' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:903][411]PIE: '/Engine/Transient.Border_57' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:982][412]PIE: '/Engine/Transient.Border_59' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:983][412]PIE: '/Engine/Transient.Border_61' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.27:986][412]PIE: '/Engine/Transient.Border_63' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.28:054][413]PIE: '/Engine/Transient.Border_65' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.28:060][413]PIE: '/Engine/Transient.Border_67' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:265][433]PIE: '/Engine/Transient.Border_3' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:266][433]PIE: '/Engine/Transient.Border_71' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:268][433]PIE: '/Engine/Transient.Border_73' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:332][434]PIE: '/Engine/Transient.Border_75' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:334][434]PIE: '/Engine/Transient.Border_77' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:362][435]PIE: '/Engine/Transient.Border_79' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:365][435]PIE: '/Engine/Transient.Border_81' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:437][436]PIE: '/Engine/Transient.Border_83' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:513][437]PIE: '/Engine/Transient.Border_85' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:586][438]PIE: '/Engine/Transient.Border_87' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:662][439]PIE: '/Engine/Transient.Border_89' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:738][440]PIE: '/Engine/Transient.Border_91' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:815][441]PIE: '/Engine/Transient.Border_93' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:817][441]PIE: '/Engine/Transient.Border_95' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:889][442]PIE: '/Engine/Transient.Border_97' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.43.29:962][443]PIE: '/Engine/Transient.Border_99' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:026][ 47]PIE: '/Engine/Transient.GridPanel_0' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:027][ 47]PIE: '/Engine/Transient.GridPanel_2' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:034][ 47]PIE: '/Engine/Transient.GridPanel_4' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:090][ 48]PIE: '/Engine/Transient.GridPanel_6' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:092][ 48]PIE: '/Engine/Transient.GridPanel_8' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:117][ 49]PIE: '/Engine/Transient.GridPanel_10' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:120][ 49]PIE: '/Engine/Transient.GridPanel_12' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:182][ 50]PIE: '/Engine/Transient.GridPanel_14' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:185][ 50]PIE: '/Engine/Transient.GridPanel_16' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:240][ 51]PIE: '/Engine/Transient.GridPanel_18' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:244][ 51]PIE: '/Engine/Transient.GridPanel_20' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:307][ 52]PIE: '/Engine/Transient.GridPanel_22' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:310][ 52]PIE: '/Engine/Transient.GridPanel_24' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:369][ 53]PIE: '/Engine/Transient.GridPanel_26' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:372][ 53]PIE: '/Engine/Transient.GridPanel_28' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:427][ 54]PIE: '/Engine/Transient.GridPanel_30' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:432][ 54]PIE: '/Engine/Transient.GridPanel_32' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:435][ 54]PIE: '/Engine/Transient.GridPanel_34' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:493][ 55]PIE: '/Engine/Transient.GridPanel_36' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:496][ 55]PIE: '/Engine/Transient.GridPanel_38' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:501][ 55]PIE: '/Engine/Transient.GridPanel_40' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:557][ 56]PIE: '/Engine/Transient.GridPanel_42' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:559][ 56]PIE: '/Engine/Transient.GridPanel_44' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:620][ 57]PIE: '/Engine/Transient.GridPanel_46' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:622][ 57]PIE: '/Engine/Transient.GridPanel_48' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:688][ 58]PIE: '/Engine/Transient.GridPanel_50' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:754][ 59]PIE: '/Engine/Transient.GridPanel_52' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:757][ 59]PIE: '/Engine/Transient.GridPanel_54' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:827][ 60]PIE: '/Engine/Transient.GridPanel_56' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:833][ 60]PIE: '/Engine/Transient.GridPanel_58' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:891][ 61]PIE: '/Engine/Transient.GridPanel_60' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.56:958][ 62]PIE: '/Engine/Transient.GridPanel_62' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:025][ 63]PIE: '/Engine/Transient.GridPanel_64' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:089][ 64]PIE: '/Engine/Transient.GridPanel_66' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:154][ 65]PIE: '/Engine/Transient.GridPanel_68' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:157][ 65]PIE: '/Engine/Transient.GridPanel_70' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:225][ 66]PIE: '/Engine/Transient.GridPanel_72' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:231][ 66]PIE: '/Engine/Transient.GridPanel_74' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:321][ 67]PIE: '/Engine/Transient.GridPanel_76' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:324][ 67]PIE: '/Engine/Transient.GridPanel_78' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:389][ 68]PIE: '/Engine/Transient.GridPanel_80' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:391][ 68]PIE: '/Engine/Transient.GridPanel_82' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:394][ 68]PIE: '/Engine/Transient.GridPanel_84' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:465][ 69]PIE: '/Engine/Transient.GridPanel_86' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:469][ 69]PIE: '/Engine/Transient.GridPanel_88' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:559][ 70]PIE: '/Engine/Transient.GridPanel_90' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:565][ 70]PIE: '/Engine/Transient.GridPanel_92' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:658][ 71]PIE: '/Engine/Transient.GridPanel_94' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:664][ 71]PIE: '/Engine/Transient.GridPanel_96' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:743][ 72]PIE: '/Engine/Transient.GridPanel_98' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:750][ 72]PIE: '/Engine/Transient.GridPanel_100' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:837][ 73]PIE: '/Engine/Transient.GridPanel_102' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:840][ 73]PIE: '/Engine/Transient.GridPanel_104' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:919][ 74]PIE: '/Engine/Transient.GridPanel_106' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.48.57:922][ 74]PIE: '/Engine/Transient.GridPanel_108' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-06.51.16:296][455]BlueprintLog: New page: LobbyMenu 컴파일
+[2018.01.20-06.53.06:613][697]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_1:LobbyMenu_C_16.WidgetTree_22.VerticalBox_1
+[2018.01.20-06.53.06:613][697]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_1:LobbyMenu_C_17.WidgetTree_23.VerticalBox_1
+[2018.01.20-06.53.06:613][697]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_1:LobbyMenu_C_18.WidgetTree_24.VerticalBox_1
+[2018.01.20-06.53.06:613][697]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1.VerticalBoxSlot_4) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_1).  Import failed...
+[2018.01.20-06.53.06:613][697]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_1.VerticalBoxSlot_4"''
+[2018.01.20-06.53.06:803][700]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/UMG/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/UMG/Editor/Transient.uasset' is outside repository
+[2018.01.20-06.55.04:651][900]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_1:LobbyMenu_C_16.WidgetTree_22.VerticalBox_1
+[2018.01.20-06.55.04:651][900]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_1:LobbyMenu_C_17.WidgetTree_23.VerticalBox_1
+[2018.01.20-06.55.04:651][900]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_1:LobbyMenu_C_18.WidgetTree_24.VerticalBox_1
+[2018.01.20-06.55.04:651][900]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_1:LobbyMenu_C_19.WidgetTree_25.VerticalBox_1
+[2018.01.20-06.55.04:651][900]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_1:LobbyMenu_C_20.WidgetTree_26.VerticalBox_1
+[2018.01.20-06.55.04:651][900]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_1:LobbyMenu_C_21.WidgetTree_27.VerticalBox_1
+[2018.01.20-06.55.04:651][900]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_1:LobbyMenu_C_22.WidgetTree_28.VerticalBox_1
+[2018.01.20-06.55.04:651][900]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_1:LobbyMenu_C_23.WidgetTree_29.VerticalBox_1
+[2018.01.20-06.55.04:651][900]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_1:LobbyMenu_C_24.WidgetTree_30.VerticalBox_1
+[2018.01.20-06.55.04:651][900]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_1:LobbyMenu_C_25.WidgetTree_31.VerticalBox_1
+[2018.01.20-06.55.04:651][900]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_1.VerticalBoxSlot_4) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_1).  Import failed...
+[2018.01.20-06.55.04:651][900]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_1.VerticalBoxSlot_4"''
+[2018.01.20-06.55.04:917][903]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/UMG/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/UMG/Editor/Transient.uasset' is outside repository
+[2018.01.20-06.56.16:570][419]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/pratice/wonseok/MultiPlay/Maps/MainMenu' took 0.047
+[2018.01.20-06.56.16:584][419]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2018.01.20-06.56.16:584][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu]
+[2018.01.20-06.56.17:412][419]LogSavePackage: Save=64.55ms
+[2018.01.20-06.56.17:412][419]LogSavePackage: Moving 'D:/20180120/set/main/Saved/LobbyMenu_Auto1292D50514410D733BF780E829A5F8C10.tmp' to 'D:/20180120/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu_Auto1.uasset'
+[2018.01.20-06.56.17:413][419]LogSavePackage: Display: Finished SavePackage D:/20180120/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu_Auto1.uasset
+[2018.01.20-06.56.17:414][419]LogFileHelpers: Auto-saving content packages took 0.838
+[2018.01.20-06.59.14:591][507]BlueprintLog: New page: LobbyMenu 컴파일
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_9.WidgetTree_11.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_3.WidgetTree_20.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_11.WidgetTree_13.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_12.WidgetTree_14.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_13.WidgetTree_15.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_14.WidgetTree_16.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_28.WidgetTree_35.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_1.WidgetTree_19.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_15.WidgetTree_21.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_16.WidgetTree_22.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_17.WidgetTree_23.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_18.WidgetTree_24.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_19.WidgetTree_25.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_20.WidgetTree_26.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_21.WidgetTree_27.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_22.WidgetTree_28.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_23.WidgetTree_29.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_24.WidgetTree_30.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_25.WidgetTree_31.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_26.WidgetTree_32.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_1:LobbyMenu_C_27.WidgetTree_33.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.REINST_LobbyMenu_C_38:WidgetTree.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu_C:WidgetTree.GridPanel_0
+[2018.01.20-06.59.54:218][ 27]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Game/pratice/wonseok/MultiPlay/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0.GridSlot_0) from referencer (Border /Engine/UMG/Editor/Transient.LobbySettings).  Import failed...
+[2018.01.20-06.59.54:218][ 27]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_0.GridSlot_0"''
+[2018.01.20-06.59.54:468][ 31]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/UMG/Editor/Transient.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/UMG/Editor/Transient.uasset' is outside repository
+[2018.01.20-07.00.24:394][609]PIE: '/Engine/Transient.PlayerList' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:399][609]PIE: '/Engine/Transient.Border_103' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:402][609]PIE: '/Engine/Transient.Border_105' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:405][609]PIE: '/Engine/Transient.Border_107' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:454][610]PIE: '/Engine/Transient.Border_109' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:456][610]PIE: '/Engine/Transient.Border_111' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:458][610]PIE: '/Engine/Transient.Border_113' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:484][611]PIE: '/Engine/Transient.Border_115' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:487][611]PIE: '/Engine/Transient.Border_117' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:540][612]PIE: '/Engine/Transient.Border_119' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:543][612]PIE: '/Engine/Transient.Border_121' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:603][613]PIE: '/Engine/Transient.Border_123' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:606][613]PIE: '/Engine/Transient.Border_125' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:662][614]PIE: '/Engine/Transient.Border_127' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:667][614]PIE: '/Engine/Transient.Border_129' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:670][614]PIE: '/Engine/Transient.Border_131' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:726][615]PIE: '/Engine/Transient.Border_133' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:728][615]PIE: '/Engine/Transient.Border_135' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:734][615]PIE: '/Engine/Transient.Border_137' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:786][616]PIE: '/Engine/Transient.Border_139' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:789][616]PIE: '/Engine/Transient.Border_141' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:843][617]PIE: '/Engine/Transient.Border_143' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:851][617]PIE: '/Engine/Transient.Border_145' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:908][618]PIE: '/Engine/Transient.Border_147' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.24:971][619]PIE: '/Engine/Transient.Border_149' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.25:035][620]PIE: '/Engine/Transient.Border_151' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.25:094][621]PIE: '/Engine/Transient.Border_153' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.25:158][622]PIE: '/Engine/Transient.Border_155' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.25:220][623]PIE: '/Engine/Transient.Border_157' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.25:284][624]PIE: '/Engine/Transient.Border_159' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:499][695]PIE: '/Engine/Transient.PlayerList' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:502][695]PIE: '/Engine/Transient.Border_163' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:505][695]PIE: '/Engine/Transient.Border_165' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:565][696]PIE: '/Engine/Transient.Border_167' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:567][696]PIE: '/Engine/Transient.Border_169' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:571][696]PIE: '/Engine/Transient.Border_171' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:592][697]PIE: '/Engine/Transient.Border_173' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:598][697]PIE: '/Engine/Transient.Border_175' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:652][698]PIE: '/Engine/Transient.Border_177' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:655][698]PIE: '/Engine/Transient.Border_179' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:710][699]PIE: '/Engine/Transient.Border_181' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:715][699]PIE: '/Engine/Transient.Border_183' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:719][699]PIE: '/Engine/Transient.Border_185' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:772][700]PIE: '/Engine/Transient.Border_187' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:774][700]PIE: '/Engine/Transient.Border_189' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:835][701]PIE: '/Engine/Transient.Border_191' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:838][701]PIE: '/Engine/Transient.Border_193' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:893][702]PIE: '/Engine/Transient.Border_195' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:898][702]PIE: '/Engine/Transient.Border_197' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:901][702]PIE: '/Engine/Transient.Border_199' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:956][703]PIE: '/Engine/Transient.Border_201' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:958][703]PIE: '/Engine/Transient.Border_203' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.28:966][703]PIE: '/Engine/Transient.Border_205' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.29:016][704]PIE: '/Engine/Transient.Border_207' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.29:021][704]PIE: '/Engine/Transient.Border_209' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.29:078][705]PIE: '/Engine/Transient.Border_211' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.29:085][705]PIE: '/Engine/Transient.Border_213' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.29:087][705]PIE: '/Engine/Transient.Border_215' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.29:090][705]PIE: '/Engine/Transient.Border_217' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.29:142][706]PIE: '/Engine/Transient.Border_219' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.29:149][706]PIE: '/Engine/Transient.Border_221' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.29:201][707]PIE: '/Engine/Transient.Border_223' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.29:205][707]PIE: '/Engine/Transient.Border_225' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.29:260][708]PIE: '/Engine/Transient.Border_227' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.29:318][709]PIE: '/Engine/Transient.Border_229' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.29:321][709]PIE: '/Engine/Transient.Border_231' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.00.29:383][710]PIE: '/Engine/Transient.Border_233' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.20-07.01.14:670][450]BlueprintLog: New page: LobbyMenu 컴파일
+[2018.01.20-07.02.30:015][332]LogEditorTransaction: Undo 위젯 대체

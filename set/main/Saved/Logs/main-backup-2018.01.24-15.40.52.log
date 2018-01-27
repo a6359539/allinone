@@ -1,0 +1,1508 @@
+﻿Log file open, 01/24/18 13:25:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: main
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-350808984) SRandInit(-350808984).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.179631
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file D:/20180120/set/main/Binaries/Win64/UE4Editor-main.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.24-04.25.28:908][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.24-04.25.28:908][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.24-04.25.28:990][  0]LogInit: Computer: DESKTOP-LOUV37F
+[2018.01.24-04.25.28:990][  0]LogInit: User: choiw
+[2018.01.24-04.25.28:990][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.24-04.25.28:990][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.01.24-04.25.28:991][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.24-04.25.28:991][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.24-04.25.28:991][  0]LogMemory: Process Physical Memory: 275.95 MB used, 275.95 MB peak
+[2018.01.24-04.25.28:991][  0]LogMemory: Process Virtual Memory: 265.99 MB used, 265.99 MB peak
+[2018.01.24-04.25.28:991][  0]LogMemory: Physical Memory: 3659.04 MB used,  4425.04 MB free, 8084.07 MB total
+[2018.01.24-04.25.28:991][  0]LogMemory: Virtual Memory: 676.41 MB used,  4425.04 MB free, 134217728.00 MB total
+[2018.01.24-04.25.30:059][  0]LogInit: Using OS detected language (ko-KR).
+[2018.01.24-04.25.30:059][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.01.24-04.25.30:176][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.01.24-04.25.30:810][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.24-04.25.36:806][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.24-04.25.36:875][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2018.01.24-04.25.36:875][  0]LogD3D11RHI:       6061/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.24-04.25.36:890][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.01.24-04.25.36:890][  0]LogD3D11RHI:       128/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.24-04.25.36:892][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.24-04.25.36:892][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.24-04.25.36:892][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.24-04.25.36:904][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.24-04.25.36:905][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.24-04.25.36:905][  0]LogWindows: EnumDisplayDevices:
+[2018.01.24-04.25.36:905][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.01.24-04.25.36:905][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.24-04.25.36:905][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.24-04.25.36:906][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.24-04.25.36:906][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.24-04.25.36:906][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.24-04.25.36:906][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.24-04.25.36:906][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.24-04.25.36:906][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2018.01.24-04.25.36:906][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.24-04.25.36:906][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.24-04.25.36:906][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.01.24-04.25.36:949][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.24-04.25.37:064][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.24-04.25.37:071][  0]LogShaderCompilers: Guid format shader working directory is 26 characters bigger than the processId version (D:/20180120/set/main/Intermediate/Shaders/WorkingDirectory/8232/).
+[2018.01.24-04.25.37:071][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/choiw/AppData/Local/Temp/UnrealShaderWorkingDir/D753318E45CAD2563F36DC8FC436F069/'.
+[2018.01.24-04.25.37:071][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.24-04.25.40:445][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.24-04.25.40:513][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.24-04.25.40:581][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.24-04.25.40:650][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.24-04.25.40:723][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.24-04.25.40:789][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.24-04.25.40:854][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.24-04.25.40:925][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.24-04.25.40:985][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.24-04.25.41:053][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.24-04.25.41:122][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.24-04.25.41:206][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.24-04.25.41:267][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.24-04.25.41:330][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.24-04.25.41:464][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.24-04.25.41:464][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.24-04.25.41:530][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.24-04.25.41:578][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.24-04.25.41:694][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.24-04.25.41:726][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.24-04.25.41:783][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.24-04.25.41:841][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.24-04.25.41:898][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.24-04.25.41:965][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.24-04.25.41:965][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.24-04.25.42:639][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.24-04.25.42:841][  0]LogDerivedDataCache: Loaded boot cache 0.20s 92MB C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.24-04.25.42:842][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.24-04.25.42:842][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/20180120/set/main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.24-04.25.42:842][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.24-04.25.42:842][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/20180120/set/main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.24-04.25.42:842][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.24-04.25.42:872][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.24-04.25.42:884][  0]LogDerivedDataCache: Using Local data cache path C:/Users/choiw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.24-04.25.42:902][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.24-04.25.42:909][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.24-04.25.42:922][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.24-04.25.42:923][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.24-04.25.43:823][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.24-04.25.44:421][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.24-04.25.44:471][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.24-04.25.44:471][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.24-04.25.44:472][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.24-04.25.44:472][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.24-04.25.44:472][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.24-04.25.44:542][  0]LogNetVersion: main , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1998149536)
+[2018.01.24-04.25.45:010][  0]LogAssetRegistry: FAssetRegistry took 0.0285 seconds to start up
+[2018.01.24-04.25.46:302][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.148559 seconds
+[2018.01.24-04.25.46:309][  0]LogUObjectArray: 35907 objects as part of root set at end of initial load.
+[2018.01.24-04.25.46:309][  0]LogUObjectAllocator: 7585960 out of 0 bytes used by permanent object pool.
+[2018.01.24-04.25.46:309][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.24-04.25.52:594][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.24-04.25.52:648][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.24-04.25.54:219][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] 입력 액션 이벤트가  click 입력 액션  에 대한 미확인 'click' 액션을 레퍼런싱합니다.
+[2018.01.24-04.25.54:240][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0031.02] ThirdPersonCharacter 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 64 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.01.24-04.25.54:767][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.24-04.25.55:419][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.24-04.25.55:419][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.24-04.25.55:499][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.24-04.25.55:568][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.24-04.25.56:583][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.24-04.25.56:920][  0]LogOcInput: OculusInput pre-init called
+[2018.01.24-04.25.57:382][  0]LogEngine: Initializing Engine...
+[2018.01.24-04.25.57:388][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.24-04.25.57:819][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.24-04.25.57:819][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.24-04.25.57:997][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.24-04.25.58:015][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.24-04.25.58:060][  0]LogInit: FAudioDevice initialized.
+[2018.01.24-04.25.58:135][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.24-04.25.58:156][  0]LogInit: Texture streaming: Enabled
+[2018.01.24-04.25.58:284][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.24-04.25.58:479][  0]LogInit: Transaction tracking system initialized
+[2018.01.24-04.25.58:964][  0]BlueprintLog: New page: 에디터 로드
+[2018.01.24-04.26.00:387][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.01.24-04.26.01:415][  0]LogConsoleResponse: Display: 
+[2018.01.24-04.26.02:206][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.24-04.26.02:206][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.24-04.26.02:206][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.24-04.26.03:318][  0]LogFileCache: Scanning file cache for directory 'D:/20180120/set/main/Content/' took 0.17s
+[2018.01.24-04.26.03:837][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.24-04.26.03:839][  0]Cmd: MAP LOAD FILE="D:/20180120/set/main/Content/pratice/wonseok/MultiPlay/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.24-04.26.03:975][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.24-04.26.04:034][  0]MapCheck: New page: 맵 체크
+[2018.01.24-04.26.04:034][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.24-04.26.04:608][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.01.24-04.26.04:613][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.24-04.26.04:628][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.24-04.26.04:684][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 56.711ms.
+[2018.01.24-04.26.04:684][  0]LogFileHelpers: Loading map 'MainMenu' took 0.846
+[2018.01.24-04.26.04:972][  0]LogCollectionManager: Loaded 0 collections in 0.019850 seconds
+[2018.01.24-04.26.05:094][  0]LogFileCache: Scanning file cache for directory 'D:/20180120/set/main/Saved/Collections/' took 0.01s
+[2018.01.24-04.26.05:094][  0]LogFileCache: Scanning file cache for directory 'D:/20180120/set/main/Content/Developers/choiw/Collections/' took 0.01s
+[2018.01.24-04.26.05:094][  0]LogFileCache: Scanning file cache for directory 'D:/20180120/set/main/Content/Collections/' took 0.01s
+[2018.01.24-04.26.05:094][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.24-04.26.05:107][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2367 classes and 524 folders.
+[2018.01.24-04.26.05:203][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.01.24-04.26.05:591][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.01.24-04.26.05:656][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.24-04.26.06:009][  0]LogSlate: Took 0.006048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.24-04.26.06:022][  0]LogSlate: Took 0.012781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.01.24-04.26.06:029][  0]LogSlate: Took 0.005177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.24-04.26.06:040][  0]LogSlate: Took 0.005443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.24-04.26.06:290][  0]LogRenderer: Reallocating scene render targets to support 980x456 Format 9 NumSamples 1 (Frame:1).
+[2018.01.24-04.26.06:637][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.01.24-04.26.06:638][  0]LogLoad: (Engine Initialization) Total time: 43.42 seconds
+[2018.01.24-04.26.06:638][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.24-04.26.06:638][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.24-04.26.07:016][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.01.24-04.26.07:107][  0]LogSlate: Took 0.005833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.24-04.26.08:000][  3]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.24-04.26.08:649][  5]LogAssetRegistry: Asset discovery search completed in 23.6607 seconds
+[2018.01.24-04.26.08:660][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.24-04.26.08:660][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2018.01.24-04.26.20:098][233]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.24-04.26.21:018][233]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.24-04.26.23:036][233]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.26.23:072][233]Cmd: MAP LOAD FILE="D:/20180120/set/main/Content/pratice/wonseok/MultiPlay/Maps/mappp.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.24-04.26.23:072][233]LightingResults: New page: 라이팅 빌드
+[2018.01.24-04.26.23:072][233]LoadErrors: New page: 맵 로드중: mappp.umap
+[2018.01.24-04.26.23:073][233]MapCheck: New page: 맵 체크
+[2018.01.24-04.26.23:073][233]LightingResults: New page: 라이팅 빌드
+[2018.01.24-04.26.23:149][233]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.24-04.26.23:215][233]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.24-04.26.23:278][233]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 63.077ms.
+[2018.01.24-04.26.23:280][233]LogFileHelpers: Loading map 'mappp' took 0.210
+[2018.01.24-04.26.24:522][272]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.01.24-04.26.25:047][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.24-04.26.25:048][272]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.26.25:048][272]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.26.25:049][272]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.26.25:049][272]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.26.25:049][272]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.01.24-04.26.25:049][272]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.01.24-04.26.25:062][272]PIE: New page: PIE 세션: mappp (2018. 1. 24. 오후 10:26:25)
+[2018.01.24-04.26.25:063][272]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.01.24-04.26.25:070][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007565s)
+[2018.01.24-04.26.25:071][272]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.26.25:071][272]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2018.01.24-04.26.25:072][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.008927s)
+[2018.01.24-04.26.25:083][272]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.24-04.26.25:094][272]LogInit: FAudioDevice initialized.
+[2018.01.24-04.26.25:201][272]LogLoad: Game class is 'MtestMode_C'
+[2018.01.24-04.26.25:204][272]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 0) at 2018.01.24-13.26.25
+[2018.01.24-04.26.25:204][272]LogWorld: Bringing up level for play took: 0.001016
+[2018.01.24-04.26.25:309][272]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.01.24-04.26.25:321][272]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.26.25:322][272]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.01.24-04.26.25:322][272]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.26.25:323][272]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.24-04.26.25:325][272]LogInit: WinSock: I am DESKTOP-LOUV37F (192.168.0.8:0)
+[2018.01.24-04.26.25:325][272]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.26.25:325][272]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2018.01.24-04.26.25:330][272]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: 1.17
+[2018.01.24-04.26.25:333][272]PIE: New page: PIE 세션: mappp (2018. 1. 24. 오후 10:26:25)
+[2018.01.24-04.26.25:421][272]LogNet: Browse: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/MainMenu
+[2018.01.24-04.26.25:421][272]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.26.25:421][272]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.01.24-04.26.25:421][272]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.24-04.26.25:421][272]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.24-04.26.25:422][272]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.26.25:422][272]LogNet: Game client on port 17777, rate 10000
+[2018.01.24-04.26.25:427][272]PIE: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu 에 대한 에디터에서 플레이 시작 시간: 1.267
+[2018.01.24-04.26.25:440][272]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50787
+[2018.01.24-04.26.25:440][272]LogHandshake: SendConnectChallenge. Timestamp: 0.017208, Cookie: 065040047255032003242092070130214165087229008234190159203223
+[2018.01.24-04.26.25:478][272]LogHandshake: SendChallengeResponse. Timestamp: 0.017208, Cookie: 065040047255032003242092070130214165087229008234190159203223
+[2018.01.24-04.26.25:615][273]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50787
+[2018.01.24-04.26.25:615][273]LogHandshake: SendChallengeAck. InCookie: 065040047255032003242092070130214165087229008234190159203223
+[2018.01.24-04.26.25:615][273]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50787
+[2018.01.24-04.26.25:615][273]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.26.25:615][273]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 01/24/18 13:26:25, [UNetConnection] RemoteAddr: 127.0.0.1:50787, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.24-04.26.25:616][273]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50787, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.24-04.26.25:617][273]LogNetVersion: main 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 285256623)
+[2018.01.24-04.26.25:617][273]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.24-04.26.25:641][274]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.01.24-04.26.25:641][274]LogNet: Remote platform little endian=1
+[2018.01.24-04.26.25:641][274]LogNet: This platform little endian=1
+[2018.01.24-04.26.25:670][275]LogNet: Login request: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu?Name=DESKTOP-LOUV37F-996B71BA4DE5BA0E4321C384CC245BEC userId: DESKTOP-LOUV37F-996B71BA4DE5BA0E4321C384CC245BEC
+[2018.01.24-04.26.25:671][275]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.01.24-04.26.25:695][275]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.01.24-04.26.25:722][275]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.26.25:723][275]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.26.25:725][275]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 0) at 2018.01.24-13.26.25
+[2018.01.24-04.26.25:725][275]LogWorld: Bringing up level for play took: 0.000694
+[2018.01.24-04.26.25:725][275]LogLoad: Took 0.030508 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.01.24-04.26.25:743][276]LogNet: Client netspeed is 10000
+[2018.01.24-04.26.25:743][276]LogNet: Join request: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu?Name=DESKTOP-LOUV37F-996B71BA4DE5BA0E4321C384CC245BEC?SplitscreenCount=1
+[2018.01.24-04.26.25:743][276]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.26.25:746][276]LogNet: Join succeeded: DESKTOP-LOUV37F-996B
+[2018.01.24-04.26.25:831][278]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.26.25:876][279]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.26.26:508][296]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.26:508][296]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.26:574][298]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.26:575][298]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.29:409][375]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.29:409][375]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.29:410][375]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.29:411][375]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.31:145][422]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.31:145][422]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.31:153][422]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.31:153][422]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.33:253][479]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.33:253][479]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.33:319][481]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.33:319][481]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.35:289][534]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.35:289][534]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.35:368][536]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.35:368][536]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.36:702][572]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.36:702][572]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.36:704][572]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.36:704][572]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.38:256][614]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.38:256][614]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.38:293][615]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.38:294][615]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.39:775][655]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.39:775][655]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.39:783][655]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.39:783][655]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.41:225][694]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.41:225][694]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.41:232][694]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.41:232][694]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.42:921][740]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.42:922][740]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.42:961][741]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.42:962][741]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.44:771][791]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.44:771][791]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.44:801][792]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.44:801][792]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.46:640][843]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.46:640][843]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.46:647][843]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0032
+[2018.01.24-04.26.46:647][843]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.26.50:823][950]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.26.50:823][950]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.26.50:824][950]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.26.50:824][950]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.26.50:824][950]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.24-04.26.50:888][950]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.26.50:888][950]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.26.50:890][950]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.26.50:890][950]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.26.50:890][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.24-04.26.50:903][950]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50787, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.01.24-04.26.50:903][950]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50787, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.24-04.26.50
+[2018.01.24-04.26.50:903][950]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50787, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.01.24-04.26.50:903][950]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.01.24-04.26.50:903][950]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.24-04.26.50
+[2018.01.24-04.26.50:903][950]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.01.24-04.26.50:909][950]LogExit: GameNetDriver None shut down
+[2018.01.24-04.26.50:909][950]LogExit: GameNetDriver None shut down
+[2018.01.24-04.26.50:979][951]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.01.24-04.26.50:979][951]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.26.50:979][951]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.01.24-04.26.50:979][951]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.26.58:678][176]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.01.24-04.26.59:612][176]LogSlate: Took 0.004244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.24-04.26.59:753][177]LogSlate: Took 0.004339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.24-04.27.34:777][169]BlueprintLog: New page: mbpc 컴파일
+[2018.01.24-04.27.39:269][281]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.01.24-04.27.39:324][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.24-04.27.39:326][281]PIE: New page: PIE 세션: mappp (2018. 1. 24. 오후 10:27:39)
+[2018.01.24-04.27.39:326][281]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.01.24-04.27.39:332][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005496s)
+[2018.01.24-04.27.39:333][281]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.27.39:333][281]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2018.01.24-04.27.39:333][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.006706s)
+[2018.01.24-04.27.39:355][281]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.24-04.27.39:368][281]LogInit: FAudioDevice initialized.
+[2018.01.24-04.27.39:460][281]LogLoad: Game class is 'MtestMode_C'
+[2018.01.24-04.27.39:461][281]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 0) at 2018.01.24-13.27.39
+[2018.01.24-04.27.39:462][281]LogWorld: Bringing up level for play took: 0.000730
+[2018.01.24-04.27.39:475][281]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.27.39:475][281]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.01.24-04.27.39:476][281]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.27.39:476][281]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.24-04.27.39:476][281]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.27.39:476][281]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2018.01.24-04.27.39:482][281]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: -0.677
+[2018.01.24-04.27.39:484][281]PIE: New page: PIE 세션: mappp (2018. 1. 24. 오후 10:27:39)
+[2018.01.24-04.27.39:588][281]LogNet: Browse: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/MainMenu
+[2018.01.24-04.27.39:588][281]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.27.39:588][281]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.01.24-04.27.39:588][281]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.24-04.27.39:588][281]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.24-04.27.39:590][281]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.27.39:590][281]LogNet: Game client on port 17777, rate 10000
+[2018.01.24-04.27.39:595][281]PIE: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu 에 대한 에디터에서 플레이 시작 시간: -0.564
+[2018.01.24-04.27.39:614][281]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51680
+[2018.01.24-04.27.39:615][281]LogHandshake: SendConnectChallenge. Timestamp: 0.026395, Cookie: 038188072061146019011152197138045020047046099127149044083068
+[2018.01.24-04.27.39:615][281]LogHandshake: SendChallengeResponse. Timestamp: 0.026395, Cookie: 038188072061146019011152197138045020047046099127149044083068
+[2018.01.24-04.27.39:756][282]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51680
+[2018.01.24-04.27.39:756][282]LogHandshake: SendChallengeAck. InCookie: 038188072061146019011152197138045020047046099127149044083068
+[2018.01.24-04.27.39:756][282]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51680
+[2018.01.24-04.27.39:757][282]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.27.39:757][282]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 01/24/18 13:27:39, [UNetConnection] RemoteAddr: 127.0.0.1:51680, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.24-04.27.39:757][282]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51680, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.24-04.27.39:757][282]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.24-04.27.39:770][283]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.01.24-04.27.39:770][283]LogNet: Remote platform little endian=1
+[2018.01.24-04.27.39:770][283]LogNet: This platform little endian=1
+[2018.01.24-04.27.39:800][284]LogNet: Login request: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu?Name=DESKTOP-LOUV37F-96BFB9DC4513E43C741131BB3883511B userId: DESKTOP-LOUV37F-96BFB9DC4513E43C741131BB3883511B
+[2018.01.24-04.27.39:801][284]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.01.24-04.27.39:831][284]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.01.24-04.27.39:870][284]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.27.39:871][284]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.27.39:872][284]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 0) at 2018.01.24-13.27.39
+[2018.01.24-04.27.39:872][284]LogWorld: Bringing up level for play took: 0.000684
+[2018.01.24-04.27.39:873][284]LogLoad: Took 0.041069 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.01.24-04.27.39:892][285]LogNet: Client netspeed is 10000
+[2018.01.24-04.27.39:892][285]LogNet: Join request: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu?Name=DESKTOP-LOUV37F-96BFB9DC4513E43C741131BB3883511B?SplitscreenCount=1
+[2018.01.24-04.27.39:892][285]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.27.39:894][285]LogNet: Join succeeded: DESKTOP-LOUV37F-96BF
+[2018.01.24-04.27.39:972][287]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.27.39:973][287]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.27.40:116][291]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0040
+[2018.01.24-04.27.40:116][291]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.40:118][291]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0040
+[2018.01.24-04.27.40:118][291]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.41:726][335]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0040
+[2018.01.24-04.27.41:726][335]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.41:763][336]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0040
+[2018.01.24-04.27.41:764][336]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.43:647][387]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0040
+[2018.01.24-04.27.43:647][387]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.43:649][387]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0040
+[2018.01.24-04.27.43:649][387]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.45:262][431]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0040
+[2018.01.24-04.27.45:262][431]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.45:264][431]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0040
+[2018.01.24-04.27.45:264][431]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.47:235][485]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0040
+[2018.01.24-04.27.47:236][485]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.47:243][485]LogScript: Warning: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:OnRep_HookActor:0040
+[2018.01.24-04.27.47:243][485]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.49:562][548]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.49:565][548]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.54:344][663]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.54:614][670]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.56:778][727]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.56:781][727]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.58:521][773]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.58:523][773]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.27.59:965][809]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.00:009][810]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.02:357][869]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.02:360][869]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.04:758][929]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.04:761][929]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.06:935][982]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.06:975][983]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.09:373][ 47]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.09:376][ 47]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.13:240][153]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.13:242][153]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.14:917][199]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.14:920][199]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.20:400][350]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.20:402][350]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.24:450][462]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.24:452][462]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.25:887][502]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.25:890][502]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.38:534][819]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.38:944][830]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.48:361][ 74]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.48:476][ 77]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.50:329][128]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.50:331][128]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.55:720][261]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.55:723][261]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.56:954][295]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.28.56:957][295]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.12:713][673]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.29.12:714][673]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.29.12:715][673]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.29.12:715][673]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.29.12:715][673]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.24-04.29.12:777][673]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.29.12:777][673]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.29.12:778][673]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.29.12:778][673]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.29.12:778][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.24-04.29.12:798][673]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51680, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.24-04.29.12:798][673]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51680, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, Channels: 10, Time: 2018.01.24-04.29.12
+[2018.01.24-04.29.12:798][673]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51680, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.24-04.29.12:798][673]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.24-04.29.12:798][673]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 10, Time: 2018.01.24-04.29.12
+[2018.01.24-04.29.12:798][673]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.24-04.29.12:802][673]LogExit: GameNetDriver None shut down
+[2018.01.24-04.29.12:802][673]LogExit: GameNetDriver None shut down
+[2018.01.24-04.29.12:840][674]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.01.24-04.29.12:840][674]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.29.12:840][674]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.01.24-04.29.12:840][674]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.29.13:820][719]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.01.24-04.29.13:867][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.24-04.29.13:869][719]PIE: New page: PIE 세션: mappp (2018. 1. 24. 오후 10:29:13)
+[2018.01.24-04.29.13:870][719]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.01.24-04.29.13:875][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005478s)
+[2018.01.24-04.29.13:876][719]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.29.13:877][719]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2018.01.24-04.29.13:877][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.007238s)
+[2018.01.24-04.29.13:895][719]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.24-04.29.13:906][719]LogInit: FAudioDevice initialized.
+[2018.01.24-04.29.14:008][719]LogLoad: Game class is 'MtestMode_C'
+[2018.01.24-04.29.14:010][719]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 0) at 2018.01.24-13.29.14
+[2018.01.24-04.29.14:010][719]LogWorld: Bringing up level for play took: 0.000868
+[2018.01.24-04.29.14:025][719]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.29.14:025][719]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2018.01.24-04.29.14:025][719]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.29.14:026][719]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.24-04.29.14:026][719]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.29.14:026][719]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2018.01.24-04.29.14:033][719]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: -0.127
+[2018.01.24-04.29.14:035][719]PIE: New page: PIE 세션: mappp (2018. 1. 24. 오후 10:29:14)
+[2018.01.24-04.29.14:144][719]LogNet: Browse: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/MainMenu
+[2018.01.24-04.29.14:144][719]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.29.14:144][719]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2018.01.24-04.29.14:144][719]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.24-04.29.14:144][719]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.24-04.29.14:144][719]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.29.14:144][719]LogNet: Game client on port 17777, rate 10000
+[2018.01.24-04.29.14:149][719]PIE: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu 에 대한 에디터에서 플레이 시작 시간: -0.01
+[2018.01.24-04.29.14:170][719]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58566
+[2018.01.24-04.29.14:170][719]LogHandshake: SendConnectChallenge. Timestamp: 0.022467, Cookie: 136076118035061072095057048129173154109236169080034086086016
+[2018.01.24-04.29.14:171][719]LogHandshake: SendChallengeResponse. Timestamp: 0.022467, Cookie: 136076118035061072095057048129173154109236169080034086086016
+[2018.01.24-04.29.14:340][720]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58566
+[2018.01.24-04.29.14:340][720]LogHandshake: SendChallengeAck. InCookie: 136076118035061072095057048129173154109236169080034086086016
+[2018.01.24-04.29.14:341][720]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58566
+[2018.01.24-04.29.14:341][720]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.29.14:342][720]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 01/24/18 13:29:14, [UNetConnection] RemoteAddr: 127.0.0.1:58566, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.24-04.29.14:342][720]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58566, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.24-04.29.14:346][720]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.24-04.29.14:363][721]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.01.24-04.29.14:363][721]LogNet: Remote platform little endian=1
+[2018.01.24-04.29.14:363][721]LogNet: This platform little endian=1
+[2018.01.24-04.29.14:417][722]LogNet: Login request: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu?Name=DESKTOP-LOUV37F-D054EE134317E55A0519A6A3AE559126 userId: DESKTOP-LOUV37F-D054EE134317E55A0519A6A3AE559126
+[2018.01.24-04.29.14:418][722]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.01.24-04.29.14:445][722]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.01.24-04.29.14:475][722]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.29.14:475][722]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.29.14:478][722]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 0) at 2018.01.24-13.29.14
+[2018.01.24-04.29.14:478][722]LogWorld: Bringing up level for play took: 0.000777
+[2018.01.24-04.29.14:478][722]LogLoad: Took 0.033492 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.01.24-04.29.14:496][723]LogNet: Client netspeed is 10000
+[2018.01.24-04.29.14:496][723]LogNet: Join request: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu?Name=DESKTOP-LOUV37F-D054EE134317E55A0519A6A3AE559126?SplitscreenCount=1
+[2018.01.24-04.29.14:497][723]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.29.14:499][723]LogNet: Join succeeded: DESKTOP-LOUV37F-D054
+[2018.01.24-04.29.14:624][725]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.29.14:630][725]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.29.26:914][989]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.26:917][989]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.28:579][ 35]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.28:582][ 35]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.30:212][ 80]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.30:215][ 80]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.32:657][148]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.32:660][148]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.35:326][222]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.35:394][224]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.40:592][343]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.40:594][343]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.42:223][387]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.42:225][387]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.44:659][453]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.44:661][453]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.46:277][497]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.46:280][497]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.47:739][537]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.47:778][538]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.29.50:514][611]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.29.50:514][611]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.29.50:515][611]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.29.50:516][611]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.29.50:516][611]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.24-04.29.50:583][611]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.29.50:583][611]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.29.50:584][611]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.29.50:584][611]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.29.50:584][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.24-04.29.50:604][611]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2018.01.24-04.29.50:604][611]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.24-04.29.50
+[2018.01.24-04.29.50:604][611]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2018.01.24-04.29.50:604][611]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58566, Name: IpConnection_5, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2018.01.24-04.29.50:604][611]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58566, Name: IpConnection_5, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.24-04.29.50
+[2018.01.24-04.29.50:604][611]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58566, Name: IpConnection_5, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2018.01.24-04.29.50:607][611]LogExit: GameNetDriver None shut down
+[2018.01.24-04.29.50:608][611]LogExit: GameNetDriver None shut down
+[2018.01.24-04.29.50:642][612]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.01.24-04.29.50:642][612]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.29.50:642][612]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.01.24-04.29.50:642][612]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.30.09:055][150]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2018.01.24-04.30.09:811][176]LogEditorTransaction: Undo 핀 링크 생성
+[2018.01.24-04.30.10:491][195]LogEditorTransaction: Undo 노드 이동
+[2018.01.24-04.30.11:210][210]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2018.01.24-04.30.46:674][394]BlueprintLog: New page: mbpc 컴파일
+[2018.01.24-04.30.50:204][479]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.01.24-04.30.50:255][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.24-04.30.50:256][479]PIE: New page: PIE 세션: mappp (2018. 1. 24. 오후 10:30:50)
+[2018.01.24-04.30.50:257][479]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.01.24-04.30.50:263][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006231s)
+[2018.01.24-04.30.50:264][479]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.30.50:264][479]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2018.01.24-04.30.50:264][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.007612s)
+[2018.01.24-04.30.50:287][479]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.24-04.30.50:300][479]LogInit: FAudioDevice initialized.
+[2018.01.24-04.30.50:398][479]LogLoad: Game class is 'MtestMode_C'
+[2018.01.24-04.30.50:399][479]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 0) at 2018.01.24-13.30.50
+[2018.01.24-04.30.50:399][479]LogWorld: Bringing up level for play took: 0.000713
+[2018.01.24-04.30.50:413][479]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.30.50:413][479]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2018.01.24-04.30.50:413][479]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.30.50:413][479]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.24-04.30.50:414][479]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.30.50:414][479]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2018.01.24-04.30.50:420][479]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: 0.261
+[2018.01.24-04.30.50:422][479]PIE: New page: PIE 세션: mappp (2018. 1. 24. 오후 10:30:50)
+[2018.01.24-04.30.50:530][479]LogNet: Browse: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/MainMenu
+[2018.01.24-04.30.50:530][479]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.30.50:530][479]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2018.01.24-04.30.50:530][479]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.24-04.30.50:530][479]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.24-04.30.50:531][479]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.30.50:531][479]LogNet: Game client on port 17777, rate 10000
+[2018.01.24-04.30.50:537][479]PIE: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu 에 대한 에디터에서 플레이 시작 시간: 0.378
+[2018.01.24-04.30.50:561][479]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65449
+[2018.01.24-04.30.50:561][479]LogHandshake: SendConnectChallenge. Timestamp: 0.023898, Cookie: 045012100180160057153242169159080025233160188105138099051021
+[2018.01.24-04.30.50:562][479]LogHandshake: SendChallengeResponse. Timestamp: 0.023898, Cookie: 045012100180160057153242169159080025233160188105138099051021
+[2018.01.24-04.30.50:712][480]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65449
+[2018.01.24-04.30.50:712][480]LogHandshake: SendChallengeAck. InCookie: 045012100180160057153242169159080025233160188105138099051021
+[2018.01.24-04.30.50:712][480]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65449
+[2018.01.24-04.30.50:712][480]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.30.50:713][480]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 01/24/18 13:30:50, [UNetConnection] RemoteAddr: 127.0.0.1:65449, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.24-04.30.50:713][480]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65449, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.24-04.30.50:713][480]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.24-04.30.50:730][481]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.01.24-04.30.50:731][481]LogNet: Remote platform little endian=1
+[2018.01.24-04.30.50:731][481]LogNet: This platform little endian=1
+[2018.01.24-04.30.50:760][482]LogNet: Login request: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu?Name=DESKTOP-LOUV37F-2BAA8DD2476E306B831D528E488B9876 userId: DESKTOP-LOUV37F-2BAA8DD2476E306B831D528E488B9876
+[2018.01.24-04.30.50:761][482]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.01.24-04.30.50:798][482]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.01.24-04.30.50:835][482]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.30.50:836][482]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.30.50:837][482]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 0) at 2018.01.24-13.30.50
+[2018.01.24-04.30.50:838][482]LogWorld: Bringing up level for play took: 0.000745
+[2018.01.24-04.30.50:838][482]LogLoad: Took 0.039243 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.01.24-04.30.50:861][483]LogNet: Client netspeed is 10000
+[2018.01.24-04.30.50:861][483]LogNet: Join request: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu?Name=DESKTOP-LOUV37F-2BAA8DD2476E306B831D528E488B9876?SplitscreenCount=1
+[2018.01.24-04.30.50:861][483]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.30.50:863][483]LogNet: Join succeeded: DESKTOP-LOUV37F-2BAA
+[2018.01.24-04.30.50:913][484]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.30.50:950][485]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.30.54:172][571]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.30.54:172][571]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.30.54:176][571]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.30.54:176][571]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.30.54:176][571]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.24-04.30.54:244][571]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.30.54:244][571]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.30.54:245][571]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.30.54:245][571]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.30.54:245][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.24-04.30.54:268][571]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65449, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None
+[2018.01.24-04.30.54:268][571]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65449, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, Channels: 9, Time: 2018.01.24-04.30.54
+[2018.01.24-04.30.54:268][571]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65449, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None
+[2018.01.24-04.30.54:268][571]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2018.01.24-04.30.54:268][571]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, Channels: 9, Time: 2018.01.24-04.30.54
+[2018.01.24-04.30.54:268][571]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2018.01.24-04.30.54:271][571]LogExit: GameNetDriver None shut down
+[2018.01.24-04.30.54:271][571]LogExit: GameNetDriver None shut down
+[2018.01.24-04.30.54:324][572]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.01.24-04.30.54:324][572]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.30.54:324][572]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.01.24-04.30.54:324][572]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.31.12:613][237]BlueprintLog: New page: mbpc 컴파일
+[2018.01.24-04.31.15:347][311]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.01.24-04.31.15:393][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.24-04.31.15:394][311]PIE: New page: PIE 세션: mappp (2018. 1. 24. 오후 10:31:15)
+[2018.01.24-04.31.15:395][311]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.01.24-04.31.15:400][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005666s)
+[2018.01.24-04.31.15:402][311]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.31.15:402][311]LogPlayLevel: PIE: World Init took: (0.001709s)
+[2018.01.24-04.31.15:403][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.008267s)
+[2018.01.24-04.31.15:422][311]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.24-04.31.15:432][311]LogInit: FAudioDevice initialized.
+[2018.01.24-04.31.15:536][311]LogLoad: Game class is 'MtestMode_C'
+[2018.01.24-04.31.15:538][311]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 0) at 2018.01.24-13.31.15
+[2018.01.24-04.31.15:538][311]LogWorld: Bringing up level for play took: 0.000667
+[2018.01.24-04.31.15:552][311]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.31.15:552][311]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2018.01.24-04.31.15:552][311]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.31.15:553][311]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.24-04.31.15:553][311]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.31.15:553][311]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2018.01.24-04.31.15:558][311]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: -0.601
+[2018.01.24-04.31.15:561][311]PIE: New page: PIE 세션: mappp (2018. 1. 24. 오후 10:31:15)
+[2018.01.24-04.31.15:657][311]LogNet: Browse: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/MainMenu
+[2018.01.24-04.31.15:657][311]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.31.15:657][311]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2018.01.24-04.31.15:657][311]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.24-04.31.15:657][311]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.24-04.31.15:658][311]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.31.15:658][311]LogNet: Game client on port 17777, rate 10000
+[2018.01.24-04.31.15:663][311]PIE: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu 에 대한 에디터에서 플레이 시작 시간: -0.497
+[2018.01.24-04.31.15:681][311]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65452
+[2018.01.24-04.31.15:681][311]LogHandshake: SendConnectChallenge. Timestamp: 0.020029, Cookie: 033212051222067079210006228238132119032105193229143061002234
+[2018.01.24-04.31.15:683][311]LogHandshake: SendChallengeResponse. Timestamp: 0.020029, Cookie: 033212051222067079210006228238132119032105193229143061002234
+[2018.01.24-04.31.15:826][312]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65452
+[2018.01.24-04.31.15:826][312]LogHandshake: SendChallengeAck. InCookie: 033212051222067079210006228238132119032105193229143061002234
+[2018.01.24-04.31.15:826][312]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65452
+[2018.01.24-04.31.15:827][312]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.31.15:827][312]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 01/24/18 13:31:15, [UNetConnection] RemoteAddr: 127.0.0.1:65452, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.24-04.31.15:827][312]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65452, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.24-04.31.15:827][312]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.24-04.31.15:843][313]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.01.24-04.31.15:843][313]LogNet: Remote platform little endian=1
+[2018.01.24-04.31.15:843][313]LogNet: This platform little endian=1
+[2018.01.24-04.31.15:870][314]LogNet: Login request: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu?Name=DESKTOP-LOUV37F-1C87D11940543A05BD84079024B1C0B7 userId: DESKTOP-LOUV37F-1C87D11940543A05BD84079024B1C0B7
+[2018.01.24-04.31.15:871][314]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.01.24-04.31.15:909][314]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.01.24-04.31.15:947][314]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.31.15:947][314]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.31.15:950][314]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 0) at 2018.01.24-13.31.15
+[2018.01.24-04.31.15:951][314]LogWorld: Bringing up level for play took: 0.001311
+[2018.01.24-04.31.15:951][314]LogLoad: Took 0.042213 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.01.24-04.31.15:969][315]LogNet: Client netspeed is 10000
+[2018.01.24-04.31.15:969][315]LogNet: Join request: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu?Name=DESKTOP-LOUV37F-1C87D11940543A05BD84079024B1C0B7?SplitscreenCount=1
+[2018.01.24-04.31.15:969][315]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.31.15:971][315]LogNet: Join succeeded: DESKTOP-LOUV37F-1C87
+[2018.01.24-04.31.16:021][316]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.31.16:060][317]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.31.19:784][417]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.31.19:785][417]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.31.19:788][417]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.31.19:788][417]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.31.19:788][417]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.24-04.31.19:857][417]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.31.19:857][417]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.31.19:858][417]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.31.19:858][417]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.31.19:858][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.24-04.31.19:877][417]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65452, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None
+[2018.01.24-04.31.19:877][417]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65452, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.24-04.31.19
+[2018.01.24-04.31.19:877][417]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65452, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None
+[2018.01.24-04.31.19:877][417]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2018.01.24-04.31.19:877][417]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.24-04.31.19
+[2018.01.24-04.31.19:877][417]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2018.01.24-04.31.19:884][417]LogExit: GameNetDriver None shut down
+[2018.01.24-04.31.19:884][417]LogExit: GameNetDriver None shut down
+[2018.01.24-04.31.19:932][418]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.01.24-04.31.19:932][418]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.31.19:932][418]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.01.24-04.31.19:932][418]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.31.31:206][795]BlueprintLog: New page: mbpc 컴파일
+[2018.01.24-04.31.31:296][795]LogBlueprint: Error: [Compiler mbpc] 이 블루프린트(self)는 SceneComponent 가 아니라, ' 타겟 ' 에는 연결이 있어야 합니다.
+[2018.01.24-04.31.31:502][795]LogBlueprint: Warning: [Compiler mbpc] [0368.29] mbpc 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 295 ms] (/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc)
+[2018.01.24-04.31.44:805][260]BlueprintLog: New page: mbpc 컴파일
+[2018.01.24-04.31.47:217][324]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.01.24-04.31.47:263][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.24-04.31.47:265][324]PIE: New page: PIE 세션: mappp (2018. 1. 24. 오후 10:31:47)
+[2018.01.24-04.31.47:266][324]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.01.24-04.31.47:271][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005682s)
+[2018.01.24-04.31.47:272][324]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.31.47:272][324]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2018.01.24-04.31.47:272][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.006685s)
+[2018.01.24-04.31.47:293][324]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.24-04.31.47:305][324]LogInit: FAudioDevice initialized.
+[2018.01.24-04.31.47:402][324]LogLoad: Game class is 'MtestMode_C'
+[2018.01.24-04.31.47:404][324]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 0) at 2018.01.24-13.31.47
+[2018.01.24-04.31.47:404][324]LogWorld: Bringing up level for play took: 0.000856
+[2018.01.24-04.31.47:418][324]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.31.47:419][324]LogTemp: Display: ParseSettings for IpNetDriver_10
+[2018.01.24-04.31.47:419][324]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.31.47:419][324]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.24-04.31.47:419][324]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.31.47:419][324]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 17777
+[2018.01.24-04.31.47:426][324]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: -0.733
+[2018.01.24-04.31.47:429][324]PIE: New page: PIE 세션: mappp (2018. 1. 24. 오후 10:31:47)
+[2018.01.24-04.31.47:529][324]LogNet: Browse: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/MainMenu
+[2018.01.24-04.31.47:529][324]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.31.47:529][324]LogTemp: Display: ParseSettings for IpNetDriver_11
+[2018.01.24-04.31.47:529][324]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.24-04.31.47:529][324]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.24-04.31.47:530][324]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.31.47:530][324]LogNet: Game client on port 17777, rate 10000
+[2018.01.24-04.31.47:535][324]PIE: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu 에 대한 에디터에서 플레이 시작 시간: -0.625
+[2018.01.24-04.31.47:553][324]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64161
+[2018.01.24-04.31.47:553][324]LogHandshake: SendConnectChallenge. Timestamp: 0.023462, Cookie: 110208166233040000189121010012143021159125192107074027040242
+[2018.01.24-04.31.47:554][324]LogHandshake: SendChallengeResponse. Timestamp: 0.023462, Cookie: 110208166233040000189121010012143021159125192107074027040242
+[2018.01.24-04.31.47:702][325]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64161
+[2018.01.24-04.31.47:703][325]LogHandshake: SendChallengeAck. InCookie: 110208166233040000189121010012143021159125192107074027040242
+[2018.01.24-04.31.47:703][325]LogNet: Server accepting post-challenge connection from: 127.0.0.1:64161
+[2018.01.24-04.31.47:703][325]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.31.47:703][325]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 01/24/18 13:31:47, [UNetConnection] RemoteAddr: 127.0.0.1:64161, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.24-04.31.47:703][325]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:64161, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.24-04.31.47:704][325]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.24-04.31.47:718][326]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.01.24-04.31.47:718][326]LogNet: Remote platform little endian=1
+[2018.01.24-04.31.47:718][326]LogNet: This platform little endian=1
+[2018.01.24-04.31.47:747][327]LogNet: Login request: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu?Name=DESKTOP-LOUV37F-EB5A2CD44056F307CCC460AFFB032FB5 userId: DESKTOP-LOUV37F-EB5A2CD44056F307CCC460AFFB032FB5
+[2018.01.24-04.31.47:748][327]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.01.24-04.31.47:782][327]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.01.24-04.31.47:820][327]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.31.47:821][327]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.31.47:823][327]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 0) at 2018.01.24-13.31.47
+[2018.01.24-04.31.47:823][327]LogWorld: Bringing up level for play took: 0.000607
+[2018.01.24-04.31.47:823][327]LogLoad: Took 0.041000 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.01.24-04.31.47:845][328]LogNet: Client netspeed is 10000
+[2018.01.24-04.31.47:845][328]LogNet: Join request: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu?Name=DESKTOP-LOUV37F-EB5A2CD44056F307CCC460AFFB032FB5?SplitscreenCount=1
+[2018.01.24-04.31.47:845][328]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.31.47:848][328]LogNet: Join succeeded: DESKTOP-LOUV37F-EB5A
+[2018.01.24-04.31.47:899][329]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.31.47:936][330]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.31.48:154][336]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.48:154][336]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.48:159][336]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.48:159][336]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.49:904][384]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.49:905][384]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.49:947][385]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.49:947][385]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.51:630][431]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.51:630][431]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.51:632][431]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.51:632][431]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.54:616][513]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.54:616][513]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.54:618][513]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.54:618][513]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.56:197][556]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.56:198][556]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.56:267][558]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.31.56:267][558]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.02:344][698]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.02:344][698]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.02:725][708]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.02:725][708]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.04:307][750]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.04:307][750]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.04:309][750]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.04:309][750]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.06:723][811]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.06:724][811]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.06:726][811]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.06:726][811]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.09:099][844]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.32.09:100][844]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.32.09:101][844]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.32.09:101][844]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.32.09:101][844]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.24-04.32.09:163][844]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.32.09:163][844]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.32.09:164][844]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.32.09:164][844]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.32.09:164][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.24-04.32.09:188][844]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64161, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None
+[2018.01.24-04.32.09:188][844]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:64161, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.24-04.32.09
+[2018.01.24-04.32.09:188][844]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64161, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None
+[2018.01.24-04.32.09:188][844]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None
+[2018.01.24-04.32.09:188][844]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.24-04.32.09
+[2018.01.24-04.32.09:188][844]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None
+[2018.01.24-04.32.09:191][844]LogExit: GameNetDriver None shut down
+[2018.01.24-04.32.09:191][844]LogExit: GameNetDriver None shut down
+[2018.01.24-04.32.09:293][845]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.01.24-04.32.09:293][845]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.32.09:293][845]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.01.24-04.32.09:293][845]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.32.29:606][ 56]BlueprintLog: New page: mbpc 컴파일
+[2018.01.24-04.32.32:980][131]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.01.24-04.32.33:019][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.24-04.32.33:020][131]PIE: New page: PIE 세션: mappp (2018. 1. 24. 오후 10:32:33)
+[2018.01.24-04.32.33:021][131]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.01.24-04.32.33:028][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007628s)
+[2018.01.24-04.32.33:029][131]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.32.33:029][131]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2018.01.24-04.32.33:029][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.008483s)
+[2018.01.24-04.32.33:050][131]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.24-04.32.33:061][131]LogInit: FAudioDevice initialized.
+[2018.01.24-04.32.33:180][131]LogLoad: Game class is 'MtestMode_C'
+[2018.01.24-04.32.33:182][131]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 0) at 2018.01.24-13.32.33
+[2018.01.24-04.32.33:182][131]LogWorld: Bringing up level for play took: 0.000886
+[2018.01.24-04.32.33:196][131]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.32.33:196][131]LogTemp: Display: ParseSettings for IpNetDriver_12
+[2018.01.24-04.32.33:196][131]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.32.33:196][131]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.24-04.32.33:196][131]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.32.33:196][131]LogNet: GameNetDriver IpNetDriver_12 IpNetDriver listening on port 17777
+[2018.01.24-04.32.33:201][131]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: 1.042
+[2018.01.24-04.32.33:203][131]PIE: New page: PIE 세션: mappp (2018. 1. 24. 오후 10:32:33)
+[2018.01.24-04.32.33:304][131]LogNet: Browse: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/MainMenu
+[2018.01.24-04.32.33:305][131]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.32.33:305][131]LogTemp: Display: ParseSettings for IpNetDriver_13
+[2018.01.24-04.32.33:305][131]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.24-04.32.33:305][131]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.24-04.32.33:305][131]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.32.33:305][131]LogNet: Game client on port 17777, rate 10000
+[2018.01.24-04.32.33:313][131]PIE: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu 에 대한 에디터에서 플레이 시작 시간: 1.154
+[2018.01.24-04.32.33:332][131]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51079
+[2018.01.24-04.32.33:332][131]LogHandshake: SendConnectChallenge. Timestamp: 0.051054, Cookie: 149204241082010199032254181240159061235011228184072104108234
+[2018.01.24-04.32.33:333][131]LogHandshake: SendChallengeResponse. Timestamp: 0.051054, Cookie: 149204241082010199032254181240159061235011228184072104108234
+[2018.01.24-04.32.33:517][132]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51079
+[2018.01.24-04.32.33:517][132]LogHandshake: SendChallengeAck. InCookie: 149204241082010199032254181240159061235011228184072104108234
+[2018.01.24-04.32.33:517][132]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51079
+[2018.01.24-04.32.33:517][132]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.24-04.32.33:518][132]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 01/24/18 13:32:33, [UNetConnection] RemoteAddr: 127.0.0.1:51079, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.24-04.32.33:518][132]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51079, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.24-04.32.33:519][132]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: PendingNetDriver IpNetDriver_13, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.24-04.32.33:536][133]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.01.24-04.32.33:537][133]LogNet: Remote platform little endian=1
+[2018.01.24-04.32.33:537][133]LogNet: This platform little endian=1
+[2018.01.24-04.32.33:610][134]LogNet: Login request: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu?Name=DESKTOP-LOUV37F-040BD64E4BCC7678A0727AB6FC2891D5 userId: DESKTOP-LOUV37F-040BD64E4BCC7678A0727AB6FC2891D5
+[2018.01.24-04.32.33:612][134]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.01.24-04.32.33:689][134]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.01.24-04.32.33:716][134]LogAIModule: Creating AISystem for world mappp
+[2018.01.24-04.32.33:716][134]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.24-04.32.33:719][134]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 0) at 2018.01.24-13.32.33
+[2018.01.24-04.32.33:719][134]LogWorld: Bringing up level for play took: 0.001136
+[2018.01.24-04.32.33:719][134]LogLoad: Took 0.030642 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.01.24-04.32.33:735][135]LogNet: Client netspeed is 10000
+[2018.01.24-04.32.33:735][135]LogNet: Join request: /Game/pratice/wonseok/MultiPlay/Maps/MainMenu?Name=DESKTOP-LOUV37F-040BD64E4BCC7678A0727AB6FC2891D5?SplitscreenCount=1
+[2018.01.24-04.32.33:735][135]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.32.33:737][135]LogNet: Join succeeded: DESKTOP-LOUV37F-040B
+[2018.01.24-04.32.33:849][136]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.33:849][136]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.33:855][136]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.32.33:855][136]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.24-04.32.33:857][136]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.33:857][136]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.35:517][159]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.35:517][159]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.35:519][159]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentActor_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.35:519][159]PIE: Error: 블루프린트 런타임 오류: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'OnRep_HookActor' 노드: Cable Component 추가 그래프: OnRep_HookActor 오브젝트: mbpc 설명: CallFunc_GetParentComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.01.24-04.32.36:923][175]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.32.36:923][175]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.32.36:924][175]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.32.36:924][175]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.32.36:924][175]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.24-04.32.36:987][175]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.32.36:987][175]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-04.32.36:988][175]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-04.32.36:988][175]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-04.32.36:989][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.24-04.32.37:011][175]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51079, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: None, Owner: None
+[2018.01.24-04.32.37:011][175]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51079, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.24-04.32.37
+[2018.01.24-04.32.37:011][175]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51079, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: None, Owner: None
+[2018.01.24-04.32.37:011][175]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: None, Owner: None
+[2018.01.24-04.32.37:011][175]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.24-04.32.37
+[2018.01.24-04.32.37:011][175]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: None, Owner: None
+[2018.01.24-04.32.37:014][175]LogExit: GameNetDriver None shut down
+[2018.01.24-04.32.37:014][175]LogExit: GameNetDriver None shut down
+[2018.01.24-04.32.37:114][176]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.01.24-04.32.37:114][176]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.32.37:114][176]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.01.24-04.32.37:114][176]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-04.32.47:597][337]BlueprintLog: New page: mbpc 컴파일
+[2018.01.24-04.33.08:732][727]LogRenderer: Reallocating scene render targets to support 980x540 Format 9 NumSamples 1 (Frame:1).
+[2018.01.24-04.33.41:321][574]BlueprintLog: New page: mbpc 컴파일
+[2018.01.24-04.33.48:936][747]BlueprintLog: New page: mbpc 컴파일
+[2018.01.24-04.39.18:183][916]BlueprintLog: New page: mbpc 컴파일
+[2018.01.24-04.39.50:867][199]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/pratice/wonseok/MultiPlay/Maps/mappp' took 0.043
+[2018.01.24-04.39.51:027][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc] ([1] browsable assets)...
+[2018.01.24-04.39.51:053][199]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc]
+[2018.01.24-04.39.51:053][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc]
+[2018.01.24-04.39.51:915][199]LogSavePackage: Save=246.00ms
+[2018.01.24-04.39.51:915][199]LogSavePackage: Moving 'D:/20180120/set/main/Saved/mbpc_Auto19EB669E9467BD17D04BD33938C064050.tmp' to 'D:/20180120/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc_Auto1.uasset'
+[2018.01.24-04.39.51:928][199]LogSavePackage: Display: Finished SavePackage D:/20180120/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc_Auto1.uasset
+[2018.01.24-04.39.51:928][199]LogFileHelpers: Auto-saving content packages took 1.061
+[2018.01.24-04.42.40:737][986]BlueprintLog: New page: mbpc 컴파일
+[2018.01.24-04.49.52:604][841]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/pratice/wonseok/MultiPlay/Maps/mappp' took 0.023
+[2018.01.24-04.49.52:607][841]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc] ([1] browsable assets)...
+[2018.01.24-04.49.52:651][841]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc]
+[2018.01.24-04.49.52:651][841]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc]
+[2018.01.24-04.49.52:974][841]LogSavePackage: Save=301.73ms
+[2018.01.24-04.49.52:974][841]LogSavePackage: Moving 'D:/20180120/set/main/Saved/mbpc_Auto209AE094440CCBFB4C609AE88E0622114.tmp' to 'D:/20180120/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc_Auto2.uasset'
+[2018.01.24-04.49.52:975][841]LogSavePackage: Display: Finished SavePackage D:/20180120/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc_Auto2.uasset
+[2018.01.24-04.49.52:975][841]LogFileHelpers: Auto-saving content packages took 0.369
+[2018.01.24-05.01.08:075][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc" FILE="D:/20180120/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.uasset" SILENT=true
+[2018.01.24-05.01.08:505][887]LogSavePackage: Save=238.50ms
+[2018.01.24-05.01.08:505][887]LogSavePackage: Moving 'D:/20180120/set/main/Saved/mbpc2CA2380F4B5412995EC586BD53564098.tmp' to 'D:/20180120/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.uasset'
+[2018.01.24-05.01.08:508][887]LogSavePackage: Display: Finished SavePackage D:/20180120/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.uasset
+[2018.01.24-05.01.08:676][887]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.01.24-05.01.09:008][888]Cmd: QUIT_EDITOR
+[2018.01.24-05.01.09:100][888]LogExit: Preparing to exit.
+[2018.01.24-05.01.10:188][888]LogExit: Editor shut down
+[2018.01.24-05.01.10:221][888]LogExit: Transaction tracking system shut down
+[2018.01.24-05.01.10:385][888]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.24-05.01.10:385][888]LogDirectoryWatcher: A directory notification for 'D:/20180120/set/main/Content/' was aborted.
+[2018.01.24-05.01.10:385][888]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.24-05.01.10:385][888]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.24-05.01.10:385][888]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.24-05.01.10:385][888]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.24-05.01.10:385][888]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.24-05.01.10:508][888]LogExit: Object subsystem successfully closed.
+[2018.01.24-05.01.10:536][888]LogD3D11RHI: Shutdown
+[2018.01.24-05.01.10:536][888]LogD3D11RHI: CleanupD3DDevice
+[2018.01.24-05.01.10:539][888]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.24-05.01.10:564][888]LogModuleManager: Shutting down and abandoning module BlueprintGraph (560)
+[2018.01.24-05.01.10:564][888]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2018.01.24-05.01.10:564][888]LogModuleManager: Shutting down and abandoning module Voice (554)
+[2018.01.24-05.01.10:564][888]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.01.24-05.01.10:564][888]LogModuleManager: Shutting down and abandoning module DesktopPlatform (550)
+[2018.01.24-05.01.10:564][888]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.01.24-05.01.10:565][888]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.01.24-05.01.10:565][888]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.24-05.01.10:568][888]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.01.24-05.01.10:568][888]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.01.24-05.01.10:568][888]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.01.24-05.01.10:568][888]LogDirectoryWatcher: A directory notification for 'D:/20180120/set/main/Content/Collections/' was aborted.
+[2018.01.24-05.01.10:568][888]LogDirectoryWatcher: A directory notification for 'D:/20180120/set/main/Content/Developers/choiw/Collections/' was aborted.
+[2018.01.24-05.01.10:568][888]LogDirectoryWatcher: A directory notification for 'D:/20180120/set/main/Saved/Collections/' was aborted.
+[2018.01.24-05.01.10:568][888]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.01.24-05.01.10:568][888]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.01.24-05.01.10:568][888]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.01.24-05.01.10:569][888]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.01.24-05.01.10:569][888]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.01.24-05.01.10:569][888]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.01.24-05.01.10:569][888]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.01.24-05.01.10:569][888]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.01.24-05.01.10:569][888]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.01.24-05.01.10:569][888]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.01.24-05.01.10:569][888]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.01.24-05.01.10:569][888]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.01.24-05.01.10:569][888]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.01.24-05.01.10:569][888]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.01.24-05.01.10:569][888]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.01.24-05.01.10:569][888]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.01.24-05.01.10:570][888]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.01.24-05.01.10:571][888]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.01.24-05.01.10:571][888]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.01.24-05.01.10:571][888]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.01.24-05.01.10:571][888]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.01.24-05.01.10:571][888]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.01.24-05.01.10:571][888]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.01.24-05.01.10:571][888]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.01.24-05.01.10:816][888]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.01.24-05.01.10:816][888]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.01.24-05.01.10:816][888]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.01.24-05.01.10:816][888]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.01.24-05.01.10:816][888]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.01.24-05.01.10:817][888]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.01.24-05.01.10:817][888]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.01.24-05.01.10:817][888]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.01.24-05.01.10:817][888]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.01.24-05.01.10:818][888]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.01.24-05.01.10:818][888]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.01.24-05.01.10:818][888]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.01.24-05.01.10:818][888]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.01.24-05.01.10:818][888]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.01.24-05.01.10:818][888]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.01.24-05.01.10:818][888]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.01.24-05.01.10:818][888]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.01.24-05.01.10:818][888]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.01.24-05.01.10:818][888]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.01.24-05.01.10:818][888]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.01.24-05.01.10:818][888]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.01.24-05.01.10:818][888]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.01.24-05.01.10:819][888]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.01.24-05.01.10:819][888]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.01.24-05.01.10:874][888]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.01.24-05.01.10:874][888]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.01.24-05.01.10:875][888]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.01.24-05.01.10:876][888]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.01.24-05.01.10:876][888]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.01.24-05.01.10:876][888]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.01.24-05.01.10:876][888]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.01.24-05.01.10:877][888]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.01.24-05.01.10:877][888]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.01.24-05.01.10:877][888]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.01.24-05.01.10:885][888]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.01.24-05.01.10:885][888]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.01.24-05.01.10:885][888]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.01.24-05.01.10:885][888]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.01.24-05.01.10:886][888]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.01.24-05.01.10:886][888]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.01.24-05.01.10:886][888]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.01.24-05.01.10:886][888]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.01.24-05.01.10:886][888]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.01.24-05.01.10:886][888]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.01.24-05.01.10:886][888]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.01.24-05.01.10:886][888]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.01.24-05.01.10:886][888]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.01.24-05.01.10:886][888]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.01.24-05.01.10:886][888]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.01.24-05.01.10:886][888]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.01.24-05.01.10:886][888]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.01.24-05.01.10:887][888]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.01.24-05.01.10:887][888]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.01.24-05.01.11:021][888]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.01.24-05.01.11:021][888]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.01.24-05.01.11:021][888]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.01.24-05.01.11:021][888]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.01.24-05.01.11:021][888]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.01.24-05.01.11:021][888]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.01.24-05.01.11:021][888]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2018.01.24-05.01.11:021][888]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2018.01.24-05.01.11:022][888]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2018.01.24-05.01.11:022][888]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2018.01.24-05.01.11:022][888]LogModuleManager: Shutting down and abandoning module ActorSequence (330)
+[2018.01.24-05.01.11:022][888]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (328)
+[2018.01.24-05.01.11:022][888]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (326)
+[2018.01.24-05.01.11:022][888]LogModuleManager: Shutting down and abandoning module MediaCompositing (324)
+[2018.01.24-05.01.11:022][888]LogModuleManager: Shutting down and abandoning module HTML5Networking (322)
+[2018.01.24-05.01.11:022][888]LogModuleManager: Shutting down and abandoning module AlembicImporter (320)
+[2018.01.24-05.01.11:022][888]LogModuleManager: Shutting down and abandoning module AlembicLibrary (319)
+[2018.01.24-05.01.11:022][888]LogModuleManager: Shutting down and abandoning module GeometryCache (318)
+[2018.01.24-05.01.11:022][888]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (317)
+[2018.01.24-05.01.11:022][888]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (312)
+[2018.01.24-05.01.11:022][888]LogModuleManager: Shutting down and abandoning module PluginBrowser (310)
+[2018.01.24-05.01.11:022][888]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (308)
+[2018.01.24-05.01.11:023][888]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (306)
+[2018.01.24-05.01.11:023][888]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (304)
+[2018.01.24-05.01.11:023][888]LogModuleManager: Shutting down and abandoning module UObjectPlugin (302)
+[2018.01.24-05.01.11:023][888]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (300)
+[2018.01.24-05.01.11:023][888]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (298)
+[2018.01.24-05.01.11:023][888]LogModuleManager: Shutting down and abandoning module GitSourceControl (296)
+[2018.01.24-05.01.11:023][888]LogModuleManager: Shutting down and abandoning module SourceControl (295)
+[2018.01.24-05.01.11:023][888]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (292)
+[2018.01.24-05.01.11:023][888]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (290)
+[2018.01.24-05.01.11:023][888]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (288)
+[2018.01.24-05.01.11:023][888]LogModuleManager: Shutting down and abandoning module Paper2DEditor (286)
+[2018.01.24-05.01.11:023][888]LogModuleManager: Shutting down and abandoning module MeshPaint (285)
+[2018.01.24-05.01.11:024][888]LogModuleManager: Shutting down and abandoning module LevelEditor (283)
+[2018.01.24-05.01.11:025][888]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (282)
+[2018.01.24-05.01.11:025][888]LogModuleManager: Shutting down and abandoning module MainFrame (280)
+[2018.01.24-05.01.11:025][888]LogModuleManager: Shutting down and abandoning module HotReload (279)
+[2018.01.24-05.01.11:025][888]LogDirectoryWatcher: A directory notification for 'D:/20180120/set/main/Binaries/Win64' was aborted.
+[2018.01.24-05.01.11:026][888]LogModuleManager: Shutting down and abandoning module main (274)
+[2018.01.24-05.01.11:026][888]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (272)
+[2018.01.24-05.01.11:026][888]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (270)
+[2018.01.24-05.01.11:026][888]LogModuleManager: Shutting down and abandoning module PhysXVehicles (268)
+[2018.01.24-05.01.11:026][888]LogModuleManager: Shutting down and abandoning module OculusEditor (266)
+[2018.01.24-05.01.11:026][888]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (264)
+[2018.01.24-05.01.11:026][888]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (262)
+[2018.01.24-05.01.11:026][888]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (260)
+[2018.01.24-05.01.11:026][888]LogModuleManager: Shutting down and abandoning module UdpMessaging (258)
+[2018.01.24-05.01.11:127][888]LogModuleManager: Shutting down and abandoning module TcpMessaging (256)
+[2018.01.24-05.01.11:227][888]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (254)
+[2018.01.24-05.01.11:227][888]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (252)
+[2018.01.24-05.01.11:227][888]LogModuleManager: Shutting down and abandoning module FacialAnimation (250)
+[2018.01.24-05.01.11:227][888]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (248)
+[2018.01.24-05.01.11:227][888]LogModuleManager: Shutting down and abandoning module GraphEditor (247)
+[2018.01.24-05.01.11:228][888]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2018.01.24-05.01.11:230][888]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (242)
+[2018.01.24-05.01.11:230][888]LogModuleManager: Shutting down and abandoning module Paper2D (240)
+[2018.01.24-05.01.11:230][888]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (238)
+[2018.01.24-05.01.11:230][888]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
+[2018.01.24-05.01.11:233][888]LogModuleManager: Shutting down and abandoning module ImgMedia (234)
+[2018.01.24-05.01.11:233][888]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2018.01.24-05.01.11:233][888]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2018.01.24-05.01.11:233][888]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2018.01.24-05.01.11:233][888]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2018.01.24-05.01.11:233][888]LogModuleManager: Shutting down and abandoning module Media (225)
+[2018.01.24-05.01.11:238][888]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.01.24-05.01.11:238][888]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.01.24-05.01.11:238][888]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.01.24-05.01.11:238][888]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.01.24-05.01.11:238][888]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.01.24-05.01.11:238][888]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.01.24-05.01.11:239][888]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.01.24-05.01.11:239][888]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.01.24-05.01.11:239][888]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.01.24-05.01.11:239][888]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.01.24-05.01.11:239][888]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.01.24-05.01.11:240][888]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.01.24-05.01.11:240][888]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.01.24-05.01.11:240][888]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.01.24-05.01.11:241][888]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.01.24-05.01.11:241][888]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.01.24-05.01.11:244][888]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.01.24-05.01.11:244][888]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.01.24-05.01.11:244][888]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.01.24-05.01.11:244][888]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.01.24-05.01.11:244][888]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.01.24-05.01.11:244][888]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.01.24-05.01.11:244][888]LogModuleManager: Shutting down and abandoning module LevelSequence (174)
+[2018.01.24-05.01.11:244][888]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (172)
+[2018.01.24-05.01.11:249][888]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2018.01.24-05.01.11:249][888]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2018.01.24-05.01.11:249][888]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2018.01.24-05.01.11:249][888]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2018.01.24-05.01.11:249][888]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (165)
+[2018.01.24-05.01.11:250][888]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (163)
+[2018.01.24-05.01.11:250][888]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2018.01.24-05.01.11:250][888]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2018.01.24-05.01.11:250][888]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.01.24-05.01.11:311][888]LogDerivedDataCache: Shutdown
+[2018.01.24-05.01.11:311][888]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2018.01.24-05.01.11:311][888]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2018.01.24-05.01.11:311][888]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2018.01.24-05.01.11:312][888]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2018.01.24-05.01.11:312][888]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2018.01.24-05.01.11:312][888]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2018.01.24-05.01.11:312][888]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2018.01.24-05.01.11:312][888]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (103)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (101)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (99)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (97)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (95)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (93)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (91)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (89)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (87)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (85)
+[2018.01.24-05.01.11:313][888]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (83)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (81)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (79)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (77)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (75)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (73)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module SteamVR (64)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2018.01.24-05.01.11:314][888]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2018.01.24-05.01.11:314][888]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.24-05.01.11:314][888]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.24-05.01.11:315][888]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.24-05.01.11:315][888]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.24-05.01.11:315][888]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.24-05.01.11:315][888]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.24-05.01.11:315][888]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.24-05.01.11:315][888]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE658F61-44A2-86E2-A567-CFA0C5317E0F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=8d73201645b8829efdca98b8ca014480%7C827879c181fe46a9a9ae70ac9af31475%7C5c586428-a53f-40b2-8650-fc78ac88a1f1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.24-05.01.11:324][888]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.24-05.01.11:325][888]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.24-05.01.11:325][888]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.24-05.01.11:325][888]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.24-05.01.11:325][888]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.24-05.01.11:326][888]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.24-05.01.11:326][888]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.24-05.01.11:326][888]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.24-05.01.11:334][888]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.24-05.01.11:334][888]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.24-05.01.11:334][888]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.24-05.01.11:334][888]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.24-05.01.11:334][888]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.24-05.01.11:334][888]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.24-05.01.11:334][888]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.24-05.01.11:334][888]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.24-05.01.11:334][888]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.24-05.01.11:334][888]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.24-05.01.11:334][888]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.24-05.01.11:338][888]LogExit: Exiting.
+[2018.01.24-05.01.11:374][888]Log file closed, 01/24/18 14:01:11
