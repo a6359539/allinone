@@ -102,7 +102,7 @@ void AmainCharacter::TouchStopped(ETouchIndex::Type FingerIndex, FVector Locatio
 void AmainCharacter::TurnAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
-	//AddControllerYawInput(Rate * BaseTurnRate * GetWorld()->GetDeltaSeconds());
+	AddControllerYawInput(Rate * BaseTurnRate * GetWorld()->GetDeltaSeconds());
 }
 
 
@@ -111,7 +111,7 @@ void AmainCharacter::AttackAction(void)
 	if (isattack == 0)
 	{
 		isattack = 1;
-		GetWorldTimerManager().SetTimer(CountdownTimerHandle, this, &AmainCharacter::Attacktimer, 1.2f, false);
+		//GetWorldTimerManager().SetTimer(CountdownTimerHandle, this, &AmainCharacter::Attacktimer, 1.2f, false);
 	}
 }
 void AmainCharacter::Attacktimer(void)
