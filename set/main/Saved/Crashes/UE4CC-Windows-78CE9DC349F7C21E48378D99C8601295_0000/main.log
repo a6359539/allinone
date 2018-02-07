@@ -1,0 +1,1121 @@
+﻿Log file open, 01/29/18 20:32:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: main
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1007429759) SRandInit(-1007429759).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.180683
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file D:/20180127/set/main/Binaries/Win64/UE4Editor-main.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.29-11.32.49:328][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.29-11.32.49:328][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.29-11.32.49:344][  0]LogInit: Computer: DESKTOP-LOUV37F
+[2018.01.29-11.32.49:344][  0]LogInit: User: choiw
+[2018.01.29-11.32.49:344][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.29-11.32.49:344][  0]LogInit: High frequency timer resolution =2.742185 MHz
+[2018.01.29-11.32.49:344][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.29-11.32.49:344][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.29-11.32.49:344][  0]LogMemory: Process Physical Memory: 276.20 MB used, 276.20 MB peak
+[2018.01.29-11.32.49:344][  0]LogMemory: Process Virtual Memory: 282.03 MB used, 282.03 MB peak
+[2018.01.29-11.32.49:344][  0]LogMemory: Physical Memory: 3598.63 MB used,  4485.45 MB free, 8084.07 MB total
+[2018.01.29-11.32.49:344][  0]LogMemory: Virtual Memory: 692.42 MB used,  4485.45 MB free, 134217728.00 MB total
+[2018.01.29-11.32.49:567][  0]LogInit: Using OS detected language (ko-KR).
+[2018.01.29-11.32.49:567][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.01.29-11.32.49:570][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.01.29-11.32.49:739][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.29-11.32.50:030][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.29-11.32.50:069][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2018.01.29-11.32.50:069][  0]LogD3D11RHI:       6061/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.29-11.32.50:080][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.01.29-11.32.50:080][  0]LogD3D11RHI:       128/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.29-11.32.50:083][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.29-11.32.50:083][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.29-11.32.50:083][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.29-11.32.50:089][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.29-11.32.50:089][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.29-11.32.50:089][  0]LogWindows: EnumDisplayDevices:
+[2018.01.29-11.32.50:089][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.01.29-11.32.50:089][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.29-11.32.50:089][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.29-11.32.50:089][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.29-11.32.50:090][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.29-11.32.50:090][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.29-11.32.50:090][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2018.01.29-11.32.50:090][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.29-11.32.50:090][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2018.01.29-11.32.50:090][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.29-11.32.50:090][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.29-11.32.50:090][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.01.29-11.32.50:114][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.29-11.32.50:174][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.29-11.32.50:175][  0]LogShaderCompilers: Guid format shader working directory is 25 characters bigger than the processId version (D:/20180127/set/main/Intermediate/Shaders/WorkingDirectory/12612/).
+[2018.01.29-11.32.50:175][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/choiw/AppData/Local/Temp/UnrealShaderWorkingDir/D607B3C247EB7DD5E87EFC858B29A78F/'.
+[2018.01.29-11.32.50:175][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.29-11.32.51:143][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.29-11.32.51:211][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.29-11.32.51:281][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.29-11.32.51:347][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.29-11.32.51:414][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.29-11.32.51:480][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.29-11.32.51:547][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.29-11.32.51:617][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.29-11.32.51:677][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.29-11.32.51:745][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.29-11.32.51:809][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.29-11.32.51:875][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.29-11.32.51:939][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.29-11.32.52:004][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.29-11.32.52:143][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.29-11.32.52:143][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.29-11.32.52:209][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.29-11.32.52:265][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.29-11.32.52:378][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.29-11.32.52:414][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.29-11.32.52:480][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.29-11.32.52:544][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.29-11.32.52:612][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.29-11.32.52:677][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.29-11.32.52:677][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.29-11.32.53:332][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.29-11.32.53:414][  0]LogDerivedDataCache: Loaded boot cache 0.08s 79MB C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.29-11.32.53:415][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.29-11.32.53:415][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/20180127/set/main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.29-11.32.53:415][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.29-11.32.53:415][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/20180127/set/main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.29-11.32.53:415][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.29-11.32.53:430][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.29-11.32.53:442][  0]LogDerivedDataCache: Using Local data cache path C:/Users/choiw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.29-11.32.53:452][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.29-11.32.53:452][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.29-11.32.53:453][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.29-11.32.53:453][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.29-11.32.53:815][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.29-11.32.54:232][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.29-11.32.54:291][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.29-11.32.54:291][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.29-11.32.54:291][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.29-11.32.54:291][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.29-11.32.54:291][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.29-11.32.54:326][  0]LogNetVersion: main , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1998149536)
+[2018.01.29-11.32.54:513][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2018.01.29-11.32.55:181][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.156975 seconds
+[2018.01.29-11.32.55:187][  0]LogUObjectArray: 35907 objects as part of root set at end of initial load.
+[2018.01.29-11.32.55:187][  0]LogUObjectAllocator: 7585952 out of 0 bytes used by permanent object pool.
+[2018.01.29-11.32.55:187][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.29-11.32.58:686][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.29-11.32.58:743][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.29-11.32.59:574][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] 입력 액션 이벤트가  click 입력 액션  에 대한 미확인 'click' 액션을 레퍼런싱합니다.
+[2018.01.29-11.32.59:593][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0013.67] ThirdPersonCharacter 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 41 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.01.29-11.32.59:954][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.29-11.33.00:524][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.29-11.33.00:524][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.29-11.33.00:597][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.29-11.33.00:672][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.29-11.33.01:705][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.29-11.33.02:079][  0]LogOcInput: OculusInput pre-init called
+[2018.01.29-11.33.02:434][  0]LogEngine: Initializing Engine...
+[2018.01.29-11.33.02:437][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.29-11.33.02:687][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.29-11.33.02:687][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.29-11.33.02:872][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.29-11.33.02:877][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.29-11.33.02:895][  0]LogInit: FAudioDevice initialized.
+[2018.01.29-11.33.02:971][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/choiw/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.29-11.33.02:989][  0]LogInit: Texture streaming: Enabled
+[2018.01.29-11.33.03:130][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.29-11.33.03:345][  0]LogInit: Transaction tracking system initialized
+[2018.01.29-11.33.03:822][  0]BlueprintLog: New page: 에디터 로드
+[2018.01.29-11.33.05:311][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.01.29-11.33.06:680][  0]LogConsoleResponse: Display: 
+[2018.01.29-11.33.06:889][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.29-11.33.06:889][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.29-11.33.06:889][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.29-11.33.07:791][  0]LogFileCache: Scanning file cache for directory 'D:/20180127/set/main/Content/' took 0.04s
+[2018.01.29-11.33.08:547][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.29-11.33.08:547][  0]Cmd: MAP LOAD FILE="D:/20180127/set/main/Content/pratice/sinyoung/multiplay/mainmenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.29-11.33.08:547][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.29-11.33.08:606][  0]MapCheck: New page: 맵 체크
+[2018.01.29-11.33.08:606][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.29-11.33.08:835][  0]LogAIModule: Creating AISystem for world mainmenu
+[2018.01.29-11.33.08:837][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.29-11.33.08:847][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.29-11.33.08:905][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 57.884ms.
+[2018.01.29-11.33.08:905][  0]LogFileHelpers: Loading map 'mainmenu' took 0.358
+[2018.01.29-11.33.09:054][  0]LogCollectionManager: Loaded 0 collections in 0.002173 seconds
+[2018.01.29-11.33.09:150][  0]LogFileCache: Scanning file cache for directory 'D:/20180127/set/main/Saved/Collections/' took 0.01s
+[2018.01.29-11.33.09:150][  0]LogFileCache: Scanning file cache for directory 'D:/20180127/set/main/Content/Developers/choiw/Collections/' took 0.01s
+[2018.01.29-11.33.09:150][  0]LogFileCache: Scanning file cache for directory 'D:/20180127/set/main/Content/Collections/' took 0.01s
+[2018.01.29-11.33.09:150][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.29-11.33.09:161][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2367 classes and 524 folders.
+[2018.01.29-11.33.09:250][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.01.29-11.33.09:296][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.01.29-11.33.09:354][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.29-11.33.09:457][  0]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.29-11.33.09:463][  0]LogSlate: Took 0.004938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.01.29-11.33.09:465][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.29-11.33.09:476][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.29-11.33.09:589][  0]LogRenderer: Reallocating scene render targets to support 980x456 Format 9 NumSamples 1 (Frame:1).
+[2018.01.29-11.33.09:830][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.29-11.33.09:830][  0]LogLoad: (Engine Initialization) Total time: 23.90 seconds
+[2018.01.29-11.33.09:830][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.29-11.33.09:830][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.29-11.33.10:196][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.01.29-11.33.11:193][  3]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.29-11.33.11:517][  4]LogAssetRegistry: Asset discovery search completed in 17.0261 seconds
+[2018.01.29-11.33.11:523][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.29-11.33.11:523][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2018.01.29-11.33.15:175][ 15]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.29-11.33.18:063][ 88]LogSlate: Took 0.000603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.29-11.33.19:021][ 88]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.29-11.33.19:349][ 88]LogAIModule: Creating AISystem for world mappp
+[2018.01.29-11.33.19:400][ 88]Cmd: MAP LOAD FILE="D:/20180127/set/main/Content/pratice/wonseok/MultiPlay/Maps/mappp.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.29-11.33.19:400][ 88]LightingResults: New page: 라이팅 빌드
+[2018.01.29-11.33.19:401][ 88]LoadErrors: New page: 맵 로드중: mappp.umap
+[2018.01.29-11.33.19:401][ 88]MapCheck: New page: 맵 체크
+[2018.01.29-11.33.19:401][ 88]LightingResults: New page: 라이팅 빌드
+[2018.01.29-11.33.19:492][ 88]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.29-11.33.19:564][ 88]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.29-11.33.19:643][ 88]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 78.771ms.
+[2018.01.29-11.33.19:643][ 88]LogFileHelpers: Loading map 'mappp' took 0.244
+[2018.01.29-11.33.26:393][387]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.01.29-11.33.27:219][387]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.29-11.33.28:259][388]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.29-11.33.55:964][755]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'ACharacter::LaunchCharacter' [요소가 없습니다.]
+[2018.01.29-11.34.05:668][157]BlueprintLog: New page: mbpc 컴파일
+[2018.01.29-11.34.08:616][274]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.01.29-11.34.08:895][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.29-11.34.08:895][274]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-11.34.08:895][274]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.29-11.34.08:896][274]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.29-11.34.08:896][274]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.29-11.34.08:896][274]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.01.29-11.34.08:896][274]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.01.29-11.34.08:910][274]PIE: New page: PIE 세션: mappp (2018. 1. 30. 오전 5:34:08)
+[2018.01.29-11.34.09:322][274]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.01.29-11.34.09:328][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006696s)
+[2018.01.29-11.34.09:329][274]LogAIModule: Creating AISystem for world mappp
+[2018.01.29-11.34.09:330][274]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2018.01.29-11.34.09:330][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.008369s)
+[2018.01.29-11.34.09:353][274]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.29-11.34.09:366][274]LogInit: FAudioDevice initialized.
+[2018.01.29-11.34.09:531][274]LogLoad: Game class is 'MtestMode_C'
+[2018.01.29-11.34.09:533][274]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 60) at 2018.01.29-20.34.09
+[2018.01.29-11.34.09:534][274]LogWorld: Bringing up level for play took: 0.000785
+[2018.01.29-11.34.09:644][274]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.01.29-11.34.09:648][274]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-11.34.09:648][274]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.01.29-11.34.09:648][274]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-11.34.09:648][274]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.29-11.34.09:650][274]LogInit: WinSock: I am DESKTOP-LOUV37F (192.168.0.8:0)
+[2018.01.29-11.34.09:650][274]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-11.34.09:650][274]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2018.01.29-11.34.09:675][274]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: 1.414
+[2018.01.29-11.34.09:679][274]PIE: New page: PIE 세션: mappp (2018. 1. 30. 오전 5:34:09)
+[2018.01.29-11.34.09:835][274]LogNet: Browse: 127.0.0.1:17777//Game/pratice/sinyoung/multiplay/mainmenu
+[2018.01.29-11.34.09:835][274]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-11.34.09:836][274]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.01.29-11.34.09:836][274]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.29-11.34.09:836][274]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.29-11.34.09:837][274]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-11.34.09:837][274]LogNet: Game client on port 17777, rate 10000
+[2018.01.29-11.34.09:863][274]PIE: /Game/pratice/sinyoung/multiplay/mainmenu 에 대한 에디터에서 플레이 시작 시간: 1.603
+[2018.01.29-11.34.09:908][274]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62287
+[2018.01.29-11.34.09:908][274]LogHandshake: SendConnectChallenge. Timestamp: 0.022240, Cookie: 189139065242198120071083126059107205068109133129213004007046
+[2018.01.29-11.34.09:951][274]LogHandshake: SendChallengeResponse. Timestamp: 0.022240, Cookie: 189139065242198120071083126059107205068109133129213004007046
+[2018.01.29-11.34.10:133][275]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62287
+[2018.01.29-11.34.10:133][275]LogHandshake: SendChallengeAck. InCookie: 189139065242198120071083126059107205068109133129213004007046
+[2018.01.29-11.34.10:133][275]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62287
+[2018.01.29-11.34.10:134][275]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-11.34.10:134][275]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 01/29/18 20:34:10, [UNetConnection] RemoteAddr: 127.0.0.1:62287, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.29-11.34.10:134][275]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62287, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.29-11.34.10:135][275]LogNetVersion: main 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 285256623)
+[2018.01.29-11.34.10:135][275]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.29-11.34.10:152][276]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.01.29-11.34.10:152][276]LogNet: Remote platform little endian=1
+[2018.01.29-11.34.10:152][276]LogNet: This platform little endian=1
+[2018.01.29-11.34.10:177][277]LogNet: Login request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-LOUV37F-3FB417CF4D86A9A23BEA048AF042BEB8 userId: DESKTOP-LOUV37F-3FB417CF4D86A9A23BEA048AF042BEB8
+[2018.01.29-11.34.10:178][277]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.01.29-11.34.10:202][277]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.01.29-11.34.10:232][277]LogAIModule: Creating AISystem for world mappp
+[2018.01.29-11.34.10:233][277]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-11.34.10:234][277]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 60) at 2018.01.29-20.34.10
+[2018.01.29-11.34.10:234][277]LogWorld: Bringing up level for play took: 0.000587
+[2018.01.29-11.34.10:234][277]LogLoad: Took 0.032391 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.01.29-11.34.10:259][278]LogNet: Client netspeed is 10000
+[2018.01.29-11.34.10:259][278]LogNet: Join request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-LOUV37F-3FB417CF4D86A9A23BEA048AF042BEB8?SplitscreenCount=1
+[2018.01.29-11.34.10:259][278]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-11.34.10:262][278]LogNet: Join succeeded: DESKTOP-LOUV37F-3FB4
+[2018.01.29-11.34.10:341][281]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-11.34.10:371][282]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-11.35.01:678][435]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-11.35.01:679][435]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.29-11.35.01:680][435]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.29-11.35.01:680][435]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.29-11.35.01:680][435]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.29-11.35.01:749][435]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-11.35.01:749][435]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.29-11.35.01:749][435]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.29-11.35.01:750][435]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.29-11.35.01:750][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.29-11.35.01:770][435]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62287, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.01.29-11.35.01:770][435]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62287, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.29-11.35.01
+[2018.01.29-11.35.01:770][435]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62287, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.01.29-11.35.01:771][435]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.01.29-11.35.01:771][435]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.29-11.35.01
+[2018.01.29-11.35.01:771][435]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.01.29-11.35.01:774][435]LogExit: GameNetDriver None shut down
+[2018.01.29-11.35.01:774][435]LogExit: GameNetDriver None shut down
+[2018.01.29-11.35.01:803][436]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.01.29-11.35.01:803][436]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-11.35.01:803][436]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.01.29-11.35.01:803][436]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-11.44.56:043][290]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/pratice/wonseok/MultiPlay/Maps/mappp' took 0.022
+[2018.01.29-11.44.56:057][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc] ([1] browsable assets)...
+[2018.01.29-11.44.56:098][290]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc]
+[2018.01.29-11.44.56:098][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc]
+[2018.01.29-11.44.56:911][290]LogSavePackage: Save=788.32ms
+[2018.01.29-11.44.56:911][290]LogSavePackage: Moving 'D:/20180127/set/main/Saved/mbpc_Auto1B3CB7B6741EB859BA92E0CBA19C6DAD7.tmp' to 'D:/20180127/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc_Auto1.uasset'
+[2018.01.29-11.44.56:912][290]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc_Auto1.uasset
+[2018.01.29-11.44.56:912][290]LogFileHelpers: Auto-saving content packages took 0.856
+[2018.01.29-11.59.22:487][810]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.01.29-11.59.22:780][810]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.29-11.59.23:313][810]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.01.29-11.59.23:354][810]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.29-12.17.02:809][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.29-12.17.06:341][963]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.29-12.17.08:179][ 71]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.29-12.17.11:263][245]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.01.29-12.17.11:322][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.29-12.17.11:325][245]PIE: New page: PIE 세션: mappp (2018. 1. 30. 오전 6:17:11)
+[2018.01.29-12.17.11:325][245]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.01.29-12.17.11:334][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008521s)
+[2018.01.29-12.17.11:335][245]LogAIModule: Creating AISystem for world mappp
+[2018.01.29-12.17.11:336][245]LogPlayLevel: PIE: World Init took: (0.001883s)
+[2018.01.29-12.17.11:336][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.010761s)
+[2018.01.29-12.17.11:365][245]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.29-12.17.11:378][245]LogInit: FAudioDevice initialized.
+[2018.01.29-12.17.11:530][245]LogLoad: Game class is 'MtestMode_C'
+[2018.01.29-12.17.11:532][245]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 60) at 2018.01.29-21.17.11
+[2018.01.29-12.17.11:533][245]LogWorld: Bringing up level for play took: 0.000876
+[2018.01.29-12.17.11:549][245]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.17.11:549][245]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.01.29-12.17.11:549][245]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.17.11:550][245]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.29-12.17.11:550][245]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.17.11:550][245]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2018.01.29-12.17.11:577][245]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: -0.684
+[2018.01.29-12.17.11:579][245]PIE: New page: PIE 세션: mappp (2018. 1. 30. 오전 6:17:11)
+[2018.01.29-12.17.11:741][245]LogNet: Browse: 127.0.0.1:17777//Game/pratice/sinyoung/multiplay/mainmenu
+[2018.01.29-12.17.11:741][245]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.17.11:741][245]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.01.29-12.17.11:742][245]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.29-12.17.11:742][245]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.29-12.17.11:743][245]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.17.11:743][245]LogNet: Game client on port 17777, rate 10000
+[2018.01.29-12.17.11:768][245]PIE: /Game/pratice/sinyoung/multiplay/mainmenu 에 대한 에디터에서 플레이 시작 시간: -0.493
+[2018.01.29-12.17.11:806][245]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62121
+[2018.01.29-12.17.11:806][245]LogHandshake: SendConnectChallenge. Timestamp: 0.025478, Cookie: 222134182006055034043252187159112156106186071031195185064031
+[2018.01.29-12.17.11:808][245]LogHandshake: SendChallengeResponse. Timestamp: 0.025478, Cookie: 222134182006055034043252187159112156106186071031195185064031
+[2018.01.29-12.17.11:965][246]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62121
+[2018.01.29-12.17.11:965][246]LogHandshake: SendChallengeAck. InCookie: 222134182006055034043252187159112156106186071031195185064031
+[2018.01.29-12.17.11:965][246]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62121
+[2018.01.29-12.17.11:965][246]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.17.11:966][246]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 01/29/18 21:17:11, [UNetConnection] RemoteAddr: 127.0.0.1:62121, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.29-12.17.11:966][246]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62121, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.29-12.17.11:966][246]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.29-12.17.11:981][247]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.01.29-12.17.11:981][247]LogNet: Remote platform little endian=1
+[2018.01.29-12.17.11:981][247]LogNet: This platform little endian=1
+[2018.01.29-12.17.12:006][248]LogNet: Login request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-LOUV37F-FCADF86E4B411C850B268B94CAE21B90 userId: DESKTOP-LOUV37F-FCADF86E4B411C850B268B94CAE21B90
+[2018.01.29-12.17.12:007][248]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.01.29-12.17.12:029][248]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.01.29-12.17.12:061][248]LogAIModule: Creating AISystem for world mappp
+[2018.01.29-12.17.12:061][248]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.17.12:063][248]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 60) at 2018.01.29-21.17.12
+[2018.01.29-12.17.12:063][248]LogWorld: Bringing up level for play took: 0.000822
+[2018.01.29-12.17.12:064][248]LogLoad: Took 0.035036 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.01.29-12.17.12:089][249]LogNet: Client netspeed is 10000
+[2018.01.29-12.17.12:089][249]LogNet: Join request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-LOUV37F-FCADF86E4B411C850B268B94CAE21B90?SplitscreenCount=1
+[2018.01.29-12.17.12:090][249]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.17.12:092][249]LogNet: Join succeeded: DESKTOP-LOUV37F-FCAD
+[2018.01.29-12.17.12:176][252]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.17.12:205][253]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.17.29:079][851]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.17.29:079][851]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.29-12.17.29:080][851]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.29-12.17.29:080][851]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.29-12.17.29:080][851]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.29-12.17.29:155][851]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.17.29:155][851]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.29-12.17.29:156][851]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.29-12.17.29:156][851]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.29-12.17.29:156][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.29-12.17.29:178][851]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62121, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2018.01.29-12.17.29:178][851]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62121, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.29-12.17.29
+[2018.01.29-12.17.29:178][851]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62121, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2018.01.29-12.17.29:178][851]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.01.29-12.17.29:178][851]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.29-12.17.29
+[2018.01.29-12.17.29:178][851]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.01.29-12.17.29:182][851]LogExit: GameNetDriver None shut down
+[2018.01.29-12.17.29:182][851]LogExit: GameNetDriver None shut down
+[2018.01.29-12.17.29:209][852]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.01.29-12.17.29:209][852]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.17.29:209][852]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.01.29-12.17.29:209][852]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.17.41:328][295]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/구글다운로드/Drop Kick.fbx)
+[2018.01.29-12.17.41:363][295]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.29-12.17.41:363][295]LogFbx: ItemName: Model, ItemCount : 65
+[2018.01.29-12.17.41:363][295]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2018.01.29-12.17.41:363][295]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.29-12.17.41:363][295]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.29-12.17.41:363][295]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.01.29-12.17.41:363][295]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.01.29-12.17.41:373][295]LogFbx: Loading FBX Scene from D:/구글다운로드/Drop Kick.fbx
+[2018.01.29-12.17.41:411][295]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.29-12.17.47:712][295]LogFbx: Loading FBX Scene from D:/구글다운로드/Drop Kick.fbx
+[2018.01.29-12.17.47:739][295]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.29-12.17.47:743][295]LogFbx: SortedLinks :(0) Hips
+[2018.01.29-12.17.47:743][295]LogFbx: SortedLinks :(1) Spine
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(2) Spine1
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(3) Spine2
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(4) Neck
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(5) Head
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(8) LeftArm
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(10) LeftHand
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(31) RightShoulder
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(32) RightArm
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(33) RightForeArm
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(34) RightHand
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(35) RightHandThumb1
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(36) RightHandThumb2
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(37) RightHandThumb3
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(38) RightHandThumb4
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(39) RightHandIndex1
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(40) RightHandIndex2
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(41) RightHandIndex3
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(42) RightHandIndex4
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(56) LeftLeg
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(57) LeftFoot
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(61) RightLeg
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(62) RightFoot
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(63) RightToeBase
+[2018.01.29-12.17.47:744][295]LogFbx: SortedLinks :(64) RightToe_End
+[2018.01.29-12.17.47:745][295]LogFbx: Parsing AnimStack mixamo.com
+[2018.01.29-12.17.47:750][295]LogLinker: '/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/Drop_Kick' 파일을 찾을 수 없습니다.
+[2018.01.29-12.17.47:750][295]LogLinker: '/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/Drop_Kick' 파일을 찾을 수 없습니다.
+[2018.01.29-12.17.48:172][295]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/Drop_Kick.Drop_Kick
+[2018.01.29-12.17.48:174][295]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Drop_Kick) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.29-12.17.51:872][416]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.01.29-12.17.54:382][474]LogSavePackage: Save=40.55ms
+[2018.01.29-12.17.54:382][474]LogSavePackage: Moving 'D:/20180127/set/main/Saved/mappp_Auto25CFC93854D533F902DC5F08A7BC87C4D.tmp' to 'D:/20180127/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/Maps/mappp_Auto2.umap'
+[2018.01.29-12.17.54:383][474]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/Maps/mappp_Auto2.umap
+[2018.01.29-12.17.54:388][474]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/pratice/wonseok/MultiPlay/Maps/mappp' took 0.086
+[2018.01.29-12.17.54:388][474]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.086
+[2018.01.29-12.17.54:390][474]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/Drop_Kick] ([1] browsable assets)...
+[2018.01.29-12.17.54:401][474]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/Drop_Kick.Drop_Kick]
+[2018.01.29-12.17.54:401][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/Drop_Kick]
+[2018.01.29-12.17.54:417][474]LogSavePackage: Save=14.87ms
+[2018.01.29-12.17.54:417][474]LogSavePackage: Moving 'D:/20180127/set/main/Saved/Drop_Kick_Auto2EFA8D3154299E8946F998BA7CB000F8E.tmp' to 'D:/20180127/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/Drop_Kick_Auto2.uasset'
+[2018.01.29-12.17.54:418][474]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/Drop_Kick_Auto2.uasset
+[2018.01.29-12.17.54:418][474]LogFileHelpers: Auto-saving content packages took 0.029
+[2018.01.29-12.18.09:487][807]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.01.29-12.18.28:678][397]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Drop_Kick.Drop_Kick
+[2018.01.29-12.18.28:679][397]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.29-12.18.28:680][397]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Drop_Kick.Drop_Kick
+[2018.01.29-12.18.28:681][397]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.29-12.18.28:690][397]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Drop_Kick.Drop_Kick
+[2018.01.29-12.18.28:691][397]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_2) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.29-12.18.54:731][399]LogSavePackage: Save=14.84ms
+[2018.01.29-12.18.54:731][399]LogSavePackage: Moving 'D:/20180127/set/main/Saved/Drop_KickC71B47E54EF7349654C64B967D02BA45.tmp' to 'D:/20180127/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/Drop_Kick.uasset'
+[2018.01.29-12.18.54:738][399]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/Drop_Kick.uasset
+[2018.01.29-12.21.50:585][580]BlueprintLog: New page: mbpc 컴파일
+[2018.01.29-12.23.43:834][796]BlueprintLog: New page: mbpc 컴파일
+[2018.01.29-12.23.47:915][963]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_1.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.01.29-12.23.48:404][963]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.29-12.24.25:984][695]LogSavePackage: Save=12.72ms
+[2018.01.29-12.24.25:984][695]LogSavePackage: Moving 'D:/20180127/set/main/Saved/dropkickE0BF41B2475B8065D16D499E721618EC.tmp' to 'D:/20180127/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/dropkick.uasset'
+[2018.01.29-12.24.25:986][695]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/dropkick.uasset
+[2018.01.29-12.25.37:376][534]BlueprintLog: New page: mbpc 컴파일
+[2018.01.29-12.26.43:089][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/dive' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:089][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/dive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:089][643]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint : 애셋에 대한 파일을 찾을 수 없습니다. /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/dive
+[2018.01.29-12.26.43:150][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/leftdodge' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:150][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/leftdodge' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:150][643]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint : 애셋에 대한 파일을 찾을 수 없습니다. /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/leftdodge
+[2018.01.29-12.26.43:150][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/rightdodge' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:150][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/rightdodge' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:150][643]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint : 애셋에 대한 파일을 찾을 수 없습니다. /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/rightdodge
+[2018.01.29-12.26.43:808][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/dive' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:808][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/dive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:808][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/leftdodge' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:809][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/leftdodge' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:809][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/rightdodge' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:809][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/rightdodge' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:824][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/dive' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:824][643]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/dive.dive 레퍼런싱한 것: K2Node_CallFunction_1246
+[2018.01.29-12.26.43:824][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/dive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:824][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/leftdodge' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:824][643]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/leftdodge.leftdodge 레퍼런싱한 것: K2Node_CallFunction_1247
+[2018.01.29-12.26.43:824][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/leftdodge' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:825][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/rightdodge' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:825][643]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/rightdodge.rightdodge 레퍼런싱한 것: K2Node_CallFunction_1245
+[2018.01.29-12.26.43:825][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/rightdodge' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:964][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/dive' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:964][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/testaim.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/dive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:964][643]LoadErrors: Error: /Game/pratice/sinyoung/testaim : 애셋에 대한 파일을 찾을 수 없습니다. /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/dive
+[2018.01.29-12.26.43:964][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/leftdodge' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:965][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/testaim.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/leftdodge' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:965][643]LoadErrors: Error: /Game/pratice/sinyoung/testaim : 애셋에 대한 파일을 찾을 수 없습니다. /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/leftdodge
+[2018.01.29-12.26.43:965][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/rightdodge' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:965][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/testaim.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/rightdodge' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:965][643]LoadErrors: Error: /Game/pratice/sinyoung/testaim : 애셋에 대한 파일을 찾을 수 없습니다. /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/rightdodge
+[2018.01.29-12.26.43:972][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/dive' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:972][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/testaim.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/dive' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:973][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/leftdodge' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:973][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/testaim.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/leftdodge' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:973][643]LogLinker: Warning: '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/rightdodge' 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.43:973][643]LogLinker: Warning: D:/20180127/set/main/Content/pratice/sinyoung/testaim.uasset 로드중 '/Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/rightdodge' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.01.29-12.26.45:205][643]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.01.29-12.26.45:210][643]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.01.29-12.30.13:935][667]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/pratice/wonseok/MultiPlay/Maps/mappp' took 0.035
+[2018.01.29-12.30.13:937][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc] ([1] browsable assets)...
+[2018.01.29-12.30.13:973][667]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc]
+[2018.01.29-12.30.13:973][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc]
+[2018.01.29-12.30.14:726][667]LogSavePackage: Save=729.86ms
+[2018.01.29-12.30.14:726][667]LogSavePackage: Moving 'D:/20180127/set/main/Saved/mbpc_Auto3874E66C0433D9CEE83000EACAD923E5C.tmp' to 'D:/20180127/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc_Auto3.uasset'
+[2018.01.29-12.30.14:727][667]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc_Auto3.uasset
+[2018.01.29-12.30.14:728][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2018.01.29-12.30.14:728][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton]
+[2018.01.29-12.30.14:757][667]LogSavePackage: Save=8.63ms
+[2018.01.29-12.30.14:757][667]LogSavePackage: Moving 'D:/20180127/set/main/Saved/SK_Mannequin_Skeleton_Auto3211D60F343969F6F71A526999F10AF80.tmp' to 'D:/20180127/set/main/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto3.uasset'
+[2018.01.29-12.30.14:758][667]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto3.uasset
+[2018.01.29-12.30.14:759][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/pratice/wonseok/character/dreyar_m_aure_Skeleton] ([1] browsable assets)...
+[2018.01.29-12.30.14:759][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/wonseok/character/dreyar_m_aure_Skeleton]
+[2018.01.29-12.30.14:787][667]LogSavePackage: Save=9.21ms
+[2018.01.29-12.30.14:787][667]LogSavePackage: Moving 'D:/20180127/set/main/Saved/dreyar_m_aure_Skeleton_Auto30F873C9A43E2F1C5EC42EAA02F186B30.tmp' to 'D:/20180127/set/main/Saved/Autosaves/Game/pratice/wonseok/character/dreyar_m_aure_Skeleton_Auto3.uasset'
+[2018.01.29-12.30.14:805][667]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Saved/Autosaves/Game/pratice/wonseok/character/dreyar_m_aure_Skeleton_Auto3.uasset
+[2018.01.29-12.30.14:806][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pratice/sinyoung/testaim] ([1] browsable assets)...
+[2018.01.29-12.30.14:817][667]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/pratice/sinyoung/testaim.testaim]
+[2018.01.29-12.30.14:817][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/sinyoung/testaim]
+[2018.01.29-12.30.14:817][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/sinyoung/testaim" FILE="D:/20180127/set/main/Saved/Autosaves/Game/pratice/sinyoung/testaim_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.01.29-12.30.15:716][667]LogSavePackage: Save=878.69ms
+[2018.01.29-12.30.15:716][667]LogSavePackage: Moving 'D:/20180127/set/main/Saved/testaim_Auto3D1FC74EA4276D3027731588FB5C5A340.tmp' to 'D:/20180127/set/main/Saved/Autosaves/Game/pratice/sinyoung/testaim_Auto3.uasset'
+[2018.01.29-12.30.15:733][667]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Saved/Autosaves/Game/pratice/sinyoung/testaim_Auto3.uasset
+[2018.01.29-12.30.15:733][667]LogFileHelpers: Auto-saving content packages took 1.797
+[2018.01.29-12.40.16:255][489]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/pratice/wonseok/MultiPlay/Maps/mappp' took 0.030
+[2018.01.29-12.40.16:257][489]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2018.01.29-12.40.16:257][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton]
+[2018.01.29-12.40.16:295][489]LogSavePackage: Save=7.90ms
+[2018.01.29-12.40.16:295][489]LogSavePackage: Moving 'D:/20180127/set/main/Saved/SK_Mannequin_Skeleton_Auto4288512264DBD000C95258B99AC43228E.tmp' to 'D:/20180127/set/main/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto4.uasset'
+[2018.01.29-12.40.16:638][489]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto4.uasset
+[2018.01.29-12.40.16:638][489]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/dropkick] ([1] browsable assets)...
+[2018.01.29-12.40.16:638][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/dropkick]
+[2018.01.29-12.40.16:665][489]LogSavePackage: Save=7.13ms
+[2018.01.29-12.40.16:665][489]LogSavePackage: Moving 'D:/20180127/set/main/Saved/dropkick_Auto4BA7EEEB642C1588BB10501B6BDFF3FBC.tmp' to 'D:/20180127/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/dropkick_Auto4.uasset'
+[2018.01.29-12.40.16:666][489]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/dropkick_Auto4.uasset
+[2018.01.29-12.40.16:666][489]LogFileHelpers: Auto-saving content packages took 0.410
+[2018.01.29-12.48.13:975][202]BlueprintLog: New page: mbpc 컴파일
+[2018.01.29-12.48.16:019][263]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.01.29-12.48.16:067][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.29-12.48.16:069][263]PIE: New page: PIE 세션: mappp (2018. 1. 30. 오전 6:48:16)
+[2018.01.29-12.48.16:069][263]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.01.29-12.48.16:075][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005563s)
+[2018.01.29-12.48.16:076][263]LogAIModule: Creating AISystem for world mappp
+[2018.01.29-12.48.16:077][263]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2018.01.29-12.48.16:077][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.007198s)
+[2018.01.29-12.48.16:100][263]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.29-12.48.16:111][263]LogInit: FAudioDevice initialized.
+[2018.01.29-12.48.16:255][263]LogLoad: Game class is 'MtestMode_C'
+[2018.01.29-12.48.16:257][263]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 60) at 2018.01.29-21.48.16
+[2018.01.29-12.48.16:257][263]LogWorld: Bringing up level for play took: 0.001140
+[2018.01.29-12.48.16:271][263]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.48.16:271][263]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2018.01.29-12.48.16:271][263]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.48.16:272][263]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.29-12.48.16:272][263]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.48.16:273][263]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2018.01.29-12.48.16:294][263]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: 0.033
+[2018.01.29-12.48.16:296][263]PIE: New page: PIE 세션: mappp (2018. 1. 30. 오전 6:48:16)
+[2018.01.29-12.48.16:438][263]LogNet: Browse: 127.0.0.1:17777//Game/pratice/sinyoung/multiplay/mainmenu
+[2018.01.29-12.48.16:438][263]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.48.16:438][263]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2018.01.29-12.48.16:438][263]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.29-12.48.16:438][263]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.29-12.48.16:439][263]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.48.16:439][263]LogNet: Game client on port 17777, rate 10000
+[2018.01.29-12.48.16:460][263]PIE: /Game/pratice/sinyoung/multiplay/mainmenu 에 대한 에디터에서 플레이 시작 시간: 0.199
+[2018.01.29-12.48.16:499][263]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49607
+[2018.01.29-12.48.16:499][263]LogHandshake: SendConnectChallenge. Timestamp: 0.033898, Cookie: 085012170236158187090161245172113064155228248241066012227136
+[2018.01.29-12.48.16:499][263]LogHandshake: SendChallengeResponse. Timestamp: 0.033898, Cookie: 085012170236158187090161245172113064155228248241066012227136
+[2018.01.29-12.48.16:676][264]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49607
+[2018.01.29-12.48.16:676][264]LogHandshake: SendChallengeAck. InCookie: 085012170236158187090161245172113064155228248241066012227136
+[2018.01.29-12.48.16:676][264]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49607
+[2018.01.29-12.48.16:676][264]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.48.16:677][264]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 01/29/18 21:48:16, [UNetConnection] RemoteAddr: 127.0.0.1:49607, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.29-12.48.16:677][264]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49607, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.29-12.48.16:677][264]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.29-12.48.16:693][265]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.01.29-12.48.16:693][265]LogNet: Remote platform little endian=1
+[2018.01.29-12.48.16:693][265]LogNet: This platform little endian=1
+[2018.01.29-12.48.16:737][266]LogNet: Login request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-LOUV37F-1660B92B471F5E90B297E6B1DC04CD43 userId: DESKTOP-LOUV37F-1660B92B471F5E90B297E6B1DC04CD43
+[2018.01.29-12.48.16:738][266]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.01.29-12.48.16:771][266]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.01.29-12.48.16:810][266]LogAIModule: Creating AISystem for world mappp
+[2018.01.29-12.48.16:810][266]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.48.16:813][266]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 60) at 2018.01.29-21.48.16
+[2018.01.29-12.48.16:813][266]LogWorld: Bringing up level for play took: 0.001296
+[2018.01.29-12.48.16:814][266]LogLoad: Took 0.042320 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.01.29-12.48.16:835][267]LogNet: Client netspeed is 10000
+[2018.01.29-12.48.16:835][267]LogNet: Join request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-LOUV37F-1660B92B471F5E90B297E6B1DC04CD43?SplitscreenCount=1
+[2018.01.29-12.48.16:835][267]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.48.16:838][267]LogNet: Join succeeded: DESKTOP-LOUV37F-1660
+[2018.01.29-12.48.16:911][269]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.48.16:955][270]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.48.46:571][ 81]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.48.46:571][ 81]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.29-12.48.46:572][ 81]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.29-12.48.46:572][ 81]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.29-12.48.46:572][ 81]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.29-12.48.46:635][ 81]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.48.46:635][ 81]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.29-12.48.46:637][ 81]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.29-12.48.46:638][ 81]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.29-12.48.46:638][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.29-12.48.46:659][ 81]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49607, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.29-12.48.46:659][ 81]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49607, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, Channels: 10, Time: 2018.01.29-12.48.46
+[2018.01.29-12.48.46:659][ 81]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49607, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.29-12.48.46:660][ 81]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.29-12.48.46:660][ 81]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 10, Time: 2018.01.29-12.48.46
+[2018.01.29-12.48.46:660][ 81]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.29-12.48.46:663][ 81]LogExit: GameNetDriver None shut down
+[2018.01.29-12.48.46:663][ 81]LogExit: GameNetDriver None shut down
+[2018.01.29-12.48.46:690][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.01.29-12.48.46:690][ 82]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.48.46:690][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.01.29-12.48.46:690][ 82]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.48.55:283][433]BlueprintLog: New page: mbpc 컴파일
+[2018.01.29-12.48.58:287][559]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.01.29-12.48.58:325][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.29-12.48.58:327][559]PIE: New page: PIE 세션: mappp (2018. 1. 30. 오전 6:48:58)
+[2018.01.29-12.48.58:327][559]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.01.29-12.48.58:332][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004944s)
+[2018.01.29-12.48.58:333][559]LogAIModule: Creating AISystem for world mappp
+[2018.01.29-12.48.58:333][559]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2018.01.29-12.48.58:334][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.006702s)
+[2018.01.29-12.48.58:355][559]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.29-12.48.58:367][559]LogInit: FAudioDevice initialized.
+[2018.01.29-12.48.58:498][559]LogLoad: Game class is 'MtestMode_C'
+[2018.01.29-12.48.58:500][559]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 60) at 2018.01.29-21.48.58
+[2018.01.29-12.48.58:501][559]LogWorld: Bringing up level for play took: 0.001208
+[2018.01.29-12.48.58:514][559]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.48.58:514][559]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2018.01.29-12.48.58:514][559]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.48.58:515][559]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.29-12.48.58:515][559]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.48.58:515][559]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2018.01.29-12.48.58:537][559]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: 0.276
+[2018.01.29-12.48.58:539][559]PIE: New page: PIE 세션: mappp (2018. 1. 30. 오전 6:48:58)
+[2018.01.29-12.48.58:680][559]LogNet: Browse: 127.0.0.1:17777//Game/pratice/sinyoung/multiplay/mainmenu
+[2018.01.29-12.48.58:680][559]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.48.58:680][559]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2018.01.29-12.48.58:680][559]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.29-12.48.58:680][559]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.29-12.48.58:681][559]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.48.58:681][559]LogNet: Game client on port 17777, rate 10000
+[2018.01.29-12.48.58:703][559]PIE: /Game/pratice/sinyoung/multiplay/mainmenu 에 대한 에디터에서 플레이 시작 시간: 0.442
+[2018.01.29-12.48.58:740][559]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49608
+[2018.01.29-12.48.58:740][559]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 153070239071029225227206125092040126117029178060094143022056
+[2018.01.29-12.48.58:741][559]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 153070239071029225227206125092040126117029178060094143022056
+[2018.01.29-12.48.58:936][560]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49608
+[2018.01.29-12.48.58:936][560]LogHandshake: SendChallengeAck. InCookie: 153070239071029225227206125092040126117029178060094143022056
+[2018.01.29-12.48.58:936][560]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49608
+[2018.01.29-12.48.58:937][560]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.48.58:937][560]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 01/29/18 21:48:58, [UNetConnection] RemoteAddr: 127.0.0.1:49608, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.29-12.48.58:937][560]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49608, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.29-12.48.58:937][560]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.29-12.48.58:952][561]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.01.29-12.48.58:952][561]LogNet: Remote platform little endian=1
+[2018.01.29-12.48.58:952][561]LogNet: This platform little endian=1
+[2018.01.29-12.48.58:985][562]LogNet: Login request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-LOUV37F-A2BCAF5D46F053E7DA73CFB1ECD94438 userId: DESKTOP-LOUV37F-A2BCAF5D46F053E7DA73CFB1ECD94438
+[2018.01.29-12.48.58:986][562]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.01.29-12.48.58:993][562]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.01.29-12.48.59:024][562]LogAIModule: Creating AISystem for world mappp
+[2018.01.29-12.48.59:024][562]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.48.59:026][562]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 60) at 2018.01.29-21.48.59
+[2018.01.29-12.48.59:026][562]LogWorld: Bringing up level for play took: 0.001237
+[2018.01.29-12.48.59:027][562]LogLoad: Took 0.033526 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.01.29-12.48.59:045][563]LogNet: Client netspeed is 10000
+[2018.01.29-12.48.59:045][563]LogNet: Join request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-LOUV37F-A2BCAF5D46F053E7DA73CFB1ECD94438?SplitscreenCount=1
+[2018.01.29-12.48.59:045][563]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.48.59:048][563]LogNet: Join succeeded: DESKTOP-LOUV37F-A2BC
+[2018.01.29-12.48.59:138][567]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.48.59:157][568]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.49.21:257][552]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.49.21:258][552]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.29-12.49.21:260][552]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.29-12.49.21:260][552]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.29-12.49.21:260][552]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.29-12.49.21:323][552]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.49.21:323][552]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.29-12.49.21:325][552]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.29-12.49.21:325][552]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.29-12.49.21:325][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.29-12.49.21:350][552]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49608, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None
+[2018.01.29-12.49.21:350][552]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49608, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.29-12.49.21
+[2018.01.29-12.49.21:350][552]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49608, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None
+[2018.01.29-12.49.21:350][552]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2018.01.29-12.49.21:350][552]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.29-12.49.21
+[2018.01.29-12.49.21:350][552]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2018.01.29-12.49.21:354][552]LogExit: GameNetDriver None shut down
+[2018.01.29-12.49.21:354][552]LogExit: GameNetDriver None shut down
+[2018.01.29-12.49.21:375][553]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.01.29-12.49.21:375][553]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.49.21:375][553]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.01.29-12.49.21:375][553]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.49.48:250][947]BlueprintLog: New page: mbpc 컴파일
+[2018.01.29-12.49.54:054][235]LogSavePackage: Save=5.74ms
+[2018.01.29-12.49.54:054][235]LogSavePackage: Moving 'D:/20180127/set/main/Saved/dropkick7FBED5C9412A9929263E8FAB7A0E915E.tmp' to 'D:/20180127/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/dropkick.uasset'
+[2018.01.29-12.49.54:061][235]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/dropkick.uasset
+[2018.01.29-12.49.54:320][245]LogSavePackage: Save=7.07ms
+[2018.01.29-12.49.54:320][245]LogSavePackage: Moving 'D:/20180127/set/main/Saved/dropkickC16F58114C882E1959EB89AA67A5D541.tmp' to 'D:/20180127/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/dropkick.uasset'
+[2018.01.29-12.49.54:320][245]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/dropkick.uasset
+[2018.01.29-12.49.57:348][393]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.01.29-12.49.57:389][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.29-12.49.57:391][393]PIE: New page: PIE 세션: mappp (2018. 1. 30. 오전 6:49:57)
+[2018.01.29-12.49.57:391][393]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.01.29-12.49.57:396][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005006s)
+[2018.01.29-12.49.57:397][393]LogAIModule: Creating AISystem for world mappp
+[2018.01.29-12.49.57:397][393]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2018.01.29-12.49.57:397][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.006474s)
+[2018.01.29-12.49.57:420][393]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.29-12.49.57:431][393]LogInit: FAudioDevice initialized.
+[2018.01.29-12.49.57:561][393]LogLoad: Game class is 'MtestMode_C'
+[2018.01.29-12.49.57:564][393]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 60) at 2018.01.29-21.49.57
+[2018.01.29-12.49.57:564][393]LogWorld: Bringing up level for play took: 0.001753
+[2018.01.29-12.49.57:578][393]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.49.57:578][393]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2018.01.29-12.49.57:578][393]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.49.57:580][393]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.29-12.49.57:580][393]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.49.57:580][393]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2018.01.29-12.49.57:599][393]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: -0.662
+[2018.01.29-12.49.57:600][393]PIE: New page: PIE 세션: mappp (2018. 1. 30. 오전 6:49:57)
+[2018.01.29-12.49.57:733][393]LogNet: Browse: 127.0.0.1:17777//Game/pratice/sinyoung/multiplay/mainmenu
+[2018.01.29-12.49.57:733][393]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.49.57:733][393]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2018.01.29-12.49.57:733][393]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.29-12.49.57:733][393]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.29-12.49.57:734][393]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.49.57:734][393]LogNet: Game client on port 17777, rate 10000
+[2018.01.29-12.49.57:753][393]PIE: /Game/pratice/sinyoung/multiplay/mainmenu 에 대한 에디터에서 플레이 시작 시간: -0.508
+[2018.01.29-12.49.57:789][393]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62026
+[2018.01.29-12.49.57:789][393]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 220230055216210234099182203137047181163224226003056118051234
+[2018.01.29-12.49.57:790][393]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 220230055216210234099182203137047181163224226003056118051234
+[2018.01.29-12.49.57:938][394]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62026
+[2018.01.29-12.49.57:938][394]LogHandshake: SendChallengeAck. InCookie: 220230055216210234099182203137047181163224226003056118051234
+[2018.01.29-12.49.57:939][394]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62026
+[2018.01.29-12.49.57:939][394]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.49.57:939][394]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 01/29/18 21:49:57, [UNetConnection] RemoteAddr: 127.0.0.1:62026, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.29-12.49.57:939][394]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62026, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.29-12.49.57:940][394]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.29-12.49.57:957][395]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.01.29-12.49.57:957][395]LogNet: Remote platform little endian=1
+[2018.01.29-12.49.57:957][395]LogNet: This platform little endian=1
+[2018.01.29-12.49.57:987][396]LogNet: Login request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-LOUV37F-0E4DD9E742B4FE6F00ED758B79A6DF03 userId: DESKTOP-LOUV37F-0E4DD9E742B4FE6F00ED758B79A6DF03
+[2018.01.29-12.49.57:988][396]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.01.29-12.49.58:001][396]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.01.29-12.49.58:032][396]LogAIModule: Creating AISystem for world mappp
+[2018.01.29-12.49.58:032][396]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.49.58:034][396]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 60) at 2018.01.29-21.49.58
+[2018.01.29-12.49.58:034][396]LogWorld: Bringing up level for play took: 0.000640
+[2018.01.29-12.49.58:034][396]LogLoad: Took 0.033155 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.01.29-12.49.58:059][397]LogNet: Client netspeed is 10000
+[2018.01.29-12.49.58:059][397]LogNet: Join request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-LOUV37F-0E4DD9E742B4FE6F00ED758B79A6DF03?SplitscreenCount=1
+[2018.01.29-12.49.58:059][397]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.49.58:061][397]LogNet: Join succeeded: DESKTOP-LOUV37F-0E4D
+[2018.01.29-12.49.58:156][401]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.49.58:185][402]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.50.09:484][697]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.50.09:484][697]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.29-12.50.09:484][697]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.29-12.50.09:484][697]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.29-12.50.09:484][697]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.29-12.50.09:550][697]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.50.09:550][697]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.29-12.50.09:551][697]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.29-12.50.09:551][697]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.29-12.50.09:551][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.29-12.50.09:571][697]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62026, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None
+[2018.01.29-12.50.09:572][697]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62026, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.29-12.50.09
+[2018.01.29-12.50.09:572][697]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62026, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None
+[2018.01.29-12.50.09:572][697]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2018.01.29-12.50.09:572][697]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.29-12.50.09
+[2018.01.29-12.50.09:572][697]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2018.01.29-12.50.09:577][697]LogExit: GameNetDriver None shut down
+[2018.01.29-12.50.09:578][697]LogExit: GameNetDriver None shut down
+[2018.01.29-12.50.09:597][698]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.01.29-12.50.09:597][698]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.50.09:597][698]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.01.29-12.50.09:597][698]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.51.16:596][967]BlueprintLog: New page: mbpc 컴파일
+[2018.01.29-12.51.19:077][ 69]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.01.29-12.51.19:123][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.29-12.51.19:124][ 69]PIE: New page: PIE 세션: mappp (2018. 1. 30. 오전 6:51:19)
+[2018.01.29-12.51.19:124][ 69]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.01.29-12.51.19:129][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005067s)
+[2018.01.29-12.51.19:130][ 69]LogAIModule: Creating AISystem for world mappp
+[2018.01.29-12.51.19:131][ 69]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2018.01.29-12.51.19:131][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.006787s)
+[2018.01.29-12.51.19:152][ 69]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.29-12.51.19:163][ 69]LogInit: FAudioDevice initialized.
+[2018.01.29-12.51.19:292][ 69]LogLoad: Game class is 'MtestMode_C'
+[2018.01.29-12.51.19:294][ 69]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 60) at 2018.01.29-21.51.19
+[2018.01.29-12.51.19:294][ 69]LogWorld: Bringing up level for play took: 0.000609
+[2018.01.29-12.51.19:309][ 69]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.51.19:309][ 69]LogTemp: Display: ParseSettings for IpNetDriver_10
+[2018.01.29-12.51.19:309][ 69]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.51.19:309][ 69]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.29-12.51.19:310][ 69]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.51.19:310][ 69]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 17777
+[2018.01.29-12.51.19:330][ 69]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: 1.07
+[2018.01.29-12.51.19:332][ 69]PIE: New page: PIE 세션: mappp (2018. 1. 30. 오전 6:51:19)
+[2018.01.29-12.51.19:472][ 69]LogNet: Browse: 127.0.0.1:17777//Game/pratice/sinyoung/multiplay/mainmenu
+[2018.01.29-12.51.19:472][ 69]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.51.19:472][ 69]LogTemp: Display: ParseSettings for IpNetDriver_11
+[2018.01.29-12.51.19:472][ 69]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.29-12.51.19:472][ 69]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.29-12.51.19:472][ 69]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.51.19:473][ 69]LogNet: Game client on port 17777, rate 10000
+[2018.01.29-12.51.19:493][ 69]PIE: /Game/pratice/sinyoung/multiplay/mainmenu 에 대한 에디터에서 플레이 시작 시간: 1.233
+[2018.01.29-12.51.19:531][ 69]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58927
+[2018.01.29-12.51.19:531][ 69]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 167250098166006124068249145000178131209123101220022014022217
+[2018.01.29-12.51.19:532][ 69]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 167250098166006124068249145000178131209123101220022014022217
+[2018.01.29-12.51.19:679][ 70]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58927
+[2018.01.29-12.51.19:679][ 70]LogHandshake: SendChallengeAck. InCookie: 167250098166006124068249145000178131209123101220022014022217
+[2018.01.29-12.51.19:679][ 70]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58927
+[2018.01.29-12.51.19:680][ 70]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.29-12.51.19:680][ 70]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 01/29/18 21:51:19, [UNetConnection] RemoteAddr: 127.0.0.1:58927, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.29-12.51.19:680][ 70]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58927, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.29-12.51.19:680][ 70]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.29-12.51.19:698][ 71]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.01.29-12.51.19:698][ 71]LogNet: Remote platform little endian=1
+[2018.01.29-12.51.19:698][ 71]LogNet: This platform little endian=1
+[2018.01.29-12.51.19:728][ 72]LogNet: Login request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-LOUV37F-2B5842B04CAC15250F6D7E84167407A7 userId: DESKTOP-LOUV37F-2B5842B04CAC15250F6D7E84167407A7
+[2018.01.29-12.51.19:728][ 72]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.01.29-12.51.19:742][ 72]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.01.29-12.51.19:773][ 72]LogAIModule: Creating AISystem for world mappp
+[2018.01.29-12.51.19:773][ 72]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.29-12.51.19:775][ 72]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 60) at 2018.01.29-21.51.19
+[2018.01.29-12.51.19:775][ 72]LogWorld: Bringing up level for play took: 0.000818
+[2018.01.29-12.51.19:775][ 72]LogLoad: Took 0.032887 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.01.29-12.51.19:798][ 73]LogNet: Client netspeed is 10000
+[2018.01.29-12.51.19:798][ 73]LogNet: Join request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-LOUV37F-2B5842B04CAC15250F6D7E84167407A7?SplitscreenCount=1
+[2018.01.29-12.51.19:798][ 73]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.51.19:802][ 73]LogNet: Join succeeded: DESKTOP-LOUV37F-2B58
+[2018.01.29-12.51.19:893][ 77]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.51.19:914][ 78]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.29-12.51.22:568][169]LogRenderer: Reallocating scene render targets to support 980x564 Format 9 NumSamples 1 (Frame:98).
+[2018.01.29-12.53.02:510][  6]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.53.02:510][  6]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.29-12.53.02:510][  6]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.29-12.53.02:510][  6]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.29-12.53.02:510][  6]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.29-12.53.02:576][  6]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.53.02:576][  6]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.29-12.53.02:577][  6]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.29-12.53.02:577][  6]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.29-12.53.02:577][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.29-12.53.02:598][  6]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58927, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None
+[2018.01.29-12.53.02:598][  6]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58927, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.29-12.53.02
+[2018.01.29-12.53.02:598][  6]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58927, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None
+[2018.01.29-12.53.02:598][  6]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None
+[2018.01.29-12.53.02:599][  6]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.29-12.53.02
+[2018.01.29-12.53.02:599][  6]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None
+[2018.01.29-12.53.02:605][  6]LogExit: GameNetDriver None shut down
+[2018.01.29-12.53.02:605][  6]LogExit: GameNetDriver None shut down
+[2018.01.29-12.53.02:625][  7]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.01.29-12.53.02:625][  7]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.53.02:625][  7]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.01.29-12.53.02:625][  7]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.29-12.53.33:282][222]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/pratice/wonseok/MultiPlay/Maps/mappp' took 0.019
+[2018.01.29-12.53.33:317][222]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc] ([1] browsable assets)...
+[2018.01.29-12.53.33:380][222]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc]
+[2018.01.29-12.53.33:380][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc]
+[2018.01.29-12.53.33:982][222]LogSavePackage: Save=580.20ms
+[2018.01.29-12.53.33:982][222]LogSavePackage: Moving 'D:/20180127/set/main/Saved/mbpc_Auto5473D7C2540D1C65ED5444AA1D90611C5.tmp' to 'D:/20180127/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc_Auto5.uasset'
+[2018.01.29-12.53.33:983][222]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc_Auto5.uasset
+[2018.01.29-12.53.33:983][222]LogFileHelpers: Auto-saving content packages took 0.667
+[2018.01.29-12.56.31:221][431]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_2.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2018.01.29-12.56.31:680][431]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.29-12.56.53:937][677]LogSavePackage: Save=20.15ms
+[2018.01.29-12.56.53:937][677]LogSavePackage: Moving 'D:/20180127/set/main/Saved/MSlash35AC51E524980E1E218A0D6947AEEE289.tmp' to 'D:/20180127/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/MSlash3.uasset'
+[2018.01.29-12.56.54:048][677]LogSavePackage: Display: Finished SavePackage D:/20180127/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation/MSlash3.uasset
+[2018.01.29-12.57.35:139][517]BlueprintLog: New page: mbpc 컴파일
+[2018.01.29-12.57.43:151][886]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.Actor_3.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.01.29-12.57.43:861][886]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.29-12.57.48:066][935]LogUObjectBase: Warning: Object is not registered
+[2018.01.29-12.57.48:266][935]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.200 s
+[2018.01.29-12.57.48:266][935]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.29-12.57.48:266][935]LogOutputDevice: Error: 
+[2018.01.29-12.57.48:266][935]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: Stack: 
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x000000001CB52786 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x000000001C8F123A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x000000001C90B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x00000000165733F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x00000000151503AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x0000000013E33EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x0000000013CC74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x0000000013CCABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x0000000013DF8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x000000001BC27397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x000000001BC2CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x000000001BE69913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x000000001BC83484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x000000001BC7D1F1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x000000001BC7C953 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x00000000E42769CA UE4Editor.exe!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x00000000E4285430 UE4Editor.exe!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x00000000E42854AA UE4Editor.exe!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x00000000E4292379 UE4Editor.exe!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x00000000E4293D57 UE4Editor.exe!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x000000005FB21FE4 KERNEL32.DLL!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: [Callstack] 0x000000006007EFB1 ntdll.dll!UnknownFunction []
+[2018.01.29-12.57.48:267][935]LogOutputDevice: Error: 
+[2018.01.29-12.57.48:267][935]LogStats:                SubmitErrorReport -  0.000 s
