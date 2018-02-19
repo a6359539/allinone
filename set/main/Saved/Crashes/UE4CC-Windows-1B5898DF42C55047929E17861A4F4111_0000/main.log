@@ -1,0 +1,1027 @@
+﻿Log file open, 02/15/18 00:48:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: main
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1929863483) SRandInit(-1929863482).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.172269
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file E:/last/set/main/Binaries/Win64/UE4Editor-main.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.14-15.48.05:667][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.14-15.48.05:667][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.14-15.48.05:686][  0]LogInit: Computer: DESKTOP-FRCQVUI
+[2018.02.14-15.48.05:686][  0]LogInit: User: oner
+[2018.02.14-15.48.05:686][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.14-15.48.05:686][  0]LogInit: High frequency timer resolution =2.630630 MHz
+[2018.02.14-15.48.05:686][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.14-15.48.05:686][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.14-15.48.05:686][  0]LogMemory: Process Physical Memory: 276.23 MB used, 276.23 MB peak
+[2018.02.14-15.48.05:686][  0]LogMemory: Process Virtual Memory: 266.14 MB used, 266.14 MB peak
+[2018.02.14-15.48.05:686][  0]LogMemory: Physical Memory: 2773.11 MB used,  5307.64 MB free, 8080.75 MB total
+[2018.02.14-15.48.05:686][  0]LogMemory: Virtual Memory: 676.42 MB used,  5307.64 MB free, 134217728.00 MB total
+[2018.02.14-15.48.05:890][  0]LogInit: Using OS detected language (ko-KR).
+[2018.02.14-15.48.05:890][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.02.14-15.48.05:940][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.02.14-15.48.06:152][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.14-15.48.08:270][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.14-15.48.08:547][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2018.02.14-15.48.08:547][  0]LogD3D11RHI:       3040/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.14-15.48.08:552][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5600' (Feature Level 11_0)
+[2018.02.14-15.48.08:552][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.14-15.48.08:554][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.14-15.48.08:554][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.14-15.48.08:554][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.14-15.48.08:560][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.14-15.48.08:560][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.14-15.48.08:560][  0]LogWindows: EnumDisplayDevices:
+[2018.02.14-15.48.08:560][  0]LogWindows:    0. 'Intel(R) HD Graphics 5600' (P:1 D:1)
+[2018.02.14-15.48.08:561][  0]LogWindows:    1. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2018.02.14-15.48.08:561][  0]LogWindows:    2. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2018.02.14-15.48.08:561][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.14-15.48.08:561][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2018.02.14-15.48.08:561][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.14-15.48.08:561][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.14-15.48.08:561][  0]LogRHI: Texture pool is 2128 MB (70% of 3040 MB)
+[2018.02.14-15.48.08:585][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.14-15.48.08:643][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.14-15.48.08:643][  0]LogShaderCompilers: Guid format shader working directory is 28 characters bigger than the processId version (E:/last/set/main/Intermediate/Shaders/WorkingDirectory/732/).
+[2018.02.14-15.48.08:643][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/강망/AppData/Local/Temp/UnrealShaderWorkingDir/A532399E46C383CB4100F1B7FD663F2C/'.
+[2018.02.14-15.48.08:644][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.14-15.48.10:605][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.14-15.48.10:666][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.14-15.48.10:726][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.14-15.48.10:787][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.14-15.48.10:853][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.14-15.48.10:915][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.14-15.48.10:976][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.14-15.48.11:036][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.14-15.48.11:091][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.14-15.48.11:152][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.14-15.48.11:214][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.14-15.48.11:274][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.14-15.48.11:334][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.14-15.48.11:394][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.14-15.48.11:514][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.14-15.48.11:514][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.14-15.48.11:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.14-15.48.11:628][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.14-15.48.11:737][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.14-15.48.11:768][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.14-15.48.11:830][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.14-15.48.11:890][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.14-15.48.11:950][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.14-15.48.12:015][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.14-15.48.12:015][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.14-15.48.12:613][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.14-15.48.13:082][  0]LogDerivedDataCache: Loaded boot cache 0.47s 158MB C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.14-15.48.13:082][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.14-15.48.13:083][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/last/set/main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.14-15.48.13:083][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.14-15.48.13:083][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/last/set/main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.14-15.48.13:083][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.14-15.48.13:098][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.14-15.48.13:110][  0]LogDerivedDataCache: Using Local data cache path C:/Users/강망/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.14-15.48.13:120][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.14-15.48.13:120][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.14-15.48.13:128][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.14-15.48.13:128][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.14-15.48.13:806][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.14-15.48.14:190][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.14-15.48.14:241][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.14-15.48.14:241][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.14-15.48.14:241][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.14-15.48.14:241][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.14-15.48.14:241][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.14-15.48.14:270][  0]LogNetVersion: main , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1998149536)
+[2018.02.14-15.48.14:442][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2018.02.14-15.48.14:983][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.059105 seconds
+[2018.02.14-15.48.14:989][  0]LogUObjectArray: 35907 objects as part of root set at end of initial load.
+[2018.02.14-15.48.14:989][  0]LogUObjectAllocator: 7585960 out of 0 bytes used by permanent object pool.
+[2018.02.14-15.48.14:989][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.14-15.48.20:155][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.14-15.48.20:204][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.14-15.48.21:404][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.21:404][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/rock.uasset 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.21:404][  0]LoadErrors: Error: /Game/pratice/sinyoung/rock : 애셋에 대한 파일을 찾을 수 없습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock
+[2018.02.14-15.48.21:405][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.21:405][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/rock.uasset 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.21:405][  0]LoadErrors: Error: /Game/pratice/sinyoung/rock : 애셋에 대한 파일을 찾을 수 없습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock
+[2018.02.14-15.48.21:406][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.21:406][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.21:406][  0]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint : 애셋에 대한 파일을 찾을 수 없습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock
+[2018.02.14-15.48.21:406][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.21:406][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.21:406][  0]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint : 애셋에 대한 파일을 찾을 수 없습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock
+[2018.02.14-15.48.21:409][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.21:409][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock.rock 레퍼런싱한 것: rock_GEN_VARIABLE
+[2018.02.14-15.48.21:409][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.21:409][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock.rock 레퍼런싱한 것: rock_GEN_VARIABLE
+[2018.02.14-15.48.21:409][  0]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint : 애셋에 대한 파일을 찾을 수 없습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock
+[2018.02.14-15.48.21:544][  0]LogLinker: Warning: '/Game/monta' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.21:544][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.uasset 로드중 '/Game/monta' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.21:544][  0]LoadErrors: Error: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation : 애셋에 대한 파일을 찾을 수 없습니다. /Game/monta
+[2018.02.14-15.48.21:837][  0]LogLinker: Warning: '/Game/monta' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.21:837][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.uasset 로드중 '/Game/monta' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.21:837][  0]LoadErrors: Error: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation : 애셋에 대한 파일을 찾을 수 없습니다. /Game/monta
+[2018.02.14-15.48.22:054][  0]LogLinker: Warning: '/Game/monta' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:054][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.uasset 로드중 '/Game/monta' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:054][  0]LoadErrors: Error: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation : 애셋에 대한 파일을 찾을 수 없습니다. /Game/monta
+[2018.02.14-15.48.22:057][  0]LogLinker: Warning: '/Game/monta' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:057][  0]LoadErrors: 로드에 실패했습니다. /Game/monta.monta 레퍼런싱한 것: K2Node_CallFunction_428
+[2018.02.14-15.48.22:057][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.uasset 로드중 '/Game/monta' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:057][  0]LoadErrors: 로드에 실패했습니다. /Game/monta.monta 레퍼런싱한 것: K2Node_CallFunction_428
+[2018.02.14-15.48.22:057][  0]LoadErrors: Error: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation : 애셋에 대한 파일을 찾을 수 없습니다. /Game/monta
+[2018.02.14-15.48.22:057][  0]LogLinker: Warning: '/Game/monta' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:057][  0]LoadErrors: 로드에 실패했습니다. /Game/monta.monta 레퍼런싱한 것: K2Node_CallFunction_645
+[2018.02.14-15.48.22:057][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.uasset 로드중 '/Game/monta' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:057][  0]LoadErrors: 로드에 실패했습니다. /Game/monta.monta 레퍼런싱한 것: K2Node_CallFunction_645
+[2018.02.14-15.48.22:057][  0]LoadErrors: Error: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation : 애셋에 대한 파일을 찾을 수 없습니다. /Game/monta
+[2018.02.14-15.48.22:069][  0]LogLinker: Warning: '/Game/monta' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:069][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.uasset 로드중 '/Game/monta' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:069][  0]LoadErrors: Error: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation : 애셋에 대한 파일을 찾을 수 없습니다. /Game/monta
+[2018.02.14-15.48.22:259][  0]LogLinker: Warning: '/Game/monta' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:259][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.uasset 로드중 '/Game/monta' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:259][  0]LoadErrors: Error: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation : 애셋에 대한 파일을 찾을 수 없습니다. /Game/monta
+[2018.02.14-15.48.22:342][  0]LogLinker: Warning: '/Game/monta' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:342][  0]LoadErrors: 로드에 실패했습니다. /Game/monta.monta 레퍼런싱한 것: K2Node_CallFunction_12109
+[2018.02.14-15.48.22:342][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.uasset 로드중 '/Game/monta' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:342][  0]LoadErrors: 로드에 실패했습니다. /Game/monta.monta 레퍼런싱한 것: K2Node_CallFunction_12109
+[2018.02.14-15.48.22:342][  0]LoadErrors: Error: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation : 애셋에 대한 파일을 찾을 수 없습니다. /Game/monta
+[2018.02.14-15.48.22:358][  0]LogLinker: Warning: '/Game/monta' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:358][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.uasset 로드중 '/Game/monta' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:358][  0]LoadErrors: Error: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation : 애셋에 대한 파일을 찾을 수 없습니다. /Game/monta
+[2018.02.14-15.48.22:363][  0]LogLinker: Warning: '/Game/monta' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:363][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.uasset 로드중 '/Game/monta' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:363][  0]LoadErrors: Error: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc : 애셋에 대한 파일을 찾을 수 없습니다. /Game/monta
+[2018.02.14-15.48.22:371][  0]LogLinker: Warning: '/Game/monta' 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:371][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.uasset 로드중 '/Game/monta' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.14-15.48.22:371][  0]LoadErrors: Error: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc : 애셋에 대한 파일을 찾을 수 없습니다. /Game/monta
+[2018.02.14-15.48.23:239][  0]LogBlueprint: Warning: [Compiler testaim] 입력 액션 이벤트가  위성 입력 액션  에 대한 미확인 '위성' 액션을 레퍼런싱합니다.
+[2018.02.14-15.48.23:240][  0]LogBlueprint: Warning: [Compiler testaim] 입력 액션 이벤트가  메테오 입력 액션  에 대한 미확인 '메테오' 액션을 레퍼런싱합니다.
+[2018.02.14-15.48.23:268][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] 입력 액션 이벤트가  click 입력 액션  에 대한 미확인 'click' 액션을 레퍼런싱합니다.
+[2018.02.14-15.48.23:565][  0]LogBlueprint: Warning: [Compiler testaim] [0022.27] testaim 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 699 ms] (/Game/pratice/sinyoung/testaim.testaim)
+[2018.02.14-15.48.23:565][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0022.27] ThirdPersonCharacter 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 699 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.02.14-15.48.23:663][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.14-15.48.24:093][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.02.14-15.48.24:093][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.02.14-15.48.24:213][  0]LogPackageName: SearchForPackageOnDisk took   0.120s, but failed to resolve FX_Meshes.
+[2018.02.14-15.48.24:213][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2018.02.14-15.48.26:924][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.02.14-15.48.26:924][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.02.14-15.48.26:992][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.02.14-15.48.27:057][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.02.14-15.48.28:029][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.14-15.48.28:367][  0]LogOcInput: OculusInput pre-init called
+[2018.02.14-15.48.28:720][  0]LogEngine: Initializing Engine...
+[2018.02.14-15.48.28:723][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.14-15.48.28:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.14-15.48.28:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.14-15.48.29:125][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.14-15.48.29:132][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.14-15.48.29:143][  0]LogInit: FAudioDevice initialized.
+[2018.02.14-15.48.29:358][  0]LogDerivedDataCache: Saved boot cache 0.21s 158MB C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.14-15.48.29:392][  0]LogInit: Texture streaming: Enabled
+[2018.02.14-15.48.29:523][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.14-15.48.29:726][  0]LogInit: Transaction tracking system initialized
+[2018.02.14-15.48.30:195][  0]BlueprintLog: New page: 에디터 로드
+[2018.02.14-15.48.32:300][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.02.14-15.48.33:757][  0]LogConsoleResponse: Display: 
+[2018.02.14-15.48.34:290][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.14-15.48.34:291][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.14-15.48.34:291][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.14-15.48.34:844][  0]LogFileCache: Scanning file cache for directory 'E:/last/set/main/Content/' took 0.05s
+[2018.02.14-15.48.36:462][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.02.14-15.48.36:462][  0]Cmd: MAP LOAD FILE="E:/last/set/main/Content/pratice/sinyoung/multiplay/mainmenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.14-15.48.36:509][  0]LightingResults: New page: 라이팅 빌드
+[2018.02.14-15.48.36:561][  0]MapCheck: New page: 맵 체크
+[2018.02.14-15.48.36:562][  0]LightingResults: New page: 라이팅 빌드
+[2018.02.14-15.48.36:786][  0]LogAIModule: Creating AISystem for world mainmenu
+[2018.02.14-15.48.36:787][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.14-15.48.36:801][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.14-15.48.36:901][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 99.78ms.
+[2018.02.14-15.48.36:901][  0]LogFileHelpers: Loading map 'mainmenu' took 0.439
+[2018.02.14-15.48.37:086][  0]LogCollectionManager: Loaded 0 collections in 0.001763 seconds
+[2018.02.14-15.48.37:178][  0]LogFileCache: Scanning file cache for directory 'E:/last/set/main/Saved/Collections/' took 0.01s
+[2018.02.14-15.48.37:178][  0]LogFileCache: Scanning file cache for directory 'E:/last/set/main/Content/Developers/oner/Collections/' took 0.01s
+[2018.02.14-15.48.37:178][  0]LogFileCache: Scanning file cache for directory 'E:/last/set/main/Content/Collections/' took 0.01s
+[2018.02.14-15.48.37:178][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.14-15.48.37:186][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2367 classes and 524 folders.
+[2018.02.14-15.48.37:269][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.02.14-15.48.37:316][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.02.14-15.48.37:371][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.14-15.48.37:543][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.14-15.48.37:547][  0]LogSlate: Took 0.003147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.02.14-15.48.37:548][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.14-15.48.37:552][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.14-15.48.37:651][  0]LogRenderer: Reallocating scene render targets to support 1188x576 Format 9 NumSamples 1 (Frame:1).
+[2018.02.14-15.48.37:703][  0]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.14-15.48.37:912][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.14-15.48.37:912][  0]LogLoad: (Engine Initialization) Total time: 36.62 seconds
+[2018.02.14-15.48.37:913][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.14-15.48.37:913][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.14-15.48.37:971][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.02.14-15.48.38:444][  6]LogAssetRegistry: Asset discovery search completed in 24.0242 seconds
+[2018.02.14-15.48.38:458][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2018.02.14-15.48.38:458][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000329 seconds (updated 0 objects)
+[2018.02.14-15.48.39:037][ 23]LogSlate: Took 0.000958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.14-15.48.43:074][195]LogFileCache: Retrieving MD5 hashes for directory 'E:/last/set/main/Content/' took 5.12s
+[2018.02.14-15.49.01:511][183]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.14-15.49.01:679][183]LogAIModule: Creating AISystem for world mappp
+[2018.02.14-15.49.01:719][183]Cmd: MAP LOAD FILE="E:/last/set/main/Content/pratice/wonseok/MultiPlay/Maps/mappp.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.14-15.49.01:719][183]LightingResults: New page: 라이팅 빌드
+[2018.02.14-15.49.01:720][183]LoadErrors: New page: 맵 로드중: mappp.umap
+[2018.02.14-15.49.01:720][183]MapCheck: New page: 맵 체크
+[2018.02.14-15.49.01:720][183]LightingResults: New page: 라이팅 빌드
+[2018.02.14-15.49.01:827][183]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.14-15.49.01:908][183]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.14-15.49.02:015][183]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 106.613ms.
+[2018.02.14-15.49.02:015][183]LogFileHelpers: Loading map 'mappp' took 0.297
+[2018.02.14-15.49.10:709][611]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.02.14-15.49.11:438][611]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.14-15.49.11:567][611]LogSlate: Took 0.004263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.14-15.49.13:866][612]LogSlate: Took 0.007935 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.14-15.49.16:305][674]AnimBlueprint: Warning: 슬롯노드: swatmagicblend_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-15.49.16:305][674]AnimBlueprint: Warning: 슬롯노드: swatmagicblend_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-15.49.16:309][674]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-15.49.16:309][674]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-15.49.27:417][ 78]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-15.49.30:256][166]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-15.49.40:156][383]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.14-15.49.40:743][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp' with GeneratedClass '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp_C' with ClassGeneratedBy '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp'
+[2018.02.14-15.49.40:743][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.14-15.49.40:743][383]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.14-15.49.40:743][383]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.02.14-15.49.40:744][383]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.14-15.49.40:744][383]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.14-15.49.40:744][383]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.02.14-15.49.40:744][383]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.02.14-15.49.40:757][383]PIE: New page: PIE 세션: mappp (2018. 2. 15. 오전 9:49:40)
+[2018.02.14-15.49.41:189][383]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.02.14-15.49.41:197][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007196s)
+[2018.02.14-15.49.41:197][383]LogAIModule: Creating AISystem for world mappp
+[2018.02.14-15.49.41:198][383]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2018.02.14-15.49.41:198][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.008617s)
+[2018.02.14-15.49.41:229][383]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.14-15.49.41:235][383]LogInit: FAudioDevice initialized.
+[2018.02.14-15.49.41:372][383]LogLoad: Game class is 'MtestMode_C'
+[2018.02.14-15.49.41:375][383]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 60) at 2018.02.15-00.49.41
+[2018.02.14-15.49.41:375][383]LogWorld: Bringing up level for play took: 0.000798
+[2018.02.14-15.49.41:465][383]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.02.14-15.49.41:468][383]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.14-15.49.41:468][383]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.02.14-15.49.41:468][383]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.14-15.49.41:469][383]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.02.14-15.49.41:469][383]LogInit: WinSock: I am DESKTOP-FRCQVUI (192.168.123.102:0)
+[2018.02.14-15.49.41:469][383]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.14-15.49.41:469][383]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2018.02.14-15.49.41:520][383]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: 0.947
+[2018.02.14-15.49.41:521][383]PIE: New page: PIE 세션: mappp (2018. 2. 15. 오전 9:49:41)
+[2018.02.14-15.49.41:653][383]LogNet: Browse: 127.0.0.1:17777//Game/pratice/sinyoung/multiplay/mainmenu
+[2018.02.14-15.49.41:653][383]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.14-15.49.41:653][383]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.02.14-15.49.41:653][383]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.02.14-15.49.41:653][383]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.02.14-15.49.41:653][383]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.14-15.49.41:654][383]LogNet: Game client on port 17777, rate 10000
+[2018.02.14-15.49.41:704][383]PIE: /Game/pratice/sinyoung/multiplay/mainmenu 에 대한 에디터에서 플레이 시작 시간: 1.132
+[2018.02.14-15.49.41:771][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp' with GeneratedClass '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp_C' with ClassGeneratedBy '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp'
+[2018.02.14-15.49.41:775][383]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57497
+[2018.02.14-15.49.41:775][383]LogHandshake: SendConnectChallenge. Timestamp: 0.024347, Cookie: 194030235009012007236003099128003073163152109002251133167093
+[2018.02.14-15.49.41:811][383]LogHandshake: SendChallengeResponse. Timestamp: 0.024347, Cookie: 194030235009012007236003099128003073163152109002251133167093
+[2018.02.14-15.49.41:879][383]LogRenderer: Reallocating scene render targets to support 1188x636 Format 9 NumSamples 1 (Frame:1).
+[2018.02.14-15.49.42:045][384]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57497
+[2018.02.14-15.49.42:045][384]LogHandshake: SendChallengeAck. InCookie: 194030235009012007236003099128003073163152109002251133167093
+[2018.02.14-15.49.42:045][384]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57497
+[2018.02.14-15.49.42:045][384]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.14-15.49.42:045][384]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 02/15/18 00:49:42, [UNetConnection] RemoteAddr: 127.0.0.1:57497, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.02.14-15.49.42:045][384]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57497, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.02.14-15.49.42:046][384]LogNetVersion: main 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 285256623)
+[2018.02.14-15.49.42:046][384]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2018.02.14-15.49.42:073][385]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.02.14-15.49.42:073][385]LogNet: Remote platform little endian=1
+[2018.02.14-15.49.42:073][385]LogNet: This platform little endian=1
+[2018.02.14-15.49.42:110][386]LogNet: Login request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-FRCQVUI-AFF31FD14FE8A37C8BDBFBB9966019FD userId: DESKTOP-FRCQVUI-AFF31FD14FE8A37C8BDBFBB9966019FD
+[2018.02.14-15.49.42:111][386]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.02.14-15.49.42:127][386]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.02.14-15.49.42:229][386]LogAIModule: Creating AISystem for world mappp
+[2018.02.14-15.49.42:229][386]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.14-15.49.42:232][386]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 60) at 2018.02.15-00.49.42
+[2018.02.14-15.49.42:233][386]LogWorld: Bringing up level for play took: 0.001803
+[2018.02.14-15.49.42:233][386]LogLoad: Took 0.105593 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.02.14-15.49.42:275][387]LogNet: Client netspeed is 10000
+[2018.02.14-15.49.42:275][387]LogNet: Join request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-FRCQVUI-AFF31FD14FE8A37C8BDBFBB9966019FD?SplitscreenCount=1
+[2018.02.14-15.49.42:276][387]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.02.14-15.49.42:282][387]LogNet: Join succeeded: DESKTOP-FRCQVUI-AFF3
+[2018.02.14-15.49.42:334][388]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.02.14-15.49.42:367][389]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.02.14-15.49.45:661][495]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.49.45:661][495]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.49.45:662][495]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.49.45:662][495]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.49.46:111][507]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.49.46:111][507]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.49.46:113][507]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.49.46:113][507]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.49.47:243][542]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor mbpc_C_1. Function SaveCombo will not be processed.
+[2018.02.14-15.49.47:395][547]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor mbpc_C_1. Function ResetCombo will not be processed.
+[2018.02.14-15.49.47:395][547]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor mbpc_C_1. Function CanNotSwordHit will not be processed.
+[2018.02.14-15.49.51:310][670]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor mbpc_C_1. Function ResetCombo will not be processed.
+[2018.02.14-15.49.51:310][670]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor mbpc_C_1. Function CanNotSwordHit will not be processed.
+[2018.02.14-15.49.54:885][784]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.49.54:885][784]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.49.54:886][784]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.49.54:886][784]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.49.59:008][917]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor mbpc_C_1. Function SaveCombo will not be processed.
+[2018.02.14-15.49.59:175][922]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor mbpc_C_1. Function ResetCombo will not be processed.
+[2018.02.14-15.49.59:175][922]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor mbpc_C_1. Function CanNotSwordHit will not be processed.
+[2018.02.14-15.50.28:303][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp' with GeneratedClass '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp_C' with ClassGeneratedBy '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp'
+[2018.02.14-15.50.28:385][719]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.14-15.50.28:385][719]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.02.14-15.50.28:386][719]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.14-15.50.28:386][719]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.14-15.50.28:386][719]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.02.14-15.50.28:469][719]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.14-15.50.28:469][719]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.02.14-15.50.28:470][719]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.14-15.50.28:470][719]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.14-15.50.28:470][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.02.14-15.50.28:470][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp' with GeneratedClass '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp_C' with ClassGeneratedBy '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp'
+[2018.02.14-15.50.28:504][719]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57497, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.02.14-15.50.28:504][719]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57497, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.02.14-15.50.28
+[2018.02.14-15.50.28:504][719]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57497, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.02.14-15.50.28:504][719]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.02.14-15.50.28:504][719]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.02.14-15.50.28
+[2018.02.14-15.50.28:504][719]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.02.14-15.50.28:508][719]LogExit: GameNetDriver None shut down
+[2018.02.14-15.50.28:508][719]LogExit: GameNetDriver None shut down
+[2018.02.14-15.50.28:581][720]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.02.14-15.50.28:581][720]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.14-15.50.28:581][720]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.02.14-15.50.28:581][720]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.14-15.51.01:350][438]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.14-15.51.01:441][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp' with GeneratedClass '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp_C' with ClassGeneratedBy '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp'
+[2018.02.14-15.51.01:441][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.14-15.51.01:443][438]PIE: New page: PIE 세션: mappp (2018. 2. 15. 오전 9:51:01)
+[2018.02.14-15.51.01:444][438]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.02.14-15.51.01:452][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008084s)
+[2018.02.14-15.51.01:453][438]LogAIModule: Creating AISystem for world mappp
+[2018.02.14-15.51.01:453][438]LogPlayLevel: PIE: World Init took: (0.001354s)
+[2018.02.14-15.51.01:454][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.009923s)
+[2018.02.14-15.51.01:502][438]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.14-15.51.01:511][438]LogInit: FAudioDevice initialized.
+[2018.02.14-15.51.01:646][438]LogLoad: Game class is 'MtestMode_C'
+[2018.02.14-15.51.01:648][438]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 60) at 2018.02.15-00.51.01
+[2018.02.14-15.51.01:648][438]LogWorld: Bringing up level for play took: 0.001127
+[2018.02.14-15.51.01:663][438]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.14-15.51.01:663][438]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.02.14-15.51.01:663][438]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.14-15.51.01:663][438]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.02.14-15.51.01:664][438]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.14-15.51.01:664][438]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2018.02.14-15.51.01:711][438]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: 1.138
+[2018.02.14-15.51.01:712][438]PIE: New page: PIE 세션: mappp (2018. 2. 15. 오전 9:51:01)
+[2018.02.14-15.51.01:886][438]LogNet: Browse: 127.0.0.1:17777//Game/pratice/sinyoung/multiplay/mainmenu
+[2018.02.14-15.51.01:886][438]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.14-15.51.01:886][438]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.02.14-15.51.01:886][438]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.02.14-15.51.01:886][438]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.02.14-15.51.01:886][438]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.14-15.51.01:886][438]LogNet: Game client on port 17777, rate 10000
+[2018.02.14-15.51.01:933][438]PIE: /Game/pratice/sinyoung/multiplay/mainmenu 에 대한 에디터에서 플레이 시작 시간: 1.361
+[2018.02.14-15.51.02:036][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp' with GeneratedClass '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp_C' with ClassGeneratedBy '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp'
+[2018.02.14-15.51.02:059][438]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60795
+[2018.02.14-15.51.02:059][438]LogHandshake: SendConnectChallenge. Timestamp: 0.037348, Cookie: 188197225149225020220057204003004199238156078147077251219244
+[2018.02.14-15.51.02:060][438]LogHandshake: SendChallengeResponse. Timestamp: 0.037348, Cookie: 188197225149225020220057204003004199238156078147077251219244
+[2018.02.14-15.51.02:319][439]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60795
+[2018.02.14-15.51.02:319][439]LogHandshake: SendChallengeAck. InCookie: 188197225149225020220057204003004199238156078147077251219244
+[2018.02.14-15.51.02:319][439]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60795
+[2018.02.14-15.51.02:319][439]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.14-15.51.02:319][439]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 02/15/18 00:51:02, [UNetConnection] RemoteAddr: 127.0.0.1:60795, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.02.14-15.51.02:319][439]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60795, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.02.14-15.51.02:320][439]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2018.02.14-15.51.02:378][440]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.02.14-15.51.02:379][440]LogNet: Remote platform little endian=1
+[2018.02.14-15.51.02:379][440]LogNet: This platform little endian=1
+[2018.02.14-15.51.02:469][441]LogNet: Login request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-FRCQVUI-16A91C0A4A87EBD566B44E9D3393D983 userId: DESKTOP-FRCQVUI-16A91C0A4A87EBD566B44E9D3393D983
+[2018.02.14-15.51.02:470][441]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.02.14-15.51.02:494][441]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.02.14-15.51.02:573][441]LogAIModule: Creating AISystem for world mappp
+[2018.02.14-15.51.02:574][441]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.14-15.51.02:578][441]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 60) at 2018.02.15-00.51.02
+[2018.02.14-15.51.02:578][441]LogWorld: Bringing up level for play took: 0.003286
+[2018.02.14-15.51.02:579][441]LogLoad: Took 0.084416 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.02.14-15.51.02:664][442]LogNet: Client netspeed is 10000
+[2018.02.14-15.51.02:664][442]LogNet: Join request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-FRCQVUI-16A91C0A4A87EBD566B44E9D3393D983?SplitscreenCount=1
+[2018.02.14-15.51.02:665][442]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.02.14-15.51.02:673][442]LogNet: Join succeeded: DESKTOP-FRCQVUI-16A9
+[2018.02.14-15.51.02:759][443]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.02.14-15.51.02:759][443]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.02.14-15.51.13:807][588]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.13:808][588]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.13:810][588]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.13:810][588]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.15:067][604]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor mbpc_C_1. Function SaveCombo will not be processed.
+[2018.02.14-15.51.15:230][606]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor mbpc_C_1. Function ResetCombo will not be processed.
+[2018.02.14-15.51.15:230][606]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor mbpc_C_1. Function CanNotSwordHit will not be processed.
+[2018.02.14-15.51.16:759][626]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.16:759][626]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.16:761][626]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.16:761][626]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.17:298][633]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.17:298][633]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.17:301][633]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.17:301][633]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.18:517][649]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.18:518][649]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.18:520][649]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.18:520][649]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.18:807][653]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.18:808][653]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.18:811][653]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.18:811][653]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.20:875][680]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.20:876][680]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.20:877][680]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.20:877][680]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.21:867][693]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.21:867][693]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.21:869][693]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.21:869][693]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.22:751][704]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.22:752][704]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.22:753][704]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.22:754][704]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.23:061][708]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.23:061][708]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.23:064][708]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.23:064][708]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.23:281][711]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.23:281][711]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.23:284][711]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.23:285][711]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.23:509][714]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.23:509][714]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.23:511][714]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.23:512][714]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.23:743][717]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.23:743][717]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.23:745][717]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.23:745][717]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.23:977][720]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.23:977][720]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.23:979][720]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.23:980][720]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.24:116][722]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp:PersistentLevel.mbpc_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.24:116][722]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.24:119][722]LogScript: Warning: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	mbpc_C /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp:PersistentLevel.mbpc_C_1
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc_C:ExecuteUbergraph_mbpc:0040
+[2018.02.14-15.51.24:120][722]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.24:354][725]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.24:356][725]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.24:958][733]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.24:960][733]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.25:204][736]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.25:205][736]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.25:357][738]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.25:360][738]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.25:690][742]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.25:693][742]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.26:002][746]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.26:005][746]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.26:412][751]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.26:414][751]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.26:660][754]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.26:662][754]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.26:892][757]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.26:894][757]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.27:139][760]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.27:142][760]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.27:451][764]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.27:453][764]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.27:758][768]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.27:761][768]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.28:075][772]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.28:078][772]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.28:311][775]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.28:313][775]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.28:559][778]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.28:563][778]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.28:795][781]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.28:797][781]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.30:424][802]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.30:426][802]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.34:248][850]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.34:250][850]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.34:959][859]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.34:962][859]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.51.43:860][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp' with GeneratedClass '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp_C' with ClassGeneratedBy '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp'
+[2018.02.14-15.51.43:982][974]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.14-15.51.43:982][974]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.02.14-15.51.43:984][974]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.14-15.51.43:984][974]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.14-15.51.43:984][974]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.02.14-15.51.44:115][974]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.14-15.51.44:115][974]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.02.14-15.51.44:117][974]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.14-15.51.44:117][974]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.14-15.51.44:117][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.02.14-15.51.44:118][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp' with GeneratedClass '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp_C' with ClassGeneratedBy '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp'
+[2018.02.14-15.51.44:170][974]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60795, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2018.02.14-15.51.44:170][974]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60795, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.02.14-15.51.44
+[2018.02.14-15.51.44:170][974]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60795, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2018.02.14-15.51.44:170][974]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.02.14-15.51.44:170][974]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.02.14-15.51.44
+[2018.02.14-15.51.44:170][974]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.02.14-15.51.44:176][974]LogExit: GameNetDriver None shut down
+[2018.02.14-15.51.44:176][974]LogExit: GameNetDriver None shut down
+[2018.02.14-15.51.44:324][975]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.02.14-15.51.44:324][975]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.14-15.51.44:324][975]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.02.14-15.51.44:324][975]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.14-15.53.06:341][336]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.02.14-15.53.06:434][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp' with GeneratedClass '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp_C' with ClassGeneratedBy '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp'
+[2018.02.14-15.53.06:434][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.14-15.53.06:438][336]PIE: New page: PIE 세션: mappp (2018. 2. 15. 오전 9:53:06)
+[2018.02.14-15.53.06:438][336]LogPlayLevel: Creating play world package: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp
+[2018.02.14-15.53.06:451][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012216s)
+[2018.02.14-15.53.06:453][336]LogAIModule: Creating AISystem for world mappp
+[2018.02.14-15.53.06:453][336]LogPlayLevel: PIE: World Init took: (0.002241s)
+[2018.02.14-15.53.06:454][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp to /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp (0.015224s)
+[2018.02.14-15.53.06:497][336]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.14-15.53.06:507][336]LogInit: FAudioDevice initialized.
+[2018.02.14-15.53.06:653][336]LogLoad: Game class is 'MtestMode_C'
+[2018.02.14-15.53.06:657][336]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp up for play (max tick rate 60) at 2018.02.15-00.53.06
+[2018.02.14-15.53.06:658][336]LogWorld: Bringing up level for play took: 0.002751
+[2018.02.14-15.53.06:676][336]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.14-15.53.06:677][336]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2018.02.14-15.53.06:677][336]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.14-15.53.06:677][336]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.02.14-15.53.06:678][336]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.14-15.53.06:678][336]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2018.02.14-15.53.06:742][336]PIE: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp 에 대한 에디터에서 플레이 시작 시간: 0.169
+[2018.02.14-15.53.06:745][336]PIE: New page: PIE 세션: mappp (2018. 2. 15. 오전 9:53:06)
+[2018.02.14-15.53.06:929][336]LogNet: Browse: 127.0.0.1:17777//Game/pratice/sinyoung/multiplay/mainmenu
+[2018.02.14-15.53.06:930][336]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.14-15.53.06:930][336]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2018.02.14-15.53.06:930][336]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.02.14-15.53.06:930][336]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.02.14-15.53.06:930][336]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.14-15.53.06:930][336]LogNet: Game client on port 17777, rate 10000
+[2018.02.14-15.53.06:990][336]PIE: /Game/pratice/sinyoung/multiplay/mainmenu 에 대한 에디터에서 플레이 시작 시간: 0.418
+[2018.02.14-15.53.07:076][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp' with GeneratedClass '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp_C' with ClassGeneratedBy '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp'
+[2018.02.14-15.53.07:080][336]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55085
+[2018.02.14-15.53.07:080][336]LogHandshake: SendConnectChallenge. Timestamp: 0.038095, Cookie: 116029181138179104101114133238179179202201040056051023054097
+[2018.02.14-15.53.07:081][336]LogHandshake: SendChallengeResponse. Timestamp: 0.038095, Cookie: 116029181138179104101114133238179179202201040056051023054097
+[2018.02.14-15.53.07:358][337]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55085
+[2018.02.14-15.53.07:358][337]LogHandshake: SendChallengeAck. InCookie: 116029181138179104101114133238179179202201040056051023054097
+[2018.02.14-15.53.07:358][337]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55085
+[2018.02.14-15.53.07:358][337]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.14-15.53.07:358][337]LogNet: NotifyAcceptedConnection: Name: mappp, TimeStamp: 02/15/18 00:53:07, [UNetConnection] RemoteAddr: 127.0.0.1:55085, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.02.14-15.53.07:358][337]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55085, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.02.14-15.53.07:360][337]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2018.02.14-15.53.07:391][338]LogNet: NotifyAcceptingChannel Control 0 server World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp.mappp: Accepted
+[2018.02.14-15.53.07:392][338]LogNet: Remote platform little endian=1
+[2018.02.14-15.53.07:392][338]LogNet: This platform little endian=1
+[2018.02.14-15.53.07:449][339]LogNet: Login request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-FRCQVUI-D33B86E14F0402AE722CA1AAA6AFA6EB userId: DESKTOP-FRCQVUI-D33B86E14F0402AE722CA1AAA6AFA6EB
+[2018.02.14-15.53.07:450][339]LogNet: Welcomed by server (Level: /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp, Game: /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C)
+[2018.02.14-15.53.07:469][339]LogLoad: LoadMap: 127.0.0.1:17777//Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp?game=/Game/pratice/wonseok/MultiPlay/BluePrints/Character/MtestMode.MtestMode_C
+[2018.02.14-15.53.07:546][339]LogAIModule: Creating AISystem for world mappp
+[2018.02.14-15.53.07:547][339]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.14-15.53.07:549][339]LogWorld: Bringing World /Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_2_mappp.mappp up for play (max tick rate 60) at 2018.02.15-00.53.07
+[2018.02.14-15.53.07:549][339]LogWorld: Bringing up level for play took: 0.001271
+[2018.02.14-15.53.07:549][339]LogLoad: Took 0.080125 seconds to LoadMap(/Game/pratice/wonseok/MultiPlay/Maps/UEDPIE_1_mappp)
+[2018.02.14-15.53.07:597][340]LogNet: Client netspeed is 10000
+[2018.02.14-15.53.07:597][340]LogNet: Join request: /Game/pratice/sinyoung/multiplay/mainmenu?Name=DESKTOP-FRCQVUI-D33B86E14F0402AE722CA1AAA6AFA6EB?SplitscreenCount=1
+[2018.02.14-15.53.07:598][340]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.02.14-15.53.07:608][340]LogNet: Join succeeded: DESKTOP-FRCQVUI-D33B
+[2018.02.14-15.53.07:690][342]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.02.14-15.53.07:740][343]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.02.14-15.53.09:125][369]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.09:128][369]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.09:640][378]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor mbpc_C_1. Function SaveCombo will not be processed.
+[2018.02.14-15.53.09:811][381]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor mbpc_C_1. Function ResetCombo will not be processed.
+[2018.02.14-15.53.09:811][381]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor mbpc_C_1. Function CanNotSwordHit will not be processed.
+[2018.02.14-15.53.10:414][391]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.10:417][391]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.10:658][395]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.10:661][395]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.10:972][400]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.10:974][400]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.11:202][404]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.11:204][404]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.11:423][408]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.11:426][408]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.11:641][412]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.11:645][412]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.12:372][425]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.12:375][425]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.12:773][432]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.12:776][432]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.13:581][446]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.13:584][446]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.14:285][458]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.14:288][458]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.14:567][463]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.14:569][463]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.14:906][469]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.14:908][469]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.15:143][473]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.15:149][473]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.15:317][476]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.15:319][476]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.15:538][480]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.15:540][480]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.15:711][483]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.15:714][483]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.15:991][488]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.15:993][488]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.16:272][493]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.16:275][493]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.18:609][535]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.18:614][535]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.19:620][554]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.19:622][554]PIE: Error: 블루프린트 런타임 오류: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_mbpc' 노드: DestroyComponent 그래프: EventGraph 오브젝트: mbpc 설명: KeomKiParticle 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.14-15.53.20:539][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp' with GeneratedClass '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp_C' with ClassGeneratedBy '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp'
+[2018.02.14-15.53.20:679][570]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.14-15.53.20:679][570]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.02.14-15.53.20:681][570]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.14-15.53.20:681][570]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.14-15.53.20:681][570]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.02.14-15.53.20:792][570]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.14-15.53.20:792][570]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.02.14-15.53.20:793][570]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.14-15.53.20:793][570]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.14-15.53.20:793][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.02.14-15.53.20:794][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp' with GeneratedClass '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp_C' with ClassGeneratedBy '/Game/pratice/wonseok/MultiPlay/Maps/mappp.mappp:PersistentLevel.mappp'
+[2018.02.14-15.53.20:839][570]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55085, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2018.02.14-15.53.20:839][570]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55085, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.02.14-15.53.20
+[2018.02.14-15.53.20:840][570]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55085, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2018.02.14-15.53.20:840][570]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2018.02.14-15.53.20:840][570]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.02.14-15.53.20
+[2018.02.14-15.53.20:840][570]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2018.02.14-15.53.20:844][570]LogExit: GameNetDriver None shut down
+[2018.02.14-15.53.20:844][570]LogExit: GameNetDriver None shut down
+[2018.02.14-15.53.20:934][571]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.02.14-15.53.20:934][571]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.14-15.53.20:934][571]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.02.14-15.53.20:934][571]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.14-15.58.51:479][847]LogBlueprint: Warning: [mbpc] 'startairattack' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-15.58.51:479][847]LogBlueprint: Warning: [mbpc] 'startairattack' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.02.13:941][995]LogBlueprint: Warning: [mbpc] 'airattackpossible' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.02.13:941][995]LogBlueprint: Warning: [mbpc] 'Arrow3' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.02.13:941][995]LogBlueprint: Warning: [mbpc] 'airattackvector' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.02.13:941][995]LogBlueprint: Warning: [mbpc] 'airattackvector' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.02.13:941][995]LogBlueprint: Warning: [mbpc] 'skyjump' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.02.48:414][538]LogSlate: Took 0.007923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.02.14-16.04.15:471][160]LogBlueprint: Warning: [mbpc] 'particle2' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.04.15:472][160]LogBlueprint: Warning: [mbpc] 'particle2' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.04.41:564][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc" FILE="E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.uasset" SILENT=true
+[2018.02.14-16.04.43:145][623]LogSavePackage: Save=1565.95ms
+[2018.02.14-16.04.43:145][623]LogSavePackage: Moving 'E:/last/set/main/Saved/mbpc1E8BA9D24C8FB1DEF2E721BA97EE0D76.tmp' to 'E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.uasset'
+[2018.02.14-16.04.43:197][623]LogSavePackage: Display: Finished SavePackage E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.uasset
+[2018.02.14-16.04.58:660][888]BlueprintLog: New page: mbpc 컴파일
+[2018.02.14-16.04.59:712][888]LogBlueprint: Warning: [Compiler mbpc] 'mbpc_C' 에서 "skyjump" 라는 이름의 변수를 찾을 수 없습니다.
+ skyjump 구하기  에 대해 'mbpc_C' 컴파일이 되었는지 확인하세요.
+[2018.02.14-16.04.59:758][888]LogBlueprint: Error: [Compiler mbpc] Skyjump  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.02.14-16.04.59:785][888]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-16.04.59:786][888]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-16.04.59:787][888]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-16.04.59:788][888]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-16.05.00:918][888]LogBlueprint: Warning: [Compiler mbpc] [1019.62] mbpc 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 1 회, [소요시간 2,257 ms] (/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc)
+[2018.02.14-16.05.19:319][204]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.02.14-16.05.25:049][272]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Sword_And_Shield_Attack__1_.Sword_And_Shield_Attack__1_
+[2018.02.14-16.05.25:051][272]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Sword_And_Shield_Attack__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.02.14-16.05.25:054][272]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Sword_And_Shield_Attack__1_.Sword_And_Shield_Attack__1_
+[2018.02.14-16.05.25:055][272]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.02.14-16.05.36:782][433]BlueprintLog: New page: mbpc 컴파일
+[2018.02.14-16.05.37:452][433]LogBlueprint: Warning: [Compiler mbpc] 'mbpc_C' 에서 "skyjump" 라는 이름의 변수를 찾을 수 없습니다.
+ skyjump 구하기  에 대해 'mbpc_C' 컴파일이 되었는지 확인하세요.
+[2018.02.14-16.05.37:516][433]LogBlueprint: Error: [Compiler mbpc] Skyjump  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.02.14-16.05.37:548][433]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-16.05.37:550][433]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-16.05.37:551][433]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-16.05.37:553][433]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-16.05.38:471][433]LogBlueprint: Warning: [Compiler mbpc] [1057.18] mbpc 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 1 회, [소요시간 1,689 ms] (/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc)
+[2018.02.14-16.05.58:007][670]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2018.02.14-16.05.58:738][670]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_0.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.02.14-16.05.59:465][670]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.02.14-16.05.59:482][670]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.14-16.07.06:388][868]LogBlueprint: Warning: [mbpc] 'airattackpossible' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.07.06:388][868]LogBlueprint: Warning: [mbpc] 'airattackpossible' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.07.06:388][868]LogBlueprint: Warning: [mbpc] 'delta' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.07.06:388][868]LogBlueprint: Warning: [mbpc] 'skyjump' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.11.44:027][903]LogBlueprint: Warning: [mbpc] 'airattackpossible' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.11.44:028][903]LogBlueprint: Warning: [mbpc] 'airattackpossible' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.11.44:028][903]LogBlueprint: Warning: [mbpc] 'airattackpossible' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.11.44:029][903]LogBlueprint: Warning: [mbpc] 'startairattack' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.11.44:029][903]LogBlueprint: Warning: [mbpc] 'startairattack' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.14.19:197][460]LogBlueprint: Warning: [mbpc] 'particle2' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.14.19:197][460]LogBlueprint: Warning: [mbpc] 'PostProcess' variable not found. Base class was probably changed. /Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc
+[2018.02.14-16.15.37:445][ 84]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.02.14-16.15.38:448][ 84]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.14-16.16.03:035][551]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.02.14-16.16.03:036][551]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-16.16.03:036][551]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'DefaultSlot' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.14-16.16.03:511][551]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.02.14-16.16.04:248][551]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.14-16.17.32:206][201]LogUObjectBase: Warning: Object is not registered
+[2018.02.14-16.17.33:186][201]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.980 s
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: 
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: Stack: 
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: [Callstack] 0x00000000D3362786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: [Callstack] 0x00000000D310123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: [Callstack] 0x00000000D311B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: [Callstack] 0x00000000CE7733F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: [Callstack] 0x00000000D1F303AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: [Callstack] 0x00000000D12F3EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: [Callstack] 0x00000000D11874AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: [Callstack] 0x00000000D118ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: [Callstack] 0x00000000D12B8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: [Callstack] 0x00000000D2A27397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: [Callstack] 0x00000000D2A2CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.14-16.17.33:187][201]LogOutputDevice: Error: [Callstack] 0x00000000D2C69913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x00000000D2A83484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x00000000D2A5B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x00000000D2A4D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x00000000DE42E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x00000000DE421A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x00000000DE4303EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x00000000DE41D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x0000000001ACB85D USER32.dll!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x0000000001ACB1EF USER32.dll!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x00000000DE431516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x00000000085E50C8 UE4Editor.exe!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x00000000085F5430 UE4Editor.exe!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x00000000085F54AA UE4Editor.exe!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x0000000008602379 UE4Editor.exe!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x0000000008603D57 UE4Editor.exe!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x0000000003621FE4 KERNEL32.DLL!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: [Callstack] 0x00000000042BEFB1 ntdll.dll!UnknownFunction []
+[2018.02.14-16.17.33:188][201]LogOutputDevice: Error: 
+[2018.02.14-16.17.33:192][201]LogStats:                SubmitErrorReport -  0.000 s

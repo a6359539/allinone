@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-main-1325.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\last\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\main.cpp.obj"
+"E:\last\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\mainCharacter.cpp.obj"
+"E:\last\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\mainGameMode.cpp.obj"
+"E:\last\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\MyCharacter.cpp.obj"
+"E:\last\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\main.init.gen.cpp.obj"
+"E:\last\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\mainCharacter.gen.cpp.obj"
+"E:\last\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\mainGameMode.gen.cpp.obj"
+"E:\last\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\MyCharacter.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\main\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\last\set\main\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-main-1325.lib"

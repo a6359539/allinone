@@ -1,0 +1,1076 @@
+﻿Log file open, 02/12/18 17:26:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: main
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-924096331) SRandInit(-924096331).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.635499
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file E:/last/set/main/Binaries/Win64/UE4Editor-main.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.12-08.26.59:748][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.12-08.26.59:748][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.12-08.26.59:796][  0]LogInit: Computer: DESKTOP-FRCQVUI
+[2018.02.12-08.26.59:796][  0]LogInit: User: oner
+[2018.02.12-08.26.59:796][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.12-08.26.59:796][  0]LogInit: High frequency timer resolution =2.630622 MHz
+[2018.02.12-08.26.59:796][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.12-08.26.59:796][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.12-08.26.59:796][  0]LogMemory: Process Physical Memory: 276.11 MB used, 276.11 MB peak
+[2018.02.12-08.26.59:796][  0]LogMemory: Process Virtual Memory: 265.93 MB used, 265.93 MB peak
+[2018.02.12-08.26.59:796][  0]LogMemory: Physical Memory: 2787.19 MB used,  5293.55 MB free, 8080.75 MB total
+[2018.02.12-08.26.59:796][  0]LogMemory: Virtual Memory: 676.42 MB used,  5293.55 MB free, 134217728.00 MB total
+[2018.02.12-08.27.00:913][  0]LogInit: Using OS detected language (ko-KR).
+[2018.02.12-08.27.00:913][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.02.12-08.27.00:967][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.02.12-08.27.01:187][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.12-08.27.03:363][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.12-08.27.03:411][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2018.02.12-08.27.03:411][  0]LogD3D11RHI:       3040/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.12-08.27.03:416][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5600' (Feature Level 11_0)
+[2018.02.12-08.27.03:416][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.12-08.27.03:418][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.12-08.27.03:418][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.12-08.27.03:418][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.12-08.27.03:424][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.12-08.27.03:425][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.12-08.27.03:425][  0]LogWindows: EnumDisplayDevices:
+[2018.02.12-08.27.03:425][  0]LogWindows:    0. 'Intel(R) HD Graphics 5600' (P:1 D:1)
+[2018.02.12-08.27.03:425][  0]LogWindows:    1. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2018.02.12-08.27.03:425][  0]LogWindows:    2. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2018.02.12-08.27.03:425][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.12-08.27.03:425][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2018.02.12-08.27.03:425][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.12-08.27.03:425][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.12-08.27.03:425][  0]LogRHI: Texture pool is 2128 MB (70% of 3040 MB)
+[2018.02.12-08.27.03:450][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.12-08.27.03:517][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.12-08.27.03:522][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (E:/last/set/main/Intermediate/Shaders/WorkingDirectory/3236/).
+[2018.02.12-08.27.03:522][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/강망/AppData/Local/Temp/UnrealShaderWorkingDir/003B47C446A596E51817EA83547891AB/'.
+[2018.02.12-08.27.03:523][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.12-08.27.05:436][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.12-08.27.05:499][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.12-08.27.05:562][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.12-08.27.05:626][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.12-08.27.05:695][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.12-08.27.05:763][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.12-08.27.05:828][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.12-08.27.05:899][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.12-08.27.05:960][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.12-08.27.06:047][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.12-08.27.06:125][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.12-08.27.06:191][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.12-08.27.06:254][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.12-08.27.06:317][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.12-08.27.06:450][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.12-08.27.06:451][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.12-08.27.06:519][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.12-08.27.06:572][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.12-08.27.06:688][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.12-08.27.06:722][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.12-08.27.06:786][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.12-08.27.06:848][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.12-08.27.06:912][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.12-08.27.06:977][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.12-08.27.06:978][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.12-08.27.07:716][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.12-08.27.08:164][  0]LogDerivedDataCache: Loaded boot cache 0.45s 113MB C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.12-08.27.08:164][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.12-08.27.08:164][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/last/set/main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.12-08.27.08:164][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.12-08.27.08:164][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/last/set/main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.12-08.27.08:164][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.12-08.27.08:191][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.12-08.27.08:204][  0]LogDerivedDataCache: Using Local data cache path C:/Users/강망/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.12-08.27.08:217][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.12-08.27.08:221][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.12-08.27.08:229][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.12-08.27.08:230][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.12-08.27.08:982][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.12-08.27.09:607][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.12-08.27.09:664][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.12-08.27.09:664][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.12-08.27.09:664][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.12-08.27.09:664][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.12-08.27.09:664][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.12-08.27.09:730][  0]LogNetVersion: main , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1998149536)
+[2018.02.12-08.27.10:156][  0]LogAssetRegistry: FAssetRegistry took 0.0302 seconds to start up
+[2018.02.12-08.27.11:329][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.132101 seconds
+[2018.02.12-08.27.11:335][  0]LogUObjectArray: 35907 objects as part of root set at end of initial load.
+[2018.02.12-08.27.11:335][  0]LogUObjectAllocator: 7585960 out of 0 bytes used by permanent object pool.
+[2018.02.12-08.27.11:336][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.12-08.27.17:426][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.12-08.27.17:479][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.12-08.27.21:974][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 파일을 찾을 수 없습니다.
+[2018.02.12-08.27.21:974][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/rock.uasset 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.27.21:974][  0]LoadErrors: Error: /Game/pratice/sinyoung/rock : 애셋에 대한 파일을 찾을 수 없습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock
+[2018.02.12-08.27.21:975][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 파일을 찾을 수 없습니다.
+[2018.02.12-08.27.21:975][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/rock.uasset 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.27.21:976][  0]LoadErrors: Error: /Game/pratice/sinyoung/rock : 애셋에 대한 파일을 찾을 수 없습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock
+[2018.02.12-08.27.21:976][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 파일을 찾을 수 없습니다.
+[2018.02.12-08.27.21:976][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.27.21:976][  0]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint : 애셋에 대한 파일을 찾을 수 없습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock
+[2018.02.12-08.27.21:977][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 파일을 찾을 수 없습니다.
+[2018.02.12-08.27.21:977][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.27.21:977][  0]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint : 애셋에 대한 파일을 찾을 수 없습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock
+[2018.02.12-08.27.21:979][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 파일을 찾을 수 없습니다.
+[2018.02.12-08.27.21:979][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock.rock 레퍼런싱한 것: rock_GEN_VARIABLE
+[2018.02.12-08.27.21:979][  0]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint.uasset 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.27.21:979][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock.rock 레퍼런싱한 것: rock_GEN_VARIABLE
+[2018.02.12-08.27.21:979][  0]LoadErrors: Error: /Game/pratice/sinyoung/MixamoAnimPack/Mixamo_SWAT/Anims/SWATanimblueprint : 애셋에 대한 파일을 찾을 수 없습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/rock
+[2018.02.12-08.27.25:717][  0]LogBlueprint: Warning: [Compiler testaim] 입력 액션 이벤트가  위성 입력 액션  에 대한 미확인 '위성' 액션을 레퍼런싱합니다.
+[2018.02.12-08.27.25:718][  0]LogBlueprint: Warning: [Compiler testaim] 입력 액션 이벤트가  메테오 입력 액션  에 대한 미확인 '메테오' 액션을 레퍼런싱합니다.
+[2018.02.12-08.27.25:747][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] 입력 액션 이벤트가  click 입력 액션  에 대한 미확인 'click' 액션을 레퍼런싱합니다.
+[2018.02.12-08.27.25:914][  0]LogBlueprint: Warning: [Compiler testaim] [0032.53] testaim 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 391 ms] (/Game/pratice/sinyoung/testaim.testaim)
+[2018.02.12-08.27.25:914][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0032.53] ThirdPersonCharacter 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 391 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.02.12-08.27.26:003][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.12-08.27.26:067][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.02.12-08.27.26:067][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.02.12-08.27.26:222][  0]LogPackageName: SearchForPackageOnDisk took   0.155s, but failed to resolve FX_Meshes.
+[2018.02.12-08.27.26:222][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2018.02.12-08.27.28:092][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.02.12-08.27.28:092][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.02.12-08.27.28:172][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.02.12-08.27.28:245][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.02.12-08.27.29:469][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.12-08.27.29:831][  0]LogOcInput: OculusInput pre-init called
+[2018.02.12-08.27.30:214][  0]LogEngine: Initializing Engine...
+[2018.02.12-08.27.30:217][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.12-08.27.30:659][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.12-08.27.30:659][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.12-08.27.30:834][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.12-08.27.30:848][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.12-08.27.30:869][  0]LogInit: FAudioDevice initialized.
+[2018.02.12-08.27.31:054][  0]LogDerivedDataCache: Saved boot cache 0.18s 113MB C:/Users/강망/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.12-08.27.31:088][  0]LogInit: Texture streaming: Enabled
+[2018.02.12-08.27.31:253][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.12-08.27.31:440][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.02.12-08.27.31:486][  0]LogInit: Transaction tracking system initialized
+[2018.02.12-08.27.32:157][  0]BlueprintLog: New page: 에디터 로드
+[2018.02.12-08.27.34:625][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.02.12-08.27.36:537][  0]LogConsoleResponse: Display: 
+[2018.02.12-08.27.37:413][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.12-08.27.37:413][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.12-08.27.37:413][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.12-08.27.37:924][  0]LogFileCache: Scanning file cache for directory 'E:/last/set/main/Content/' took 0.10s
+[2018.02.12-08.27.39:773][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.02.12-08.27.39:775][  0]Cmd: MAP LOAD FILE="E:/last/set/main/Content/pratice/sinyoung/multiplay/mainmenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.12-08.27.39:776][  0]LightingResults: New page: 라이팅 빌드
+[2018.02.12-08.27.39:865][  0]MapCheck: New page: 맵 체크
+[2018.02.12-08.27.39:865][  0]LightingResults: New page: 라이팅 빌드
+[2018.02.12-08.27.40:249][  0]LogAIModule: Creating AISystem for world mainmenu
+[2018.02.12-08.27.40:253][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.12-08.27.40:273][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.12-08.27.40:382][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 109.129ms.
+[2018.02.12-08.27.40:382][  0]LogFileHelpers: Loading map 'mainmenu' took 0.608
+[2018.02.12-08.27.40:674][  0]LogCollectionManager: Loaded 0 collections in 0.001957 seconds
+[2018.02.12-08.27.40:798][  0]LogFileCache: Scanning file cache for directory 'E:/last/set/main/Saved/Collections/' took 0.01s
+[2018.02.12-08.27.40:798][  0]LogFileCache: Scanning file cache for directory 'E:/last/set/main/Content/Developers/oner/Collections/' took 0.01s
+[2018.02.12-08.27.40:798][  0]LogFileCache: Scanning file cache for directory 'E:/last/set/main/Content/Collections/' took 0.01s
+[2018.02.12-08.27.40:798][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.12-08.27.40:811][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2367 classes and 524 folders.
+[2018.02.12-08.27.40:939][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.02.12-08.27.41:606][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.02.12-08.27.41:732][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.02.12-08.27.41:953][  0]LogSlate: Took 0.008010 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.12-08.27.41:986][  0]LogSlate: Took 0.031464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.02.12-08.27.41:992][  0]LogSlate: Took 0.004616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.12-08.27.42:011][  0]LogSlate: Took 0.006930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.12-08.27.42:339][  0]LogRenderer: Reallocating scene render targets to support 1188x576 Format 9 NumSamples 1 (Frame:1).
+[2018.02.12-08.27.42:426][  0]LogSlate: Took 0.007069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.12-08.27.42:713][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.02.12-08.27.42:713][  0]LogLoad: (Engine Initialization) Total time: 49.33 seconds
+[2018.02.12-08.27.42:713][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.12-08.27.42:713][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.12-08.27.42:768][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.02.12-08.27.43:050][  2]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.12-08.27.43:654][  8]LogAssetRegistry: Asset discovery search completed in 33.5198 seconds
+[2018.02.12-08.27.43:683][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.12-08.27.43:683][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000159 seconds (updated 0 objects)
+[2018.02.12-08.27.43:965][ 10]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.12-08.27.47:935][ 28]LogFileCache: Retrieving MD5 hashes for directory 'E:/last/set/main/Content/' took 5.19s
+[2018.02.12-08.30.09:054][306]LogBlueprint: Error: [Compiler mbpc1] 타겟  핀과  Byhold Person  핀을 연결할 수 없습니다: Self 오브젝트 레퍼런스 유형은 Mbpc 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2018.02.12-08.30.09:055][306]LogBlueprint: Error: [Compiler mbpc1] 타겟  핀과  Byhold Person  핀을 연결할 수 없습니다: Self 오브젝트 레퍼런스 유형은 Mbpc 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2018.02.12-08.30.09:056][306]LogBlueprint: Error: [Compiler mbpc1] Byhold Person  핀과  타겟  핀을 연결할 수 없습니다: Mbpc 오브젝트 레퍼런스 유형은 Self 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2018.02.12-08.30.09:314][306]LogBlueprint: Warning: [Compiler mbpc1] [0195.93] mbpc1 컴파일에 실패했습니다. 치명적 오류 3 회, 경고 0 회, [소요시간 373 ms] (/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc1.mbpc1)
+[2018.02.12-08.30.09:773][306]LogBlueprint: Error: [Compiler mbpc1] 타겟  핀과  Byhold Person  핀을 연결할 수 없습니다: Self 오브젝트 레퍼런스 유형은 Mbpc 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2018.02.12-08.30.09:774][306]LogBlueprint: Error: [Compiler mbpc1] 타겟  핀과  Byhold Person  핀을 연결할 수 없습니다: Self 오브젝트 레퍼런스 유형은 Mbpc 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2018.02.12-08.30.09:774][306]LogBlueprint: Error: [Compiler mbpc1] Byhold Person  핀과  타겟  핀을 연결할 수 없습니다: Mbpc 오브젝트 레퍼런스 유형은 Self 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2018.02.12-08.30.09:839][306]LogBlueprint: Warning: [Compiler mbpc1] [0196.46] mbpc1 컴파일에 실패했습니다. 치명적 오류 3 회, 경고 0 회, [소요시간 316 ms] (/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc1.mbpc1)
+[2018.02.12-08.30.17:932][490]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.12-08.30.18:451][490]LogBlueprint: Error: [Compiler testchar] 타겟  핀과  Byhold Person  핀을 연결할 수 없습니다: Self 오브젝트 레퍼런스 유형은 Mbpc 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2018.02.12-08.30.18:452][490]LogBlueprint: Error: [Compiler testchar] 타겟  핀과  Byhold Person  핀을 연결할 수 없습니다: Self 오브젝트 레퍼런스 유형은 Mbpc 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2018.02.12-08.30.18:452][490]LogBlueprint: Error: [Compiler testchar] Byhold Person  핀과  타겟  핀을 연결할 수 없습니다: Mbpc 오브젝트 레퍼런스 유형은 Self 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2018.02.12-08.30.18:511][490]LogBlueprint: Warning: [Compiler testchar] [0205.13] testchar 컴파일에 실패했습니다. 치명적 오류 3 회, 경고 0 회, [소요시간 303 ms] (/Game/pratice/wonseok/MultiPlay/BluePrints/Character/testchar.testchar)
+[2018.02.12-08.30.18:780][490]LogMetaData: Removing '/Game/pratice/wonseok/MultiPlay/BluePrints/Character/testchar.SKEL_testchar_C' ref from Metadata '/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc1.PackageMetaData'
+[2018.02.12-08.30.18:780][490]LogMetaData: Removing '/Game/pratice/wonseok/MultiPlay/BluePrints/Character/testchar.testchar_C' ref from Metadata '/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc1.PackageMetaData'
+[2018.02.12-08.30.18:958][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/wonseok/MultiPlay/BluePrints/Character/testchar" FILE="E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/testchar.uasset" SILENT=true
+[2018.02.12-08.30.20:119][490]LogSavePackage: Save=1159.31ms
+[2018.02.12-08.30.20:120][490]LogSavePackage: Moving 'E:/last/set/main/Saved/testcharFF3F9F82416EABA39BF348B6E9736C06.tmp' to 'E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/testchar.uasset'
+[2018.02.12-08.30.20:126][490]LogSavePackage: Display: Finished SavePackage E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/testchar.uasset
+[2018.02.12-08.30.20:148][490]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.12-08.30.30:344][820]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.02.12-08.30.31:291][820]LogSlate: Took 0.004490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.12-08.30.33:517][822]LogSlate: Took 0.005244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.12-08.30.40:389][931]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.12-08.30.44:877][947]BlueprintLog: New page: testaim 컴파일
+[2018.02.12-08.30.45:399][947]LogBlueprint: Warning: [Compiler testaim] 입력 액션 이벤트가  위성 입력 액션  에 대한 미확인 '위성' 액션을 레퍼런싱합니다.
+[2018.02.12-08.30.45:400][947]LogBlueprint: Warning: [Compiler testaim] 입력 액션 이벤트가  메테오 입력 액션  에 대한 미확인 '메테오' 액션을 레퍼런싱합니다.
+[2018.02.12-08.30.45:497][947]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.12-08.30.45:498][947]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.12-08.30.45:499][947]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.12-08.30.45:501][947]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.12-08.30.45:875][947]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.12-08.30.45:876][947]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.12-08.30.45:877][947]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.12-08.30.45:879][947]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.12-08.30.45:880][947]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.12-08.30.45:892][947]LogBlueprint: Warning: [Compiler testaim] [0232.51] testaim 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 1,015 ms] (/Game/pratice/sinyoung/testaim.testaim)
+[2018.02.12-08.30.49:349][968]BlueprintLog: New page: testchar 컴파일
+[2018.02.12-08.30.49:821][968]LogBlueprint: Error: [Compiler testchar] 타겟  핀과  Byhold Person  핀을 연결할 수 없습니다: Self 오브젝트 레퍼런스 유형은 Mbpc 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2018.02.12-08.30.49:822][968]LogBlueprint: Error: [Compiler testchar] 타겟  핀과  Byhold Person  핀을 연결할 수 없습니다: Self 오브젝트 레퍼런스 유형은 Mbpc 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2018.02.12-08.30.49:822][968]LogBlueprint: Error: [Compiler testchar] Byhold Person  핀과  타겟  핀을 연결할 수 없습니다: Mbpc 오브젝트 레퍼런스 유형은 Self 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2018.02.12-08.30.50:417][968]LogBlueprint: Warning: [Compiler testchar] [0237.04] testchar 컴파일에 실패했습니다. 치명적 오류 3 회, 경고 0 회, [소요시간 1,068 ms] (/Game/pratice/wonseok/MultiPlay/BluePrints/Character/testchar.testchar)
+[2018.02.12-08.31.41:855][297]LogSlate: Took 0.004952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.02.12-08.31.57:320][362]BlueprintLog: New page: testchar 컴파일
+[2018.02.12-08.31.57:805][362]LogBlueprint: Error: [Compiler testchar] In use pin  Byhold Person  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.02.12-08.31.57:805][362]LogBlueprint: Error: [Compiler testchar] In use pin  Byhold Person  no longer exists on node  설정 . Please refresh node or break links to remove pin.
+[2018.02.12-08.31.58:380][362]LogBlueprint: Warning: [Compiler testchar] [0305.00] testchar 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 0 회, [소요시간 1,060 ms] (/Game/pratice/wonseok/MultiPlay/BluePrints/Character/testchar.testchar)
+[2018.02.12-08.32.36:235][598]BlueprintLog: New page: testchar 컴파일
+[2018.02.12-08.32.36:700][598]LogBlueprint: Error: [Compiler testchar] In use pin  Byhold Person  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.02.12-08.32.36:700][598]LogBlueprint: Error: [Compiler testchar] In use pin  Byhold Person  no longer exists on node  설정 . Please refresh node or break links to remove pin.
+[2018.02.12-08.32.37:427][598]LogBlueprint: Warning: [Compiler testchar] [0344.05] testchar 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 0 회, [소요시간 1,191 ms] (/Game/pratice/wonseok/MultiPlay/BluePrints/Character/testchar.testchar)
+[2018.02.12-08.32.56:564][713]BlueprintLog: New page: testchar 컴파일
+[2018.02.12-08.32.57:046][713]LogBlueprint: Error: [Compiler testchar] In use pin  Byhold Person  no longer exists on node  설정 . Please refresh node or break links to remove pin.
+[2018.02.12-08.32.57:672][713]LogBlueprint: Warning: [Compiler testchar] [0364.29] testchar 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 1,108 ms] (/Game/pratice/wonseok/MultiPlay/BluePrints/Character/testchar.testchar)
+[2018.02.12-08.34.49:249][937]BlueprintLog: New page: testchar 컴파일
+[2018.02.12-08.36.48:979][379]LogRenderer: Reallocating scene render targets to support 1188x620 Format 9 NumSamples 1 (Frame:1).
+[2018.02.12-08.38.04:771][247]BlueprintLog: New page: testchar 컴파일
+[2018.02.12-08.41.37:750][ 32]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/pratice/sinyoung/multiplay/mainmenu' took 0.032
+[2018.02.12-08.41.37:754][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pratice/sinyoung/testaim] ([1] browsable assets)...
+[2018.02.12-08.41.37:786][ 32]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/pratice/sinyoung/testaim.testaim]
+[2018.02.12-08.41.37:786][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/sinyoung/testaim]
+[2018.02.12-08.41.37:786][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/sinyoung/testaim" FILE="E:/last/set/main/Saved/Autosaves/Game/pratice/sinyoung/testaim_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.12-08.41.39:216][ 32]LogSavePackage: Save=1254.23ms
+[2018.02.12-08.41.39:216][ 32]LogSavePackage: Moving 'E:/last/set/main/Saved/testaim_Auto126665EE84D7336A05DEC59BFDF47F27B.tmp' to 'E:/last/set/main/Saved/Autosaves/Game/pratice/sinyoung/testaim_Auto1.uasset'
+[2018.02.12-08.41.39:312][ 32]LogSavePackage: Display: Finished SavePackage E:/last/set/main/Saved/Autosaves/Game/pratice/sinyoung/testaim_Auto1.uasset
+[2018.02.12-08.41.39:327][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/testchar] ([1] browsable assets)...
+[2018.02.12-08.41.39:339][ 32]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/pratice/wonseok/MultiPlay/BluePrints/Character/testchar.testchar]
+[2018.02.12-08.41.39:340][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/pratice/wonseok/MultiPlay/BluePrints/Character/testchar]
+[2018.02.12-08.41.40:724][ 32]LogSavePackage: Save=1329.62ms
+[2018.02.12-08.41.40:724][ 32]LogSavePackage: Moving 'E:/last/set/main/Saved/testchar_Auto177A7B396494EE7980E0759AEF039C52E.tmp' to 'E:/last/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/testchar_Auto1.uasset'
+[2018.02.12-08.41.40:747][ 32]LogSavePackage: Display: Finished SavePackage E:/last/set/main/Saved/Autosaves/Game/pratice/wonseok/MultiPlay/BluePrints/Character/testchar_Auto1.uasset
+[2018.02.12-08.41.40:747][ 32]LogFileHelpers: Auto-saving content packages took 2.995
+[2018.02.12-08.42.58:629][940]LogBlueprint: Warning: [Compiler ThirdPersonCharacter_3] 입력 액션 이벤트가  click 입력 액션  에 대한 미확인 'click' 액션을 레퍼런싱합니다.
+[2018.02.12-08.42.58:684][940]LogBlueprint: Warning: [Compiler ThirdPersonCharacter_3] [0965.30] ThirdPersonCharacter_3 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 136 ms] (/Game/pratice/wonseok/character/ThirdPersonCharacter_3.ThirdPersonCharacter_3)
+[2018.02.12-08.42.58:989][940]LogLinker: Display: CreateExport: Failed to load Parent for Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/Pit.Pit_C:UserConstructionScript; removing parent information, but keeping function
+[2018.02.12-08.42.58:993][940]LogLinker: Display: CreateExport: Failed to load Parent for Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/Robo.Robo_C:UserConstructionScript; removing parent information, but keeping function
+[2018.02.12-08.42.58:997][940]LogLinker: Display: CreateExport: Failed to load Parent for Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/Tusk.Tusk_C:UserConstructionScript; removing parent information, but keeping function
+[2018.02.12-08.42.59:002][940]LogLinker: Display: CreateExport: Failed to load Parent for Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/Warrior.Warrior_C:UserConstructionScript; removing parent information, but keeping function
+[2018.02.12-08.45.01:211][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:211][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:211][912]LoadErrors: Error: /Game/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc : 애셋에 대한 파일을 찾을 수 없습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy
+[2018.02.12-08.45.01:455][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:455][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:455][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:455][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:455][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:455][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:456][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:456][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:456][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:456][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:456][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:456][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:456][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:456][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:457][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:457][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: lobbyGameplayPc
+[2018.02.12-08.45.01:457][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:458][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:458][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_CreateWidget_0
+[2018.02.12-08.45.01:458][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:458][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:458][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:459][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:459][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_CallFunction_208
+[2018.02.12-08.45.01:459][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:459][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:459][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:459][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:459][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_CallFunction_220
+[2018.02.12-08.45.01:459][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:460][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:460][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:460][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:460][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_VariableSet_160
+[2018.02.12-08.45.01:460][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:460][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:461][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:461][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:461][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_VariableSet_1
+[2018.02.12-08.45.01:461][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:461][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:461][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:462][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:462][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_VariableGet_0
+[2018.02.12-08.45.01:462][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:462][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:462][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_VariableGet_1
+[2018.02.12-08.45.01:462][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:462][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:462][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_VariableGet_2
+[2018.02.12-08.45.01:462][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:462][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:463][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_VariableGet_3
+[2018.02.12-08.45.01:463][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:463][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:463][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_VariableGet_4
+[2018.02.12-08.45.01:463][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:463][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:463][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_VariableSet_90
+[2018.02.12-08.45.01:463][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:464][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:464][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:464][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:464][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_VariableSet_91
+[2018.02.12-08.45.01:464][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:464][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:464][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:465][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:465][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_VariableSet_92
+[2018.02.12-08.45.01:465][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:465][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:465][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:465][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:465][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_VariableGet_1923
+[2018.02.12-08.45.01:466][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:466][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:466][912]LoadErrors: 로드에 실패했습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy.lobbymenuesy_C 레퍼런싱한 것: K2Node_VariableGet_31
+[2018.02.12-08.45.01:466][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:466][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:466][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:478][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] 설정 : 'playerdisplay' variable not found. Base class was probably changed. /Game/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.lobbyGameplayPc
+[2018.02.12-08.45.01:478][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] playerdisplay 설정 : 'playerdisplay' variable not found. Base class was probably changed. /Game/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.lobbyGameplayPc
+[2018.02.12-08.45.01:478][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] 설정 : 'mapimage' variable not found. Base class was probably changed. /Game/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.lobbyGameplayPc
+[2018.02.12-08.45.01:478][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] mapimage 설정 : 'mapimage' variable not found. Base class was probably changed. /Game/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.lobbyGameplayPc
+[2018.02.12-08.45.01:478][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] 설정 : 'mapname' variable not found. Base class was probably changed. /Game/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.lobbyGameplayPc
+[2018.02.12-08.45.01:478][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] mapname 설정 : 'mapname' variable not found. Base class was probably changed. /Game/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.lobbyGameplayPc
+[2018.02.12-08.45.01:478][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] 설정 : 'maptime' variable not found. Base class was probably changed. /Game/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.lobbyGameplayPc
+[2018.02.12-08.45.01:478][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] maptime 설정 : 'maptime' variable not found. Base class was probably changed. /Game/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.lobbyGameplayPc
+[2018.02.12-08.45.01:479][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] Get : 'CharacterSelect' variable not found. Base class was probably changed. /Game/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.lobbyGameplayPc
+[2018.02.12-08.45.01:491][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] Create Widget  노드 스폰에는 클래스를 지정해야 합니다.
+[2018.02.12-08.45.01:492][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] 'lobbyGameplayPc' 에서 "CharacterSelect" 라는 이름의 변수를 찾을 수 없습니다.
+ CharacterSelect 구하기  에 대해 'lobbyGameplayPc' 컴파일이 되었는지 확인하세요.
+[2018.02.12-08.45.01:492][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  Lobby  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:492][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] 'lobbyGameplayPc' 에서 "maptime" 라는 이름의 변수를 찾을 수 없습니다.
+ maptime 설정  에 대해 'lobbyGameplayPc' 컴파일이 되었는지 확인하세요.
+[2018.02.12-08.45.01:492][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] 'lobbyGameplayPc' 에서 "mapname" 라는 이름의 변수를 찾을 수 없습니다.
+ mapname 설정  에 대해 'lobbyGameplayPc' 컴파일이 되었는지 확인하세요.
+[2018.02.12-08.45.01:492][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] 'lobbyGameplayPc' 에서 "mapimage" 라는 이름의 변수를 찾을 수 없습니다.
+ mapimage 설정  에 대해 'lobbyGameplayPc' 컴파일이 되었는지 확인하세요.
+[2018.02.12-08.45.01:492][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  Lobby  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:492][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  Lobby  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:492][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  Lobby  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:492][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  Lobby  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:492][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  Lobby  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:493][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  Lobby  no longer exists on node  설정 . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:493][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  <이름없음>  no longer exists on node  설정 . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:493][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] 'lobbyGameplayPc' 에서 "playerdisplay" 라는 이름의 변수를 찾을 수 없습니다.
+ playerdisplay 설정  에 대해 'lobbyGameplayPc' 컴파일이 되었는지 확인하세요.
+[2018.02.12-08.45.01:493][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  <이름없음>  no longer exists on node  Updateplayerwindow . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:493][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  타겟  no longer exists on node  Updateplayerwindow . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:493][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  Incomingplayerinfo  no longer exists on node  Updateplayerwindow . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:494][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] 이름이 "updateplayerwindow" 인 함수를 'lobbyGameplayPc' 에서 찾을 수 없었습니다.
+'lobbyGameplayPc' 컴파일이  Updateplayerwindow  에 대해 되었는지 확인하세요.
+[2018.02.12-08.45.01:494][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  <이름없음>  no longer exists on node  Clearplayerlist . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:494][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  <이름없음>  no longer exists on node  Clearplayerlist . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:494][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  타겟  no longer exists on node  Clearplayerlist . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:494][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] 이름이 "clearplayerlist" 인 함수를 'lobbyGameplayPc' 에서 찾을 수 없었습니다.
+'lobbyGameplayPc' 컴파일이  Clearplayerlist  에 대해 되었는지 확인하세요.
+[2018.02.12-08.45.01:494][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] In use pin  Lobbyservername  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2018.02.12-08.45.01:509][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] Maptime  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.02.12-08.45.01:509][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] Mapname  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.02.12-08.45.01:509][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] Mapimage  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.02.12-08.45.01:509][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] Playerdisplay  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.02.12-08.45.01:509][912]LogBlueprint: Error: [Compiler lobbyGameplayPc] Character Select  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.02.12-08.45.01:518][912]LogBlueprint: Warning: [Compiler lobbyGameplayPc] [1088.14] lobbyGameplayPc 컴파일에 실패했습니다. 치명적 오류 23 회, 경고 14 회, [소요시간 44 ms] (/Game/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.lobbyGameplayPc)
+[2018.02.12-08.45.01:521][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:521][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:521][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:521][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:523][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:523][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:524][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:524][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:524][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:524][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:524][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:524][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:525][912]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:525][912]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.45.01:705][912]LogAIModule: Creating AISystem for world lobbyMap
+[2018.02.12-08.45.03:176][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/sinyoung/testaim" FILE="E:/last/set/main/Content/pratice/sinyoung/testaim.uasset" SILENT=true
+[2018.02.12-08.45.04:499][912]LogSavePackage: Save=1311.99ms
+[2018.02.12-08.45.04:499][912]LogSavePackage: Moving 'E:/last/set/main/Saved/testaim6E79548E409847AE5F1C2C8C821E0094.tmp' to 'E:/last/set/main/Content/pratice/sinyoung/testaim.uasset'
+[2018.02.12-08.45.04:538][912]LogSavePackage: Display: Finished SavePackage E:/last/set/main/Content/pratice/sinyoung/testaim.uasset
+[2018.02.12-08.45.04:568][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/wonseok/MultiPlay/BluePrints/Character/testchar" FILE="E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/testchar.uasset" SILENT=true
+[2018.02.12-08.45.05:937][912]LogSavePackage: Save=1342.97ms
+[2018.02.12-08.45.05:937][912]LogSavePackage: Moving 'E:/last/set/main/Saved/testchar9695EF204C979B007374C5ADD90FABED.tmp' to 'E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/testchar.uasset'
+[2018.02.12-08.45.05:942][912]LogSavePackage: Display: Finished SavePackage E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/Character/testchar.uasset
+[2018.02.12-08.45.05:943][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pratice/wonseok/MultiPlay/BluePrints/GamePlay/GameplayGM2" FILE="E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/GamePlay/GameplayGM2.uasset" SILENT=true
+[2018.02.12-08.45.06:005][912]LogSavePackage: Save=50.37ms
+[2018.02.12-08.45.06:005][912]LogSavePackage: Moving 'E:/last/set/main/Saved/GameplayGM2A0ADC5824EA5A6A9B8709BB8ECF983C4.tmp' to 'E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/GamePlay/GameplayGM2.uasset'
+[2018.02.12-08.45.06:022][912]LogSavePackage: Display: Finished SavePackage E:/last/set/main/Content/pratice/wonseok/MultiPlay/BluePrints/GamePlay/GameplayGM2.uasset
+[2018.02.12-08.45.06:025][912]Cmd: MAP LOAD FILE="E:/last/set/main/Content/pratice/sinyoung/multiplay/lobbyMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.12-08.45.06:025][912]LightingResults: New page: 라이팅 빌드
+[2018.02.12-08.45.06:028][912]LoadErrors: New page: 맵 로드중: lobbyMap.umap
+[2018.02.12-08.45.06:029][912]MapCheck: New page: 맵 체크
+[2018.02.12-08.45.06:029][912]LightingResults: New page: 라이팅 빌드
+[2018.02.12-08.45.06:268][912]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.12-08.45.06:373][912]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.12-08.45.06:540][912]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 167.321ms.
+[2018.02.12-08.45.06:544][912]LogFileHelpers: Loading map 'lobbyMap' took 0.523
+[2018.02.12-08.45.08:436][975]LogTemp: Repeating last play command: 독립형 게임
+[2018.02.12-08.45.12:121][ 45]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.45.12:122][ 45]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.02.12-08.45.12:336][ 45]LogPlayLevel: [PlayLevel] Compiling testchar before play...
+[2018.02.12-08.45.13:376][ 45]LogPlayLevel: PlayLevel: Blueprint regeneration took 1253 ms (1 blueprints)
+[2018.02.12-08.45.16:013][ 78]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.02.12-08.45.16:083][ 78]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.45.16:084][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.12-08.45.17:572][ 78]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.12-08.45.17:572][ 78]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.02.12-08.45.17:575][ 78]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.12-08.45.17:575][ 78]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.12-08.45.17:575][ 78]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.02.12-08.45.17:575][ 78]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.02.12-08.45.17:588][ 78]PIE: New page: PIE 세션: lobbyMap (2018. 2. 13. 오전 2:45:17)
+[2018.02.12-08.45.17:589][ 78]LogPlayLevel: Creating play world package: /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap
+[2018.02.12-08.45.17:597][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007621s)
+[2018.02.12-08.45.17:598][ 78]LogAIModule: Creating AISystem for world lobbyMap
+[2018.02.12-08.45.17:598][ 78]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2018.02.12-08.45.17:599][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap to /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap (0.009450s)
+[2018.02.12-08.45.17:633][ 78]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.12-08.45.17:639][ 78]LogInit: FAudioDevice initialized.
+[2018.02.12-08.45.17:691][ 78]LogLoad: Game class is 'lobbyGameplayGM_C'
+[2018.02.12-08.45.17:699][ 78]LogWorld: Bringing World /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap up for play (max tick rate 60) at 2018.02.12-17.45.17
+[2018.02.12-08.45.17:701][ 78]LogWorld: Bringing up level for play took: 0.002444
+[2018.02.12-08.45.17:720][ 78]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.02.12-08.45.17:856][ 78]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0489 seconds. Added 11 classes and 0 folders.
+[2018.02.12-08.45.17:857][ 78]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.12-08.45.17:857][ 78]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.12-08.45.17:857][ 78]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.12-08.45.17:859][ 78]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.12-08.45.17:860][ 78]PIE: /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap 에 대한 에디터에서 플레이 시작 시간: 1.844
+[2018.02.12-08.45.17:861][ 78]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.45.19:252][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.45.19:307][125]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.12-08.45.19:307][125]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.02.12-08.45.19:308][125]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.12-08.45.19:308][125]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.12-08.45.19:308][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.02.12-08.45.19:308][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.45.19:374][126]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.02.12-08.45.19:374][126]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.12-08.45.37:771][717]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.02.12-08.45.38:788][719]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.main
+[2018.02.12-08.45.38:788][719]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.02.12-08.45.38:788][719]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.02.12-08.45.38:788][719]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.02.12-08.45.38:796][719]LogTemp: BranchPath = DESKTOP-FRCQVUI/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-FRCQVUI/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.02.12-08.45.38:851][720]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\????\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.02.12-08.45.53:518][960]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.02.12-08.45.53:587][960]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.45.53:587][960]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.02.12-08.45.53:623][960]LogPlayLevel: [PlayLevel] Compiling lobbyGameplayGM before play...
+[2018.02.12-08.45.53:695][960]LogPlayLevel: PlayLevel: Blueprint regeneration took 108 ms (1 blueprints)
+[2018.02.12-08.45.53:696][960]PIE: New page: PIE 세션: lobbyMap (2018. 2. 13. 오전 2:45:53)
+[2018.02.12-08.45.53:696][960]LogPlayLevel: Creating play world package: /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap
+[2018.02.12-08.45.53:702][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006122s)
+[2018.02.12-08.45.53:703][960]LogAIModule: Creating AISystem for world lobbyMap
+[2018.02.12-08.45.53:703][960]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2018.02.12-08.45.53:704][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap to /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap (0.007519s)
+[2018.02.12-08.45.53:739][960]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.12-08.45.53:745][960]LogInit: FAudioDevice initialized.
+[2018.02.12-08.45.53:780][960]LogLoad: Game class is 'lobbyGameplayGM_C'
+[2018.02.12-08.45.53:781][960]LogWorld: Bringing World /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap up for play (max tick rate 60) at 2018.02.12-17.45.53
+[2018.02.12-08.45.53:782][960]LogWorld: Bringing up level for play took: 0.001153
+[2018.02.12-08.45.53:794][960]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.02.12-08.45.53:797][960]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.12-08.45.53:802][960]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.12-08.45.53:802][960]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.12-08.45.53:802][960]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.12-08.45.53:804][960]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.12-08.45.53:804][960]PIE: /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap 에 대한 에디터에서 플레이 시작 시간: -0.212
+[2018.02.12-08.45.53:805][960]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.45.53:807][960]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'transformandposestack' of length 0 in '/Game/pratice/sinyoung/testaim.testaim_C'!
+[2018.02.12-08.45.56:006][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.45.56:093][  2]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.12-08.45.56:093][  2]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.02.12-08.45.56:094][  2]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.12-08.45.56:094][  2]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.12-08.45.56:094][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.02.12-08.45.56:094][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.45.56:162][  3]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.02.12-08.45.56:162][  3]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.12-08.46.21:977][423]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.46.21:977][423]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.46.21:977][423]LoadErrors: Error: /Game/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc : 애셋에 대한 파일을 찾을 수 없습니다. /Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy
+[2018.02.12-08.46.21:977][423]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.46.21:977][423]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.46.21:979][423]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.46.21:979][423]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.46.21:980][423]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.46.21:980][423]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.46.21:981][423]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.46.21:981][423]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.46.21:981][423]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.46.21:981][423]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.46.21:981][423]LogLinker: Warning: '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 파일을 찾을 수 없습니다.
+[2018.02.12-08.46.21:981][423]LogLinker: Warning: E:/last/set/main/Content/pratice/sinyoung/multiplay/lobby/lobbyGameplayPc.uasset 로드중 '/Game/pratice/sinyoung/multiplay/lobby/lobbymenuesy' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.02.12-08.46.27:206][496]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.12-08.46.32:760][627]BlueprintLog: New page: GameplayGM 컴파일
+[2018.02.12-08.46.34:820][679]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.02.12-08.46.34:899][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.46.34:899][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.12-08.46.34:899][679]PIE: New page: PIE 세션: lobbyMap (2018. 2. 13. 오전 2:46:34)
+[2018.02.12-08.46.34:900][679]LogPlayLevel: Creating play world package: /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap
+[2018.02.12-08.46.34:907][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007233s)
+[2018.02.12-08.46.34:908][679]LogAIModule: Creating AISystem for world lobbyMap
+[2018.02.12-08.46.34:908][679]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2018.02.12-08.46.34:909][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap to /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap (0.008605s)
+[2018.02.12-08.46.34:944][679]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.12-08.46.34:948][679]LogInit: FAudioDevice initialized.
+[2018.02.12-08.46.34:979][679]LogLoad: Game class is 'lobbyGameplayGM_C'
+[2018.02.12-08.46.34:981][679]LogWorld: Bringing World /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap up for play (max tick rate 60) at 2018.02.12-17.46.34
+[2018.02.12-08.46.34:981][679]LogWorld: Bringing up level for play took: 0.001036
+[2018.02.12-08.46.34:993][679]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.02.12-08.46.34:994][679]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.
+[2018.02.12-08.46.34:995][679]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.12-08.46.34:995][679]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.12-08.46.34:995][679]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.12-08.46.34:996][679]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.12-08.46.34:996][679]PIE: /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap 에 대한 에디터에서 플레이 시작 시간: 0.98
+[2018.02.12-08.46.34:997][679]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.46.34:999][679]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'transformandposestack' of length 0 in '/Game/pratice/sinyoung/testaim.testaim_C'!
+[2018.02.12-08.46.37:056][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.46.37:113][766]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.12-08.46.37:113][766]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.02.12-08.46.37:113][766]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.12-08.46.37:113][766]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.12-08.46.37:113][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.02.12-08.46.37:114][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.46.37:175][767]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.02.12-08.46.37:175][767]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.12-08.47.13:747][788]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.12-08.47.18:924][881]BlueprintLog: New page: lobbyGameplayGM 컴파일
+[2018.02.12-08.47.21:096][921]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.02.12-08.47.21:177][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.47.21:177][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.12-08.47.21:177][921]PIE: New page: PIE 세션: lobbyMap (2018. 2. 13. 오전 2:47:21)
+[2018.02.12-08.47.21:178][921]LogPlayLevel: Creating play world package: /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap
+[2018.02.12-08.47.21:184][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006078s)
+[2018.02.12-08.47.21:184][921]LogAIModule: Creating AISystem for world lobbyMap
+[2018.02.12-08.47.21:185][921]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2018.02.12-08.47.21:185][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap to /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap (0.007376s)
+[2018.02.12-08.47.21:225][921]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.12-08.47.21:231][921]LogInit: FAudioDevice initialized.
+[2018.02.12-08.47.21:266][921]LogLoad: Game class is 'lobbyGameplayGM_C'
+[2018.02.12-08.47.21:267][921]LogWorld: Bringing World /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap up for play (max tick rate 60) at 2018.02.12-17.47.21
+[2018.02.12-08.47.21:268][921]LogWorld: Bringing up level for play took: 0.000976
+[2018.02.12-08.47.21:280][921]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.02.12-08.47.21:284][921]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.12-08.47.21:284][921]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.12-08.47.21:284][921]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.12-08.47.21:290][921]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.12-08.47.21:290][921]PIE: /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap 에 대한 에디터에서 플레이 시작 시간: -0.726
+[2018.02.12-08.47.21:290][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.47.21:324][921]LogScript: Warning: char 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0146
+[2018.02.12-08.47.21:324][921]LogScript: Warning: None 에 접근
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0127
+[2018.02.12-08.47.21:339][922]LogScript: Warning: char 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0146
+[2018.02.12-08.47.21:339][922]LogScript: Warning: None 에 접근
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0127
+[2018.02.12-08.47.21:367][923]LogScript: Warning: char 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0146
+[2018.02.12-08.47.21:367][923]LogScript: Warning: None 에 접근
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0127
+[2018.02.12-08.47.21:393][924]LogScript: Warning: char 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0146
+[2018.02.12-08.47.21:393][924]LogScript: Warning: None 에 접근
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0127
+[2018.02.12-08.47.21:429][925]LogScript: Warning: char 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0146
+[2018.02.12-08.47.21:429][925]LogScript: Warning: None 에 접근
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0127
+[2018.02.12-08.47.21:457][926]LogScript: Warning: char 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0146
+[2018.02.12-08.47.21:458][926]LogScript: Warning: None 에 접근
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0127
+[2018.02.12-08.47.21:485][927]LogScript: Warning: char 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0146
+[2018.02.12-08.47.21:485][927]LogScript: Warning: None 에 접근
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0127
+[2018.02.12-08.47.21:511][928]LogScript: Warning: char 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0146
+[2018.02.12-08.47.21:511][928]LogScript: Warning: None 에 접근
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0127
+[2018.02.12-08.47.21:543][929]LogScript: Warning: char 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	skill_C /Engine/Transient.UnrealEdEngine_0:Gameinfolnstance_C_2.skill_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/UMG/skill.skill_C:ExecuteUbergraph_skill:0146
+[2018.02.12-08.47.23:558][993]LogScript: Warning: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	MAnimation_C /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap:PersistentLevel.testchar_C_0.CharacterMesh0.MAnimation_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.MAnimation_C:ExecuteUbergraph_MAnimation:0BD8
+[2018.02.12-08.47.23:559][993]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_MAnimation' 노드: Chain Combo 그래프: EventGraph 오브젝트: MAnimation 설명: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.12-08.47.24:579][ 23]LogScript: Warning: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	MAnimation_C /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap:PersistentLevel.testchar_C_0.CharacterMesh0.MAnimation_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.MAnimation_C:ExecuteUbergraph_MAnimation:0BD8
+[2018.02.12-08.47.24:579][ 23]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_MAnimation' 노드: Chain Combo 그래프: EventGraph 오브젝트: MAnimation 설명: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.12-08.47.24:869][ 30]LogScript: Warning: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	MAnimation_C /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap:PersistentLevel.testchar_C_0.CharacterMesh0.MAnimation_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.MAnimation_C:ExecuteUbergraph_MAnimation:0BFF
+[2018.02.12-08.47.24:869][ 30]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_MAnimation' 노드: Combo Reset 그래프: EventGraph 오브젝트: MAnimation 설명: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.12-08.47.25:606][ 52]LogScript: Warning: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	MAnimation_C /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap:PersistentLevel.testchar_C_0.CharacterMesh0.MAnimation_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.MAnimation_C:ExecuteUbergraph_MAnimation:0BD8
+[2018.02.12-08.47.25:606][ 52]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_MAnimation' 노드: Chain Combo 그래프: EventGraph 오브젝트: MAnimation 설명: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.12-08.47.25:896][ 62]LogScript: Warning: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	MAnimation_C /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap:PersistentLevel.testchar_C_0.CharacterMesh0.MAnimation_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.MAnimation_C:ExecuteUbergraph_MAnimation:0BFF
+[2018.02.12-08.47.25:896][ 62]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_MAnimation' 노드: Combo Reset 그래프: EventGraph 오브젝트: MAnimation 설명: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.12-08.47.29:693][184]LogScript: Warning: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	MAnimation_C /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap:PersistentLevel.testchar_C_0.CharacterMesh0.MAnimation_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.MAnimation_C:ExecuteUbergraph_MAnimation:0BD8
+[2018.02.12-08.47.29:694][184]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_MAnimation' 노드: Chain Combo 그래프: EventGraph 오브젝트: MAnimation 설명: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.12-08.47.30:134][198]LogScript: Warning: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	MAnimation_C /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap:PersistentLevel.testchar_C_0.CharacterMesh0.MAnimation_C_0
+	Function /Game/pratice/wonseok/MultiPlay/BluePrints/Character/MAnimation.MAnimation_C:ExecuteUbergraph_MAnimation:0BFF
+[2018.02.12-08.47.30:135][198]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_MAnimation' 노드: Combo Reset 그래프: EventGraph 오브젝트: MAnimation 설명: K2Node_DynamicCast_AsMbpc 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.02.12-08.47.52:784][916]LogBlueprintUserMessages: [testchar_C_0] 100.0
+[2018.02.12-08.47.52:830][918]LogBlueprintUserMessages: [testchar_C_0] 200.0
+[2018.02.12-08.47.52:899][921]LogBlueprintUserMessages: [testchar_C_0] 300.0
+[2018.02.12-08.47.53:009][926]LogBlueprintUserMessages: [testchar_C_0] 100.0
+[2018.02.12-08.47.53:058][928]LogBlueprintUserMessages: [testchar_C_0] 200.0
+[2018.02.12-08.47.53:110][930]LogBlueprintUserMessages: [testchar_C_0] 300.0
+[2018.02.12-08.47.53:961][970]LogBlueprintUserMessages: [testchar_C_0] 100.0
+[2018.02.12-08.47.54:003][972]LogBlueprintUserMessages: [testchar_C_0] 200.0
+[2018.02.12-08.47.54:057][974]LogBlueprintUserMessages: [testchar_C_0] 300.0
+[2018.02.12-08.47.54:109][976]LogBlueprintUserMessages: [testchar_C_0] 400.0
+[2018.02.12-08.47.54:158][978]LogBlueprintUserMessages: [testchar_C_0] 500.0
+[2018.02.12-08.47.54:226][981]LogBlueprintUserMessages: [testchar_C_0] 600.0
+[2018.02.12-08.47.54:293][984]LogBlueprintUserMessages: [testchar_C_0] 700.0
+[2018.02.12-08.47.54:362][987]LogBlueprintUserMessages: [testchar_C_0] 800.0
+[2018.02.12-08.47.54:431][990]LogBlueprintUserMessages: [testchar_C_0] 900.0
+[2018.02.12-08.47.54:499][993]LogBlueprintUserMessages: [testchar_C_0] 1000.0
+[2018.02.12-08.47.54:564][996]LogBlueprintUserMessages: [testchar_C_0] 1100.0
+[2018.02.12-08.47.54:614][998]LogBlueprintUserMessages: [testchar_C_0] 1200.0
+[2018.02.12-08.47.55:530][ 40]LogBlueprintUserMessages: [testchar_C_0] 100.0
+[2018.02.12-08.47.55:573][ 42]LogBlueprintUserMessages: [testchar_C_0] 200.0
+[2018.02.12-08.47.55:635][ 45]LogBlueprintUserMessages: [testchar_C_0] 300.0
+[2018.02.12-08.47.55:699][ 48]LogBlueprintUserMessages: [testchar_C_0] 400.0
+[2018.02.12-08.47.55:762][ 51]LogBlueprintUserMessages: [testchar_C_0] 500.0
+[2018.02.12-08.47.55:830][ 54]LogBlueprintUserMessages: [testchar_C_0] 600.0
+[2018.02.12-08.47.55:897][ 57]LogBlueprintUserMessages: [testchar_C_0] 700.0
+[2018.02.12-08.47.55:964][ 60]LogBlueprintUserMessages: [testchar_C_0] 800.0
+[2018.02.12-08.47.56:036][ 63]LogBlueprintUserMessages: [testchar_C_0] 900.0
+[2018.02.12-08.47.56:092][ 65]LogBlueprintUserMessages: [testchar_C_0] 1000.0
+[2018.02.12-08.47.56:159][ 68]LogBlueprintUserMessages: [testchar_C_0] 1100.0
+[2018.02.12-08.47.56:933][100]LogBlueprintUserMessages: [testchar_C_0] 100.0
+[2018.02.12-08.47.56:980][102]LogBlueprintUserMessages: [testchar_C_0] 200.0
+[2018.02.12-08.47.57:058][105]LogBlueprintUserMessages: [testchar_C_0] 300.0
+[2018.02.12-08.47.57:113][107]LogBlueprintUserMessages: [testchar_C_0] 400.0
+[2018.02.12-08.47.57:185][110]LogBlueprintUserMessages: [testchar_C_0] 500.0
+[2018.02.12-08.47.57:465][121]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.47.57:517][121]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.12-08.47.57:517][121]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.02.12-08.47.57:518][121]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.12-08.47.57:518][121]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.12-08.47.57:518][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.02.12-08.47.57:518][121]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.47.57:593][122]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.02.12-08.47.57:593][122]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.12-08.48.00:033][166]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.12-08.48.04:853][244]BlueprintLog: New page: lobbyGameplayGM 컴파일
+[2018.02.12-08.48.06:949][277]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.02.12-08.48.07:020][277]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.48.07:021][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.12-08.48.07:021][277]PIE: New page: PIE 세션: lobbyMap (2018. 2. 13. 오전 2:48:07)
+[2018.02.12-08.48.07:021][277]LogPlayLevel: Creating play world package: /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap
+[2018.02.12-08.48.07:028][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006935s)
+[2018.02.12-08.48.07:029][277]LogAIModule: Creating AISystem for world lobbyMap
+[2018.02.12-08.48.07:030][277]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2018.02.12-08.48.07:030][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap to /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap (0.008729s)
+[2018.02.12-08.48.07:073][277]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.12-08.48.07:078][277]LogInit: FAudioDevice initialized.
+[2018.02.12-08.48.07:110][277]LogLoad: Game class is 'lobbyGameplayGM_C'
+[2018.02.12-08.48.07:111][277]LogWorld: Bringing World /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap up for play (max tick rate 60) at 2018.02.12-17.48.07
+[2018.02.12-08.48.07:112][277]LogWorld: Bringing up level for play took: 0.001066
+[2018.02.12-08.48.07:124][277]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.02.12-08.48.07:126][277]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.12-08.48.07:126][277]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.12-08.48.07:126][277]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.12-08.48.07:127][277]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.12-08.48.07:127][277]PIE: /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap 에 대한 에디터에서 플레이 시작 시간: 1.111
+[2018.02.12-08.48.07:128][277]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.48.20:870][729]LogBlueprintUserMessages: [mbpc_C_0] 100.0
+[2018.02.12-08.48.20:870][729]LogBlueprintUserMessages: [mbpc_C_0] 200.0
+[2018.02.12-08.48.20:921][730]LogBlueprintUserMessages: [mbpc_C_0] 300.0
+[2018.02.12-08.48.20:975][731]LogBlueprintUserMessages: [mbpc_C_0] 400.0
+[2018.02.12-08.48.21:034][732]LogBlueprintUserMessages: [mbpc_C_0] 500.0
+[2018.02.12-08.48.21:106][733]LogBlueprintUserMessages: [mbpc_C_0] 600.0
+[2018.02.12-08.48.21:166][734]LogBlueprintUserMessages: [mbpc_C_0] 700.0
+[2018.02.12-08.48.21:216][735]LogBlueprintUserMessages: [mbpc_C_0] 800.0
+[2018.02.12-08.48.21:271][736]LogBlueprintUserMessages: [mbpc_C_0] 900.0
+[2018.02.12-08.48.21:328][737]LogBlueprintUserMessages: [mbpc_C_0] 1000.0
+[2018.02.12-08.48.21:383][738]LogBlueprintUserMessages: [mbpc_C_0] 1100.0
+[2018.02.12-08.48.21:434][739]LogBlueprintUserMessages: [mbpc_C_0] 1200.0
+[2018.02.12-08.48.21:489][740]LogBlueprintUserMessages: [mbpc_C_0] 1300.0
+[2018.02.12-08.48.21:542][741]LogBlueprintUserMessages: [mbpc_C_0] 1400.0
+[2018.02.12-08.48.21:600][742]LogBlueprintUserMessages: [mbpc_C_0] 1500.0
+[2018.02.12-08.48.21:651][743]LogBlueprintUserMessages: [mbpc_C_0] 1600.0
+[2018.02.12-08.48.21:705][744]LogBlueprintUserMessages: [mbpc_C_0] 1700.0
+[2018.02.12-08.48.21:766][745]LogBlueprintUserMessages: [mbpc_C_0] 1800.0
+[2018.02.12-08.48.21:819][746]LogBlueprintUserMessages: [mbpc_C_0] 1900.0
+[2018.02.12-08.48.21:930][748]LogBlueprintUserMessages: [mbpc_C_0] 2000.0
+[2018.02.12-08.48.23:667][779]LogBlueprintUserMessages: [mbpc_C_0] 100.0
+[2018.02.12-08.48.23:668][779]LogBlueprintUserMessages: [mbpc_C_0] 200.0
+[2018.02.12-08.48.23:771][781]LogBlueprintUserMessages: [mbpc_C_0] 300.0
+[2018.02.12-08.48.23:824][782]LogBlueprintUserMessages: [mbpc_C_0] 400.0
+[2018.02.12-08.48.23:884][783]LogBlueprintUserMessages: [mbpc_C_0] 500.0
+[2018.02.12-08.48.23:934][784]LogBlueprintUserMessages: [mbpc_C_0] 600.0
+[2018.02.12-08.48.23:990][785]LogBlueprintUserMessages: [mbpc_C_0] 700.0
+[2018.02.12-08.48.24:059][786]LogBlueprintUserMessages: [mbpc_C_0] 800.0
+[2018.02.12-08.48.24:130][787]LogBlueprintUserMessages: [mbpc_C_0] 900.0
+[2018.02.12-08.48.24:195][788]LogBlueprintUserMessages: [mbpc_C_0] 1000.0
+[2018.02.12-08.48.24:248][789]LogBlueprintUserMessages: [mbpc_C_0] 1100.0
+[2018.02.12-08.48.24:309][790]LogBlueprintUserMessages: [mbpc_C_0] 1200.0
+[2018.02.12-08.48.24:364][791]LogBlueprintUserMessages: [mbpc_C_0] 1300.0
+[2018.02.12-08.48.24:471][793]LogBlueprintUserMessages: [mbpc_C_0] 1400.0
+[2018.02.12-08.48.30:216][898]LogBlueprintUserMessages: [mbpc_C_0] 100.0
+[2018.02.12-08.48.30:217][898]LogBlueprintUserMessages: [mbpc_C_0] 200.0
+[2018.02.12-08.48.30:269][899]LogBlueprintUserMessages: [mbpc_C_0] 300.0
+[2018.02.12-08.48.30:323][900]LogBlueprintUserMessages: [mbpc_C_0] 400.0
+[2018.02.12-08.48.30:375][901]LogBlueprintUserMessages: [mbpc_C_0] 500.0
+[2018.02.12-08.48.30:431][902]LogBlueprintUserMessages: [mbpc_C_0] 600.0
+[2018.02.12-08.48.30:482][903]LogBlueprintUserMessages: [mbpc_C_0] 700.0
+[2018.02.12-08.48.30:587][905]LogBlueprintUserMessages: [mbpc_C_0] 800.0
+[2018.02.12-08.48.30:645][906]LogBlueprintUserMessages: [mbpc_C_0] 900.0
+[2018.02.12-08.48.30:701][907]LogBlueprintUserMessages: [mbpc_C_0] 1000.0
+[2018.02.12-08.48.30:753][908]LogBlueprintUserMessages: [mbpc_C_0] 1100.0
+[2018.02.12-08.48.30:811][909]LogBlueprintUserMessages: [mbpc_C_0] 1200.0
+[2018.02.12-08.48.30:865][910]LogBlueprintUserMessages: [mbpc_C_0] 1300.0
+[2018.02.12-08.48.30:918][911]LogBlueprintUserMessages: [mbpc_C_0] 1400.0
+[2018.02.12-08.48.30:976][912]LogBlueprintUserMessages: [mbpc_C_0] 1500.0
+[2018.02.12-08.48.31:034][913]LogBlueprintUserMessages: [mbpc_C_0] 1600.0
+[2018.02.12-08.48.31:096][914]LogBlueprintUserMessages: [mbpc_C_0] 1700.0
+[2018.02.12-08.48.31:147][915]LogBlueprintUserMessages: [mbpc_C_0] 1800.0
+[2018.02.12-08.48.32:621][942]LogBlueprintUserMessages: [mbpc_C_0] 100.0
+[2018.02.12-08.48.32:622][942]LogBlueprintUserMessages: [mbpc_C_0] 200.0
+[2018.02.12-08.48.32:674][943]LogBlueprintUserMessages: [mbpc_C_0] 300.0
+[2018.02.12-08.48.32:728][944]LogBlueprintUserMessages: [mbpc_C_0] 400.0
+[2018.02.12-08.48.32:780][945]LogBlueprintUserMessages: [mbpc_C_0] 500.0
+[2018.02.12-08.48.32:835][946]LogBlueprintUserMessages: [mbpc_C_0] 600.0
+[2018.02.12-08.48.32:893][947]LogBlueprintUserMessages: [mbpc_C_0] 700.0
+[2018.02.12-08.48.32:947][948]LogBlueprintUserMessages: [mbpc_C_0] 800.0
+[2018.02.12-08.48.33:000][949]LogBlueprintUserMessages: [mbpc_C_0] 900.0
+[2018.02.12-08.48.33:066][950]LogBlueprintUserMessages: [mbpc_C_0] 1000.0
+[2018.02.12-08.48.33:125][951]LogBlueprintUserMessages: [mbpc_C_0] 1100.0
+[2018.02.12-08.48.33:182][952]LogBlueprintUserMessages: [mbpc_C_0] 1200.0
+[2018.02.12-08.48.33:231][953]LogBlueprintUserMessages: [mbpc_C_0] 1300.0
+[2018.02.12-08.48.33:285][954]LogBlueprintUserMessages: [mbpc_C_0] 1400.0
+[2018.02.12-08.48.33:338][955]LogBlueprintUserMessages: [mbpc_C_0] 1500.0
+[2018.02.12-08.48.33:395][956]LogBlueprintUserMessages: [mbpc_C_0] 1600.0
+[2018.02.12-08.48.33:454][957]LogBlueprintUserMessages: [mbpc_C_0] 1700.0
+[2018.02.12-08.48.33:510][958]LogBlueprintUserMessages: [mbpc_C_0] 1800.0
+[2018.02.12-08.48.35:100][986]LogBlueprintUserMessages: [mbpc_C_0] 100.0
+[2018.02.12-08.48.35:101][986]LogBlueprintUserMessages: [mbpc_C_0] 200.0
+[2018.02.12-08.48.35:153][987]LogBlueprintUserMessages: [mbpc_C_0] 300.0
+[2018.02.12-08.48.35:213][988]LogBlueprintUserMessages: [mbpc_C_0] 400.0
+[2018.02.12-08.48.35:265][989]LogBlueprintUserMessages: [mbpc_C_0] 500.0
+[2018.02.12-08.48.35:322][990]LogBlueprintUserMessages: [mbpc_C_0] 600.0
+[2018.02.12-08.48.35:377][991]LogBlueprintUserMessages: [mbpc_C_0] 700.0
+[2018.02.12-08.48.35:430][992]LogBlueprintUserMessages: [mbpc_C_0] 800.0
+[2018.02.12-08.48.35:491][993]LogBlueprintUserMessages: [mbpc_C_0] 900.0
+[2018.02.12-08.48.35:547][994]LogBlueprintUserMessages: [mbpc_C_0] 1000.0
+[2018.02.12-08.48.35:651][996]LogBlueprintUserMessages: [mbpc_C_0] 1100.0
+[2018.02.12-08.48.36:786][ 17]LogBlueprintUserMessages: [mbpc_C_0] 100.0
+[2018.02.12-08.48.36:787][ 17]LogBlueprintUserMessages: [mbpc_C_0] 200.0
+[2018.02.12-08.48.36:843][ 18]LogBlueprintUserMessages: [mbpc_C_0] 300.0
+[2018.02.12-08.48.36:894][ 19]LogBlueprintUserMessages: [mbpc_C_0] 400.0
+[2018.02.12-08.48.36:950][ 20]LogBlueprintUserMessages: [mbpc_C_0] 500.0
+[2018.02.12-08.48.37:004][ 21]LogBlueprintUserMessages: [mbpc_C_0] 600.0
+[2018.02.12-08.48.37:064][ 22]LogBlueprintUserMessages: [mbpc_C_0] 700.0
+[2018.02.12-08.48.37:126][ 23]LogBlueprintUserMessages: [mbpc_C_0] 800.0
+[2018.02.12-08.48.37:178][ 24]LogBlueprintUserMessages: [mbpc_C_0] 900.0
+[2018.02.12-08.48.37:279][ 26]LogBlueprintUserMessages: [mbpc_C_0] 1000.0
+[2018.02.12-08.48.37:330][ 27]LogBlueprintUserMessages: [mbpc_C_0] 1100.0
+[2018.02.12-08.48.37:383][ 28]LogBlueprintUserMessages: [mbpc_C_0] 1200.0
+[2018.02.12-08.48.37:432][ 29]LogBlueprintUserMessages: [mbpc_C_0] 1300.0
+[2018.02.12-08.48.37:486][ 30]LogBlueprintUserMessages: [mbpc_C_0] 1400.0
+[2018.02.12-08.48.37:537][ 31]LogBlueprintUserMessages: [mbpc_C_0] 1500.0
+[2018.02.12-08.48.37:596][ 32]LogBlueprintUserMessages: [mbpc_C_0] 1600.0
+[2018.02.12-08.48.37:648][ 33]LogBlueprintUserMessages: [mbpc_C_0] 1700.0
+[2018.02.12-08.48.37:702][ 34]LogBlueprintUserMessages: [mbpc_C_0] 1800.0
+[2018.02.12-08.48.37:758][ 35]LogBlueprintUserMessages: [mbpc_C_0] 1900.0
+[2018.02.12-08.48.37:810][ 36]LogBlueprintUserMessages: [mbpc_C_0] 2000.0
+[2018.02.12-08.48.37:863][ 37]LogBlueprintUserMessages: [mbpc_C_0] 2100.0
+[2018.02.12-08.48.37:913][ 38]LogBlueprintUserMessages: [mbpc_C_0] 2200.0
+[2018.02.12-08.48.37:966][ 39]LogBlueprintUserMessages: [mbpc_C_0] 2300.0
+[2018.02.12-08.48.38:017][ 40]LogBlueprintUserMessages: [mbpc_C_0] 2400.0
+[2018.02.12-08.48.38:084][ 41]LogBlueprintUserMessages: [mbpc_C_0] 2500.0
+[2018.02.12-08.48.38:144][ 42]LogBlueprintUserMessages: [mbpc_C_0] 2600.0
+[2018.02.12-08.48.38:195][ 43]LogBlueprintUserMessages: [mbpc_C_0] 2700.0
+[2018.02.12-08.48.38:246][ 44]LogBlueprintUserMessages: [mbpc_C_0] 2800.0
+[2018.02.12-08.48.38:300][ 45]LogBlueprintUserMessages: [mbpc_C_0] 2900.0
+[2018.02.12-08.48.39:967][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.48.40:059][ 74]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.12-08.48.40:059][ 74]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.02.12-08.48.40:060][ 74]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.12-08.48.40:060][ 74]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.12-08.48.40:060][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.02.12-08.48.40:060][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.48.40:127][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.02.12-08.48.40:127][ 75]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.02.12-08.50.58:863][807]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.12-08.52.40:518][795]BlueprintLog: New page: mbpc 컴파일
+[2018.02.12-08.52.41:151][795]LogBlueprint: Warning: [Compiler mbpc] 'Player Controller' 가 'Player State' 에서 상속되지 않습니다 ( PlayerController 에 형변환  는 반드시 실패할 것입니다).
+[2018.02.12-08.52.41:175][795]LogBlueprint: Error: [Compiler mbpc] 이 블루프린트(self)는 Controller 가 아니라, ' 타겟 ' 에는 연결이 있어야 합니다.
+[2018.02.12-08.52.41:190][795]LogBlueprint: Error: [Compiler mbpc] PlayerState 구하기  변수 노드가 유효하지 않은 타겟을 사용합니다. 실행 체인에 연결되지 않았다가 제거된 노드에 의존하는 것 같습니다.
+[2018.02.12-08.52.41:898][795]LogBlueprint: Warning: [Compiler mbpc] [1548.52] mbpc 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 1 회, [소요시간 1,379 ms] (/Game/pratice/wonseok/MultiPlay/BluePrints/Character/mbpc.mbpc)
+[2018.02.12-08.53.00:643][195]BlueprintLog: New page: mbpc 컴파일
+[2018.02.12-08.53.03:481][230]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.02.12-08.53.03:561][230]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.53.03:561][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.12-08.53.03:562][230]PIE: New page: PIE 세션: lobbyMap (2018. 2. 13. 오전 2:53:03)
+[2018.02.12-08.53.03:562][230]LogPlayLevel: Creating play world package: /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap
+[2018.02.12-08.53.03:569][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007075s)
+[2018.02.12-08.53.03:570][230]LogAIModule: Creating AISystem for world lobbyMap
+[2018.02.12-08.53.03:571][230]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2018.02.12-08.53.03:571][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap to /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap (0.009065s)
+[2018.02.12-08.53.03:619][230]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.12-08.53.03:627][230]LogInit: FAudioDevice initialized.
+[2018.02.12-08.53.03:665][230]LogLoad: Game class is 'lobbyGameplayGM_C'
+[2018.02.12-08.53.03:667][230]LogWorld: Bringing World /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap.lobbyMap up for play (max tick rate 60) at 2018.02.12-17.53.03
+[2018.02.12-08.53.03:668][230]LogWorld: Bringing up level for play took: 0.001273
+[2018.02.12-08.53.03:680][230]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.02.12-08.53.03:683][230]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.12-08.53.03:683][230]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.12-08.53.03:683][230]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.12-08.53.03:684][230]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.12-08.53.03:685][230]PIE: /Game/pratice/sinyoung/multiplay/UEDPIE_0_lobbyMap 에 대한 에디터에서 플레이 시작 시간: -0.331
+[2018.02.12-08.53.03:685][230]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel' has LevelScriptBlueprint '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap' with GeneratedClass '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap_C' with ClassGeneratedBy '/Game/pratice/sinyoung/multiplay/lobbyMap.lobbyMap:PersistentLevel.lobbyMap'
+[2018.02.12-08.53.05:121][278]AnimBlueprint: Warning: 슬롯노드: SWATanimblueprint_C 애니메이션 인스턴트 클래스의 'combo1' 는 이미 존재합니다. 이 클래스의 애니메이션 그래프에서 중복을 제거하세요.

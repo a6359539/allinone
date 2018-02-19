@@ -1,0 +1,19 @@
+﻿  Creating makefile for mainEditor (.uproject file is newer)
+  Parsing headers for mainEditor
+    Running UnrealHeaderTool "E:\last\set\main\main.uproject" "E:\last\set\main\Intermediate\Build\Win64\mainEditor\DebugGame\mainEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for mainEditor in 13.5086872 seconds
+  Performing 10 actions (4 in parallel)
+  mainGameMode.cpp
+  MyCharacter.cpp
+  mainCharacter.cpp
+  main.cpp
+  main.init.gen.cpp
+  mainCharacter.gen.cpp
+  mainGameMode.gen.cpp
+  MyCharacter.gen.cpp
+  [9/10] Link UE4Editor-main-Win64-DebugGame.dll
+  [10/10] Link UE4Editor-main-Win64-DebugGame.lib
+     E:\last\set\main\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-main-Win64-DebugGame.lib 라이브러리 및 E:\last\set\main\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-main-Win64-DebugGame.exp 개체를 생성하고 있습니다.
+     E:\last\set\main\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-main-Win64-DebugGame.suppressed.lib 라이브러리 및 E:\last\set\main\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-main-Win64-DebugGame.suppressed.exp 개체를 생성하고 있습니다.
+  Deploying mainEditor Win64 DebugGame...
+  Total build time: 61.10 seconds (Local executor: 7.54 seconds)
