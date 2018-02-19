@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-D:\20180120\set\main\Source\main\main.Build.cs
-D:\20180120\set\main\Source\main.Target.cs
-D:\20180120\set\main\Source\mainEditor.Target.cs
-=======
-E:\really\set\main\Source\main\main.Build.cs
-E:\really\set\main\Source\main.Target.cs
-E:\really\set\main\Source\mainEditor.Target.cs
->>>>>>> 53d265d92ec6e291abb2816baac85da3aa76f9f6
+E:\last\set\main\Source\main\main.Build.cs
+E:\last\set\main\Source\main.Target.cs
+E:\last\set\main\Source\mainEditor.Target.cs

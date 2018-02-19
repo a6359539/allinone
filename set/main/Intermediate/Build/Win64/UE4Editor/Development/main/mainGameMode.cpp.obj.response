@@ -24,9 +24,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source"
-/I E:\really\set\main\Source
-/I E:\really\set\main\Intermediate\Build\Win64\UE4Editor\Inc\main
-/I E:\really\set\main\Source\main
+/I E:\last\set\main\Source
+/I E:\last\set\main\Intermediate\Build\Win64\UE4Editor\Inc\main
+/I E:\last\set\main\Source\main
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Async"
@@ -359,9 +359,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"E:\really\set\main\Source\main\mainGameMode.cpp"
-/FI"E:\really\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\Definitions.main.h"
-/Fo"E:\really\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\mainGameMode.cpp.obj"
+"E:\last\set\main\Source\main\mainGameMode.cpp"
+/FI"E:\last\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\Definitions.main.h"
+/Fo"E:\last\set\main\Intermediate\Build\Win64\UE4Editor\Development\main\mainGameMode.cpp.obj"
 /TP
 /GR-
 /W4
